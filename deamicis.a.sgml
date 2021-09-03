@@ -1,0 +1,2265 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<tei.2>
+<TeiHeader>
+<fileDesc>
+<titleStmt>
+<title>Jottings about London</title>
+<author>De Amicis, Edmondo</author>
+&responsibility;
+&fund.IMLS;
+</titlestmt>
+&Perseus.publish;
+
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title>Jottings about London</title>
+<author>De Amicis, Edmondo</author>
+<editor>Minot, Robert S., trans.</editor>
+<imprint>
+<pubPlace>Boston</pubplace>
+<publisher>Alfred Mudge and Son</publisher>
+<date>1883</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourcedesc>
+</filedesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction status=high>&Perseus.OCR;
+</editorialDecl>
+<refsDecl>
+<state unit="chapter">
+<state unit="page" n="chunk">
+</refsDecl>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language id=en>English
+<language id=greek>Greek
+<language id=la>Latin
+<language id=de>German
+<language id=fr>French
+<language id=it>Italian
+</langUsage>
+</profileDesc>
+
+<revisionDesc>
+<change><date> 13-Mar-01</date>
+<respStmt><name>K. Wixson</name><resp>markup</resp></respstmt>
+<item>
+$Log: deamicis.a.sgml,v $
+Revision 1.1  2001/04/13 19:55:53  dasmith
+Made files have .a.sgml names.
+
+Revision 1.16  2001/04/04 20:28:44  kwixson
+changed chunking
+
+Revision 1.15  2001/04/04 17:34:09  kwixson
+fixed mentioned tags
+
+Revision 1.14  2001/04/03 18:47:27  kwixson
+fixed q tags
+
+Revision 1.13  2001/04/03 17:55:04  kwixson
+finished adding div2
+
+Revision 1.12  2001/04/03 16:54:58  cwulfman
+converted milestones to div2s
+
+Revision 1.11  2001/03/29 21:01:16  kwixson
+more milestone tweaking
+
+Revision 1.10  2001/03/27 19:23:59  kwixson
+more milestone tweaking
+
+Revision 1.9  2001/03/27 19:10:16  kwixson
+working on milestone marks
+
+Revision 1.8  2001/03/27 19:01:10  kwixson
+added milestone markers, for testing
+
+Revision 1.7  2013/08/28 09:43:22  kwixson
+added funding entity
+
+Revision 1.6  2001/03/15 21:31:53  kwixson
+fixed emph and lang tags.
+
+Revision 1.5  2001/03/15 19:35:35  kwixson
+fixed more errors; parsing
+
+Revision 1.4  2001/03/15 19:29:08  kwixson
+fixed errors
+
+Revision 1.3  2001/03/15 17:34:58  kwixson
+finished first round of mark up; not parsing
+
+Revision 1.2  2001/03/15 00:07:07  kwixson
+started mark-up with div1 and paragraphs
+
+Revision 1.1  2001/03/13 17:31:58  kwixson
+checking in de amicis; not parsing yet.
+
+
+</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<front>
+
+<TitlePage>
+
+<docTitle>
+<titlePart type=main>Jottings about London</titlePart>
+</doctitle>
+
+<docimprint>Boston:
+<lb>Alfred Mudge &amp; Son, Printers,
+<lb>No. 34 School Street.
+<docdate>1883</>
+</docimprint>
+</titlepage>
+
+<body>
+
+<pb n=3>
+
+<div1 type=chapter n=1>
+<head>Jottings about London.</head>
+<head>Chapter I.</head>
+
+
+
+<p>IT was raining, the sea was rough, and the
+steamer rocked like a small boat; when hardly
+half an hour out from Dieppe, I felt, for the first
+time in my life, the symptoms of sea-sickness.
+There were many ladies on board, mostly English,
+who were cheerfully munching ham and cheese,
+without even appearing to notice the tremendous
+rolling, which was deranging the internal economy
+of myself and others. ... Truly, sea-sickness does
+render man superior to all human vanities. Had
+some one said to me half an hour earlier, <q>Look!
+here is money enough to stay in London a month
+instead of a fortnight, as you intend; and then to
+make a tour in Scotland, and then to run over
+Ireland; this money is yours, if you will strike
+an attitude before these ladies which will make
+you ridiculous.</q> I confess my vanity; I should
+have refused. Half an hour later, however, I
+stood with infinite self-contempt on two dirty
+sacks, one foot pointed east and the other west,
+my stove-pipe hat pulled over one ear, one trousers
+
+
+
+
+<pb n=4>
+
+
+
+
+
+
+
+leg hitched up, exposing to view several inches
+of unmentionables covered with tar, and my head
+swaying about with an <emph>abandon</emph> so disagreeable
+that I might have served as a rough-and-ready
+model for a statue of Languor. <q>Ah, it is a very
+sickly sickness, sea-sickness!</q> I must say like
+Fucini. For further torment, I had at my side a
+French buffoon, who had left Paris with me, and
+chaffed me every time I groaned. <q>But you are
+not ill, my dear man; you are pining with love
+for that charming young lady over there,</q> pointing
+to a lady I had not the strength to look at; and
+the by-standers laughed. Ladies! Love! Good
+heavens ! Had she been the most beautiful creature
+on earth I would not--just then--have turned
+round to see what she looked like. Even the
+thought, <q>This evening I shall see London,</q> which
+that very morning had excited me so much, now
+gave me an insupportable feeling of <foreign lang=fr>ennui</foreign>. <q>And
+to say I have come here,</q> thought I in this wandering fit, <q>through my own choice to amuse myself! Ah, fool! And to think I must needs recross
+the sea! Oh, it is impossible! I feel no longer
+up to it; I should lose my life there; I will stay
+in England; I will seek some means of existence.
+I will be a clerk, or teach Italian, if only I may
+never see the sea again! To die when my hour
+comes is all well enough, but no more of this
+torture!</q>
+
+
+
+
+
+
+
+
+<pb n=5>
+
+
+
+<p>A few hours later I was dining in the Brighton
+railroad station, and had given up my resolution
+of dying in England.
+<p>When I started for London, night was coming
+on. I stowed myself in the carriage, and began to
+taste the great thought that in a few hours I should
+be in London. London! I repeated this word
+to myself, and made it sound in my mind complacently, as one rings a gold coin on the table.
+London! I felt I know not what gusto in saying
+to myself, as if I had not known it before, that it
+was a preposterously vast city, a great ocean, a
+Babylon, a chaos, a something mythical. It is the
+largest city on earth, thought I, and in this there
+is something absolute, that is found in no other
+city; for if there are others more beautiful, of
+which one can you say, <q>This is the <emph>most</emph> beautiful?</q> It is a new pleasure to see something
+which in a certain sense occupies incontestably the
+supreme rank in the world; something beyond
+which one's thoughts cannot reach without entering the realm of dreams; something before which
+you can say, <q>No man has ever seen anything
+greater!</q> Then I enjoyed the thought that I was
+going to London alone, without knowing anybody
+there, nor even having letters of recommendation;
+going as one ought to go there, to be able to feel
+one's self adrift in that ocean; to experience that
+feeling, almost of terror, which great, unknown
+
+
+
+
+
+<pb n=6>
+
+
+
+
+
+
+
+expanses inspire; to be <emph>crushed</emph>; to receive, in a
+word, the impression, pure and entire, which that
+immense city must produce in the mind of a foreigner. And as for this, I had also the advantage
+of not knowing a bit of English, being poor in
+pocket, having only a valise, the picture of misery,
+and in fine all that is needful to feel belittled and
+paltry in a great, unknown city. Thinking on all
+this, I rubbed my hands briskly and said, <q>London,
+I 'm ready!</q>
+
+<p>It was quite dark when I entered the city,
+which I did without knowing it, being astonished
+when I was directed to get out. I do so, and find
+myself under the immense roof of London Bridge
+Station, in the midst of a host of cabs and lights.
+I jump into the nearest cab, and hand to the cabman a bit of paper, on which is written the name
+and street of a hotel, recommended to me by
+friends in Paris. The cabman reads, makes a sign
+that he has understood, and does not budge. I
+make him a sign to jump on to the box and start,
+and he stands fast. I begin to inveigh against
+him in French; he does not understand a plaguy
+word, and leaning peacefully in the doorway,
+begins to unfold to me a long rigmarole in English. <q>Now, I'm in a pickle,</q> say I, <q>and what
+shall I do?</q> I fold my arms and look at him; he
+folds his arms and looks at me; and thus we stay
+looking at each other some little time. Finally
+
+
+
+
+
+
+
+
+
+<pb n=7>
+
+
+
+I lose patience, jump down, shout in his ear,
+<q>Mule!</q> and go off on my own responsibility.
+I understood later that he had not wanted to drive
+me to the hotel because it was too far. <q>I go
+off by myself! But how? and whither?</q>  I
+confess that at this moment I felt discouraged.
+The immensity of that station, of which I could
+not find the exit; the not knowing where to go to
+lay my head; this first unlucky episode, which
+seemed to be an evil omen; the weight of my
+valise, which impeded my progress; the dampness
+I felt all over me, and the darkness and confusion,
+gave me a sudden feeling of sadness and alarm.
+After having wandered about a bit, I went through
+a doorway and found myself outside. I seemed
+to have fallen into chaos. The rumbling of carriages I could not see, the whistling of railroad
+trains which passed I could not understand where,
+a confusion of lights above and below, on all sides
+and at all heights, a fog which would not let me
+make out shapes nor distances, and a going and
+coming of people who seemed to be fleeing, - such
+was the first spectacle which presented itself to
+me. Staggering and hobbling along, I went up
+the street a little way, like some stupid fellow
+who has lost his head; then no longer able to
+manage my valise, I set it down and stopped.
+Fortune willed that, on raising my eyes, I should
+see a colored lantern with the inscription, <q rend='PRE ldquo POST rdquo' lang=fr>On
+
+
+
+
+<pb n=8>
+
+
+
+
+parle francais.</q> It was a hotel; I drew a long
+breath, took up my burden, and entered timidly
+with the air of a <mentioned>"countryman coming to the city."</mentioned>
+An ill-humored woman, who was the landlady, on
+hearing my first words, called the waiter, of whom
+I inquired about rooms. The waiter, making at
+every French word a contraction resembling an
+effort to disgorge, and scanning me from head to
+foot with that air of mingled protection and distrust which belongs to his race, replied that there
+were rooms.  <q>But,</q> added he, <q>we ask five
+shillings for them,</q> and he scanned me again from
+head to foot with a suspicious air. Truly my
+clothing was such as to excuse this distrust.
+Nevertheless I felt myself pervaded with a millionnaire's disdain, so tossed a gold sovereign on to
+the table, and with a gesture, which at this point
+seemed to me worthy of a verse from Dante, I
+said, <q>Take your pay and let us on!</q>  They
+escorted me to the chamber. I went to bed at
+once; but for a long time I could not succeed in
+closing my eyes, such a rumbling greeted my ears.
+It was a sullen, monotonous noise, as if the sea
+were beating against the foundations of the buildings; and in the midst of this beating was a din
+of sharp sounds, which seemed to come from very
+great distances, and made me think of a thousand
+strange things, as if these were sounds of words
+escaping from the immense city going to sleep;
+
+
+
+
+
+
+
+
+<pb n=9>
+
+
+
+lamentations from its interminable suburbs, curses
+of this formidable city, worn out with fatigue;
+accents of accusation and justification, such as one
+hears in the great roaring of the sea in a storm.
+Little by little the loudest noises ceased, and I
+now heard only the monotonous rumbling; then
+gradually I heard again the first sounds, -a city
+like London has a hard time to get to sleep,-
+then they ceased again; finally I got to sleep and
+had the most extravagant dreams in the world.
+<p>In the morning, quite before sunrise, I sallied
+forth, and directed my steps toward the Thames.
+I was a few steps from London Bridge, in the
+heart of the city proper. Very few people were
+to be seen; profound silence reigned; the sky was
+gray; it was cold, and a light fog veiled all things
+without hiding them. I went toward the bridge
+with rapid steps, knowing that from it one enjoys
+the grandest view of London.
+<p>Reaching the middle of the bridge, I looked
+about, felt an instantaneous cold shock from head
+to foot, and stood motionless.
+<p>A moment later the picture of Paris, as seen
+from the Pont Neuf, glowed before me, and seemed
+to me extraordinarily insignificant.
+<p>Then I leaned against the parapets, and said in
+the tone of one who wishes to put his thoughts
+somewhat in order, <q>Let me see now!</q>
+<p>Beneath is the broad Thames; on one side,
+
+
+
+
+<pb n=10>
+
+
+
+
+
+
+
+vessels as far as the eye can reach; on the other,
+a succession of gigantic bridges; along the two
+banks, near the bridge, massive, dingy buildings
+crowded in disorder together, and overhanging
+the water in a row. A little beyond, great piles,
+edifices of sinister aspect, enormous vaulted roofs
+of railway stations, with long straight lines as of
+enormous vessels, and beyond these a medley of
+broken outlines and vague shapes, vanishing away
+into light ashen hues, so far off as no longer to
+present anything but a mighty confusion of foggy
+outlines of chimney-pots, towers, cupolas, and
+steeples, and farther yet, mysterious perspectives
+as of other distant cities, which one guesses at
+rather than sees, by an indented outline, very
+faintly pencilled on the gray horizon. On all the
+neighboring buildings, and also on the bridges
+and river banks, a dingy factory color, the look
+of a worn-out city, an air of strength and weariness, a something-- I cannot tell you how-
+clammy and lugubrious, like a city laid waste by
+a conflagration; an immense, sad spectacle!
+<p>What queer tricks our brains play us! Before
+these spectacles, which ought, at least for the first
+time, to absorb us altogether, our thoughts fly off
+all of a sudden, a thousand miles away, back to
+utter trifles, which have not the slightest relation
+with what we are seeing, and of which we should
+not condescend to think in our every-day life. I
+
+
+
+
+
+
+
+
+
+<pb n=11>
+
+
+
+saw London for the first time, and I thought of a
+volume of Voltaire's works which I had lent, and
+which had not been returned before leaving Turin.
+<p>Then I forgot the book, and next there came
+uppermost in my mind, as always happens in an
+unknown city, a thousand diverse images of persons and things, which I used formerly to portray
+to myself in this city as on the background of a
+picture; certain stout merchants in Dickens's
+novels, Queen Elizabeth, an English family I saw
+one day before Ghiberti's doors at Florence, a
+gesture my father once made as he said, <q>How
+much I would give to see London!</q> and the portrait of Garrick I saw in an illustrated paper.
+<p>Then again an inexplicable distraction; such as
+observing my beard was too long, and wondering
+where I should get breakfast.
+<p>Then a very keen feeling of astonishment to find
+myself there, as if I had been rained down from
+the sky; and a minute later, all of a sudden, an
+icy indifference, as if I had always been there;
+and then again the fresh amazement of the first
+moment. St. Augustine has indeed hit the truth
+in saying that he makes almost no account of
+travel, so much more marvellous is that which
+goes on in our heads than that which we can see
+outside.
+<p>I crossed the bridge, and came to the little
+square, which opens upon the left bank, and faced
+
+
+<pb n=12>
+
+
+
+
+about toward one of the streets which lead to
+St. Paul's; they were all deserted; I turned to
+the right, and, after one or two turns, came upon
+the fish market (Billingsgate), in a narrow, damp,
+and dingy street, so full of carts and people that
+one could hardly pass by. I went farther in the
+midst of such a penetrating odor of herring that
+after a few minutes I might have breakfasted by
+rubbing some bread on my clothes. I reached the
+famous Tower, the Bastile of London, and walked
+around it, gazing suspiciously at its threatening
+walls, and I hastily entered the city of docks, with
+the purpose of making a long tour there, so as not
+to have to return that way. Long, crooked streets,
+lined with lofty, sombre-colored walls, with neither
+doors nor windows, of a prison-like aspect; motionless groups of hundreds of workmen at the
+corners, other groups disappearing silently in the
+obscure alleys; for half an hour I saw nothing
+else. I went on through these monotonous streets
+as through the windings of an ancient fortress,
+melancholy and <foreign lang=fr>ennuy&eacute;</foreign>, without knowing where I
+should come out. At a certain point, after a long
+walk, I perceived I was turning back, and so had
+to make anew long turns, to get upon the right
+road. I had got behind St. Catherine's Docks, and
+thought I was near the end of London Dock, and
+proposed to go as far as the India Docks. I had
+entered a street with no visible end, shut in on
+
+
+
+
+
+
+
+
+<pb n=13>
+
+
+
+the right by the walls of the docks, on the left by
+little buildings, between which stretched away
+other very long and narrow streets, lined with
+factory towers, warehouse walls, and piles of
+smoky little houses. On and on I went, but
+instead of getting farther from London I seemed
+only to approach the centre. But full of confidence in my legs, and encouraged by my experience in Paris, where, to the great surprise of my
+friends, I had done without a cab, I continued to
+walk on without fear.
+
+<p>There came a moment, though, when it seemed
+to me that it would not be a bad idea to know
+where I was. Passing near a group of workmen,
+I heard one of them speaking in French; I stopped
+and asked him if that was India Dock.
+<p>For my only answer he repeated my question,
+<q>That the India Dock?</q> and looked at me as
+much as to say I was mad.
+<p><q>But is it or not?</q>
+<p><q>But, my dear sir,</q> he replied, laughing, <q>I
+see you have no idea what the city of London is.
+This is London Dock.</q>
+<p><q>Still London Dock! What if I passed the
+gate half an hour ago?</q>
+<p><q>What if you did, sir. Don't you know that
+the London Dock Tobacco Department alone is a
+mile long, sir?</q>
+<p><q>How far is it, then, to go to the India Dock?</q>
+
+
+
+
+<pb n=14>
+
+
+
+
+
+
+
+<p><q>Do you want to go by boat or by train, sir?</q>
+<p><q>I want to go afoot.</q>
+<p>He looked at my feet.
+<p><q>I don't know,</q> he answered, <q>but I suppose
+it's four or five miles, sir.</q>
+<p><q>And what is there, these four or five miles?</q>
+<p><q>Houses, docks, warehouses, workshops, and
+factories.</q>
+<p><q>Without a break?</q>
+<p><q>Without a break, sir.</q>
+<p><q>And then from the India Dock where do you
+go?</q>
+<p><q>From the India Dock you go to the Outer
+Dock, sir.</q>
+<p><q>And how long is the way out to the Outer
+Dock?</q>
+<p><q>It is very nearly five miles more, sir.</q>
+<p><q>All the way among houses and factories?</q>
+<p><q>Among houses and factories all the way, sir.</q>
+<p><q>From the Outer Dock where do you go?</q>
+<p><q>From the Outer Dock you go out opposite
+Greenwich.</q>
+<p><q>How far?</q>
+<p><q>Two or three miles, sir.</q>
+<p><q>All the way inhabited?</q>
+<p><q>Inhabited all the way, sir?</q>
+<p><q>And from Greenwich where do you go?</q>
+<p><q>From Greenwich you go on to the East India
+Import Dock, sir.</q>
+
+
+
+
+
+
+
+
+<pb n=15>
+
+
+
+<p><q>And it is distant from Greenwich?</q>
+<p><q>About eight miles, sir.</q>
+<p><q>All the way between houses and factories?</q>
+<p><q>Between houses and factories all the way, sir.</q>
+<p><q>And then?</q>
+<p><q>And then you go on, sir.</q>
+<p><q>And where does it end?</q>
+<p><q>The Lord knows, sir.</q>
+<p>This time I, too, looked at my feet. I took
+leave of the workman, and wearily retraced my
+steps, saying to myself, <q>Poor, deluded man!
+Didst thou expect to come to London to perform
+feats on thine own legs?</q>
+<p>I crossed the fish market again, passed by London Bridge once more, and made my way into the
+heart of the city.
+<p>When I reached Fleet Street the great stir had
+already begun.
+<p>Then I saw London.
+
+
+
+<pb n=16>
+
+
+
+
+<div1 type=chapter n=2>
+<head>Chapter II.</head>
+
+<p>ON the two sidewalks the crowd was as dense as
+at the exit of a theatre, and there was no grouping nor chatting to be seen, nor any one crying
+out or gesticulating; all were going along in haste
+and silence, each one profiting by every breathing
+space, which occurred in the crowd, to push by
+the person ahead of him; and all jostling one
+another without turning about to beg pardon. In
+the middle of the street an immensely long procession of great omnibuses was passing, variously
+painted like chariots for the Carnival, with a sort
+of staircase of front seats, expanding upwards,
+and thus carrying the passengers in the air spread
+out <emph>like a fan</emph>,<note type=foot n=1>These 'buses are now to be seen only on a few lines.- <hi rend=italic>Tr.</hi></note> those lowest being almost on the
+ground, the highest having their heads on a level
+with the second story of the buildings, and sticking out as if they were hanging there. Between
+all the omnibuses was an indescribable medley
+of carts, carriages, cabs, barouches, gigs, heavy
+teams, big wagons covered with advertisements,
+huge trucks of every kind, with three, five, and
+even up to eight horses tandem, with the nose of
+one against the tail of the next, and the hubs of
+
+
+
+
+
+
+
+
+
+
+
+<pb n=17>
+
+
+
+the wheels touching; and there was a continual
+squeezing past, by furious darting in and out and a
+never-ending formation and dissolution of intricate
+combinations of dozens of vehicles, such as to
+alarm one at every moment lest they should smash
+up and go to pieces altogether, like a single great
+machine shattered by one violent shock. Between
+the teams and along the sidewalks there were
+loaded porters, boys with hand-carts, long lines of
+men with great pasteboard advertisements hung
+about their necks, toiling to save their lives. At
+every corner this immense torrent of men and
+things flows in broad channels, receives affluents,
+expands and restagnates in squares and courts, or
+trickles away in the lanes and blind alleys, in
+crooked streamlets, which are lost between the
+buildings. Whilst I advance thus, dragged by
+the current, I hear a shrill whistle above my head,
+and, on raising my eyes, behold a railroad train
+passing over a high bridge which bestrides the
+street. This train has hardly passed when I hear
+another whistle somewhere else, and see a train
+flying across the house-tops on one side. At the
+same moment, on the opposite side, a cloud of
+smoke issues from a large opening in the ground:
+it is a third train on the Underground Railway,
+which, passing for an instant in the open air,
+salutes daylight with a shriek. I reach the mouth
+of a wide street, and perceive the Thames and its
+
+
+
+
+
+
+<pb n=18>
+
+
+
+
+
+
+
+bridges in the distance, and on the bridges more
+trains, which succeed each other, and meet under
+the arches; steamboats passing and bowing their
+funnels like tall trees bent over by the wind, long
+lines of barges towed by tugs, swarms of rafts
+and small boats; and along the parapets of the
+bridges, processions of people disappearing on the
+opposite bank. Proceeding farther, more apparently interminable streets come into view, lined
+with huge edifices and filled with more torrents of
+people. And everywhere there is rumbling of
+iron bridges, shaking beneath the load of very
+long trains, whistles, puffs of smoke, weary breathing over my head, under my feet, on land and
+water and in the air; a rivalry and rush of things
+going and coming, perpetual flights, encounters,
+and successions, accompanied by a din and clatter,
+and creaking of wheels, trampling and thundering; the confusion of a battle and the good order of
+a vast workshop; then the murkiness, the dinginess of the buildings, the silence of the throng,
+and the gravity of the countenances, give to the
+spectacle I know not what sort of mysterious and
+dolorous look, as if that boundless activity were
+a fatal necessity, that infinite toil a damnation.
+Weary and dumbfounded I sought refuge in an
+alehouse, and heaving a deep sigh, <q>What world
+is this?</q> I asked myself. <q>How can people live in
+this way?</q>
+
+
+
+
+
+
+
+
+<pb n=19>
+
+
+
+<p>A little later I set out to walk again, and came
+to Trafalgar Square, which is the centre of the
+quarter most frequented by strangers. I was
+pleased with the lofty column, which holds erect,
+in the very clouds, the statue of the brave Nelson,
+and admired the four huge lions which encircle
+it; but the square, perhaps because I compared it
+with the Place de la Concorde in Paris, struck me
+as inferior to my anticipations. This is the rendezvous of all the 'buses of London (West), and
+every one may imagine the tumult. Suffice it to
+say, I had to laugh, when I thought of what we
+call in the Corso at Rome, in the Via Toledo at
+Naples, and in certain streets of Genoa, a great
+stir, and which beside London is but the <mentioned>"much
+ado about nothing"</mentioned> going and coming in a village
+on a <foreign lang=fr>f&ecirc;te</foreign> day. I entered the great street called
+Whitehall, and came out on Parliament Square,
+and thence directed my steps to Westminster
+Bridge.
+<p>The view enjoyed thence is the most beautiful
+in London, and is worth all the views from the
+bridges of the Seine. On one hand you see the
+delicate Gothic Parliament buildings, crowned with
+numberless turrets, and decorated with thousands
+of statues of kings and queens, beyond which rise
+the towers of glorious Westminster Abbey, the
+Pantheon of England; and on the other bank, the
+eight graceful buildings belonging to St. Thomas's
+
+
+
+
+<pb n=20>
+
+
+
+
+
+
+
+Hospital, painted in bright colors; and up the
+river an open and cheerful horizon. At this point
+you seem to be in another London; there is a sort
+of serene majesty, as of some more southern city.
+The Thames, traversed by a few tugs and boats,
+glides silently by the Monument, which represents
+the glory and power of England, like a never-ending army passing in review before its sovereign;
+and over this clear and tranquil expanse you see
+in the far background, dimly, as through a veil,
+the dingy, blurred buildings, the bridges swarming with people, and the dense smoke of old London ever astir and at work.
+<p>I observed for the first time, standing on that
+bridge, that at London, when there is a crowd
+in the streets, a great many people, even gentlemen, turn up their pantaloons like peasants; and
+that a great many others wear nosegays in their
+buttonholes. And I confess I could not help
+laughing when I saw, as I often did, an extraordinarily grave countenance, a nosegay, and turned-
+up breeches, all on one person.
+<p>Returning to the left bank of the Thames, I
+strolled through the principal streets, with my excellent map in hand, without needing to ask anything of anybody.
+
+<p>As for the general aspect of the streets of London, one cannot say exactly what it is. No city
+presents such a disordered variety of styles, such
+
+
+
+
+
+
+
+
+<pb n=21>
+
+
+
+a capricious mingling of the beautiful and the vulgar, the poor, the sad, and the strange, the grand
+and the hideous. It seems like a city new to you
+as a whole, but composed of many cities already
+seen, to which a common tinge has been given to
+conceal their diverse origin. Architectures of all
+climes and times are here collected, superposed
+and interwoven. In one and the same street alternate the Arabic, Byzantine, Gothic, and Greco-
+Roman and the various English orders; a single
+structure has Gothic-arched windows, and a Greek
+peristyle, Moorish colonnades, and Renaissance
+caryatides, the roof of an Indian pagoda and the
+walls of an Egyptian temple. At every corner
+you see something which transports the imagination a thousand miles away from the spot where
+you are. At one point there is a confused reminiscence of Venice, somewhere else is a vague look
+of Rome, here Seville is called to mind, there you
+think of Cologne, while a little farther you seem
+to be in a street of Paris. All these forms that
+you have seen elsewhere, blackened as they appear
+here by the smoke and fog, seem to have become
+more austere, and look, as it were, homesick and
+disgusted with this thick atmosphere, by this din,
+and the spectacle of this weary life. Moreover,
+the excessive profusion of columns and chimneys,
+turrets, pendants, and reliefs, ornaments and monumental forms, becomes ostentatious and wearisome.
+
+
+
+
+<pb n=22>
+
+
+
+
+
+
+
+All this art has the look of an importation,
+that is ill at ease there. It is a satiety, a waste of
+riches and luxury, a struggle for appearances. One
+sees the opulent city, which has bought itself beauty
+for its weight in gold; and this ostentation smacks
+a little of trade in full dress, or old stumps putting
+forth new leaves.
+<p>With these streets lined with princely mansions, other very long streets form a contrast,
+lined with innumerable houses, all of one color,
+one height, and one style, with the roof hidden in
+such a way that they seem to have none, with no
+steps, no blinds, and bare as the walls of a bastion, some as black as the throat of a chimney,
+with the doors and windows trimmed with little
+white lines, which give them the look of enormous catafalques; other streets are of a dingy red
+or sticky yellow color, so as to look like houses
+made of mud and soot; and you can walk on between these walls and colors for miles and miles
+without meeting a single building to break this
+melancholy uniformity, a single dwelling to recall
+the rich and magnificent city.
+<p>But on the other hand the richness and magnificence of the aristocratic quarters are astounding.
+At every step you find yourself before an immense
+mansion over-adorned with bass-reliefs and embellishments, and you think it may be a royal
+palace ; on the contrary, it is a railroad station, a
+
+
+
+
+
+
+<pb n=23>
+
+
+
+hotel, or a shop. Entire streets are flanked on
+both sides with these splendid colossi, each of
+which, as seen from the farther end of the next,
+seems quite distant, its black mass looming up
+dimly through the fog like a huge, precipitous
+rock. The grand, which in other cities is scattered about and must be sought for, here surrounds you; and what seems to you grand in
+other cities, being brought hither by the imagination, is lost in immensity. You traverse monumental quarters, you pass from a city of palaces,
+silent as if it were uninhabited, into a city of factories, in which you hear a thousand noises without seeing a human form; and thence into a vast
+suburb, where an immense population is swarming, and you hear almost no noise; and quitting
+this suburb, you enter again a city of palaces.
+You are not strolling through a city, you are
+travelling over a country.
+<p>Who can tell the thousand fleeting impressions
+which one feels in straying alone over a city like
+London? Amazement is <emph>shot</emph> at you, so to speak;
+but between the shots you feel for the most part
+only <foreign lang=fr>ennui</foreign> and weariness. Ten times an hour you
+ask yourself, <q>Am I really enjoying myself? Is
+this all the pleasure one feels in travelling?</q> At
+times you are assailed incontinently by a dread of
+falling ill in the middle of the street, being handled by who knows whom, and carried off who
+
+
+<pb n=24>
+
+
+
+
+
+knows where. At certain points you find mysterious analogies of place, circumstances, and persons, so that you seem to have been formerly at
+that same point, at that same hour, with the same
+sunshine, with the same odor in the air, at some
+remote period. At moments you are seized with
+causeless cheerfulness, a sudden love for the country you are in, which makes you look on all the
+passers-by with a benevolent eye, as if they were
+all friends. At other moments a suspicious glance
+or an ungracious answer from an unknown person
+changes your mind and makes you see everything
+black, makes the country hateful to you. The
+lamentable sound of a hand-organ in certain gloomy
+and populous streets makes you think confusedly
+of the infinite mysteries of misery and crime which
+lie hidden in these immense human ant-hills, and
+makes you ardently desire to escape thence into
+the open air, into some solitary country place you
+may have seen in passing ten years before, through
+the window of a stage-coach.
+
+<p>At one time, finding myself near a station, I
+thought I would take a trip in the Underground
+Railway. I go down two or three stairs and find
+myself suddenly thrown from daylight into obscurity, amid feeble lights, people, and noise, trains
+arriving and departing in the dark. Mine draws
+up and stops; people jump down and people jump
+into the carriages; while I am asking where the
+
+
+
+
+
+
+<pb n=25>
+
+
+
+second class is, the train in gone. <q>What does this
+mean?</q> I say to an employ&eacute;.  <q>Never mind,</q> he
+answers; <q>here is another.</q> The trains do not
+succeed, but pursue each other. The other train
+comes, I jump in, and away we go like an arrow.
+Then begins a new spectacle. We run through the
+unknown, among the foundations of the city. At
+first we are buried in thick darkness, then we see
+for an instant the dim light of day, and again
+plunge into obscurity, broken here and there by
+strange glowings; then between the thousand lights
+of a station, which appears and disappears in an
+instant; trains passing unseen ; next an unexpected
+stop, the thousand faces of the waiting crowd, lit
+up as by the reflection of a fire, and then off again in
+the midst of a deafening din of slamming doors,
+ringing bells, and snorting steam; now more darkness, trains, and streaks of daylight, more lighted
+stations, more crowds passing, approaching, and
+vanishing, until we reach the last station; I jump
+down, the train disappears, I am shoved through
+a door, half carried up a stairway, and find myself
+in daylight. But where? What city is this? How
+shall I get out of it? <foreign lang=it>Adagino</foreign>, let us go into an
+alehouse and study the map.
+<p>After a profound study I succeeded in finding
+the way to the British Museum, the one of all the
+museums of London which most stimulated my
+curiosity. I traversed hastily the immense halls
+
+
+<pb n=26>
+
+
+
+
+
+
+
+of sculpture, the Egyptian and Assyrian saloons,
+and stopped in the hall of manuscripts, to gaze
+upon Shakespeare's lease and the contract to sell
+"Paradise Lost," and other innumerable autographs of the greatest artists and monarchs of the
+world. But out of all these autographs only two
+struck me profoundly, and I could not for a
+while keep my eyes off them. They are two little
+sheets, on one of which is written a sum, and
+on the other are traced little circles, some arranged
+in a straight line in the middle, the others gathered
+together in a corner; and the sum and circles alike
+seem to have been made in haste by a slightly
+agitated hand. These two sheets of paper are assuredly, among the great number in the museum,
+those on which some one wrote and drew in a most
+solemn moment. Who could have seen in the
+minds of these two men, as they were in the act of
+tracing out those numbers and circles, the raging
+tempest! The numbers represent the forces of the
+English army, and were written a little before the
+battle of Waterloo; the circles represent the vessels of the English and French fleets, and were
+made a little before the battle of Aboukir; the sum
+is by Wellington, the sketch by Nelson. Manuscripts of Galileo, Newton, Michelangelo, Franklin,
+Washington, Moliere, Charles V., Peter the Great,
+Durer, Luther, Tasso, Rousseau, and Cromwell,
+there are enough of them to give away and keep.
+
+
+<pb n=27>
+
+
+<p>But here is another strange thing: while I don't
+know now what I would not give to have before
+my eyes a single one of those papers, then, when
+I had only to stoop to see them, I felt not the faintest shadow of curiosity, and what is strangest, I
+foresaw, I was certain I should repent of not looking at them. I rebuked myself and asked myself,
+<q>Why are you not curious?</q> and answered myself,
+<q>Give it up.</q> And I felt an evil mania to go
+away, and ran over those halls with barbaric indifference for all those treasures, amongst which
+there is the wherewithal to pass a month in a continual succession of pleasures.
+<p><q rend='PRE ldquo POST rdquo' lang=it>Mi paghi no!</q>
+<p>On leaving the museum I heard these words
+grumbled out by an unknown person who was
+about to enter. <q>Oh, sweetest mother tongue!</q>
+said I to myself, stopping to glance at the
+stranger. He seemed to be a workman, and was
+conversing with a woman, apparently his wife.
+Perceiving that I had turned, he turned, too, and
+surprising me smiling, (see the concatenation!)
+instead of understanding that I was a compatriot
+lost in the ocean of London, whose heart he had
+cheered with his <q rend='PRE ldquo POST rdquo' lang=it>paghi no,</q> and that, if I had
+dared, I would have invited him to dine with mad
+delight, why must it flash through his head that
+I have been making eyes at his wife? Why must
+he answer my suave look with basilisk eyes? and
+
+
+
+<pb n=28>
+
+
+
+
+
+
+
+seeing I continue to look, advance one step with
+the air of coming to knock me on the head? <q>Ungrateful Lombard!</q> I muttered sadly, continuing
+on my way, <q>thou hast stabbed me to the heart.
+Go thy way. For the love of our common mother,
+I pardon thee!</q>
+<p>Before evening I thought I would take a trip in
+an aerial railway, so I took a return ticket for some
+point in the city. It is a pleasure quite different
+from, but not less keen than, that of the subterranean trip. You run among the house-tops, in the
+region of smoke and swallows, flying through a
+boundless forest of chimney-pots, pipes, vanes,
+skylights, and ridge-poles; you see a thousand
+little unknown recesses, in that shapeless, capricious, solitary architecture, which grows rank like
+the wild vegetation of an immense pensile field, on
+the top story of the vast city; one discovers a
+thousand little mysteries in little windows, human
+dens, gables which seem   suspended between
+heaven and earth, and in which even numerous
+families make their nests, with their little aerial
+gardens; you see below, at the end of the streets,
+the black throng over which you pass as over a
+torrent, hardly hearing the noise; and all about,
+the eye takes in great distances, perceiving at
+times the Thames, the masts of the vessels in port,
+the verdure of the vast parks, the towers of the
+suburban factories, and everything but the confines of the marvellous panorama.
+
+
+
+
+
+
+
+<pb n=29>
+
+
+
+<p>But I had still before me a trip on an omnibus.
+I scrambled on to the roof of the first one I saw,
+allowed myself to be carried to the end of the
+line, and then returned to my starting-point. On
+the way I had occasion may times to wonder at
+the most familiar ease with which some one of my
+neighbors, in order to pass from one part of the
+seats to another, made use of my shoulder as a
+support, causing me to feel for a moment the whole
+weight of his person, and giving me, on removing
+his hand, a vigorous shove like a gymnast who
+flings away his pole after jumping the rope. The
+first who rendered me this service, as he struck
+me unexpectedly, left me in amazement. As is
+natural, I turned to have at least the offset of a
+smile, which should mean, <q>Excuse me.</q> Oh, no!
+He had shoved my shoulders about without giving himself the trouble to see how tall I was.
+Seeing this was the custom, I took my precautions,
+and every time I saw a fellow-passenger reaching
+out his hand, I held out my shoulder, saying,
+<q>Help yourself,</q> and so held firm till he had done
+so. Thus I came out a little less injured. But
+also I was rewarded on this same omnibus by
+the pleasure I had in becoming persuaded that
+one can very well keep up an agreeable conversation without mutual understanding. A youth by my
+side, who had seemed very affable, addressed me
+in English. I replied in French, <q>I do not understand.</q>
+
+<pb n=30>
+
+
+
+
+He did not understand that I did not
+understand, and went on smiling. I made signs
+with my head, <q>No, no,</q> he should not trouble
+himself, it was wasting breath. Perhaps chance
+willed that that <q>No</q> came <foreign lang=fr>&agrave; propos</foreign> to a question
+he had asked me, and he continued more fervidly
+than ever. Then since he enjoyed talking so
+much, I pretended to understand, making half-smiles and indeterminate signs, which could not
+disagree with anything he might be telling me.
+Then beginning to be bored with playing this <foreign lang=fr>r&ocirc;le</foreign>,
+I bethought myself that as he was talking to me
+in a tongue <emph>I</emph> did not understand, I might as well
+talk to him in a tongue <emph>he</emph> did not understand, and
+I began to discourse in Italian. It was Egyptian
+darkness; nevertheless he laughed, clapped his
+hand on my knee, and began to listen with a look
+of curiosity, as if I had warbled him an <foreign lang=it>aria</foreign>; and
+then he began again in English, and so it went on
+for a while, to our mutual satisfaction, until the
+omnibus stopped. We alighted, and he gave me
+a time-table of a steamboat company, of which I
+fancy he was an agent, and we separated shaking
+hands, like two persons who had found themselves
+of one mind on all the questions of the day.
+<p>In the evening I had not the courage to challenge the <mentioned>"blues,"</mentioned> so I fled from them, repairing
+in time to the hotel.  Oh! had I had there some
+one to pay for listening to me, I would willingly
+
+
+
+
+
+
+
+
+<pb n=31>
+
+
+
+have given him half a sovereign, such was the
+need I felt of letting myself out in chat, after
+seeing so many things, without being able to say
+one. Not knowing what else to do, I began to
+prepare the comparisons and illustrations of which
+I should make use at home to give an idea of the
+size of London, and as for several days I had
+done nothing but turn pages in guides and ask information of every one I met, material was not
+lacking.
+<p><q>Know, then!</q> I said to an arm-chair appointed
+to personate an intimate friend, <q>that London
+is sixteen miles long and fifty-five miles round
+about; that the towns which gradually gather
+about it contain the population of Florence, as,
+for instance, Greenwich, or the population of
+Rome, as Chelsea, or the population of Marseilles,
+as Hackney; that with merely the serving-men in
+London one could make an army more numerous
+than the Italian army in time of peace; that with
+the gaslights which light its ten thousand miles of
+streets one could illuminate a street running round
+one quarter of the earth's circumference; that
+reckoning ten quarts of beer as the quota to intoxicate a German, with the quantity consumed in
+London in a year there is enough to get the whole
+German army on a war footing drunk twice; that
+putting one behind the other all the beasts butchered and eaten in London in one year, you could
+
+
+<pb n=32>
+
+
+
+make a continuous line which would stretch across
+all Europe, from the Straits of Gibraltar to the
+northern extremity of Russia; that with the oysters annually swallowed at London one could
+cover the whole Champ de Mars at Paris with the
+Pont d'I&eacute;na and Place du Trocad&eacute;ro; that across
+London Bridge twenty thousand vehicles pass
+daily.</q>
+<p>On the following morning I went to see the
+Crystal Palace.
+
+
+
+
+
+
+
+<pb n=33>
+
+
+<div1 type=chapter n=3>
+<head>Chapter III.</head>
+
+<p>THE brief trip from Victoria Station to Crystal
+Palace offers the variety of a long journey. You
+pass first among other very swift trains over a
+wide bridge which is like a square suspended over
+the Thames, on which the rails cross each other so
+thickly as to present an almost continuous surface
+of iron. You pass by the large Battersea Park;
+then comes a succession of stations, galleries, and
+factories, surrounded by hundreds of operatives'
+houses, which form, as it were, villages within the
+city; all the houses of one shape and color, each
+with its little garden and swarms of children on
+all sides; then more parks, frames of vast edifices,
+sketches of little cities, which will be built and
+populated ere a few months, stores, gardens, castles, cemeteries, and as far as the eye can reach
+great piles of building materials which foretell
+other cities to come beyond. Under the tunnels,
+on the rafters of the roofs, even on the chimney-
+pots, even in the trees, even on the roadside, is a
+prodigious profusion of quack advertisements,
+which override each other like venders' cries in a
+market, and give to the place the fantastic aspect
+of a bazaar covering an entire province.
+
+
+
+<pb n=34>
+
+
+
+
+
+
+
+<p>Finally you see, on a hill-top, the enormous pile
+of the Crystal Palace, which displays to the whole
+county of Kent the delicate majesty of its transparent arches.
+<p>Within, it is a single huge hall, a little world.
+At the first glance you take in nothing. From
+one court you pass into a caf&eacute;, from a caf&eacute; into a
+bazaar, from a bazaar to a garden or museum.
+Amongst cypresses, laurels, aloes, palms, and all
+the pompous plants of the Torrid Zone, giraffes
+stretch out their necks, and Michelangelo's statues raise their heads. From the sphinxes of
+an Egyptian court-yard you see in the distance a
+Greek house with the group of the Laoco&ouml;n and the
+Venus of Milo. From a Greek house you enter
+a Roman house; here your' gaze penetrates into
+the mysterious little chambers of the Alhambra;
+and from the Alhambra you look into the court of
+a little Pompeian house.  You go out and pass
+between groups of lions and tigers, fighting and
+biting, between two rows of eagles and parrots,
+and next come out in a Byzantine court, from
+which, through a series of doors, you see the
+court of a medieval house, the hall of a Renaissance palace, or the chapel of a Gothic church. You
+go on among sepulchral monuments, fountains,
+doors embellished with historical designs, and all
+the masterpieces of modern sculpture; and you
+come into the midst of a crowd at the door of a
+
+
+
+
+
+
+
+<pb n=35>
+
+
+
+theatre, where they are playing <title>Il Trovatore.</title>
+A little beyond, on one side, you see a musical
+stage, seating three thousand artists, under a semi-
+cupola twice as large as the dome of St. Paul's,
+and on the other side a stage on which a professor is giving lectures on mathematics. You
+pass before a comic theatre, <foreign lang=la>camerae-obscurae</foreign>,
+circuses, and enter a labyrinth of grand bazaars in
+the forms of temples and kiosks, in which are exhibited the most splendid industrial products of
+all countries, from Cairo to Birmingham, and from
+Paris to Pekin. You run through the corridors
+of libraries, between long rows of piano-fortes,
+carriages, furniture, and vases of flowers, and you
+go wandering among the trees and dens of a forest
+peopled with savages from Africa or Oceanica,
+scattered on the hunt, or gathered in families about
+their hearths, or ambushed behind rocks in the act
+of shooting arrows at each other. You go up a
+staircase; galleries stretch endlessly away before
+you, where you can walk miles among oil
+paintings, water colors, photographs, and busts of
+celebrated men. And above these, more galleries
+with a thousand turns, from which on looking out
+you take in at a glance the beautiful landscape of
+the county of Kent, and looking below, all that
+fantastic circuit of halls, gardens, courts, theatres, and restaurants; people going up and down,
+and thronging about the theatres, and appearing
+
+
+<pb n=36>
+
+
+
+and disappearing among the plants and statues;
+and on this prodigious variety of forms, colors, and
+sights, of this compendium of the world, arched
+over by a crystal firmament, the sunlight darts in
+and spreads a glow over everything, throwing
+prismatic colors and rays and showers of silver
+sparks along the walls and azure arches.
+<p>On returning to London a mishap befell me
+which made me bitterly regret not knowing English. In the railway carriage there was a gentleman
+smoking a pipe. I lit my last Virginia cigar from
+the remainder of a package I had brought from
+Paris. I had just lighted it when a lady entered.
+I make a gesture, as if to ask whether smoke
+annoys her; she answers me something in English,
+which from the expression of her face I take to
+mean, <q>Yes, it does.</q> I summon all my power
+of sacrifice, and throw my cigar out of the window.
+<p>It has not reached the ground before the gentleman with the pipe catches me by the arm, and
+gives me to understand in French, that the lady
+has replied that, <emph>on the contrary</emph>, she likes tobacco
+smoke. I look at the window, my empty hand,
+and the lady laughing, and <q><emph>feel faint as though I
+should die.</emph></q>
+<p>Arriving at London, I went to Westminster
+Abbey, the Santa Croce of England.
+<p>On entering this church, were one alone, he
+would bow his head to the pavement.
+
+
+
+
+
+
+
+<pb n=37>
+
+
+
+<p>A Pantheon of this nature is a mighty argument
+in marble for the immortality of the soul
+<p>As soon as you enter your eyes are lifted to the
+lofty Gothic arches of the roof, and then turn
+upon the population of statues which surrounds
+you. There great men are massed and crowded
+together, hiding one another. A few steps bring
+you to Pitt, Palmerston, and Robert Peel, a vanguard worthy of this host.   In one corner is
+Pasquale Paoli.  The images of the supremely
+glorious are mingled with the less renowned, and
+instead of obscuring, shed lustre upon them. It
+is a divinely <emph>democratic</emph> Pantheon. Great princes
+slumber beside great poets. Near Shakespeare is
+a pedagogue, -Andrew Bell; near Newton a
+standard-bearer.  Between two illustrious admirals, Garrick, the actor, who is represented between the stage-curtains with a smile on his lips.
+Among a host of chamberlains, abbots, and ministers, among whom   you pass indifferently, you
+meet the dear and glorious images which make
+your heart beat, like friends met anew in an
+unknown country, Gray, Milton, Goldsmith,
+Thomson, Thackeray, Addison, and     the last,
+beloved and mourned like the greatest, Charles
+Dickens. Among the famous admirals, who dyed
+sea and land with blood, shines the serene and
+intact glory of the great benefactors; the apostles of
+the abolition of slavery; Hanway, the philanthropist;
+
+
+
+<pb n=38>
+
+
+
+
+
+
+
+Wintringham, the physician; James Watt,
+the inventor of the steam engine. Beside the dazzling greatness of genius, the austere greatness
+of upright minds, indomitable characters, long
+lives spent in patient works and unknown sacrifices. But what diverse thoughts we have in those
+chapels, clothed with marvellous stone embroidery,
+where you walk between the sepulchres of princes,
+between the memorials of the power and misfortunes of seven races of kings! If all the blood
+shed by axe and dagger, from the veins of the persons buried between the tombs of Henry the Seventh and Edward the Confessor, were to spread
+suddenly over the sanctuary, not a span of marble
+would stay spotless. Mary Stuart, Lord Stafford,
+the husband of Anna, Duchess of Somerset,
+beheaded; Thomas Tyrone, assassinated; Aymer
+of Valence, Earl Pembroke, assassinated; Thomas
+Woodstock, Duke of Salisbury, assassinated;
+Richard the Second, assassinated; Edward the
+Fifth and his brother, Duke of York, unhappy sons
+of Edward, assassinated; the Duke of Buckingham, assassinated; Spencer Percival, Chancellor
+of the Exchequer, assassinated; Nicolas Bagenall, suffocated in his cradle by his nurse. After
+going round in the chapels I seized a moment,
+when the verger was looking another way, to seat
+myself on the old throne of the king of Scotland;
+and then I clapped my hand on the stone on which
+
+
+
+
+
+
+
+<pb n=39>
+
+
+
+the patriarch Jacob laid when he had the divine
+vision.
+<p>He who has not seen it rain in London, has not
+seen London; and I had this pleasure the morning I went to see the Tunnel under the Thames.
+Then I understood how, in such weather, one can
+be seized with the temptation to give one's self a
+pistol shot. The houses drip as if sweating; the
+water seems not only to descend from the heavens,
+but also to ooze from the walls and ground; the
+sombre colors of the buildings turn yet gloomier
+and take on an oleaginous look; the beginnings
+of the streets seem like entrances to grottos;
+everything seems foul, used up, mouldy, and sinister; the eye knows not whither to turn, not to
+meet something disagreeable; one feels shudderings, which have the effect of a sudden attack of
+misfortune; one feels an irksome sense of weariness, a disgust with everything, an inexpressible
+wish to go out like a lamp from this weary world.
+
+<p>As I was thinking of these things I disappeared
+from the world indeed, going down a lighted spiral
+staircase which buries itself in the earth on the
+right bank of the Thames, opposite the Tower.
+I went down and down between two dingy walls
+until I found myself at the round opening of the
+gigantic iron tube, which seems to undulate like
+a great intestine in the enormous belly of the
+river. The inside of this tube presents the appearance
+
+
+<pb n=40>
+
+
+
+
+of a subterranean corridor, of which the
+end is invisible. It is lighted by a row of lights
+as far as you can see, which shed a veiled light,
+like sepulchral lamps; the atmosphere is foggy;
+you go along considerable stretches without meeting a soul; the walls sweat like those of an aqueduct; the floor moves under your feet like the
+deck of a vessel; the steps and voices of the people coming the other way give forth a cavernous
+sound, and are heard before you see the people,
+and they at a distance seem like great shadows;
+there is, in short, a sort of something mysterious,
+which without alarming causes in your heart a
+vague sense of disquiet. When then you have
+reached the middle and no longer see the end in
+either direction, and feel the silence of a catacomb,
+and know not how much farther you must go, and
+reflect that in the water beneath, in the obscure
+depths of the river, is where suicides meet death,
+and that over your head vessels are passing, and
+that if a crack should open in the wall you would
+not even have the time to recommend your soul
+to God, in <emph>that</emph> moment how <emph>lovely</emph> seems the
+sun !
+<p>I believe I had come a good part of a mile when
+I reached the opposite opening on the left bank of
+the Thames; I went up a staircase, the mate of the
+other, and came out in front of the Tower of London.
+
+
+
+
+
+
+
+
+<pb n=41>
+
+
+
+<p>These execrable monuments<note type=foot n=1>It is, properly speaking, a group of eight towers and other
+buildings.</note> to human cruelty
+and misfortune always inspired me with a repulsion stronger than curiosity; but recalling the
+names of those who died between those walls, I
+felt the strength to enter. You have hardly passed
+the first precinct when terrible memories flock
+upon you. The castle, constructed in a pentagonal
+form, is surmounted by eight towers, each one of
+which calls to mind a famous prisoner and a miserable death. In one the sons of Edward the
+Fourth were assassinated; in another Henry the
+Sixth was murdered; in a third the Duke of Clarence, Edward the Sixth's brother, was drowned in
+a butt of wine. In the clock-tower Queen Elizabeth was kept; in Beauchamp Tower Anne Boleyn
+passed the last days of her life; in the Brick Tower
+Jane Grey. After a few steps you reach the little
+square of secret tortures, where, among many other
+victims, Jane Grey was beheaded. At a short distance stands the little church where lie buried
+Anne Boleyn and Robert Devereux, who were
+poisoned, stabbed, or strangled in secret. The
+castle, nude and lugubrious without, is yet more
+so within. The staircases, straight and flat-roofed,
+lead into great, dismal halls, long, half-lit corridors, and sinister cells, those tombs of the living,
+
+
+
+
+
+
+
+<pb n=42>
+
+
+
+
+
+
+
+where so many wretches tore their hair and
+beat their heads against the wall, crazed with
+despair. The mind is turned from these thoughts
+for a time among the armor of kings and princes, a collection on the ground floor; and then
+sinks again at the sight of the horrible secret
+prison where Walter Raleigh, Elizabeth's favorite,
+languished twelve years; the axe and the block,
+still blood-stained, where thousands of prisoners in
+the Tower were beheaded; the instruments, still
+intact, with which flesh was torn and bones crushed,
+without death being dealt.  Groans escaping from.
+a human being, only together with life, horrifying
+shrieks, heart-rendering words of supplication,
+superhuman resistance from those who will not
+die, you both hear and see in thought most vividly
+while visiting the retreats of that accursed pile.
+<p>In a side-room, under a large glass case, protected by an iron railing, is seen a heap of sceptres,
+diadems, and orders, dazzling as the rays of electric light; these are the regalia of the crown of
+England, which represent all together the value of
+seventy-five million francs (fifteen million dollars).
+<p>On leaving the Tower of London I saw for the
+first time a man drunk with gin. He horrified
+me. I had not believed drunkenness could thus
+transform a man.  Our wine-drunkards, being
+either immoderately jolly or drowsy, are, I am
+
+
+<pb n=43>
+
+
+
+ready to affirm, an agreeable sight in comparison
+with these men, with convulsed and distorted
+faces covered with mortal pallor, with an expression of illness and insanity, and eyes staring and
+fixed like those of a dead man. And these depraved creatures thus sunken are seen still gulping down the tremendous liquor, and hurled down
+as if lightning-struck, shamefully beating their
+heads against the walls and tables, covering their
+faces with blood; and the by-standers assist at the
+scene laughing.
+<p>But a sight which compensated me in the streets
+and parks of London for the brutal spectacle of
+drunkards was the children, those dear little
+English children, who deservedly enjoy the reputation of being the nicest and freshest in the
+world. From the golden color of a sovereign
+to the ashy blonde of the lightest silk, or the
+fresh silk on an ear of maize, you see hair of every
+blond shade, falling in large, almost transparent
+waves, which tempt you to take a scissorsful as
+you go by. Then little cheeks of all gradations
+of rose-color, from the pale leaves which clothe
+the flower to the tiny, dainty ones which nestle
+close to the pistil; little mouths so crimson that
+you wonder the birds do not peck at them; eyes
+so pure and heavenly as to put to shame the
+cherubs hovering about Murillo's conceptions. If
+I did not carry off an armful of these children it is
+
+
+
+
+
+
+<pb n=44>
+
+simply because I did not know where to put them.
+But I had not the strength to resist another temptation. One day in Green Park I picked one up
+who passed near and snatched kisses enough to
+take his breath away, and handing him back to his
+nurse who had rushed up to save him, I made a
+gesture of entreaty as much as to say, <q>Excuse
+me, I had need of it.</q>
+<p>The children remind me of Mme. Toussaud's
+celebrated exhibition of wax figures. I did not
+repent of having been there; but I received an
+impression rather painful than agreeable. Just on
+entering I found myself before Napoleon III.'s remains lying in state in his grand marshal's uniform, and so admirably imitated that I felt a
+repugnance to drawing near. As I was looking I
+saw out of the corner of my eye a gentleman beside me showing signs of grief; I turned, stared
+at him, and fell back with a shudder; it was
+Pietri, - in wax, - dressed in black, standing erect
+among the people like a spectre. In the Great
+Hall of Kings, where there are hundreds of kings,
+queens, generals, and entire courts of England
+and Spain in the splendid costumes of the periods,
+I breathed more freely. On walking about the
+throne of a king of Arragon I brushed against M.
+Thiers's forelock; I next slipped between the Emperor William and Prince Frederic Charles, and
+passed before Jules Favre and Bismarck, who were
+
+
+
+
+
+
+
+<pb n=45>
+
+
+
+discussing some topic with great warmth in a side-
+room. In the hall where are gathered England's
+most famous criminals I rushed through. Those
+ferocious <emph>cretins'</emph> faces, those circumspect attitudes
+and blood-stained clothes, in that semi-obscurity,
+which hardly allowed one to realize the fiction,
+horrified me. Had some one at that moment uttered a cry behind a curtain, I should have believed one of those murderers had planted a
+knife in his heart.
+<p>One day I went to see the famous Bank of
+England, which has a trifling <foreign lang=fr>corps</foreign> of nine hundred employ&eacute;s, to which it pays six poor millions
+of francs' wages ($1,200,000), and possesses in its
+coffers the neat sum  of four hundred millions
+($80,000,000) in gold and silver, and preserves
+under a glass bell a bank-note worth a bagatelle
+of twenty-five millions ($5,000,000). I entered
+the great hall where payments were made. A
+hundred employ&eacute;s, standing at a hundred little
+windows, distribute gold and silver with jugglers'
+rapidity, in rolls, handfuls, and shovelfuls, and
+creditors hastily fill pockets and bags and make
+off like robbers, casting suspicious glances about
+them. You should see the gleaming and flashing
+of smiles, the very slight workings of the eyebrows and lips, and the thousand most expressive
+but inexpressible movements of the faces at the
+sight of the gold; and you should see that gold,
+
+
+<pb n=46>
+
+
+
+
+how it frisks, jumps, and sparkles, and clinks like
+cheery laughter, and does every sort of coquetry,
+so that it seems animated and rascally. I, too,
+before this spectacle felt for the first time a guilty
+disturbance, and made such a face that any one
+who had seen me at that moment would have cried,
+<q>Arrest him!</q>  This feeling I should not have
+had at eighteen. At that age one never thinks of
+<emph>not</emph> <mentioned>"getting rich."</mentioned> Youth, as a great poet has
+said, is a <mentioned><emph>mysterious awaiting,</emph></mentioned> and among the
+thousand things expected in the distant and indefinite future is <mentioned>"getting rich."</mentioned>  One hopes still
+vaguely for legacies from unknown relatives, and
+for packages of bank-notes found on the bedroom
+table some evening after the theatre, sent by no
+one knows whom; but every passing year cancels
+one word of these fanciful promises of our good
+genius, and then the sight of gold makes us
+thoughtful and awakes melancholy longings, not
+from love of ease, but for that dear independence which forced labor deprives us of, and to be
+able to work ten years at a time on a book, to
+keep at home four teachers of languages, to travel
+in Africa, to offer your lady-love a diadem of
+rubies and a palace of granite.
+<p>I went that same day to see Barclay's renowned
+brewery, which pays government a tax of four and
+a half million francs ($900,000), and consumes
+annually three hundred thousand hectolitres of
+
+
+
+
+
+
+
+<pb n=47>
+
+
+
+barley (about 900,000 bushels). After having
+roamed about the streets of a quarter in Southwark, hunting for the entrance, I inquired and
+was given to understand, to my great amazement,
+that I was already in the brewery, and up to that
+moment had done nothing but go about within its
+walls. <q>Call it Barclay City then!</q> I said to the
+guide who accompanied me.  The phlegmatic
+Englishman smiled, and through gratitude poured
+forth copious minute explanations, putting me
+through the interminable labyrinths of those buildings, around lakes of foam, amid Titanic hogsheads and brawling cascades of beer; and when
+at last I begged a truce for my legs, he conducted
+me to rest on a lofty terrace, whence, pointing
+with outstretched arm, as a general indicates an
+encampment, at that ample circuit of houses, stores,
+and stables, which form the Barclay brewery,
+<q>Here,</q> said he, loftily, <q>is the biggest brewery
+on earth!</q>
+<p>That same evening I passed again by the Bank
+of England, saw the exchange, and lingered a
+while in that cross-roads where London's business
+furnace is; and then, all carried away by this
+sight, I returned home agitated by a mania I had
+never before felt, to plunge into business and heap
+up riches.  <q>Now what is <emph>writing</emph>?</q> said I to
+myself; <q>there must be <emph>action</emph>! What is this
+spending life as a <emph>word dealer</emph>? It is a rhetorical
+
+
+<pb n=48>
+
+
+
+
+life. One should work on hard-pan. Thanks be
+to Heaven, I am still in time.  There are plenty
+of others who have taken up business later than
+I, and have still succeeded in making their fortunes.  When once I am back in Italy I will
+bestir myself, I will seek, I will do something
+My friends will laugh, eh?  Let them!  I will
+laugh, too, when I build a villa at Fiesole ....
+Let us see a bit, what <emph>branch</emph> I might try. I must
+begin in a small way. Wine and liquors. ... I
+don't know. Cotton?</q> At this moment I seemed
+to see a little finger pointed at me, and I heard a
+sweet voice ask, <q>You?</q>  Then I laughed and
+gave up business.
+
+
+
+
+
+
+
+<pb n=49>
+
+<div1 type=chapter n=4>
+<head>Chapter IV.</head>
+
+<p>To see the London museums well you should be
+rich, able to pitch your tent comfortably in the
+great city for a year. Otherwise your visits to
+museums become nothing but forced marches. I
+feel as if I were still running over the interminable
+halls of that universal emporium called the South
+Kensington Museum, always hoping on entering a
+new hall it would be the last, and always letting
+my arms drop on seeing another doorway as soon
+as I had passed one. It is all I can do to remember Raphael's famous cartoons, or Lawrence's marvellous Hamlet, who stopped me in a corirdor
+to propound to me the tremendous enigma. The
+little museum of paintings, however (the National
+Gallery), in Trafalgar Square, does not present any
+such difficulty, and I have still vividly before my
+eyes that immortal <foreign lang=fr>mariage &agrave; la mode</foreign> by Hogarth,
+for which he was paid two thousand francs, and
+which was resold for a twenty times larger sum,
+fifty years later; Turner's fantastic battles of light;
+Raphael's pictures, sought for twenty years; and
+those of the painters preferred in England,- Correggio, Poussin, Murillo, and Claude Lorraine.
+But I made only forced marches in the Indian
+
+
+
+<pb n=50>
+
+
+
+
+
+
+Museum, the Soane Museum, the Marine Museum,
+and the Surgeons' College, where you can see the
+skeleton of Carolina Cracami, the famous Sicilian
+dwarf, who could be buried under a tall hat; and
+of Byrne, the Irish giant, who used as he passed
+through the streets to give a light to the people
+in the first story.
+<p>But the impression which will remain strongest
+with me is that made by the House of Commons.
+I entered it unwittingly - it was empty. I looked
+and looked again, and it never even entered my
+head that it was the House. A chamber, small in
+appearance, decorated with a magnificence full of
+aristocratic grace, which gives it the air of the
+choir of a cathedral for elegant services, and which
+would be admirably adapted for an assembly of
+little blond-haired countesses in white frocks;
+when I learned it was the House of Commons,
+that House where sounds the simple, tranquil eloquence of the first orators in the world, which is
+then echoed and cut up into presumptuous sentences
+and pedantic quotations in the Latin parliaments,
+I made a gesture of respect and asked permission
+to touch the mace with the tips of my fingers, with
+the hope it might transmit to me the <emph>un</emph>-Latin virtue of peaceable discussion.
+<p>After the fatiguing visits to museums and palaces I would go to rest in the parks,- in those
+great oases in the <emph>populous desert</emph> of London,
+
+
+
+
+
+
+
+<pb n=51>
+
+
+
+where the soul cheers up again to see that the
+world is not all houses and railroads; where hundreds of fine-looking women on handsome horses
+coursing through avenues with no visible end, and
+thousands of children scattered and romping over
+the immense fields and on the shores of large
+ponds furrowed by numberless boats, make you
+think with pleasure that life is not all traffic and
+fatigue; where the luxuriant vegetation, the hilarity of the faces, and the melody of Italian music
+revive in you with a feeling of tender yearning
+the image of your dear country which you will
+soon see again. Oh! Hyde Park, Regent's Park,
+Victoria Park, and St. James, Greenwich, and
+Southwark, Battersea, and Holland Parks,- beneficent consolers of my melancholy moods, -I
+salute and thank ye; and I think again, too, with
+gratitude of Windsor Castle Hill, Eton Groves,
+Richmond Avenues, and Kew Gardens, and all the
+pleasant environs of London, whither I fled from
+the murderous <foreign lang=fr>ennui</foreign> of the Sundays. Ah! he
+who has not seen London on Sunday knows not
+what <foreign lang=fr>ennui</foreign> is. Closed doors, shutters up, deserted streets, silent squares, entire quarters abandoned, where one might die of hunger without
+being seen or succored; the desolation of an uninhabited city; an infinite tedium over all things;
+you would say the statues slumber, the buildings
+look bored, and you open your mouth with such
+
+
+
+<pb n=52>
+
+
+wide, lengthy, and violent gaping that frequently
+you begin to feel your face to see if anything is
+dislocated.
+<p>London grew upon me daily; however far I
+walked in any direction, I never succeeded either
+in seeing the end, or so much as a thinning out of
+buildings to suggest it.  In certain quarters, on
+passing by a second time, I would discover tracts of
+city as large as Florence which the first time had
+escaped my notice. Every day, even merely in
+the West End quarters, which I frequented, I would
+see open before me, as if by enchantment, some
+immense street I had not even seen on the map. I
+would begin my pilgrimage in the morning, and
+pass by the places visited on the previous day
+without recognizing them; I would come to a
+park, where I would stop to recover my breath
+and courage; and then off again through the infinite labyrinth of streets, now on foot, now on a
+'bus, now in a cab, uttering an exclamation of
+amazement on turning every corner, as when one
+reaches a mountain-top and discovers all at once
+a new country.  I have still in my head a thousand confused pictures of crossings full of people,
+of great solitary spaces, and foggy distances, seen
+on I know not what day nor in what part of London; which often get confounded with the visions
+of those imaginary cities which we see in our
+dreams.
+
+
+
+
+
+
+
+
+
+<pb n=53>
+
+
+
+<p>London's grandeur and wealth made upon me a
+different impression at every moment. Sometimes
+I felt my Italian <foreign lang=fr>amour propre</foreign> crushed; I would
+remember with contempt the petty boasts to which
+we give utterance at home, comparing ourselves
+only with ourselves; I proposed, when I should
+be back in Italy, to rebuke them with sarcasm; I
+should have liked to have been born an Englishman, to have the right to look down upon the
+Latin peoples. At other times, however, the spectacle of the superiority of this country gave me but
+a keener affection for my own, mingled with pious
+patriotism. <q>Should a son, perhaps,</q> thought I,
+<q>love his mother the less that she is both poor and
+ill?</q> Often, too, not even this greatness seemed
+to me enviable. <q>Vanity!</q> I said, <q>vanity! To
+what end, as Leopardo's shepherd asks, is all this
+great stir, this bustle of men and things? Are they
+more contented than we? They have wealth!
+Well, we have no fog, and a poor devil in sunshine enjoys life, perchance, more than a rich man
+in the dark. And are there not here miseries and
+griefs infinite?</q> And even this poor Italy afforded
+satisfaction to my <foreign lang=fr>amour propre</foreign>.  When some
+courteous fellow-passenger in a coach, perceiving I
+was an Italian, would turn upon me a half-benevolent, half-curious look, as if to search in my face
+for something to correspond to that vague picture
+of beautiful things and joyous life which the name
+
+
+
+
+
+<pb n=54>
+
+
+of Italy awakens in every foreigner's mind, I felt
+a keen pleasure and saw in the glass of the opposite window-pane that my eyes sparkled and my
+cheeks reddened.
+<p>But what a lesson of modesty this travelling is!
+How narrow it seems to travel the circle of notions
+and ideas, in which we habitually live, and which
+yet at home among our friends and books seems to
+us so vast! To see that one half, at least, of
+what forms the <emph>Treasury of Instruction,</emph> which
+we have garnered in so many years of study and
+observation, has almost no value in the foreign
+land we are in! To handle the fact that at home,
+when we thought we were reading the book of the
+world, we only really read one page; that a thousand things which seemed to us great, important,
+and enough to fill half the world, are only our
+<mentioned>"ole clo'es,"</mentioned> which are of no account whatever
+one step outside our own door! At every step
+we make in a foreign country a gulf opens as it
+were before our eyes, in which we see beneath the
+abysses of our own ignorance; and there greets
+us from the bottom a laugh of compassion. But
+there are moments, on the other hand, in which
+the motion of our ideas takes place so rapidly that
+we see, divine, and take in in a twinkling so many
+things previously unknown or obscure to us, that,
+could this feverish mental activity be continual,
+we should be extraordinary men. What grand
+
+
+
+
+
+
+
+
+<pb n=55>
+
+
+
+designs we make then, which vanish like smoke at
+the next turn in the road!
+<p>What most amazed me in London, next to its
+wealth and grandeur, was its good order. This
+enormous city is divided into districts like a Dutch
+village. The functions of its immense life are carried on like clock-work. A stranger who understands a little French frees himself, unaided, from
+every embarrassment and without losing a minute
+of time. The walls of the 'buses, covered with
+innumerable inscriptions, guide you constantly,
+and at every step some one thrusts into your hand
+a printed paper, which gives you a bit of advice
+or useful hint. In whatever portion of London
+you may wander, you have only to follow the
+direction of the first train you see passing on the
+house-tops; the train leads you to a station, and
+the station walls point out your way home. One
+day I jumped on to a 'bus without knowing whither
+it might be going; I was taken several miles out
+of London, and alighted at a country restaurant,
+and was alone. No one there understood a word
+of French; I could not even tell where I was, till
+a 'bus should go by again. I felt somewhat uncomfortable. I rambled through the village, all shiny
+houses and tidy gardens, where I met only some
+young aristocrats on horseback, or saw some blond
+<mentioned>"miss's"</mentioned> head through the windows, and all was
+as silent as a graveyard. What should I do?
+
+
+
+<pb n=56>
+
+
+
+
+Where should I go? All at once I heard a puffing, which went to my heart like a friend's voice;
+I ran that way, and in fifteen minutes was in London.
+<p>The evening in London is very <foreign lang=fr>triste</foreign> for a stranger.  I had fierce attacks of "blues." Accustomed to the fantastic splendors of the Paris boulevards, and to their great festive activity, London
+streets seemed dark and melancholy. I missed
+the crowded caf&eacute;s, the handsome shops, and even
+the dissolving views on the Boulevard Montmartre, forgetting the indignation awakened in me by
+the spectacle of the barefaced, brilliant, and triumphant immorality which reigns there on all
+sides. But what a mystery are these discouragements, the fits of deep sadness which assail us of
+an evening in an unknown city! And so deep
+that at times one has a countenance which excites
+compassion in the passers-by ? <q>But why?</q> you
+ask yourself; <q>you are well, you are not short of
+money, you have good news from home, you are
+free; to-morrow morning you will have diversion,
+within ten days you will return to your country;
+then why this suicidal frown?</q> Who can say?
+I, too, like De Maistre's leper, when I saw a married couple pass by with children, nurse, and baby,
+all happy and laughing, I felt bitter envy and
+turned my head the other way.
+<p>One can at London, by means of recommendations,
+
+
+
+
+
+
+
+<pb n=57>
+
+
+
+obtain permission to accompany the night-round of the police in those foul quarters where
+the population of beggars and criminals swarms,
+and penetrate the dens where these wretches pass
+the night for a few farthings. I rambled through
+these quarters only by day among the houses
+where the opium-drinkers go to stultify themselves, where obscene balls take place for a half-penny admission, where the boxing <foreign lang=it>dilettanti</foreign> go to
+see the play of eye-crushing, teeth-smashing fists;
+whither women return with heads broken by
+drunken husbands; where the consumptive courtesan meets the blood-stained robber; where impurity begins with girlhood and ends with old age;
+where ferocity, lasciviousness, and misery have
+their tenebrous trysting-place, like hideous monsters, and lay their heads together to send victims
+to the Thames, the hospital, or the scaffold, where
+in short the rottenness of the great city ferments,
+where Charles Dickens went with his servant to
+drink beer.
+<p>The most beautiful morning I passed in London
+was the last, capped with the most delightful cosmopolitan meal I have yet partaken of. I had climbed
+the Wren Tower, that famous tower which records
+a conflagration of four hundred and sixty streets
+and fourteen thousand buildings, from the top of
+which the eye takes in at a glance the great movement on London Bridge, and all the streets which
+
+
+
+<pb n=58>
+
+
+
+
+converge there on the left bank of the Thames. I
+found up there five prepossessing young men chatting cheerfully, and, with one exception, maltreating the French tongue with all the <foreign lang=fr>nonchalance</foreign> of
+barbers' boys; I chimed in, and after a few words,
+learned to my great delight that one was from Cologne, one from Manchester, one from Haarlem,
+one from Guadalajara, and the fifth from Lyons;
+so that, including myself, the groups represented
+six countries; Germany, England, France, Italy,
+Spain, and Holland, - three Latin and three northern peoples, -four healthy monarchies, and two
+sick republics. We laughed over the singular
+encounter, because the German and Dutchman
+had just come some moments earlier, and the
+other three had met in the same way the day
+before; so, giving ourselves the air of some International Commission of Arbitration, we went to
+lunch together. Except the Spaniard, and the
+Italian, too, more or less, they were all beer-
+sponges; the table was quickly covered with
+empty glasses; and the conversation became most
+animated. The fumes of the beer had lulled political hates and differences, and awakened on the
+contrary in all six of us a feeling of universal
+love, which broke forth in clamorous toasts to the
+prosperity and glory of all the nations represented,
+<q>although unworthily,</q> as said the gentleman from
+Lyons in that jovial convention, <q>which should have
+
+
+<pb n=59>
+
+
+
+served as an example for the governments.</q> Before
+the eighth bottle came, Alsace was restored, every
+shadow of fear of war on the Roman question was
+dissipated, all the Carlists scattered on the French
+frontier were in irons, and Luxemburg was secured
+forever against the pretensions of Germany. Then
+Guttenberg, Coster, Michelangelo, Mendoza, Newton, the Prince of Orange, and Victor Hugo were
+made to dance on the table, and on them fell
+a shower of <emph>dessert</emph> adjectives, emphasized with a
+swallow; divine! sublime!! immense!!! superhuman!!!! ; then forgetfulness waxed greater and
+greater, and each began to tell facts about himself,
+viz.: I am a merchant. - I am a journalist. - I a
+painter. - I have- something or other. And then
+followed mutual inquiries about each other's age,
+and declarations such as, <q>You're a fine specimen
+of a German,</q> and <q>You're a fine type of an
+Italian,</q> joined with assassination of each other's
+native tongue, and every now and then some one
+would exclaim, <q>But we're not drinking here!</q>
+And lastly came grand projects and appointments
+for the coming year at Paris, Amsterdam, or Constantinople, on such a street, such a day, and at
+such an hour, and <q>Mind! I'll be there!</q>
+<q>You'll write me!</q> <q>Good luck!</q> and now a
+grand final clinking of overflowing glasses, to the
+shout of <q>Hurrah for civilization!</q>
+<p>At noon I went aboard a steamer near the
+Tower, bound for Antwerp.
+
+
+<pb n=60>
+
+
+
+
+
+<p>The fabulous greatness of London cannot be
+seen entirely, but by sailing up and down the
+Thames; then London Bridge and the city proper
+vanish in comparison with the port; the whole
+city of London is belittled.
+<p>When the steamer started, the sunshine was
+brilliant and the air was clear.  We entered
+between two lines of great vessels, and passed in
+a few minutes by St. Catherine's Docks, which
+embrace the space once occupied by twelve thousand inhabitants, and serve as a port for vessels
+arriving from Germany, the Netherlands, France,
+and Scotland; we left London Docks behind,
+which contain in their basins three hundred high-decked vessels, in their warehouses two hundred
+thousand tons of merchandise, and afford employment to three thousand workmen of all countries;
+and we went swiftly on, grazing by ships, tugs,
+barges, and vessels of every shape, going and coming on the broad river. For a little while the
+sight is not extraordinary. Huge piles and interminable rows of bags, hogsheads, and bales encumbering the banks, dikes, bridges, and entrances
+of the streets; very long enclosing walls, endless
+black buildings, and everywhere factory smoke,
+motion of machinery, and hurrying to and fro of
+workmen and sailors; the most dense and varied
+life to be seen in any great port. Except that
+when you come to the great bend in the Thames,
+
+
+
+
+
+
+
+<pb n=61>
+
+
+
+and begin to observe that you have never before
+traversed so great a distance between vessels, and
+still seen just on turning in a new direction, masts
+and sails, as far as the eye can reach; <emph>then</emph> indeed
+you feel keenest amazement. But it is still more
+so when you grasp the idea that beyond these
+masts and sails, beyond these lofty walls, which
+extend along the two banks, there are more forests
+of vessels, dense, deep, and confused; on the left,
+the great basins of the West India Docks, which
+cover an area of two hundred and fifty acres; on
+the right, the great Commercial and Surrey Docks,
+which extend several miles inland. We are no
+longer sailing between two lines of vessels, but
+between two rows of ports; and the eye cannot
+take in the whole spectacle.
+<p>After passing the Commercial Docks, we go on
+for some miles between the lesser docks; but always through forests of vessels, black walls of
+warehouses vast as cities, and mountains of merchandise. We pass before the glorious Greenwich
+Hospital, and steam around the Isle of Dogs.
+Already we have sailed two hours; now vessels
+grow scarcer, and although warehouses, factories,
+and buildings succeed each other without interruption, the port seems to be about to end. We
+draw a breath; we needed a little rest, being
+weary of wondering. So we go on for an hour,
+already thinking of London as a distant city, and
+
+
+
+
+<pb n=62>
+
+
+
+
+
+
+
+of its bustle and noise as of a thing of yesterday.
+When lo! at a new turn in the river, there are
+new endless lines of vessels, new distant forests
+of masts and yards, new huge docks, another port
+and another grand spectacle. Here wonder changes
+into stupefaction; you seem  to dream.   You
+would say you were about to enter another London. You pass by the East India Docks, scrape
+by Woolwich Arsenal, along the Victoria Docks,
+which extend along the left bank for three miles,
+and so on and on between walls without end, ships
+without number, merchandise, machinery, smoke,
+whistles, arrivals and departures, flags of all the
+peoples of the earth, faces of all colors, words of
+unknown tongues, which greet the ear from neighboring vessels, strange garments and savage cries,
+which bring up to the fancy remote seas and
+coasts. And now for three hours this spectacle
+has continued! However tired the sense of wonder be, we must begin to wonder afresh. The
+soul is lifted up, and no longer has the feeling
+almost of humiliation which it felt at first, in
+comparing this country to its own; it compares
+no longer, it feels itself turn cosmopolitan; national pride dies away in a feeling of human pride;
+it no longer sees the port of London, but the port
+of all lands, the centre of the world's commerce,
+the meeting-place of people of every race and
+every clime; and while the eyes gaze on, the mind
+
+
+
+
+
+
+
+<pb n=63>
+
+
+
+traverses the continents and pictures to itself the
+immense curves described upon the globe by
+those myriads of ships, which meet and exchange
+greetings there; the toils and perils infinite; the
+perpetual going and coming on land and sea, the
+eternal labor of unwearying humanity, and thinks
+it comprehends for the first time the world's laws
+of life. And, meanwhile, the vessel flies on, the
+Thames broadens, the forests of ships now appear
+only like vast beds of reeds on the horizon, lightly
+gilded by the sinking sun; but still docks after
+docks, basins after basins, warehouses after warehouses, arsenals after arsenals; London, great
+London, is always there; London after four
+hours' sail still follows us; on the right and on
+the left, and before, wherever the eye reaches, it
+sees still, with mingled doubt and terror, the
+monstrous city toiling and advancing.
+
+
+
+<trailer>FINIS.</trailer>
+
+</body>
+</text>
+</tei.2>

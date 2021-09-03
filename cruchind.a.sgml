@@ -1,0 +1,4244 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>
+The Pauper, The Thief and The Convict
+	<author>Thomas Archer</author>
+      </titleStmt>
+      <publicationStmt>
+	<p>1865
+      </publicationStmt>
+      
+      <sourceDesc>
+	<p>Scanned printed text
+      </sourceDesc>
+    </filedesc>
+
+    <profileDesc>
+      <langUsage>
+	<language id=la>Latin
+	<language id=greek>Greek
+	<language id=German>German
+	<language id=fr>French
+	<language id=Italian>Italian
+	<language id=anglosaxon>Anglo-Saxon
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+
+
+
+<TEXT><BODY><HEAD>Index to Cruchley's Map of London.</HEAD>
+ 
+<div1 type="chapter" n="1" id="c.1"><HEAD>Explanation.</HEAD>
+ 
+<p>The accompanying Map, to which this List belongs, is divided into squares of half-miles, for measuring distances, and reference to the streets, public buildings, &amp;c.-For instance: Fleet street will be found under the letters F c. The capital letters are at the top, and the small ones at the side. 
+<p>I b Abbey street, Bethnal green 
+<p>H f Abbey street, Bermondsey 
+<p>G d Abchurch lane, Lombard street 
+<p>D f Abingdon street, Westminster 
+<p>E a Acton street, Gray's Inn lane 
+<p>G g Acton street, Walworth new town 
+<p>K a Acton lock, Regents canal 
+<p>K f Acworth buildgs, Blue Anchor road 
+<p>D d Adam street, Adelphi 
+<p>A c Adam street, Edgeware road 
+<p>B c Adam street, Manchester square 
+<p>G f Adam street, New Kent road 
+<p>B d Adam's mews, Grosvenor square 
+<p>C b Adam's row, Hampstead road 
+<p>L e Adam's street, Rotherhithe 
+<p>F d Addle hill, Upper Thames street 
+<p>G c Addle street, Aldermanbury 
+<p>D a Addin place, King's cross 
+<p>E e Addington street, York road 
+<p>D d Adelphi, Strand 
+<p>D d Adelphi stairs, Strand 
+<p>D d Adelphi theatre, Strand 
+<p>H d Adelaide hotel, London bridge 
+<p>D d Adelaide street, Strand 
+<p>D e Admiralty, Whitehall 
+<p>B b Adult orphan asylum, Regent's park 
+<p>D d Agar street, Strand 
+<p>F f Agnes place, Obelisk 
+<p>C d Air street, Piccadilly 
+<p>C d Albany, Piccadilly 
+<p>H g Albany cottages, Albany road 
+<p>H g Albany road, Kent road 
+<p>C b Albany street (little) New road 
+<p>C b Albanystreet(little) Regent's park 
+<p>C b Albany street, New road 
+<p>H g Albany terrace, Kent road 
+<p>F b Albemarle street, St. John street 
+<p>C d Albemarle street, Piccadilly 
+<p>F d Albion place, Great Surrey street 
+<p>G g Albion place, Walworth road 
+<p>K c Albion street, Commercial road 
+<p>F d Albion street, Great Surrey street 
+<p>L e Albion street, Rotherhithe 
+<p>M d Albion terrace, Commercial road 
+<p>D a Aldenham terrace, St. Pancras 
+<p>I e Alderman Parson's stairs, St. Catherine's 
+<p>G c Aldermanbury, Cheapside 
+<p>G c Aldersgate street 
+<p>H d Aldgate, High street 
+<p>I g Alexander place, Grange road 
+<p>F a Alfred place, Goswell street road 
+<p>H g Alfred place, Kent road 
+<p>D c Alfred place, Tottenham court road 
+<p>N b Alfred street, Bow road 
+<p>N e Alfred street, Isle of Dogs 
+<p>L c Alfred street, Mile-end road 
+<p>D c Alfred street, Tottenham court road 
+<p>C g Alfred street, Vauxhall bridge road 
+<p>L b Alfred terrace, Mile end road 
+<p>F f Alfred's place, Newington road 
+<p>I c Alie street (little & great) Goodman's fields 
+<p>D e Alien office, Crown street, Westminster 
+<p>F b Allen street, Goswell street 
+<p>E f Allen street, Westminster road 
+<p>G a Allerton street, Hoxton new town 
+<p>D f Allin street, Horseferry road 
+<p>D f Allington street, Horseferry road 
+<p>G d Allhallows lane, Upper Thames street 
+<p>G d Allhallows stairs, UpperThames street 
+<p>D f Almonry (great), Westminster 
+<p>O d Almond place, East India dock road 
+<p>A b Alpha cottages, Edgware road 
+<p>A b Alsop's buildings, New road 
+<p>A b Alsop's place, New road 
+<p>A g America place, Sloane square 
+<p>H d America square, Minories 
+<p>G e America street, Southwark bridge road 
+<p>H g Amelia place, Grange road 
+<p>I f Amelia row, Grange road 
+<p>G g Amelia street, Walworth road 
+<p>F c Amen corner, St. Paul's 
+<p>E b Ampton street, Gray's inn lane 
+<p>E a Amwell street, Claremont square 
+<p>E a Amwell terrace, Claremont square 
+<p>H b Anchor street, Shoreditch 
+<p>I b Anchor street (little) Shoreditch 
+<p>M c Anchor street, Stepney 
+<p>K e Anchor & Hope Alley, Wapping 
+<p>F a Anderson's place, City road 
+<p>E g Anderson's street, Vauxhall walk 
+<p>E g Anderson's walk, Vauxhall walk 
+<p>B b Andrew place, Regent's park 
+<p>G c Angel alley, Little Moorfields 
+<p>D d Angel court, Long acre 
+<p>E d Angel court, Strand 
+<p>K d Angel court, Ratcliffhighway 
+<p>F a Angel inn, City road 
+<p>G c Angel street, St. Martin's le grand 
+<p>F a Angel terrace, Pentonville 
+<p>K b Ann street, Bethnal green road 
+<p>K d Ann street, Cannon street road 
+<p>L b Ann street, Globe lane 
+<p>E a Ann street, Pentonville 
+<p>E e Ann street, Waterloo road 
+<p>E b Anne street, Wilmington square 
+<p>K a Ann's place, Hackney road 
+<p>H a Ann's place, Grange walk 
+<p>K d Anthony street, ,Back lane 
+<p>G g Apollo buildings, Walworth 
+<p>F d Apothecaries'hall, Bridge street, Blackfriars 
+<p>C f Arabella row, Pimlico 
+<p>L c Arbourplace, Commercial road 
+<p>L c Arbour square, Commercial road 
+<p>L c Arbour street, Commercial road 
+<p>L c Arbour terrace, Commercial road 
+<p>E c Arch row, Lincoln's inn fields 
+<p>D d Archer street, Great Windmill street 
+<p>C c Argyle place, Regent street 
+<p>D a Argyle street, King's Cross 
+<p>C c Argyle street, Oxford street 
+<p>C c Argyle street (little) Regent street 
+<p>C a Arlington street, Camden town 
+<p>F a Arlington street, New river head 
+<p>C d Arlington street, Piccadilly 
+<p>F g Arnold's paragon, Walworth 
+<p>E b Arthur street, Bagnigge wells 
+<p>G b Arthur street (great) Goswell street 
+<p>H e Arthur street, King William street 
+<p>G b Artillery ground, Finsbury place 
+<p>G b Artillery place, Finsbury square 
+<p>C f Artillery place, Tothill fields 
+<p>H e Artillery lane, Bermondsey 
+<p>H c Artillery lane, Bishopsgate street 
+<p>I b Artillery street, Bethnal green 
+<p>F e Artillery street, Great Surrey street 
+<p>K d Artichoke build. Ratcliffhighway 
+<p>K b Arundel street, Bethnal green 
+<p>D d Arundel street, Coventry street 
+<p>E d Arundel street, Strand 
+<p>E d Arundel stairs, Strand 
+<p>F b Ashby street, Northampton square 
+<p>H a Ashford street, Hoxton 
+<p>O d Ashton street, Poplar 
+<p>H a Aske street, HIoxton 
+<p>H a Aske terrace, Hoxton 
+<p>L c Assembly row, Mile end 
+<p>E e Astley's theatre, Westminster bridge road 
+<p>H f Asylum, deaf and dumb, Kent road 
+<p>A g Asylum, royal military, Chelsea 
+<p>E f Asylum, Westminster road 
+<p>G c Auction mart, Bartholomew lane 
+<p>B d Audley square, South Audley street 
+<p>B d Audley street, (north)Grosvenor square 
+<p>K f Augusta place, Deptford lwr. road 
+<p>C a Augustine square, Regent's park 
+<p>I f Augustus row, Grange road 
+<p>C a Augustus street, Regent's park 
+<p>H c Austin friars, Old Broad street 
+<p>H b Austin street, Hackney road 
+<p>F c Ave Maria lane, Ludgate street 
+<p>A a Avenue road, Regent's park 
+<p>B g Avery farm row, Pimlico 
+<p>B d Avery row, Lower Grosvenor street 
+<p>F b Aylesbury street, St. John's street 
+<p>G f Ayliffe street, New Kent road 
+<p>H f Baal Zephon street, Kent street 
+<p>F b Back hill, Leather lane 
+<p>L a Back lane, Globe town 
+<p>N d Back lane, Poplar 
+<p>K d Back lane, Ratcliff highway 
+<p>F g Back lane, Walworth 
+<p>H e Back street, Tooley street 
+<p>I b Bacon street (great) Brick lane 
+<p>I b Bacon street (little) Brick lane 
+<p>E b Bagnigge wells, Pentonville 
+<p>H b Bailey's court, Shoreditch 
+<p>D c Bainbridge street, St. Giles's 
+<p>K c Baker street, Commercial road 
+<p>A b Baker street (upper) New road 
+<p>E b Baker street, Pentonville 
+<p>E a Baker street (upper) Pentonville 
+<p>B c Baker street, Portman square 
+<p>C g Baker's lane, Millbank 
+<p>F b Baker's row, Clerkenwell 
+<p>K c Baker's row, Whitechapel road 
+<p>G b Baldwin street, City road 
+<p>G b Baldwin's court, Old street 
+<p>E c Baldwin's gardens, Leather lane 
+<p>G b Baltic street, Golden lane 
+<p>G c Bank of England, City 
+<p>G d Bank end wharf, Bankside 
+<p>G d Bankside, Southwark 
+<p>G b Banner square, Bunhill row 
+<p>G b--Banner street, Bunhill row 
+<p>G c Barbican, Aldersgate street 
+<p>G e Barclay's brewhouse, Bridge street 
+<p>B c Barlowstreet, High street Marylebone 
+<p>B c Barlow street (little) High street Marylebone 
+<p>N a Barn place, Oldford 
+<p>F c Barnard's inn. Holborn 
+<p>F e Baron's buildings, Waterloo road 
+<p>F e Baron's place, Waterloo road 
+<p>E g Barratt street, Vauxhall 
+<p>K a Barossa terrace, Hackney road 
+<p>F a Barron street, Claremont square 
+<p>F c Bartholomew close, West Smithfield 
+<p>G c Bartholomew lane, R<num value="1">1</num>. Exchange 
+<p>G b Bartholomew square, Old street 
+<p>F c Bartholomew's hospl, Giltspur street 
+<p>F c Bartlett's buildings, Holborn 
+<p>G d Basing lane, Watling street 
+<p>G c Basinghall street, London wall 
+<p>H b Bateman street, Shoreditch 
+<p>K a Bates' place, Bethnal green 
+<p>L b Bates' place, Globe street 
+<p>C b Bath place, New road 
+<p>F f Bath place, Newington 
+<p>K b Bath street, Bethnal green road 
+<p>L d Bath street, Commercial road 
+<p>E b Bath street (great) Cold bath square 
+<p>I a Bath street, Hackney road 
+<p>G b Bath street, Old street 
+<p>K b Bath street, North street 
+<p>G f Bath terrace, Horsemonger lane 
+<p>D a Battle bridge, Gray's inn lane 
+<p>H e Battle bridge stairs, Tooley street 
+<p>I c Batty street, Commercial road 
+<p>C d Beak street, Golden square 
+<p>F e Bear lane, Gravel lane 
+<p>D d Bear street, Leicester square 
+<p>G d Bearbinder lane, Lombard street 
+<p>N a Bearbinder lane, Old ford 
+<p>E d Beaufort buildings, Strand 
+<p>B c Beaumont mews, Weymouth street 
+<p>B b Beaumont-street, New road 
+<p>L c Beaumont square, Mile end road 
+<p>L b Beaumont street, Mile end road 
+<p>G g Beckford place, Walwoxrt road 
+<p>D d Bedford bury, St. Martin's lane 
+<p>D c Bedford place, Russell square 
+<p>D b Bedford place (upper) Russell square 
+<p>C f Bedford place, Vauxhall brg. road 
+<p>H g Bedford place, Walworth 
+<p>E c Bedford row, Holborn 
+<p>D c Bedford square 
+<p>K c Bedford square, Commercial road 
+<p>D c Bedford street, Bedford square 
+<p>O d Bedford street, Blackwall 
+<p>K c Bedford street, Commercial road 
+<p>E c Bedford street, Holborn 
+<p>D d Bedford street, Strand 
+<p>G g Bedford street, Walworth 
+<p>G c Beech lane, Beech street 
+<p>G c Beech street, Barbican 
+<p>H d Beer lane, Great Tower street 
+<p>G g Belgrade street, Walworth 
+<p>C g Belgrave dock, Millbank 
+<p>B f Belgrave place(upper)Chelsea road 
+<p>B f Belgrave place(lower)Chelsea road 
+<p>C g Belgrave road, Vauxhall bridge road 
+<p>C g Belgrave road, Millbank 
+<p>B f Belgrave square, Pimlico 
+<p>C g Belgrave street, Belgrave road 
+<p>C g Belgrave street, Willow walk 
+<p>B f Belgrave street, Belgrave square 
+<p>B f Belgrave street, Chelsea road 
+<p>D a Belgrave street, King's cross 
+<p>B g Belgrave terrace, Chelsea road 
+<p>G c Bell alley. Coleman street 
+<p>G b Bell alley, Goswell street 
+<p>I e Bell dock, Wapping 
+<p>I g Bellevue place, Blue Anchor road 
+<p>H c Bell lane, Spitalfields 
+<p>H c Bell square, Bloomfield street 
+<p>C f Bell street, Vincent square 
+<p>L d Bell wharf, Shadwell 
+<p>E c Bell yard, Fleet street 
+<p>D c Belton street, Drury lane 
+<p>K b Belvidere place, Bethnal green 
+<p>F f Belvidere place, Borough road 
+<p>E e Belvidere road, Waterloo road 
+<p>C g Belvoir terrace, Vauxhall bridge road 
+<p>M b Bencroft's alms-houses, Mile-end road 
+<p>M b Bencroft's place, Mile end road 
+<p>F c Benjamin street, Clerkenwell 
+<p>C d Bennet street, St. James's street 
+<p>D e Bennet street, Westminster 
+<p>F d Bennet street, Stamford street 
+<p>F g Bennett's builds. Kennington lane 
+<p>F d Bennet's hill, Upper Thames street 
+<p>O d Bengal terrace, East India dock road 
+<p>B c Bentinck street, Manchester square 
+<p>C f Bentinck street. Vauxhall bridge road 
+<p>B d Berkeley square 
+<p>C d Berkeley street, Berkeley square 
+<p>E f Berkeley street, Lambeth walk 
+<p>B c Berkeley street,Portman square 
+<p>A c Berkeley street, (upper) Portman square 
+<p>F b Berkeley street, St. John square 
+<p>H f Bermondsey buildings, Bermondsey new road 
+<p>H f Bermondsey new road 
+<p>H f Bermondsey square, Grange road 
+<p>H e Bermondsey, Southwark 
+<p>H e Bermondsey street, Tooley street 
+<p>L c Bermuda street, Stepney 
+<p>D b Bernard street, Russell square 
+<p>I c Berner street, Commercial road 
+<p>I d Berner street (little) Commercial road 
+<p>C c Berner's street, Oxford street 
+<p>C c Berner's mews, Oxford street 
+<p>H f Berwick place, Grange road 
+<p>C c Berwick street, Oxford street 
+<p>C f Berwick street, Vauxhall road 
+<p>F f Bethlem hospital, St. George's road 
+<p>K a Bethnal green 
+<p>K b Bethnal green road 
+<p>K a Bethnal green road, old 
+<p>K d Betts street, Ratcliff highway 
+<p>H c Bevis marks, St. Mary axe 
+<p>D a Bidborough street, New road 
+<p>H d Billingsgate, LowerThames street 
+<p>H d Billingsgate stairs 
+<p>H d Billiter lane, Fenchurch street 
+<p>H d Billiter square, Billiter street 
+<p>H d Birchin lane, Cornhill 
+<p>I a Bird cage, walk, Hackney road 
+<p>K e Bird street, London dock 
+<p>B c Bird street, Oxford street 
+<p>F f Bird street, West square 
+<p>I g Bird's row, Blue Anchor road 
+<p>L a Bishop Bonnor's hall, Globe town 
+<p>H c Bishopsgate street, Cornhill 
+<p>E f Bishop's walk, Lambeth 
+<p>B d Blackburne mews, Grosvenor square 
+<p>I b Black Eagle street, Brick lane 
+<p>F d Blackfriars bridge, City 
+<p>M g Black Horse place, Deptford 
+<p>M g Black Horse square, Deptford 
+<p>G e Blackman street, Borough 
+<p>E d Blackmoor street, Drury lane 
+<p>O e Blackwall 
+<p>P e Blackwall reach 
+<p>O g Blackwall road 
+<p>P e Blackwall stairs, Blackwall 
+<p>G f Bland street (great) GreatDover street 
+<p>G f Bland street (upper)Great Dover 
+<p>G f Bland street(lower)Great Dover street 
+<p>B c Blandford mews, Dorset street 
+<p>A b Blandford place, Regent's park 
+<p>A b Blandford square, New road 
+<p>B c Blandford street, Manchester square 
+<p>B c Blenheim street, Bond street 
+<p>C c Blenheim street, Marlboro&lsquo; street 
+<p>C c Blenheim steps, Oxford street 
+<p>I F Blind school, London road 
+<p>K b Blisset street, Bethnal green road 
+<p>C g Bloomberg street,Vauxhall bridge road 
+<p>H c Bloomfield street, London wall 
+<p>D c Bloomsbury place, Bloomsby. square 
+<p>D c Bloomsburysquare, High holborn 
+<p>H b Blossom street, Norton falgate 
+<p>G b Blue Anchor alley, Bunhill row 
+<p>I f Blue Anchor lane, Rotherhithe 
+<p>I f Blue Anchor road, Bermondsey 
+<p>K d Blue Gate fields, Ratcliff highighway 
+<p>D e Board of Control, Cannon street 
+<p>B d Bolton row; Piccadilly 
+<p>C d Bolton street, Piccadilly 
+<p>E e Bond place, Cornwall road 
+<p>F f Bond street, Borough road 
+<p>B d Bond street (new) Piccadilly 
+<p>C d Bond street (old) Piccadilly 
+<p>E e Bond street, Waterloo road 
+<p>L a Bonner street, Globe town 
+<p>L a Bonner's hall brg, Regent's canal 
+<p>H b Booth street, Old street road 
+<p>I c Booth street, Spitalfields 
+<p>G e Borough, Southwark 
+<p>F f Borough road, St. George's fields 
+<p>K e Bostock street, Old Gravel lane 
+<p>A b Boston place, Boston street 
+<p>A b Boston street, Dorset square 
+<p>I a Boston street, Hackney road 
+<p>E c Boswell court (old) Strand 
+<p>D b Brighton street, Cromer street 
+<p>D a Brill place, Somers' town 
+<p>D a Brill row, Somers' town 
+<p>D a Brill terrace, Somers' town 
+<p>G c Britain (little) Aldersgate street 
+<p>E a Britannia street, City road 
+<p>E a Britannia street, Gray's inn road 
+<p>H a Britannia circus, Gloucester terrace 
+<p>D c British Museum, Great Russell street 
+<p>H a Brit's buildings, Hoxton 
+<p>D c Broad court, Drury lane 
+<p>H c Broad place, Bevis marks 
+<p>H c Broad street buildings, Broad street 
+<p>H c Broad street (new) Bank 
+<p>H c Broad street (old) Bank 
+<p>C d Broad street, Golden square 
+<p>H e Broad street, Horsleydown lane 
+<p>E g Broad street, Lambeth butts 
+<p>K d Broad street, Old gravel lane 
+<p>L d Broad street, Ratcliff 
+<p>D c Broad street, St. Giles' 
+<p>F e Broadwall, New cut 
+<p>H e Broadway, Bermondsey 
+<p>F a Broadway, Islington 
+<p>D f Broadway, Westminster 
+<p>G d Broken wharf, Upper Thames street 
+<p>O b Bromley bridge, Lea river 
+<p>O c Bromley hall, Brorley 
+<p>O c Bromley hall field, Bromley 
+<p>O b Bromley, near Bow 
+<p>N c Bromley, New town 
+<p>A f Brompton row, Knightsbridge 
+<p>G g Bronti place, Walworth road 
+<p>B d Brook street(upper) Grosvenor square 
+<p>E c Brook street, Holborn 
+<p>B d Brook street, New Bond street 
+<p>C b Brook street, New road 
+<p>L d Brook street, Shadwell 
+<p>F f Brook street, Walcot place 
+<p>C b Brook-street (little) Osnaburg street 
+<p>C d Brook street (little) New Bond street 
+<p>B d Brooks' mews, Davies street 
+<p>A c Brown street, Bryanstone square 
+<p>B d Brown street, Grosvenor square 
+<p>I c Brown's lane, Spitalfields 
+<p>I e Brown's quay, Wapping 
+<p>E b Brownlow mews, Guildiord street 
+<p>D c Brownlow street, Drury lane 
+<p>E c Brownlow street, Holborn 
+<p>H a Brudenell place, New North road 
+<p>H b Btunswick place, Charles square 
+<p>B b Brunswick place, New road 
+<p>C f Brunswick row, Greycoat place 
+<p>A f Botanic gardens, Sloane street 
+<p>H d Botolph lane, Lower Thames street 
+<p>F d Bouverie street, Fleet street 
+<p>N a Bow 
+<p>O a Bow bridge 
+<p>M c Bow common, Stepney 
+<p>M b Bow common lane, Stepney 
+<p>H b Bow green row, Hoxton square 
+<p>O c Bow lane, Bromley 
+<p>G d Bow lane, Cheapside 
+<p>O d Bow lane, East India dock road 
+<p>N b Bow road, Bow 
+<p>D d Bow street, Covent garden 
+<p>D f Bowling street, Westminster 
+<p>F b Bowling green lane, Coppice rw, 
+<p>G b Brackley street, Golden lane 
+<p>F e Brad place, Brad street 
+<p>F e Brad street. New cut 
+<p>H f Brandon street, Bermondsey new road 
+<p>G g Brandon street, Walworth new town 
+<p>G f Brandon's row, Newington road 
+<p>G d Bread street, Cheapside 
+<p>G d Bread street hill, Upper Thames street 
+<p>I d Breeze place, Ratcliff highway 
+<p>C f Brewer street, Chelsea road 
+<p>C d Brewer street, Golden square 
+<p>F a Brewer street, Goswell street road 
+<p>D a Brewer street, St. Pancras 
+<p>F a Brewer street (north) Goswell street road 
+<p>M c Brewer's alms houses, Stepney 
+<p>C f Brewer's green, Palmer's village 
+<p>K e Brewhouse lane, Wapping 
+<p>I b Brick lane, Spitalfields 
+<p>G b Brick lane, St. Lukes 
+<p>B e Brick street, Piccadilly 
+<p>H f Bricklayer's arms, Kent road 
+<p>F d Bridewell, Bridge street, Blackfriars 
+<p>C f Bridewell (new) Westminster 
+<p>F f Bridge house place,Newington road 
+<p>M g Bridge place, Deptford lower road 
+<p>E e Bridge road, Westminster bridge 
+<p>B g Bridge row, Chelsea bridge 
+<p>F d Bridge street, Blackfriars 
+<p>F d Bridge street (little) Blackfriars 
+<p>I f Bridge street, Bermondsey 
+<p>D g Bridge street, Vauxhall 
+<p>D e Bridge street, Westminster bridge 
+<p>G e Bridge street, Southwark bridge 
+<p>H e Bridge yard, Tooley street 
+<p>G c Bridgewater square, Barbican 
+<p>C a Bridgewater street, Clarendon street 
+<p>C d Bridle lane, Golden square 
+<p>H a Bridport place, Hoxton 
+<p>D b Brunswick square, Foundling hospital 
+<p>O d Brunswick street, Blackwall 
+<p>I d Brunswick street, Commercial road 
+<p>I a Brunswick street, Hackney road 
+<p>F e Brunswick street, Stamford street 
+<p>C d Brulon mews, Berkeley square 
+<p>B d Bruton place, Berkeley square 
+<p>B d Bruton street, Berkeley square 
+<p>A c Bryanstone square 
+<p>A c Bryanstone street, Portman square 
+<p>E d Brydges street, Covent garden 
+<p>C b Buckingham place, Fitzroy square 
+<p>C f Buckingham row, James street 
+<p>C b Buckingham street, Fitzroy square 
+<p>D d Buckingham street, Strand 
+<p>G d Bucklersbury, Cheapside 
+<p>D c Buckridge street, St. Giles' 
+<p>K c Buck's row, Whitechapel road 
+<p>G d Budge row, Watling street 
+<p>P e Bugsby's Marshes 
+<p>L b Bullard row, Globe town 
+<p>G c Bull & Mouth street, St. Martin's le grand 
+<p>L e Bull's head dock, Rotherithe 
+<p>L c Bull lane, Stepney 
+<p>F d Bull stairs, Southwark 
+<p>G b Bull yard, Golden lane 
+<p>L a Bullyhay row, Globe town 
+<p>B c Bulstrode street, Manchester square 
+<p>G b Bunhill row, Old street 
+<p>I e Bur street, Lower E. Smithfield 
+<p>G g Burdett street, Walworth common 
+<p>E f Burdett street, Westminster road 
+<p>E d Burleigh street, Strand 
+<p>C d Burlington Arcade, Piccadilly 
+<p>C d Burlington gardens, Old Bond street 
+<p>C d Burlington house, Piccadilly 
+<p>H g Burlington place, Kent road 
+<p>C d Burlington street, (new) Regent street 
+<p>C d Burlington street (old) Old Bond street 
+<p>M c Burn street, Stepney 
+<p>D b Burton crescent, Tavistock square 
+<p>D b Burton street, Burton crescent 
+<p>D c Bury street, Bloomsbury square 
+<p>C d Bury street, St. James' 
+<p>H c Bury street, St. Mary Axe 
+<p>G d Bush lane, Cannon street 
+<p>F c Butcher hall lane, Newgate street 
+<p>L d Butcher row, White Horse street 
+<p>H e Butler's buildings, Russell street 
+<p>H e Butler's place, Russell street 
+<p>L b Butler's street, Green street 
+<p>H a Buttisland street, Haberdasher's walk 
+<p>E f Buxton place, Lambeth chapel 
+<p>F a Buxton street, St. John street road 
+<p>D b Byng street, Gordon square 
+<p>I d Cable street, East Smithfield 
+<p>A f Cadogan place, Cadogan square 
+<p>A f Cadogan place (little) Cadogan square 
+<p>A f Cadogan place, Cadogan square 
+<p>A f Cadogan place (upper) Sloane street 
+<p>A f Cadogan square, Sloane street 
+<p>A f Cadogan street, Sloane street 
+<p>A f Cadogan terrace, Sloane street 
+<p>I d Cain's placeChurch lane, Whitechapel 
+<p>A f Calcutta house, Cadogan place 
+<p>O c Calico houses, Bromley 
+<p>I f Calico place, Grange road 
+<p>E b Calthorpe street, Gray's inn lane 
+<p>K a Cambridge circus, Hackney road 
+<p>K a Cambridge heath, Hackney 
+<p>K a Cambridge place, Hackney 
+<p>I a Cambridge place, Hackney road 
+<p>B b Cambridge place, Regent's park ,I a Cambridge street, Hackney road 
+<p>I a Cambridge street, (great) Hackney road 
+<p>B b Cambridge terrace, Regent's park 
+<p>K b Camden street, Bethnal green road 
+<p>F a Camden street, Broadway 
+<p>G g Camden street, Walworth 
+<p>K b Camden's gardens,Bethnal greenroad 
+<p>L b Camel row, Mile end 
+<p>H c Camomile street, Bishopsgate street 
+<p>G a Canal road, City road 
+<p>D e Cannon row, Westminster 
+<p>D e Cannon street, Bridge street 
+<p>K d Cannon street, Ratcliff highway 
+<p>G d Cannon street, Walbrook 
+<p>K c Cannon street road, Whitechapel 
+<p>E f Canterbury place, Lambeth 
+<p>E f Canterburyplace (little)Lambeth 
+<p>F g Canterbury place, Walworth 
+<p>E f Canterbury row, Lambeth 
+<p>H e Canterbury square, Tooley street 
+<p>F e Canterbury street, New cut 
+<p>G f Canterbury terrace, John street 
+<p>N d Canton place, Limehouse 
+<p>L f Cape of Good Hope, Deptford lower road 
+<p>C b Carburton street, Fitzroy square 
+<p>G c Carey lane, Cheapside 
+<p>E c Carey street, Lincoln's innfields 
+<p>E e Carey street, Lalnbeth marsh 
+<p>F g Carlile chapel, Kennington lane 
+<p>E f Carlisle lane, Mount Street 
+<p>E f Carlisle place, Canterbury row 
+<p>I b Carlisle street, Bethnal green 
+<p>D c Carlisle street, Soho-square 
+<p>D e Carlton house street, Pall mall 
+<p>C d Carlton street, Regent street 
+<p>D e Carlton terrace, Pall mall 
+<p>C d Carnaby market, Golden square 
+<p>C d Carnaby street, Golden square 
+<p>D c Caroline mews, Caroline street 
+<p>E b Caroline place, Mecklenburgh square 
+<p>D c Caroline street, Bedford square 
+<p>L d Caroline street, Commercial road 
+<p>E g Caroline street, Elizabeth place 
+<p>I a Caroline street, Hackney road 
+<p>B g Caroline street, Westbourn street 
+<p>B e Carrington place, Park lane 
+<p>F d Carter lane (great) Doctors' common 
+<p>G d Carter lane ( little) Doctors' common 
+<p>I b Carter street, Brick lane 
+<p>G g Carter street, Walworth road 
+<p>D e Carter street, Tothill street 
+<p>G c Carthusian street, Aldersgate street 
+<p>I d Cartwright street, E. Smithfield 
+<p>G c Cary lane, New Post office 
+<p>D f Cary street, Regent street 
+<p>C f Castle lane, James street 
+<p>I c Castle place, Whitechapel 
+<p>G c Castle street, Aldersgate street 
+<p>G e Castle street, Bridge street 
+<p>C c Castle street (great) Cavendish square 
+<p>H b Castle street, City Road 
+<p>E c Castle street, Holborn 
+<p>H c Castle street, Houndsditch 
+<p>G f Castle street, Kent street 
+<p>D d Castle street, Leicester square 
+<p>D d Castle street, Long acre 
+<p>C c Castle street (little) Oxford market 
+<p>F b Castle street, Saffron hill 
+<p>H b Castle street, Shoreditch 
+<p>F d Castle street, Upper Thames street 
+<p>I c Castle street (old) Whitechapel 
+<p>G c Cateaton street, Cheapside 
+<p>H b Catherine street, Charles square 
+<p>K c Catherine street, Commercial road 
+<p>O d Catherine street, East India dock road 
+<p>C f Catherine street, James street 
+<p>M c Catherine street, Stepney 
+<p>E d Catherine street, Strand 
+<p>E g Catherine street, Vauxhall walk 
+<p>H c Catholic chapel, Finsbury circus 
+<p>O d Causeway, High street, Poplar 
+<p>D g Causton street, Vauxhall bridge road 
+<p>B c Cavendish square, Oxford street 
+<p>B c Cavendish street, Cavendish square 
+<p>G a Cavendish street (new) New North road 
+<p>B c Cavendish street (new) Portland place 
+<p>E d Cecil street, Strand 
+<p>F a Chadwell street, Middleton square 
+<p>F a Chadwell street, upper, Middleton square 
+<p>N e Chalk stone stairs, Isle of dogs 
+<p>D a Chalton street, Somers' town 
+<p>I d Chamber street, Goodman's fields 
+<p>L c Chambers' street, Stepney 
+<p>E c Chancery lane, Fleet street 
+<p>B d Chandler street,Grosvenorsquare 
+<p>C c Chandos street, Cavendish square 
+<p>D d Chandos street, St. Martin's lane 
+<p>N g Chapel house, Isle of dogs 
+<p>D a Chapel path, Somers' town 
+<p>P a Chapel place,Stratford 
+<p>B c Chapel place, Oxford street 
+<p>K d Chapel street, Cannon street road 
+<p>G c Chapel street, Cripplegate 
+<p>H b Chapel street, Curtain road 
+<p>B e Chapel street, Grosvenor place 
+<p>E b Chapel street, Lamb's conduit street 
+<p>I d Chapel street, Minories 
+<p>C c Chapel street (great) Oxford street 
+<p>C c Chapel street (little) Oxford street 
+<p>B d Chapel street, Park lane 
+<p>F a Chapel street, Pentonville 
+<p>C f Chapel street, York street 
+<p>F a Chapman street, Pentonville 
+<p>K d Chapman street, Cannon street road 
+<p>K d Chapmanst (lower) Cannon street road 
+<p>C g Chapter street, Vauxhall bridge road 
+<p>D d Charing cross 
+<p>D d Charing cross hospital, King William street 
+<p>H b Charles square, Old street road 
+<p>H b Charles street, Charles square 
+<p>H e Charles street, Bermondsey street 
+<p>K b Charles street, Bethnal green road 
+<p>I c Charles street, Bethnal green 
+<p>K d Charles street, Back lane 
+<p>B d Charles street, Berkeley square 
+<p>C f Charles street, Chelsea road 
+<p>E d Charles street, Covent garden 
+<p>D a Charles street, Clarendon square 
+<p>D c Charles street, Long acre 
+<p>L b Charles street, Globe lane 
+<p>F a Charles street, Goswell street road 
+<p>F e Charles street, Great Surrey street 
+<p>B d Charles street, Grosvenor square 
+<p>I a Charles street, Hackney road 
+<p>C b Charles street, Hampstead road 
+<p>C b Charles street (east), Hampstead road 
+<p>F c Charles street, Hatton garden 
+<p>H b Charles street, Leonard street 
+<p>A e Charles streeet, Lowndes square 
+<p>B c Charles street, Manchester square 
+<p>C c Charles street, Middlesex hospital 
+<p>G f Charles street, New Kent road 
+<p>F b Charles street, Northampton square 
+<p>A f Charles street, Sloane street 
+<p>D c Charles street, Soho square 
+<p>L c Charles street, Stepney 
+<p>C d Charles street, St. James's square 
+<p>G g Charles street, Walworth new town 
+<p>D e Charles street, Westminster 
+<p>F f Charles street, Westminster road 
+<p>K a Charles street, Old Bethnal green road 
+<p>A c Charles street, Gloucester place 
+<p>L f Charlotte's row, Rotherhithe 
+<p>I f Charlotte place, Grange road 
+<p>A c Charlotte row, New road 
+<p>D c Charloite street, Bedford square 
+<p>I b Charlotte street,Bethnal green road 
+<p>C c Charlotte street, (upper)Fitzroy square 
+<p>F e Charlotte street, Great Surrey street 
+<p>E a Charlotte street, Hamilton row 
+<p>F e Charlotte street, New cut 
+<p>A f Charlotte street, New road Chelsea 
+<p>F a Charlotte street, New river head 
+<p>H b Charlotte street, Old street road 
+<p>C b Charlotte street, Portland place 
+<p>E a Charlotte street, Pentonville 
+<p>C c Charlotte street, Rathbone place 
+<p>K c Charlotte street, Whitechapel road 
+<p>F a Charlton place, Broadway 
+<p>C b Charlton street (upper) Fitzroy square 
+<p>H a Chart street (great) Charles square 
+<p>F b Charter house, Goswell street 
+<p>F b Charter house gardens 
+<p>F c Charterhouse lane, St. John street 
+<p>F c Charterhouse square, Aldersgate street 
+<p>F c Charterhouse street, Long lane 
+<p>F d Chatham place, Blackfriars' bridge 
+<p>G f Chatham place, Lock's fields 
+<p>G c Cheapside 
+<p>A g Chelsea 
+<p>B g Chelsea bridge, Grosvenor canal 
+<p>A g Chelsea hospital, Chelsea 
+<p>A g Chelsea Road 
+<p>B g Chelsea water works, Chelsea 
+<p>D c Chenies street, Tottenham court road 
+<p>C b Chenies mews (upper) Francis street 
+<p>G b Chequer alley, Bunhill row 
+<p>G d Chequer's yard, Dowgate hill 
+<p>K e Cherry garden street, Rotherhithe 
+<p>K e Cherry garden stairs, Rotherhithl 
+<p>G b Cherry tree alley, Bunhill row 
+<p>K b Cherrington row, Bethnal green road 
+<p>B f Chesham place, Belgrave square 
+<p>B f Chesham street, Eaton place wes 
+<p>K b Cheshire street, Bethnal green 
+<p>K b Chester place, Bethnal green 
+<p>H g Chester place, Kent road 
+<p>E g Chester place, Kennington cross 
+<p>B f Chester square, Grosvenor road 
+<p>B a Chester terrace, Regent's park 
+<p>B e Chester street, Grosvenor place 
+<p>F g Chester street, Kennington lane 
+<p>B d Chesterfield house, S. Audley street 
+<p>B d Chesterfield sreet, Curzon street 
+<p>B c Chesterfield sbeet,Marylebone street 
+<p>D a Chesterfield street, King's cross 
+<p>B c Chesterfield street (little) Maryle-bone street 
+<p>D a Chichester place, Battle bridge 
+<p>K d Chigwell street, Ratcliff highway 
+<p>I c Chicksand street, Biick lane 
+<p>E f China buildings, Lambeth walk 
+<p>E f China row, Lambeth walk 
+<p>E f China terrace, Lambeth walk 
+<p>L f China hall, Deptford lower road 
+<p>L f China hall place, Deptford lwr. road 
+<p>G c Chiswell street, Finsbury square 
+<p>F e Christ church, Great surrey street 
+<p>I c Christ church, Spitalfields 
+<p>F e Christ churchworkhouse,New cut 
+<p>F c Christ's hospital, Newgate street 
+<p>I d Christian street, Cable street 
+<p>H b Christopher street, Finsbury square 
+<p>F b Christopher street, Hatton wall 
+<p>I d Church lane, Cable street 
+<p>M d Church lane, Limehouse 
+<p>I b Church lane, Shoreditch 
+<p>I c Church lane, Whitechapel 
+<p>M c Church place, Limehouse 
+<p>K d Church road, Commercial road 
+<p>I b Church row, Bethnal green road 
+<p>I b Church row, Church lane 
+<p>F g Church row, High street Newington 
+<p>H e Church row, St. John's church 
+<p>D a Church row, St. Pancras 
+<p>L c Church row, Stepney 
+<p>K e Church stairs, Botherhithe 
+<p>H e Church street, Artillery lane 
+<p>G e Church street, Blackman street 
+<p>I c Church street, Brick lane 
+<p>F e Church street, Great Surrey street 
+<p>E f Church street, Lambeth 
+<p>K e Church street, London dock 
+<p>D f Church street, Millbank street 
+<p>I d Church street, Minories 
+<p>I f Church street, New Bermondsey 
+<p>K e Church street, Rotherhithe 
+<p>D d Church street, Soho square 
+<p>I c Church street, Spitalfields 
+<p>D c Church street, St. Giles's 
+<p>G e Church street, Wellington street 
+<p>D a Church terrace, St. Pancras 
+<p>E e Church terrace, Waterloo road 
+<p>F f Church yard row, High street 
+<p>K e Cinnamon street, Old gravel lane 
+<p>K a Circus street, Minerva street 
+<p>A c Circus street, New road 
+<p>C b Cirencesterplace, GreatTitchfield street 
+<p>G a City basin, City road 
+<p>F a City gardens, City road 
+<p>G a City gardens row, City road 
+<p>G b City lying-inn hospital, City road 
+<p>F a City road 
+<p>F a City road lock, Regent's canal 
+<p>G b City terrace, City road 
+<p>G g Claddon street, Portland street 
+<p>E c Clare market, Drury lane 
+<p>E c Clare street, Clare market 
+<p>K a Clare street, Hackney road 
+<p>D a Clare street, Judd street, 
+<p>D a Clarendon square, Somers' town 
+<p>C a Clarendon street (little) Somers' twn 
+<p>C a Clarendon street, Clarendon square 
+<p>K f Claremont place, Deptford road 
+<p>I g Claremont place, Kent road 
+<p>F a Claremont place, Pentonville 
+<p>F a Claremont square, Pentonville 
+<p>F a Claremont terrace, Claremont square 
+<p>B d Clarges street, Piccadilly 
+<p>K c Clark street, Commercial road 
+<p>L c Clark street, Stepney 
+<p>E b Clarke's place, Cold bath fields 
+<p>K e Clark's orchard, Rotherhithe 
+<p>C b Clarence gardens, Regent's park 
+<p>B g Clarence house, Chelsea hospital 
+<p>F f Clarence place, Borough road 
+<p>E a Clarence place, Pentonville 
+<p>G f Clarence place, St. Andrew's road 
+<p>D a Clarence place, St. Pancras 
+<p>C a Clarence street (little) Seymour street 
+<p>L e Clarence street (upper) King's road 
+<p>B a Clarence street, Regent's park 
+<p>L e Clarence street, Rotherithe 
+<p>A b Clarence terrace, Regent's park 
+<p>A c Clay street, Crawford street 
+<p>F g Clayton place, Kennington 
+<p>F g Cleaver street, Prince's square 
+<p>H d Clement's lane, Lombard street 
+<p>E d Clement's inn, St. Clement's 
+<p>E c Clement's lane, Strand 
+<p>F b Clerkenwell close, Clerkenwell green 
+<p>F b Clerkenwell green 
+<p>F b Clerkenwell new prison 
+<p>C b Cleveland street, Fitzroy square 
+<p>G g Cleveland street, Walworth new town 
+<p>C e Cleveland row, St. James's 
+<p>C d Clifford street, New Bond street 
+<p>H g Cliffordstreet,Walworth common 
+<p>E c Clifford's inn, Fleet street 
+<p>H a Clift street, Bridport place 
+<p>K a Clifton place, Cambridge heath 
+<p>H b Clifton street, Finsbury square 
+<p>G d Clink street, Southwark 
+<p>C b Clipstone street, Fitzroy square 
+<p>G d Cloak lane, Queen street, Cheapside 
+<p>F c Cloth fair, West Smithfield 
+<p>I b Club street, Church lane 
+<p>H d Coal exchange, Lower Thames street 
+<p>D c Coal yard, Drury lane 
+<p>E b Cobham row, Cold bath square 
+<p>M b Coborn row, Mile end road 
+<p>M b Coborn street, Mile end road 
+<p>N b Coborn terrace, Bow road 
+<p>H g Cobourg road, Kent road 
+<p>C f Cobourg row, Vincent square 
+<p>K c Cobourg street, Commercial road 
+<p>C b Cobourg street, Euston square 
+<p>F e Cobourg street, Waterloo road 
+<p>F b Cobourgstreet,Clerkenwell prison 
+<p>L d Cock hill, Shadwell 
+<p>F c Cock lane, Giltspur street 
+<p>H b Cock lane, Shoreditch 
+<p>D d Cockspur street, Charing cross 
+<p>H a Coffee house walk, Hoxton road 
+<p>I c Colchester street, Whitechapel 
+<p>E b Cold bath square, Coppice row 
+<p>O e Cold harbour, Blackwall 
+<p>I a Cole harbour street, Hackney road 
+<p>G d Cole harbour lane,UpperThames street 
+<p>G d Cole harbour stairs, Upper Thames street 
+<p>L d Cole stairs, Upper Shadwell 
+<p>G f Coles street, Trinity street 
+<p>G f Coles place, Trinity street 
+<p>F a Colebrook row, New river 
+<p>G b Coleman street, Bunhill row 
+<p>E e Coleman street, Lambeth marsh 
+<p>G c Coleman street, Lothbury 
+<p>K e Coleman street, Wapping 
+<p>B f Coleshill street, Grosvenor road 
+<p>D f College gardens, College street 
+<p>G d College hill, Upper Thames street 
+<p>G d College street, Upper Thames street 
+<p>D d College of Physicians, Pall mall east 
+<p>E c College of Surgeons, Lincoln's inn fields 
+<p>D f College street, Abingdon street 
+<p>A g College street, King's road 
+<p>E e College street, Narrow wall 
+<p>H e College street, Tooley street 
+<p>E a Collier street, Pentonville 
+<p>G a Collingwood street, City road 
+<p>F e Collingwood street, Great Surry street 
+<p>K b Collingwood street, North street 
+<p>D e Collonial office, Downing street 
+<p>D b Colonade, Russel square 
+<p>B b Colosseum, Regent's park 
+<p>K c Commerce place,Commercial road 
+<p>M e Commercial docks, Rotherithe 
+<p>L c Commercial road 
+<p>B g Commercial road, Chelsea 
+<p>E d Commercial road, Waterloo road 
+<p>H g Commercial row, Kent road 
+<p>F b Compton street, Goswell street 
+<p>D b Compton street, Hunter street 
+<p>D c Compton street (new) Broad street Bloomsbury 
+<p>D c Compton street (old) Broad street Bloomsbury 
+<p>D d Compton streel, Wardour street 
+<p>C d Conduit street, Hanover square 
+<p>K b Conduit street (south) Bethnal green road 
+<p>D a Congreve street, Maiden lane 
+<p>A d Connaught place, Edgware road 
+<p>A c Connaught square, Edgware road 
+<p>E a Constitution row, Gray's-inn lane 
+<p>B e Constitution hill, Green park 
+<p>D a Cooke's row, St. Pancras 
+<p>H d Cooper's row, Trinity square 
+<p>M d Copenhagen place, Salmon lane 
+<p>F b Coppice Row, Clerkenwell green 
+<p>H c Copthall court, Throgmorton street 
+<p>H d Cornhill 
+<p>D b Coram street (great) Brunswick square 
+<p>D b Coram street (little) Great Coram street 
+<p>L g Corbet's lane, Deptford 
+<p>C d Cork street, Burlington gardens 
+<p>H d Corn exchange, Mark lane 
+<p>H g Cornbury place, Kent road 
+<p>E e Cornwall place, Waterloo road 
+<p>E e Cornwall road, Waterloo road 
+<p>K d Cornwall street, Back<num value="411">411</num>e 
+<p>K d Cornwall street(lower)Back lane 
+<p>A b Cornwall terrace, Regent's park 
+<p>F b Corporation row, St. John street 
+<p>M b Cottage grove, Mile end road 
+<p>O d Cottage row, East India dock road 
+<p>O d Cottage street, East India dock road 
+<p>D f Cottongarden, Houseof Commons 
+<p>O d Cotton street, Poplar 
+<p>I c Coulston street, Whitechapel 
+<p>G e Counter lane, Stoney lane 
+<p>G f County goal, Horsemonger lane 
+<p>G f County terrace, New Kent road 
+<p>G f County terrace street, Northwest Kent road 
+<p>K c Court street, Whitechapel road 
+<p>G d Cousin lane, Upper Thames street 
+<p>D d Covent garden market 
+<p>D d Covent garden theatre, Bow street 
+<p>C c Covent garden workhouse, Cleveland street 
+<p>H f Coventry place, Willow walk 
+<p>K b Coventry street, Bethnal grn. road 
+<p>D d Coventry street, Haymarket 
+<p>F c Cow cross street, West smithfield 
+<p>M e Cow lane, Rotherhithe 
+<p>L c Cow lane, Stepney 
+<p>D f Cowley street, College street 
+<p>H c Cox's square, Petticoat lane 
+<p>I a Crab tree row, Hackney road 
+<p>I b Crab tree walk, Bird cage walk 
+<p>D d Cranbournstreet, Leicestersquare 
+<p>K e Crane stairs (new) Wapping 
+<p>I b Craven street, Charles square 
+<p>D d Craven street, Strand 
+<p>A c Crawford street, Baker street 
+<p>F d Creed lane, Ludgate street 
+<p>C a Crescent pl, Mornington crescent 
+<p>C b Crescent street, Euston square 
+<p>G c Crescent, Jewin street, Aldersgate street 
+<p>I a Crescent place, Hackney road 
+<p>H f Crimscott street, Grange road 
+<p>O d Crisp street, East India dock road 
+<p>H c Crispin street, Spitalfields 
+<p>H a Critchell place, New north road 
+<p>D b Cromer street, Judd street 
+<p>G e Crosby row, Snow's fields 
+<p>G g Crosby row, Walworth road 
+<p>H c Crosby square, Bishopsgate street 
+<p>E f Crosier street, Lambeth marsh 
+<p>D d Cross lane, Long acre 
+<p>C g Cross lane, Millbank 
+<p>I e Cross lane, Shad Thames 
+<p>L c Cross row, Stepney green 
+<p>K d Cross street, Back lane 
+<p>G a Cross street, Canal road 
+<p>N d Cross street, Commercial road 
+<p>K b Cross street, Dog row 
+<p>H c Cross street, Finsbury place 
+<p>C d Cross street, Golden square 
+<p>F e Cross street, Great Surrey street 
+<p>L a Cross street, Green street 
+<p>F c Cross street, Hatton garden 
+<p>H b Cross street, Leonard street 
+<p>F e Cross street, New cut 
+<p>A e Cross street, North street 
+<p>G a Cross street, Provost street, Hoxton 
+<p>K e Cross street, Rotherhithe wall 
+<p>F f Cross street, Walworth road 
+<p>I a Cross street, Wellington row 
+<p>L b Crown row, Mile end road 
+<p>G f Crown row, Walworth road 
+<p>H c Crown street, Finsbury square 
+<p>D c Crown street, Soho square 
+<p>D e Crown street, Westminster 
+<p>I f Crown place, Spa road 
+<p>A c Croydon street, Crawford stret 
+<p>H e Crucifix lane, Bermondsey street H.d Crutched friars, Mark lane 
+<p>M e Cuckold's point, Rotherhithe 
+<p>H d Cullum street, Fenchurch street 
+<p>A d Cumberland gate, Hyde park 
+<p>C a Cumberland market, Regent's park 
+<p>A c Cumberland place, Bryanstone square 
+<p>H g Cumberland place, Kent road 
+<p>A g Cumberland place, King's road 
+<p>B a Cumberland place, Regent's park 
+<p>H b Cumberland street, Curtain road 
+<p>I a Cumberland street, Hackney road 
+<p>C c Cumberland street, Middlesex hospital 
+<p>A c Cumberland street, Oxford street 
+<p>C a Cumberland street, Regent's park 
+<p>E a Cumberland terrace, Lloyd's square 
+<p>B a Cumberland terrace, Regent's park 
+<p>E a Cumming place, Pentonville 
+<p>E a Cumming street, Pentonville 
+<p>E d Cuper's bridge, Waterloo bridge 
+<p>E c Cursitor street, Chancery lane 
+<p>H b Curtain road, Shoreditch 
+<p>B e Curzon street, Park lane 
+<p>H d Custom house, Lower Thames street 
+<p>H d Custom house stairs, lower Thames street 
+<p>H c Cutler street, Houndsditch 
+<p>D f Dacre street, Broadway 
+<p>F a Dalby's terrace, City road 
+<p>M d Dalgleish street, Commercial road 
+<p>I d Danish church, Wellclose square 
+<p>K b Darling's buildings, Dog row 
+<p>D g Darlington place, Vauxhall 
+<p>D e Dartmouth row, Westminster 
+<p>D e Dartmouth street, Westminster 
+<p>A b David street, New road 
+<p>B d Davies street, Berkeley square 
+<p>I c Deal street, Church street 
+<p>K c Dean street, Commercial road 
+<p>F c Dean street, Fetter lane 
+<p>H c Dean street, Finsbury square 
+<p>F e Dean street, Friar street 
+<p>E c Dean street, Holborn 
+<p>L d Dean street, Lower Shadwell 
+<p>D f Dean street, Orchard street 
+<p>C c Dean street, Oxford street 
+<p>B d Dean street, South Audley street 
+<p>I c Dean street, Brick lane 
+<p>H e Dean street, Tooley street 
+<p>H a Dean street, New north road 
+<p>G g Dean's buildings, North street 
+<p>D f Dean's yard, Great College street 
+<p>L c Dempsey street, Stepney 
+<p>K d Denmark street, Ratcliffe highway 
+<p>D c Denmark street, St. Giles's 
+<p>D a lenton street, St. Pancras road 
+<p>M f Deptford road 
+<p>M g Deptford lower road 
+<p>N f Deptford and Greenwich road 
+<p>E a Derby street, Gray's inn lane 
+<p>G f Deverell street, New Kent road 
+<p>L d Devonport street, Back lane 
+<p>C d Devonshire house, Piccadilly 
+<p>B c Devonshire mews, Devonshire street 
+<p>N c Devonshire place, Bow common 
+<p>B b Devonshire place, Devonshire street 
+<p>E g Devonshire place, Kennington lane 
+<p>B b Devonshire place, New road 
+<p>M c Devonshire place, Stepney 
+<p>H c Devonshiresquare,Bishopsgatest 
+<p>H c Devonshire street, Bishopsgate street 
+<p>L b Devonshire street (upper) Globe lane 
+<p>E g Devonshire street, Kennington lane 
+<p>G f Devonshire street, Newington road 
+<p>G a Devonshire street, New north road 
+<p>E c Devonshire street, Queen square 
+<p>B b Devonshire street, Portland place 
+<p>C b Diana place, New road-- 
+<p>L b Digby street, Globe street 
+<p>B b Diorama, Park square Regent's part 
+<p>G d Distaff lane (great) Friday stree 
+<p>G d Distaff lane (little) Friday stree 
+<p>E a Dobney place, Pentonville 
+<p>I e Dock head, Horselydown 
+<p>I e Dock side, Nightingale lane 
+<p>K c Dock street, Commercial road 
+<p>I d Dock street, East smithfield 
+<p>F d Doctors' commons, Great Knighi rider street 
+<p>F g Doddington grove, Kennington 
+<p>K b Dodd's place, Dog row 
+<p>K b Dog row, Bethnal green 
+<p>H e Dog and Bear yard, Tooley streel 
+<p>M f Dog and duck stairs, Deptford 
+<p>I g Doncaster place, Kent road 
+<p>K c Doran's row, Commercial road 
+<p>B d Dorchester house, S. Audley street 
+<p>A b Dorchester place, Milton street 
+<p>G a Dorchester street, New North road 
+<p>E g Doris street, Walcot place 
+<p>E b Dorrington street, Cold bath fields 
+<p>E c Dorrington street, Leather lane 
+<p>H a Dorset crescent, New north road 
+<p>A b Dorset place, Dorset square 
+<p>D d Dorset place, Pall mall, east 
+<p>A b Dorset square, New road 
+<p>A c Dorset street (upper) Bryanstone square 
+<p>L d Dorset street, Commercial road 
+<p>F d Dorset street, Fleet street 
+<p>A c Dorset street, Montague square 
+<p>I c Dorset street, Spitalfields 
+<p>E b Doughty mews, Guildford street 
+<p>E g Doughty street, Lambeth walk 
+<p>E b Doughtyst (up) Mecklenburgh square 
+<p>E b Doughty street(lwr)Mecklenburgh square 
+<p>C g Douglas street, Vauxhall bridge road 
+<p>I a Dove row, Margaret street 
+<p>N d Dove street, Poplar 
+<p>G f Dover place, New Kent road 
+<p>C d Dover street, Piccadilly 
+<p>G f Dover street (great) Borough 
+<p>G d Dowgate hill, Upper Thames street 
+<p>G d Dowgate wharf, UpperThames street 
+<p>B e Down street, Piccadilly 
+<p>D e Downing street, Westminster 
+<p>A f Doyley street, Sloane street 
+<p>E c Drake street, Red Lion square 
+<p>N b Draper's almshouses, Bow road 
+<p>H a Draper's almshouses, Kingsland road 
+<p>K c Draper's almshouses, Whitechapel road 
+<p>H c Draper's gardens, London wall 
+<p>D b Draper's place, Burton crescent 
+<p>G b Draper's place, Old street 
+<p>A f Draycotplace,New road, Chelsea 
+<p>D a Drummond crescent, Somers' town 
+<p>D a Drummond street (east) Somers' town 
+<p>C b Drummond street (west)George street 
+<p>D a Drummond street (little) Drummond crescent 
+<p>P g Drunken dock, Isle of dogs 
+<p>E d Drury court, Drury lane 
+<p>D c Drury lane, Long acre 
+<p>E d Drury lane theatre, Brydges street 
+<p>E d Duchy wharf, Waterloo bridge 
+<p>I c Duck street, Princes street 
+<p>D f Duck lane, Great Peter street 
+<p>M a Ducket's, Sir George, canal 
+<p>L b Ducket street, Mile end road 
+<p>K c Ducking pond row, WhitechapeI road 
+<p>G d Ducksfoot lane, Upper Thames street 
+<p>D d Duke street, Adelphi 
+<p>K d Duke street, Back lane 
+<p>D c Duke street, Bloomsbury 
+<p>I b Duke street, Church lane 
+<p>F d Duke street, Stamford street 
+<p>C a Duke street, Euston grove 
+<p>B d Duke street, Grosvenor square 
+<p>E c Duke street, Lincoln's inn fields 
+<p>B c Duke street, Manchester square 
+<p>G e Duke street, Mint street, Borough 
+<p>C c Duke street, Portland place 
+<p>C d Duke street, St. James's 
+<p>H c Duke street, Spitalfields 
+<p>G e Duke street, Tooley street 
+<p>D e Duke street, Westminster 
+<p>F f Duke street, Westminster road 
+<p>F c Duke street, West Smithfield 
+<p>D b Duke's row, New road 
+<p>M d Duke shore, Limehouse dock 
+<p>F a Duncan place, City road 
+<p>I c Duncan street, Goodman's fields 
+<p>F a Duncan terrace, Duncan place 
+<p>D d Duncannon street, Charing cross 
+<p>A g Durham house, Durham place 
+<p>A g Durham place, Chelsea 
+<p>K a Durham place, Hackney road 
+<p>E f Durham place, Lambeth road 
+<p>K a Durham street, Hackney road 
+<p>E g Durham street, Kennington lane 
+<p>A c Durweston street, Baker street 
+<p>B c Dutchess street, Portland place 
+<p>B c Dutchess mews, Dutchess street 
+<p>D a Dutton street, Cromer street 
+<p>O b Dyer street, <num value="4">Four</num> mills street 
+<p>F e Dyer street Gravel lane 
+<p>C d Eagle street, Piccadilly 
+<p>E c Eagle street, Red Lion square 
+<p>G a Eagle Tavern, City road 
+<p>F d Earl street Bridge street Blackfriars 
+<p>H c Earl street, Finsbury square 
+<p>D f Earl street, Horseferry road 
+<p>D c Earl street (great) <num value="7">Seven</num> Dials 
+<p>D d Earl street (little) <num value="7">Seven</num> Dials 
+<p>H d Eastcheap, Gracechurch street 
+<p>H d Eastcheap (little) Gracechurch street 
+<p>M c Eastfield street, Stepney 
+<p>P d East India docks, Blackwall 
+<p>N d East India dock road 
+<p>O d East India dock tavern, East India dock 
+<p>H d East India house, Leadenhall street 
+<p>I e East lane, Rotherhithe wall 
+<p>H a East lane, Somerset place 
+<p>I e East lane stairs, Rotherhithe 
+<p>N a East London water works 
+<p>E g East place, East street 
+<p>G a East row, City road 
+<p>N d East row, Commercial road 
+<p>I d East Smithfield, St. Catherine's docks 
+<p>H c East street, Finsbury circus 
+<p>L a East street, Green street 
+<p>I a East street, Hackney road 
+<p>H a East street, Hoxton road 
+<p>B c East street, Baker street 
+<p>E b East street, Red lion square 
+<p>P a East street, Stratford 
+<p>E g East street, Walcot place 
+<p>G g East street, Walworth road 
+<p>F f East street, West square 
+<p>I g Eastman place, Kent road 
+<p>K c Eastmount terrace Whitechapel road 
+<p>E b Easton street, Wilmington square 
+<p>B f Eaton place, Eaton square 
+<p>B f Eaton place (west) Eaton square 
+<p>B f Eaton square, Grosvenor road 
+<p>B f Eaton street (lower) Chelsea road 
+<p>B f Eaton street (upper) Grosvenor place 
+<p>B f Eaton terrace, Grosvenor road 
+<p>F g Ebenezer place, Kennington lane 
+<p>B f Ebury chapel, Coleshill street 
+<p>B f Ebury place, Ebury street 
+<p>B g Ebury square, Chelsea 
+<p>B g Ebury street (lower) Chelsea 
+<p>B g Ebury street (upper) Chelsea 
+<p>L b Ely place, Holborn hill 
+<p>F c Ely place, Globe lane 
+<p>F f Ely place, St. George's road 
+<p>C f Emanuel Hospital, James street 
+<p>L b Emily street, Mile End 
+<p>D b Endsleigh street, Euston square 
+<p>M d Entrance of the Regent's canal Limehouse 
+<p>K c Epping row, Whitechapel road 
+<p>L b Ernest street, mile End road 
+<p>C a Ernest street, Munster place, Regent's park 
+<p>D f Esher street, Wilton street 
+<p>O d Essex street, Blackwall 
+<p>K c Essex street, Commercial road 
+<p>H a Essex street, Hoxton road 
+<p>L b Essex street, North street 
+<p>E d Essex street, Strand 
+<p>D a Essex street, Suffolk street 
+<p>I c Essex street, Whitechapel 
+<p>C b Euston crescent, Euston square 
+<p>C a Euston grove, Euston square 
+<p>C b Euston place, Euston square 
+<p>D b Euston square, New road 
+<p>C b Euston street, Euston square 
+<p>I d Everard street, Church lane 
+<p>D b Everett street, Russell square 
+<p>D a Eversham build. Clarendon square 
+<p>F e Ewer street, Gravel lane 
+<p>M b Ewing's buildings, Mile end road 
+<p>D e Exchequer, the, New palace yard 
+<p>H e Excise office, Broad street, Bank 
+<p>K e Execution dock, Wapping 
+<p>A f Exeter street, Sloane street 
+<p>E d Exeter street, Strand 
+<p>L c Exmouth street, Commercial road 
+<p>C b Exmouth street, George street 
+<p>F b Exmouth street, Spafields 
+<p>D f Eyne street, Regent's street 
+<p>E b Eyre street, Leather lane 
+<p>H e Fair street, Tooley street 
+<p>G c Falcon square, Aldersgate street 
+<p>G c Falcon street, Aldersgate street 
+<p>F d Falcon stairs, Bankside 
+<p>G b Fann street, Goswell street 
+<p>B d Farm street, Berkeley square 
+<p>B d Farm street mews, Berkeley square 
+<p>K d Farmer street, High street Shadwell 
+<p>F c Farringdon market, Farringdon street 
+<p>F c Farringdon street, Fleet street 
+<p>I b Farthing street, Phoenix street 
+<p>I c Fashion street, Brick lane 
+<p>E c Featherstone buildings, Holborn 
+<p>M d Featherstone buildings,Salmon Lane 
+<p>G b Featherstone street, City road 
+<p>K a Felix street, Hackney road 
+<p>E e Felix street Westminster bridge road 
+<p>G c Fell street, Wood street Cheapside 
+<p>H d Fenchurch street, Gracechurch street 
+<p>H f Fendall street, George street 
+<p>G d Fenning's wharf, London bridge 
+<p>K c Fenton street, Commercial road 
+<p>E f Ferry street, High street 
+<p>O g Ferry house, Isle of dogs 
+<p>F c Fetter lane, Fleet street 
+<p>D a Fever hospital, Battle bridge 
+<p>F c Field lane, Holborn hill 
+<p>F a Field place, St. John street road 
+<p>I c Fieldgate street, Whitechapel road 
+<p>E a Field street, Hamilton row 
+<p>C a Figg lane, Hampstead road 
+<p>K d Finch street, Spitalfields 
+<p>I c Finch lane, Cornhill 
+<p>H b Finsbury square 
+<p>G c Finsbury street, Finsbury square 
+<p>H c Finsbury circus, London wall 
+<p>G c Finsbury place, Finsbury square 
+<p>G c Finsbury place (south) Finsbury square 
+<p>H b Finsbury market, Clifton street 
+<p>H d Fish street hill, Gracechurch street 
+<p>E c Fisher street, Red lion square 
+<p>G d Fishmonger's hall, Upper Thamesstreet 
+<p>F f Fishmonger's alms houses, Newington 
+<p>C b Fitzroy square 
+<p>C b Fitzroy street, Fitzroy square 
+<p>O a <num value="5">Five</num> bells bridge, Bow 
+<p>G d <num value="5">Five</num> foot lane, Upper Thames street 
+<p>H c Fort street, Spitalfields 
+<p>B g Flask row, Ebury square 
+<p>F c Fleet prison, Farringdon street 
+<p>F d Fleet river, Blackfriars bridge 
+<p>I b Fleet street, Birch lane 
+<p>F c Fleet street, Farringdon street 
+<p>F e Flint street, Friar street 
+<p>G g Flint street, Lock's fields 
+<p>D g Flood street, Tothill street 
+<p>A g Floor-cloth manufactory, King's road 
+<p>A e Floor-clothmanufactory, Knightsbridge 
+<p>O a Flower mills, Lee river 
+<p>P a Flower mills, Stratford 
+<p>I c Flower street, Spitalfields 
+<p>H b Flower street, Shoreditch 
+<p>D e Fludyer street, Westminster 
+<p>C c Foley street, Great Titchfield street 
+<p>C c Foley place, Great Portland street 
+<p>O f Folly House, Blackwall 
+<p>B e Foot guard's Barracks, Knightsbridge 
+<p>M a Ford street, Old Ford street 
+<p>G c Fore street, Cripplegate 
+<p>E f Fore street, Church street 
+<p>M d Fore street, Limehouse dock 
+<p>D e Foreign office, Downing street 
+<p>I f Fort place, Grange road 
+<p>F f Fort place, Newington 
+<p>H c Fort street, Spitalfields 
+<p>G c Foster lane. Cheapside 
+<p>K b Foster street, North street 
+<p>E b Foundling hospital, Guildford street 
+<p>E b Foundling terrace, Gray's Inn lane 
+<p>G b Fountain place, City road 
+<p>K e Fountain stairs, Rotherhithe wall 
+<p>O b <num value="4">Four</num> mills street, Bromley 
+<p>O b <num value="4">Four</num> mills, Lea river 
+<p>G e Fox's buildings, Kent street 
+<p>L d Fox's lane, Upper Shadwell 
+<p>H a Frame work knitter's alms houses, Kingsland road 
+<p>A g Francis street, College street 
+<p>C f Francis street (new) Bridewell Westminster 
+<p>F g Francis street, Newington 
+<p>H b Francis street, Old street road 
+<p>E b Francis street, Regent square 
+<p>C b Francis street Tottenham court road 
+<p>C f Francis street, Vincent square 
+<p>E f Francis street, Westminster road 
+<p>A g Franklin row, Chelsea hospital 
+<p>A a Frederick street, Barron hill road 
+<p>F g Frederick place, High street Newington 
+<p>M b Frederick place, Mile end road 
+<p>C b Frederick street, Albany street 
+<p>A c Frederick street, Connaught square 
+<p>E b Frederick street, Gray's Inn lane 
+<p>C b Frederick street, Hampstead road 
+<p>F f Frederick street, London road 
+<p>D g Frederick street, Regent street 
+<p>L d Free passage alley, Shadwell 
+<p>H e Freeman lane, Horselydown 
+<p>F f Freemason's school, Westminster road 
+<p>H e Freeschool street, Tooley street 
+<p>G b French alley, Goswell street 
+<p>H d Fresh wharf, London bridge 
+<p>F e Friar street, Great Surrey street 
+<p>G d Friday street, Cheapside 
+<p>E e Friendly street, Waterloo road 
+<p>D c Frith street, Soho square 
+<p>F a Frog lane bridge, City road 
+<p>F a Frog lane, City road 
+<p>K e Frying pan stairs, Wapping 
+<p>I b Fuller street, Church lane 
+<p>L b Fuller's alms houses, Mile end 
+<p>E c Fulwood's rents, Holborn 
+<p>E c Furnival's inn, Holborn 
+<p>I e Gainsford street, Horselydown 
+<p>K g Galley wall, Blue anchor road 
+<p>G b Galway street, Bath street 
+<p>H a Gamson'sbuildings, Kingsland road 
+<p>F f Garden place, High street 
+<p>F f Garden row, St. George's road 
+<p>C g Garden street, Vauxhall bridge road 
+<p>C g Garden street (upper) Vauxhall bridge road 
+<p>L c Garden street, Stepney 
+<p>I c Garden street, Whitechapel road 
+<p>D e Gardiner's lane, Westminster 
+<p>C f Gardner's lane, York street 
+<p>N d Garford's street, West India docks 
+<p>G d Garlic hill, Upper Thames street 
+<p>F b Garnault place, New river head 
+<p>E c Gate street, Lincoln's inn fields 
+<p>F f Gaywood street, St. George's road 
+<p>I b Gascoyne place, Crab tree row 
+<p>G b Gas works, Brick lane 
+<p>F d Gas works, Dorset street 
+<p>I a Gas light company, (imperial) Gloster street 
+<p>D a Gas light company, St. Pancras 
+<p>D f Gas works, Horseferry road 
+<p>N d Gas works, West India dock 
+<p>H b Gas works, Worship street 
+<p>I i Gedling street, Neckinger road 
+<p>H c Gee street, Bishopsgate street without 
+<p>G b Gee street, Goswell street 
+<p>C a Gee street, Seymour street 
+<p>H d George lane, Little Eastcheap 
+<p>K c George place, Commercial road 
+<p>L a George's row, Old ford road 
+<p>G b George's row, City road 
+<p>G g George row, Lock's fields 
+<p>I e George's row, Rotherhithe wall 
+<p>M f George stairs, Deptford 
+<p>I e George stairs, Shad Thames 
+<p>A b George street, Paddington 
+<p>D d George street, Adelphi 
+<p>H f George street, Bermondsey 
+<p>K a George street (little) Bethnal green 
+<p>D c George street, Bloomsbury 
+<p>D e George street (great) Bridge street 
+<p>A c George street (upper) Bryanstone square 
+<p>I c George street, Chicksand street 
+<p>L d George street, Commercial road 
+<p>K c George (the) Commercial road 
+<p>M f George street, Deptford 
+<p>H f George street (little) George street 
+<p>F e George street (great) Surrey street 
+<p>F e George street (great) Suffolk street 
+<p>C b George street Hampstead road 
+<p>A c George street (little) Gloucester place 
+<p>C b George street (little) Hampstead road 
+<p>F a George street (great) Surrey street 
+<p>C d George street, Hanover square 
+<p>I b George street, Hart street 
+<p>C f George street, James street 
+<p>I b George street, St. John street 
+<p>E g George street, Lambeth walk 
+<p>E a George street, Lower road, Pentonville 
+<p>C c George street, Marylebone street 
+<p>L b George street, Mile end 
+<p>H d George street, Minories 
+<p>B d George street, Oxford street 
+<p>K a George street, Old Bethnal green road 
+<p>B c George street, Portman square 
+<p>M c George street, Salmon's lane 
+<p>A g George street, Sloane square 
+<p>I c George street, Wentworth street 
+<p>L c George street, Stepney 
+<p>L c George street (new) Stepney 
+<p>F b George street, St. John square 
+<p>G g George street, Trafalgar street 
+<p>E g George street, Vauxhall walk 
+<p>D e Georgestreet (little) Westminster 
+<p>C f George street, York street 
+<p>G f George's terrace, St. George's road 
+<p>G d George yard, Upper Thames street 
+<p>D e George yard, Westminster 
+<p>H d George yard, Lombard street 
+<p>D b Georgiana street, Euston square 
+<p>D d Gerrard street, Soho 
+<p>F f Gibralter row, St. George's road 
+<p>I b Gibralter walk, Church lane 
+<p>F e Gibson street, Waterloo road 
+<p>H a Gifford street, Hoxton road 
+<p>B d Gilbert street, Oxford street 
+<p>D c Gilbert street, Bloomsbury 
+<p>N d Gill street, Commercial road 
+<p>C f Gillingham street,Vauxhallbridge road 
+<p>F c Giltspur street, West Smithfield 
+<p>C d Glass house street, Regent street 
+<p>E g Glasshouse street, Vauxhall walk 
+<p>E e Gleen's buildings, Lambeth marsh 
+<p>L b Globe fields chapel, Globe lane 
+<p>K a Globe hall, Bethnal green 
+<p>L a Globe lane, Globe town 
+<p>L b Globe lane, Mile end 
+<p>L a Globe place, Green street 
+<p>L d Globe stairs, Rotherhithe 
+<p>L b Globe street, Globe lane 
+<p>I e Globe street, Wapping 
+<p>L a Globe town 
+<p>G g Glocester row, Walworth, New town 
+<p>G f Gloster place, Lock's fields 
+<p>B d Gloucester house, Upper Grosvenor street 
+<p>A c Gloucester mews, Gloucester place 
+<p>I a Gloucester place, Hackney road 
+<p>C a Gloucester place, Hampstead road 
+<p>I g Glocester place, Kent road 
+<p>A c Gloucester place, Montague square 
+<p>A b Gloucester place, New road 
+<p>A b Gloucester place (upper) Park terrace 
+<p>H a Gloucester row, Hoxton road 
+<p>A e Gloucester row, Knightsbridge 
+<p>K a Gloucester street, Hackney road 
+<p>I a Gloucester street, Haggerstone 
+<p>H a Gloucester street, Hoxton road 
+<p>I c Gloucester street Commercial road 
+<p>A h Gloucester street (upper) New road 
+<p>H a Gloucester street (new) New North road 
+<p>F e Gloucester street, Oakley street 
+<p>I a Gloucesterst. (little) Brunswick street 
+<p>A c Gloucester street, Portman square 
+<p>E c Gloucester street, Queen square 
+<p>F b Gloucester street, St. John street 
+<p>B a Gloster terrace, Regent's park 
+<p>H a Glocester terrace, Hoxton 
+<p>H a Gloucester terrace, New north road, 
+<p>H e Goat street, Fair street 
+<p>G d Goat stairs, Bankside 
+<p>A g Godfrey street, Bond street 
+<p>M d Godwell stairs, Limehouse 
+<p>L d Gold street, Lower Shadwell 
+<p>L c Golden street, Stepney 
+<p>C d Golden square, Regent street 
+<p>G d Golden lane, Old street 
+<p>F g Golden's place, Kennington 
+<p>I a Goldsmith'salms houses, Hackney 
+<p>I a Goldsmith's place, Hackney road 
+<p>L f Goldsworthy terrace, Deptford, lower road 
+<p>C c Goodge street, Tottenham court road 
+<p>I d Goodman's street, Goodman's fields 
+<p>I d Goodman's fields 
+<p>D b Gordon street, Euston square 
+<p>D b Gordon place, Gordon square 
+<p>D b Gordon square, New road 
+<p>F b Goswell street 
+<p>F a Goswell terrace, Goswell street road 
+<p>E b Gough street, Gray's Inn lane 
+<p>F c Gough square, Fleet street 
+<p>E a Goulden terrace, Pentonville 
+<p>C b Gower street, New road 
+<p>C b Gower street (upper) London University 
+<p>D c Gower street, Bedford square 
+<p>D b Gower street mews (upper) Upper Gower street 
+<p>D c Gower mews, Bedford square 
+<p>C b Gower place, Euston square 
+<p>I d Gower's walk, Whitechapel 
+<p>H d Gracechurch street 
+<p>C b Grafton street, Fitzroy square 
+<p>C d Grafton street, Old Bond street 
+<p>D d Grafton street, Soho 
+<p>C b Grafton street east, Tottenham court road 
+<p>B g Graham street, Coleshill street 
+<p>B f Grammar school, Grosvenor road 
+<p>I b Granby street, Bethnal green road 
+<p>I b Granby street, Church lane 
+<p>C a Granby street, Hampstead road 
+<p>E e Granby street, Waterloo road 
+<p>M e Grand Surrey, Inner dock, Rotherhithe 
+<p>A f Grange (the) Michael's grove 
+<p>H g Grange road, Kent road 
+<p>H f Grange road, Bermondsey 
+<p>I f Grange tanneries, Grange road 
+<p>H f Grange walk, Grange road 
+<p>H a Grange walk, Whitmore row 
+<p>K d Gravel lane (new) High street Shadwell 
+<p>M f Gravel lane, Union street 
+<p>H c Gravel lane, Houndsditch 
+<p>K d Gravel lane (old) Ratcliff Highway 
+<p>K e Gravellane (little) New Gravel lane 
+<p>B c Gray street, Manchester square 
+<p>I b Gray eagle street, Wheeler street 
+<p>E c Gray's inn, Holborn 
+<p>E c Gray's inn gardens, Gray's inn lane 
+<p>E b Gray's inn lane 
+<p>E b Gray's inn lane (little) Gray's inn lane 
+<p>E c Gray's inn passage,Red lion street 
+<p>E g Gray's walk, East street 
+<p>E f Gray's walk, Lambeth walk 
+<p>F e Great Surrey street, Blackfriars 
+<p>D c Greek street, Soho square 
+<p>K e Green bank, Wapping 
+<p>C f Green coat school, Westminster 
+<p>I c Green Dragon court White chapel road 
+<p>A f Green lane, Marlboro&lsquo; road 
+<p>H g Green man, Kent road 
+<p>C e Green park 
+<p>L a Green place, Green street 
+<p>A g Green's row, Smith, street 
+<p>L a Green street, Globe town 
+<p>K c Green street, Cannon street road 
+<p>L b Green street, Globe lane 
+<p>B d Green street, Grosvenor square 
+<p>F e Green street, Great Surrey street 
+<p>D d Green street, Leicester square 
+<p>L c Green street, Stepney 
+<p>E b Green street, Theobald's road 
+<p>F b Green's terrace, New river head 
+<p>M e Greenland stairs, Rotherhithe 
+<p>F e Green walk, Great Surrey street 
+<p>F e Green walk, Wellington street 
+<p>F d Green walk, Holland stieet 
+<p>I c Greenfield street, Whitechapel road 
+<p>L c Grenada terrace, Commercial road 
+<p>D b Grenville street. Brunswick square 
+<p>C a Grenville street, Clarendon street 
+<p>E c Greville street, Holborn 
+<p>G d Greenwich rail ay, commences at London bridge 
+<p>D c Gresse street, Rathbone place 
+<p>C f Grey coat street, Horseferry road 
+<p>C f Grey coat school, Horseferry road 
+<p>C f Grey coat place, Horseferry road 
+<p>K c Greyhound street, Whitechapel road 
+<p>H g Greyhound, Grange road 
+<p>L d Griffin street, Lower Shadwell 
+<p>B g Grosvenor canal, Pimlico 
+<p>C fGrosvenor canal basin, Pimlico 
+<p>A d Grosvenor gate, Hyde park 
+<p>B d Grosvenor mews, Grosvenor square 
+<p>L a Grosvenor place, Globe town 
+<p>B f Grosvenor place (lower) Grosvenor place 
+<p>B e Grosvenor place, Hyde park corner 
+<p>B g Grosvenor row, Jews' row 
+<p>B f Grosvenor road, Pimlico 
+<p>B d Grosvenor square 
+<p>B d Grosvenor street, Grosvenor square 
+<p>B d Grosvenor street, (upper) Grosvenor square 
+<p>B f Grosvenorst. (west) Grosvenor road 
+<p>D f Grosvenor street, Millbank row 
+<p>L c Grosvenor street, Stepney 
+<p>D f Grosvenor wharf, Millbank row 
+<p>F d Ground street (upper) Blackfriars bridge 
+<p>M b Grove (the) Mile end road 
+<p>F e Grove, Great Guildford street 
+<p>A a Grove house, Park road 
+<p>A b Grove place, Lisson grove 
+<p>K c Grove place, Mile end road 
+<p>H g Grove place, Walworth common 
+<p>M a Grove road, Globe town 
+<p>K a Grove street, Charington street 
+<p>K c Grove street, Commercial road 
+<p>A b Grove street, Grove place AMb Grove street, Mile end road 
+<p>M g Grove street, Wet dock, Deptford 
+<p>M b Grove terrace, Mile end road 
+<p>O d Grundy street, East India dock road 
+<p>E b Guildford place, house of correction 
+<p>D b Guildford street (upper) Russell square 
+<p>G e Guildford street, (little) Union street 
+<p>G e Guildford street, (great) Union street 
+<p>H b Guildford street Mecklenburgh square 
+<p>E b Guildford street, Wilmington square 
+<p>G c Guildhall, King street, Cheapside 
+<p>D e Guildhall, Westminster 
+<p>F e Gun street, Friar street 
+<p>H c Gun street, Spitalfields 
+<p>H e Gun alley, Bermondsey street 
+<p>K b Gun dock, Wapping 
+<p>N d Gun lane, Commercial road 
+<p>F c Gunpowder alley, Shoe lane 
+<p>O e Gun tavern, Blackwall 
+<p>H e Gun wharf, Tooley street 
+<p>G c Gutter lane, Cheapside 
+<p>G e Guy's hospital, St. Thomas' street 
+<p>G e Guy's mad house, Queen street 
+<p>F a Gwinnes place, Goswell street road 
+<p>H a Haberdashers' street, Haberdashers' walk 
+<p>H a Haberdashers' walk, Hoxton 
+<p>H a Haberdashers' almshouses, Hoxton 
+<p>K a Hackney foot path bridge 
+<p>I a Hackney road 
+<p>I a Hackney road, Crescent, Hackney road 
+<p>D b Hadlow street, Burton crescent 
+<p>I a Haggerstone 
+<p>K b Hague street, Bethnal green 
+<p>O d Hale street, Poplar 
+<p>H c Half moon alley, Bishopsgate street, 
+<p>E a Half moon crescent, Pentonville 
+<p>B e Half moon street, Piccadilly 
+<p>K f Half penny hatch, Blue anchor road 
+<p>F e Half penny hatch, Broadwall 
+<p>L f Half penny hatch, Deptford 
+<p>I f Half penny hatch, Homey lane 
+<p>I c Halifax street, Mile end, New town 
+<p>B e Halkin street, Grosvenor place 
+<p>H b Hall Nicol's street, church lane 
+<p>G d Hamboro&lsquo; wharf, Upper Thames street 
+<p>D a Hamilton place, Kings cross 
+<p>B e Hamilton place, Hyde park corner 
+<p>E a Hamilton row, King's cross 
+<p>D a Hampden street, Clarendon square 
+<p>L a Hampden place, Smart street 
+<p>C a Hampstead road 
+<p>F g Hampton street, Walworth road 
+<p>H c Hand alley, Wilson street 
+<p>A a Hanover gate, Regent's park 
+<p>A a Hanover lodge, Park road 
+<p>I g Hanover place, Kent road 
+<p>C c Hanover square, Oxford street 
+<p>L e Hanover stairs, Rotherhithe 
+<p>A b Hanover terrace, Regent's park 
+<p>D c Hanover street, Long acre 
+<p>I f Hanover street, Neckenger road 
+<p>L e Hanover street, Rotherhithe 
+<p>F g Hanover street, Walworth road 
+<p>C d Hanover street, Hanover square 
+<p>A f Hans street, Sloane street 
+<p>A f Hans place, Sloane street 
+<p>D c Hanway street, Tottenham court road 
+<p>A c Harcourt street, New road 
+<p>L d Hardwick place, Commercial road 
+<p>I e Hare street, Brick lane Spitalfields 
+<p>H a Hare street, Hoxton road 
+<p>C c Harewood place, Hanover square 
+<p>H a Hare walk, Kingsland road 
+<p>B c Harley mews, (north) Harley street 
+<p>B c Harley mews, Wigmore street 
+<p>B b Harley place, Bow road 
+<p>N c Harley street, Cavendish square 
+<p>B b Harley street, (upper) New road 
+<p>L a Harod street, Green street 
+<p>N f Harper street, New Kent road 
+<p>E c Harper street, Red lion square 
+<p>F c Harp alley, Farringdon street 
+<p>H d Harp lane, Lower Thames street 
+<p>C a Harrington street, Hampstead road 
+<p>L d Harris street, Brook street 
+<p>E b Harrison street, Regent square 
+<p>H c Harrow alley, Houndsditch 
+<p>G e Harrow street, Blackman street 
+<p>A c Harrow street, Upper Lisson street 
+<p>I b Hart street, Bethnal green road 
+<p>D c Hart street, Bloomsbury square 
+<p>D d Hart street, Covent garden 
+<p>B d Hart street, Grosvenor square 
+<p>G c Hart street, Wood street, Cheapside 
+<p>G g Hartford place, Walworth road 
+<p>G b Harvey street, Old street road 
+<p>I e Harwood street, Horsely down 
+<p>F d Hatfield street, Stamford street 
+<p>F c Hatton garden 
+<p>F b Hatton wall, Hatton garden 
+<p>L e Hawley place, Upper Clarencestreet 
+<p>G g Hawksbury place, Locks fields 
+<p>I d Haydon street, Minories 
+<p>I d Haydon square, Minories 
+<p>C d Hay hill, Berkeley square 
+<p>B d Hay street, Berkeley square 
+<p>D d Haymarket 
+<p>D d Haymarket Theatre 
+<p>E b Haynes' row, Cold Bath square 
+<p>B d Hay's mews, Berkeley square 
+<p>H e Hay's wharf, Tooley street 
+<p>L c Heath street, Stepney 
+<p>K a Heath place, Hackney road 
+<p>H g Hearn's buildings, Park place 
+<p>E b Heathcote street, Mecklenburgh square 
+<p>C d Heddon street, Regent street 
+<p>F a Hedge row, Broadway 
+<p>I c Heneage street, Brick lane 
+<p>D d Hemming's row, St. Martin's lane 
+<p>D b Henrietta street, Brunswick square 
+<p>B c Henrietta street, Cavendish square 
+<p>D d Henrietta street, Covent garden 
+<p>I a Henrietta street, Hackney road 
+<p>B c Henrietta street, Oxford street 
+<p>H g Henry place, Surrey square 
+<p>K c Henry square, Commercial road 
+<p>K c Henry street, Cannon street road 
+<p>I d Henry street, Church lane 
+<p>A e Henry street, Knightsbridge 
+<p>E b Henry street, Gray's inn lane 
+<p>C b Henry street, Hampstead road 
+<p>E g Henry street, Kennington lane 
+<p>A f Henry street, Marlboro&lsquo; road 
+<p>H b Henry street, Old street road 
+<p>E a Henry street, Pentonville 
+<p>M c Henry street, Stepney 
+<p>L c Henry street, Stepney 
+<p>E e Henry street, Waterloo road 
+<p>E f Hercules buildings, Westminster road 
+<p>A c Hereford place, Upper Lisson street 
+<p>A d Hereford street, Park street 
+<p>E a Hermes street, Pentonville 
+<p>A g Hermes terrace, King's road 
+<p>N a Hermitage, Bow 
+<p>I e Hermitage dock, Wapping 
+<p>I e Hermitage stairs, Wapping 
+<p>I e Hermitage street (great) Wapping 
+<p>A a Hertford's (Marquis of) villa, Regent's park 
+<p>B e Hertford street, Park lane 
+<p>C b Hertford street, Fitzroy square 
+<p>I e Hickman's folly, Dock head 
+<p>H g High park, Providence street 
+<p>A e High row, Knightsbridge 
+<p>O e High street, Blackwall 
+<p>I c High street, Church street 
+<p>D c High street, St. Giles's 
+<p>F a High street, Islington 
+<p>E f High street, Lambeth 
+<p>F f High street, Newington 
+<p>B b High street, New road 
+<p>N d High street, Poplar 
+<p>K d High street, Ratcliff highway 
+<p>I c High street, Whitechapel 
+<p>H b Hill court, Shoreditch 
+<p>B d Hill-street, Berkeley square 
+<p>A b Hill street, Boston street 
+<p>B d Hill street, South Audley street 
+<p>I b Hill (the) St. John street 
+<p>H b Hill street, Paul street 
+<p>F e Hill street, Wellington street 
+<p>C f Hindon street, Willow walk 
+<p>B c Hinde street, Manchester square 
+<p>E f Hodges' distillery, Church street 
+<p>E c Holborn 
+<p>E c Holborn, high 
+<p>F c Holborn Hill 
+<p>E c Holborn court, Holborn 
+<p>E c Holborn row, Lincoln's inn fields 
+<p>F d Holland street, Bankside 
+<p>F d Holland street, Great Surrey street Blackfriars 
+<p>C c Hollen street, Oxford street 
+<p>C c Hollis street, Cavendish square 
+<p>E d Hollis street, Clare market 
+<p>G b Hollow street, Brick lane 
+<p>I c Holloway street (great) Cor. road 
+<p>A b Holme tthe) Regent's park 
+<p>L c Holmes street, Commercial road 
+<p>E g Holyford place, Elizabeth place 
+<p>D f Holywell buildings, Horseferry road 
+<p>H b Holywell lane, Shoreditch 
+<p>H b Holywell row, Worship street 
+<p>E d Holywell street, Strand 
+<p>D f Holywell street, Millbank row 
+<p>A c Homer place, new road 
+<p>A c Homer street, Crawford street 
+<p>E f Homer street, Hercules buildings 
+<p>G g Hone street, Trafalgar street 
+<p>F b Hooper street, Goswell street 
+<p>E f Hope place, Bishop's walk 
+<p>M b Hope place, Mile end road 
+<p>I c Hope street, Montague street 
+<p>I b Hope street, Brick lane 
+<p>K a Hope street, Hackney road 
+<p>I b Hope town, Bethnal green road 
+<p>H f Homey lane, Bermondsey 
+<p>L a Horsefall's basin, Regent's canal 
+<p>M d Horseferry, Rotherhithe 
+<p>D f Horseferry, Millbank street 
+<p>D f Horseferry road (the) 
+<p>D e Horse Guards (the) Whitehall 
+<p>B a Horse Guards' Barracks, Regent's park 
+<p>G f Horsemonger lane, Newington causeway 
+<p>H c Horse shoe alley, Wilson street, Finsbury 
+<p>I c Horse shoe lane, Petticoat lane 
+<p>H e Horselydown 
+<p>H e Horselydown lane. Shad Thames 
+<p>I e Horselydown, new stairs, Shad Thames 
+<p>I e Horselydown, Old stairs 
+<p>F c Hosier lane, West Smithfield 
+<p>E d Houghton street, Clare market 
+<p>H c Houndsditch 
+<p>D f House of commons 
+<p>D f House of lords 
+<p>E b House of correction, Cold bath fields 
+<p>E a Howard street, Norfolk street 
+<p>C f Howick terrace, Vauxhallbridge road 
+<p>C b Howland street, Tottenham court road 
+<p>H a Hoxton 
+<p>G a Hoxton new town, Hoxton 
+<p>H a Hoxton road 
+<p>H b Hoxton square, Old street road 
+<p>G d Huggin lane, Upper Thames street 
+<p>D d Hungerford new market 
+<p>D d Hungerford street, Strand 
+<p>D d Hungerford stairs 
+<p>I b Hunt street, Spicer street 
+<p>D b Hunter street, Brunswick square 
+<p>H f Hunter street, Long lane 
+<p>H a Huntingdon street, Hoxton road 
+<p>C b Huntley street, Francis street 
+<p>A d Hyde park 
+<p>B e Hyde park corner 
+<p>D f Hyde place, Vincent street 
+<p>D c Hyde street, Bloomsbury 
+<p>H d Idol lane, Great Tower street 
+<p>H k India house, Leadenhall street 
+<p>O k Infant school, Dock road 
+<p>I e Iron gate stairs, St. Catherine's 
+<p>G b Ironmonger street, Bartholomew square 
+<p>G c Ironmongers' lane, Cheapside 
+<p>H a Ironmongers' almshouses, Kings. land road 
+<p>G d Ironmonger row, Old street 
+<p>F e Isabella street, Collingwood street 
+<p>F e Isabella street, Victoria theatre 
+<p>M d Island row, Commercial road 
+<p>O g Isle of dogs 
+<p>F a Islington 
+<p>G a Islington footpath bridge 
+<p>H a Ivy lane, Hoxton 
+<p>F c Ivy lane, Newgate street 
+<p>H a Ivy street, New Hoxton 
+<p>I e Jacob street, Rotherhithe 
+<p>K f Jamaica house, Rotberhithe 
+<p>N d Jamaica place, Commercial road 
+<p>I f Jamaica row, Rotherhithe 
+<p>L c Jamaica street, Commercial road 
+<p>L d James place, Brook street 
+<p>C e James place (little) St. James street 
+<p>I a James's row, Hackney road 
+<p>K d James street, Cannon street road 
+<p>I b James street, Church street 
+<p>L d James street, Commercial road 
+<p>D d James street, Covent garden 
+<p>G a James street, Cross street 
+<p>O d James street, East India dock road 
+<p>C d James street (upper) Golden square 
+<p>C d James street (lower) Golden square 
+<p>E b James street (little) Gray's inn lane 
+<p>B d James street, Grosvenor square 
+<p>D d James street, Haymarket 
+<p>C e James street, King's palace 
+<p>E e James street, Lambeth marsh 
+<p>H b James street, Leonard street 
+<p>A f James street, Marlboro&lsquo; road 
+<p>I a James street, Margaret street 
+<p>G b James street, Old street 
+<p>B c James street, Oxford street 
+<p>A b James street, (great) Paddington 
+<p>E b James's street, Sidmouth street 
+<p>L c James street, Stepney 
+<p>M c James street, Stepney 
+<p>E b James street, (great) Theobald's road 
+<p>G g James street, Walworth road 
+<p>E e James street, Waterloo road 
+<p>H f Jane place, Kent road 
+<p>F e Jane street, Collingwood street 
+<p>K c Jane street, Commercial road 
+<p>I a Jane street, Hackney road 
+<p>M b Jeffrey's terrace, Bow common lane 
+<p>B a Jenkins's nursery, Regent's park 
+<p>N d Jeremiah street, E. I. dock road 
+<p>C d Jermyn street, St. James's street 
+<p>F e Jetsom street, Wellington street 
+<p>G c Jewin street, Cripplegate 
+<p>G c Jewin crescent, Jewin street 
+<p>H d Jewry street, Aldgate 
+<p>K a Jews' chap. &amp; school,Hackney road 
+<p>L b Jews' hospital, Mile-end road 
+<p>K a Jews' walk, Bethnal green 
+<p>E c Jockey's fields, Gray's inn 
+<p>H f John place, Grange road 
+<p>G b John's row, Brick lane 
+<p>D d John street, Adelphi 
+<p>A a John street, Barrow hill road 
+<p>B d John street, Berkeley square 
+<p>L a John street, Bonner street 
+<p>K d John street, Cannon street road 
+<p>I c John street, Chicksand street 
+<p>K d John street, Church road 
+<p>K c John street, Commercial road 
+<p>K d John street (upper) Commercial road 
+<p>K d John street (lower) Commercial road 
+<p>E e John street, Cornwall road 
+<p>K b John street, Dog row 
+<p>H g John street, East lane 
+<p>A c John street Edgware road 
+<p>C b John street (upper) Fitzroy square 
+<p>L c John street, George street 
+<p>C d John street (upper) Golden square 
+<p>C d John street, Golden square 
+<p>G e John street, Great Suffolk street 
+<p>F e John street, Great Surrey street 
+<p>E b John street, Gray's inn lane 
+<p>L b John street, Green street 
+<p>A b John street, Grove place 
+<p>F d John street, Holland street 
+<p>I e John street, Horselydown <num value="21">21</num> 
+<p>D f John street, St. John's church 
+<p>H f John street, Kent road 
+<p>A g John street, King's road, Chelsea 
+<p>E b John street, King's road Gray's Inn 
+<p>H b John street, Leonard street 
+<p>M c John street, Limehouse 
+<p>D a John street, Maiden lane 
+<p>I a John street, Margaret street 
+<p>L b John street (upper) Mile-end road 
+<p>H d John street, Minories 
+<p>I f John street, Neckinger road 
+<p>A c John street, New road 
+<p>G f John street, New Kent road 
+<p>H b John street, Old street road 
+<p>C c John street, Oxford street 
+<p>E a John street, Penton street 
+<p>K d John street, Ratcliff highway 
+<p>K a John street, Regent's canal 
+<p>M c John street, Salmon's lane 
+<p>H e John street, Snow's fields 
+<p>I c John street, Spitalfields 
+<p>C c John street, Tottenham court road 
+<p>E g John street, Union street 
+<p>H g John street, Walworth common 
+<p>E e John street, Waterloo road 
+<p>K c John street, Whitechapel road 
+<p>E c Johnson's court, Fleet street 
+<p>M e Johnson's lock, Stepney 
+<p>C a Johnson street, Clarendon street 
+<p>D f Johnson street, Holywell street 
+<p>K e Johnson street, Old Gravel lane 
+<p>H e Joiner street, Tooley street 
+<p>F f Joiner's row, Westminster road 
+<p>D b Joseph street, Cromer street 
+<p>L d Joseph street, Back lane 
+<p>K c Jubilee place (north) Commercial road 
+<p>A g Jubilee place, King's road 
+<p>K c Jubilee place (north) Mile-end road 
+<p>D a Judd street, New road 
+<p>D a Judd's place, New road 
+<p>I c Keat street, Spitalfields 
+<p>O d Kedgeree place, E. I. Dock road 
+<p>G g Keen's row, Walworth road 
+<p>E g Kennington 
+<p>E g Kennington cross 
+<p>E g Kennington green, Kennington 
+<p>F g Kennington chapel, Clayton place 
+<p>F g Kennington lane, High street 
+<p>E g Kennington lane, Vauxhall 
+<p>E g Kennington place, Kennington lane 
+<p>D f Kensington place, Wilton street 
+<p>I a Kent street, Cambridge street 
+<p>G f Kent street, Southwark 
+<p>H g Kent road 
+<p>G f Kent road (new) 
+<p>A b Kent terrace, Regent's park 
+<p>D b Kenton street, Great Coram street 
+<p>D c Keppel mews, Keppel street 
+<p>D b Keppel mews (north) Keppel street 
+<p>G e Keppel street, Bridge street 
+<p>D b Keppel street, Russel square 
+<p>M d Kidney stairs, Limehouse 
+<p>F f Kinaston street, Oakley street 
+<p>K c Kinder street, Commercial road 
+<p>A e Kinnerton street, Knightsbridge 
+<p>K d King David's lane, High street, Shadwell 
+<p>I c King Edward street, Whitechapel 
+<p>K e King Edward stairs, Wapping 
+<p>L c King John's palace, Stepney 
+<p>L e King James's stairs, Wapping 
+<p>H b King John court, Bishopsgate street 
+<p>L e King & queen stairs, Rotherhithe 
+<p>H a King's road, Kingsland road 
+<p>F b King square, Goswell street 
+<p>G c King street, Bartholomew square 
+<p>H f King street, Bermondsey new road 
+<p>G e King street, Borough 
+<p>F e King street, Borough road 
+<p>I b King street, Brick lane 
+<p>A c King street (west) Bryanstone square 
+<p>G c King street, Cheapside 
+<p>I b King street, Church lane 
+<p>I c King street, Church street 
+<p>I c King street, Commercial road 
+<p>D d King street, Covent garden 
+<p>D c King street, Drury lane 
+<p>G g King street, East street 
+<p>H b King street, Finsbury square 
+<p>C d King street, Golden square 
+<p>F b King street, Goswell street 
+<p>L b King street, Green street 
+<p>B d King street, Grosvenor square 
+<p>I a King street, Hackney road 
+<p>I a King street, Hart street 
+<p>E c King street, Holborn 
+<p>H b King street, Hoxton square 
+<p>H g King street, Kent road 
+<p>E f King street, Lambeth walk 
+<p>K e King street, Old Gravel lane 
+<p>D e King street, Parliament street 
+<p>A c King street, Portman square 
+<p>D d King street, Prince's street 
+<p>K e King street, Rotherhithe 
+<p>I d King street, Rosemary lane 
+<p>C e King street, St. James's square 
+<p>F c King street, Snow hill 
+<p>D c King street, <num value="7">Seven</num> dials 
+<p>I e King's street, Shad thames 
+<p>I e King street, Wapping 
+<p>H d King William street New London bridge 
+<p>D d King William street, Strand 
+<p>L a King's arms row, Old ford road 
+<p>E e King's arms stairs, College street 
+<p>N f King's arms stairs, Limehse. reach 
+<p>G c King's arms yard, Coleman street 
+<p>G e King's bench prison, Boro&lsquo; road 
+<p>F d King's bench walk, Temple 
+<p>F e King'sbench walk, Wellington street 
+<p>E d King's college, Somerset house 
+<p>D a King's cross, Battle bridge 
+<p>M g King's dock yard, Deptford 
+<p>E c King's-gate street, Holborn 
+<p>F c King's head court, Shoe lane 
+<p>C f King's mews, Chelsea road 
+<p>E b King's mews, King's road 
+<p>L e King's mills, Rotherhithe 
+<p>H a Kingsland road 
+<p>C e King's palace, St. James' park 
+<p>G g King's place, Walworth road 
+<p>A g King's road, Chelsea 
+<p>E b King's road, Gray's inn lane 
+<p>O d King's road, High street 
+<p>L e King's road, Swan lane 
+<p>C f King's row, Chelsea road 
+<p>K b King's row, the Dog row 
+<p>E a King's row, Pentonville 
+<p>L e King's row, Swan lane 
+<p>B d King's street mews, Park street 
+<p>K e King's stairs, Rotherhithe 
+<p>E b King's terrace (north) Sharp square 
+<p>E b King's terrace, Sharp square 
+<p>F c Kirby street, Hatton garden 
+<p>I a Kitisford place, Hackney road 
+<p>A e Knightsbridge 
+<p>A e Knightsbridge barracks 
+<p>A e Knightsbridge green 
+<p>F d Knightrider street (great)Doctor's commons 
+<p>F d Knightrider street (little) Doctor's commons 
+<p>G c Lad lane, Wood street, Oheapside 
+<p>H c Lamb street, Spitalfields 
+<p>G b Lamb passage, Chiswell street 
+<p>E b Lamb's conduit street, Brunswick square 
+<p>E c Lamb's conduit passage,Red lion square 
+<p>I d Lambert street, Goodman's field 
+<p>E f Lambeth 
+<p>E g Lambeth butts, Lambeth 
+<p>E f Lambeth chapel, Lambeth 
+<p>E f Lambeth church, Lambeth 
+<p>G d Lambeth hill, Upper Thames street 
+<p>E e Lambeth marsh, Westminster bridge road 
+<p>B d Lambeth mews, Curzon street 
+<p>E f Lambeth palace, Lambeth 
+<p>F f Lambeth road 
+<p>E g Lambeth school association, Lambeth walk 
+<p>E f Lambeth stairs, Lambeth 
+<p>E f Lambeth terrace, Lambeth 
+<p>E f Lambeth walk, Lambeth 
+<p>E e Lambethwaterworks,Belvedere road 
+<p>E d Lancaster place, Strand 
+<p>D b Lancaster street Burton crescent 
+<p>D d Lang street, Long Acre 
+<p>K d Langall's street, Cannon street road 
+<p>C c Langham place, Portland place 
+<p>O e Langley place, Blackwall 
+<p>B d Lansdowne house, Berkeley square 
+<p>E b Lansdowne place, Brunswick square 
+<p>G e Lant street, Blackman street 
+<p>G e Lant street Southwark bridge road 
+<p>K a Lark row, Regent's canal 
+<p>G c Lawrance lane, Cheapside 
+<p>G f Lawson street, Great Dover street 
+<p>K e Lawton's row, Wapping street 
+<p>E b Laystall street, Leather lane 
+<p>O c Lea cut, Bromley 
+<p>P e Lea ness, or Blackwall point 
+<p>P c Lea river 
+<p>H d Leadenhall street 
+<p>F c Leather lane, Holborn 
+<p>H e Leather market (new) Bermondsey street 
+<p>H g Lebanon place, Walworth common 
+<p>B d Lee's mews, Park street 
+<p>L d Leading street, Lower Shadwell 
+<p>D d Leg alley, Long acre 
+<p>H a Leg of mutton gardens, Kingsland road 
+<p>O d Leicester street, Blackwall 
+<p>D d Leicester street, Leicester square 
+<p>C d Leicester street, Regent street 
+<p>D d Leicester place, Leicester square 
+<p>D d Leicester square 
+<p>D b Leigh street, Burton crescent 
+<p>E c Leigh street, Red Lion square 
+<p>I d Leman street, Goodman's fields 
+<p>F e Leman street, Union street 
+<p>L g Leman valley, Corbet's lane 
+<p>I d Leman street, Rosemary lane 
+<p>H b Leonard street, Curtain road 
+<p>D c Lewkner's lane, Drury lane 
+<p>E g Leyland street, Tyer street 
+<p>G b Ligan street, Ironmonger row 
+<p>E b Lightfoot street, Sharp square 
+<p>F c Lilly street, Great Saffron hill 
+<p>H d Lime street, Fenchurch street 
+<p>M d Limehouse 
+<p>M d Limehouse bridge dock 
+<p>N d Limehouse causeway, Commercial road 
+<p>M d Limehouse corner 
+<p>N c Limehouse cut 
+<p>M d Limehouse dock 
+<p>M d Limehouse hole stairs 
+<p>M c Limehouse lock, Limehouse 
+<p>M f Limehouse reach 
+<p>N c Limekiln, Lea cut 
+<p>E c Lincoln's inn, Chancery lane 
+<p>E c Lincoln's inn fields, Holborn 
+<p>E c Lincoln's inn gardns. Chancery lane 
+<p>D c Lion street, High Holborn 
+<p>G f Lion street, New Kent road 
+<p>D d Lisle street, Leicester square 
+<p>K c Lisbon street, Dog row 
+<p>D a Liverpool street, Battle bridge 
+<p>H c Liverpool street, Bishopsgate street 
+<p>D d Litchfield street, Grafton street 
+<p>E b Liquorpond street, Gray's inn lane 
+<p>G b Lizard street, Ironmonger row 
+<p>E a Lloyd street, Lloyd square 
+<p>F b Lloyd's row, New river head 
+<p>E a Lloyd square, Spa fields 
+<p>B e Lock chapel, Grosvenor place 
+<p>G f Lock's fields, New Kent road 
+<p>B e Lock hospital, Grosvenor.place 
+<p>F e Loman's pond, Gravel lane 
+<p>G d Lombard street, Gracechurch street 
+<p>I c Lombard street, Pelham street 
+<p>G e Lombard street, Southwark bridge road 
+<p>G d London bridge (new) 
+<p>I e London docks, Wapping 
+<p>K c London hospital, Whitechapel road 
+<p>H c London institution, Finsbury circus 
+<p>G c London prison (new)Whitecross street 
+<p>F f London road 
+<p>M d London street, Commercial road 
+<p>H d London street (new) Fenchurch street 
+<p>C b London street, Fitzroy square 
+<p>M d London street, Queen street 
+<p>F f London street, London road 
+<p>I e London street, Mill street 
+<p>K b London street, Seabright street 
+<p>I a London terrace, Hackney road 
+<p>C b London university, Gower street 
+<p>G c London wall, Finsbury 
+<p>D d Long acre, Drury lane 
+<p>H c Long alley, Moorfields 
+<p>H f Long lane, Bermondsey 
+<p>F c Long lane, West Smithfield 
+<p>H f Long walk; Grange road 
+<p>E b Long yaid, Lamb's conduit street 
+<p>G c Lothbury, Bank 
+<p>E g Loughborough street, Kennington lane 
+<p>L d Love lane, Back lane 
+<p>F d Love lane, Bankside 
+<p>H d Love lane, Lower Thames street 
+<p>K e Love lane, Old Gravel lane 
+<p>K e Love lane, Rotherhithe 
+<p>G c Love lane, Wood street, Cheapside 
+<p>L b Louisa street, Beaumont square 
+<p>E a Lower road, Pentonville 
+<p>A f Lowndes street, Sloane square 
+<p>B f Lowndes place, Eaton square 
+<p>A e Lowndes square, Knightsbridge 
+<p>K d Lower grove street, Cable street 
+<p>D d Lowther arcade, Strand 
+<p>A g Lunatic asylum, Chelsea 
+<p>L d Lucas street, Commercial road 
+<p>K f Lucas street, Rotherhithe 
+<p>F c Ludgate street, St. Paul's 
+<p>F c Ludgate hill, St. Paul's 
+<p>H c Luke street, Houndsditch 
+<p>H b Luke street, Paul street 
+<p>B f Lyall street, Eaton square 
+<p>E e Lying--in hospital, York road 
+<p>D b Mabledon place, Burton crescent 
+<p>G a Macclesfield street, City road 
+<p>D d Macclesfield street, Compton street 
+<p>A a Macclesfield bridge, Regent's park 
+<p>C d Maddox street, Hanover square 
+<p>L e Maling place, Swan lane 
+<p>H e Magdalen street, Bermondsey street 
+<p>F e Magdalen chapel, Great Surrey street 
+<p>F e Magdalen hospital, Great Surrey street 
+<p>D a Maiden lane, King's cross 
+<p>D a Maiden lane bridge, Regent's canal 
+<p>D d Maiden lane, Covent garden 
+<p>G d Maiden lane, Queen street Cheapside 
+<p>G c Maiden lane, Wood street Cheapside 
+<p>M b Maidman's row, Mile-end road 
+<p>I a Maidstone street, Hackney road 
+<p>D e Manchester buildings, Cannon row 
+<p>B c Manchester square 
+<p>K b Manchester street, Bethnal green 
+<p>I b Manchester street (great) Bethnal green 
+<p>E a Manchester street, Grav's-inn lane 
+<p>B c Manchester street, Manchester square 
+<p>L b Maria street, Beaumont square 
+<p>L g Manor house, Deptford lower road 
+<p>G g Manor place, Walworth road 
+<p>L f Manor row, Deptford lower road 
+<p>I d Mansell street, Goodman's fields 
+<p>F f Mansfield street, Borough road 
+<p>B c Mansfield street, Harley street 
+<p>I a Mansfield street, Kingsland road 
+<p>F g Mansion house street, Kennington lane 
+<p>G d Mansion house, Poultry 
+<p>K b Mapes street Bethnal green road 
+<p>D b Marchmonrstreet,Burton crescent 
+<p>M a Mare street, Oldford road 
+<p>K a Margaret place, Margaret street 
+<p>I a Margaret street, Hackney 
+<p>E g Margaret street, Barratt street 
+<p>C c Margaret street, Cavendish square 
+<p>M d Margaret street, Commercial road 
+<p>E b Margaret street, Wilmington square 
+<p>E e Market (new) Lambeth marsh 
+<p>I g Marlborough chapel, Kent road 
+<p>E c Marlborough house street,St.James's 
+<p>C e Marlborough house terrace, Pall mall 
+<p>E g Marlborough place, Kennington lane 
+<p>I g Marlborough place, Kent road 
+<p>A g Marlborough road, Chelsea 
+<p>C c Marlborough street (great) Oxford street 
+<p>I f Maria place, Blue Anchor road 
+<p>I a Maria street, Pearson street 
+<p>I f Marine court, Rotherhithe 
+<p>N b Maritime almshouses, Bow common 
+<p>H d Mark lane, Fenchurch street 
+<p>H b Mark street, Paul street 
+<p>F f Market street, Borough road 
+<p>I b Market street, Hare street 
+<p>F g Market street, Kennington lane 
+<p>D f Market street, Milbank, street 
+<p>C c Market street, Oxford street 
+<p>E e Marsh place, Lambeth marsh 
+<p>C d Marshall street, Golden square 
+<p>F f Marshall street, St. George's road 
+<p>D f Marsham street, Horseferry road 
+<p>K a Martha street, Cambridge heath 
+<p>K d Martha street, Church road 
+<p>E d Martin's court, Drury lane 
+<p>K d Mary street, Back lane 
+<p>C b Mary street, Hampstead road 
+<p>M c Mary street, Limehouse 
+<p>K b Mary's row, Bethnal green road 
+<p>N c Mary's row, Bow common 
+<p>K e Marygood street, Rotherhithe wall 
+<p>I d Mary-ann street, Church lane 
+<p>B c Marylebone lane, Oxford street 
+<p>C c Marylebone street, Cleveland street 
+<p>C c Marylebone street (upper) Portland road 
+<p>C d Marylebone street, Golden square 
+<p>B c Marylebone street (little) High street 
+<p>B c Marylebone street(great) High street 
+<p>E e Mason street, Bridge street 
+<p>H f Mason street, Kent road 
+<p>D d May's buildings, St. Martin's lane 
+<p>F d Mason's stairs, Bankside 
+<p>P d Mast house, Blackwall 
+<p>E g Mawbey's place, Kennington place 
+<p>H e Maze. Tooley street 
+<p>H e Maze pond, Guy's hospital 
+<p>I b Mead street, Church lane 
+<p>I e Mead lane, Wapping 
+<p>E f Mead row, Westminster road 
+<p>G f Meadow row, New Kent road 
+<p>E b Mecclenburgh square, Foundling hospital 
+<p>D f Medway street, HIorseferry road 
+<p>A b Melcombe place, Dorset square 
+<p>H f Mellick place, Russell street 
+<p>H e Mellior street, Snow's fields 
+<p>D d Mercer street, Long acre 
+<p>L d Mercer's place, Commercial road 
+<p>K d Mercer's lane, High street Shadwell 
+<p>N c Merchant's buildings, Limehouse cut 
+<p>F b Meredith street, St. John street 
+<p>F b Merlin's place, New river head 
+<p>E c Middle row, Holborn 
+<p>A e Middle row, Knightsbridge 
+<p>D a Middlesex street, Somer's town 
+<p>C c Middlesex hospital, Berner's street 
+<p>I a Middlesex terrace, Hackney road 
+<p>F b Middleton street, New river head 
+<p>F a Middleton square, St. John street road 
+<p>F a Middleton place, St. John street road 
+<p>L g Midway place, Deptford lower road 
+<p>A b Milburn terrace, Dorset square 
+<p>L h Mile end old and new town 
+<p>K c Mile end green, Whitechapel road 
+<p>M b Mile end road 
+<p>M b Mile end lock, Regent's canal 
+<p>G d Miles's lane, Upper Thames street 
+<p>H f Miles's row, Long lane 
+<p>E d Milford lane, Strand 
+<p>G c Milk street, Cheapside 
+<p>A g Military asylum (royal) King's road 
+<p>C f Military hospital, Rochester row 
+<p>C e Military hospital, York street 
+<p>C g Millbank dispensary, Baker's lane 
+<p>D f Millbank row, Westminster 
+<p>D f Millbank street, Westminster 
+<p>D g Millbank stairs, Millbank 
+<p>C d Mill street, Hanover square 
+<p>E f Mill street, Lambeth walk 
+<p>I e Mill street, Rotherhithe wall 
+<p>E b Millman street, Lamb's conduit street 
+<p>E b Millman street (north) Guildford street 
+<p>M d Mill place, Commercial road 
+<p>K f Millpond bridge, Rotherhithe 
+<p>K f Millpond, Rotherhithe 
+<p>K f Millpond row, Rotherhithe 
+<p>H e Mill lane, Tooley street 
+<p>O a Mill river 
+<p>I e Mill stairs, Rotherhithe 
+<p>C a Miller street, Camden town 
+<p>E a Mills' row, Knightsbridge 
+<p>A b Milton street, New road 
+<p>G c Milton street, Fore street 
+<p>H g Mina road, Kent road 
+<p>H d Mincing lane, Fenchurch street 
+<p>B f Minerva street, Eccleston street 
+<p>K a Minerva street, Hackney road 
+<p>H d Minories 
+<p>I d Mint (royal) Tower hill 
+<p>G e Mint street, Southwark bridge road 
+<p>G b Mitchell street, Brick lane 
+<p>F e Mitre street, Cobourg street 
+<p>G a Moffat street, City road 
+<p>A c Molyneux street, Bryanstone square 
+<p>G a Moneyers street, Provost street 
+<p>G c Monkwell street, Wood street 
+<p>D c Monmouth street, St. Giles's 
+<p>H g Monmouth street, Surrey square 
+<p>B g Monster place, Turpentine walk 
+<p>A c Montague house, Montague street 
+<p>D c Montague mews, Montague street 
+<p>D c Montague place, Bedford square 
+<p>A c Montague place, Montague square 
+<p>I c Montague street, Brick lane 
+<p>A c Montague street, Montague square 
+<p>A c Montague street(upper)Montague square 
+<p>D c Montague street, Russell square 
+<p>D b Montague street (upper) Russell square 
+<p>I c Montaguestreet (old)Whitechapel 
+<p>A c Montague square 
+<p>M b Montague terrace, Bow road 
+<p>G c Moor lane, Fore street 
+<p>E f Moor place, Walcot place 
+<p>E f Moor row, Walcot place 
+<p>A c Moor street, Seymour place 
+<p>D d Moor street, Soho 
+<p>G c Moorfields (little) Fore street 
+<p>H e Morgan lane, Tooley street 
+<p>K c Morgan street, Commercial road 
+<p>N b Morgan street, Tredegar square 
+<p>C a Mornington crescent, Hampstead road 
+<p>C a Mornington place, Hampstead road 
+<p>M e Morris's causeway, Rotherhithe 
+<p>L e Morrison's place, Clarence street 
+<p>C c Mortimer street, Cavendish square 
+<p>F f Morton street, Newington road 
+<p>B f Motcomb street, Wilton crescent 
+<p>O c Mount (the) Bromley 
+<p>B d Mount row, Grosvenor square 
+<p>F a Mount row, Liverpool road 
+<p>I b Mount street, Church lane 
+<p>B d Mount street, Grosvenor square 
+<p>K c Mount street, Whitchapel road 
+<p>E f Mount street, Westminster road 
+<p>I c Mulberry street, Commercial road 
+<p>C b Munster street, Clarence gardens 
+<p>D c Museum street, Bloomsbury 
+<p>D c Museum gardens, British museum 
+<p>L c Mutton lane, Mile end road 
+<p>K c Mutton row, Mile end road 
+<p>H a Myrtle street, Hoxton road 
+<p>M d Narrow street, Limehouse 
+<p>E e Narrow wall, Bridge road 
+<p>C c Nassau street, Middlesex hospital 
+<p>D d National gallery, Trafalgar square 
+<p>E c National school (Central) 
+<p>F e Navarino street, Cornwall road 
+<p>P d Naval row, Blackwall 
+<p>B g Neat house row, Baker's lane 
+<p>G g Neat houses, Grosvenor road 
+<p>I f Neckinger street, Neckinger road 
+<p>I f Neckinger road, Bermondsey 
+<p>G g Nelson place, Hawksbury place 
+<p>F e Nelson square, Great Surrey street 
+<p>K c Nelson street, Cannon street road 
+<p>G b Nelson street, City road 
+<p>I b Nelson street, Church lane 
+<p>I a Nelson street, Hackney road 
+<p>G e Nelson street, Long lane 
+<p>I a Nalson street Margaret street 
+<p>I g Nelson's head, Kent road 
+<p>F a Nelson's terrace, City road 
+<p>F e Neptune place, Upper Stamford sft 
+<p>I d Neptune street, Wellclose square 
+<p>K e Neptune street, Rotherhithe 
+<p>L e New court, Rotherhithe 
+<p>F e New cut, Blackfriars' road 
+<p>M d New cut, Church lane 
+<p>K a New grove, Oval, Hackney road 
+<p>E d New inn, St. Clement's 
+<p>H b New inn yard, Shoreditch 
+<p>I e New lane, Shad thames 
+<p>H a New north road 
+<p>F a New river 
+<p>F a New river head 
+<p>N c New river head tavern, Limehouse 
+<p>C b Newriverreservoir, Hampstead road 
+<p>F a New river terrace, City road 
+<p>B b New road 
+<p>A f New road, Chelsea 
+<p>D g New road, Millbank 
+<p>D g New road, Vauxhall bridge 
+<p>K c New street, Commercial road 
+<p>E g New street, Kennington lane 
+<p>F e New street, New cut 
+<p>G g New street, Richmond terrace 
+<p>F e New street, Bartholomew close 
+<p>H c New street, Bishopsgate street 
+<p>G e New street, Bridge street 
+<p>K c New street, Cannon street road 
+<p>G b New street, City road 
+<p>I e New street, Dockhead 
+<p>A b New street, Dorset square 
+<p>F c New street (great) Fetter lane 
+<p>F c New street (little) Fetter lane 
+<p>G f New street, Gloucester place 
+<p>D f New street, Horseferry road 
+<p>F g New street, Kennington 
+<p>L d New street, Lower Shadwell 
+<p>G e New street, Maze pond 
+<p>I c New street, Whitechapel road 
+<p>A e New street, North street 
+<p>K f New street, Neptune street 
+<p>G b New street, Old street 
+<p>D g New street, Princes street 
+<p>D b New street, Regent square 
+<p>D e New street, Spring gardens 
+<p>D d New street, St. Martin's lane 
+<p>A b New street mews, Dorset square 
+<p>F a New terrace, Broadway 
+<p>K c New terrace, Cannon street road 
+<p>A g New walk, Paradise row 
+<p>D f New way, Orchard street 
+<p>O d Newby place, High street 
+<p>E d Newcastle street, Strand 
+<p>I c Newcastle street, Whitechapel 
+<p>F c Newgate street, Old bailey 
+<p>F f Newington 
+<p>F f Newington butts 
+<p>G f Newington causeway, Newington road 
+<p>F g Newington place, Kennington 
+<p>F f Newington road 
+<p>C c Newman street, Oxford street 
+<p>D d Newport street, St. Martin's lane 
+<p>E c Newton street, High Holborn 
+<p>G a Newton street, New north road 
+<p>I b Nichol row, Church lane 
+<p>H a Nicholas street, New north road 
+<p>G d Nicholas lane, Lombard street 
+<p>H b Nicols street (north) Cock lane 
+<p>H b Nicols street (old) Cock lane 
+<p>I d Nightingale lane, East Smithfield 
+<p>G a Nile street, Provost street 
+<p>G f Nile street, Weymouth street 
+<p>G c Noble street, Aldersgate street 
+<p>G b Noble street, Goswell street 
+<p>N d Noble street, Poplar 
+<p>E b Noble street, Wilmington square 
+<p>H f Noel street, Bermondsey new road 
+<p>C c Noel street, Oxford street 
+<p>F f Norfolk place, St. George's road 
+<p>H b Norfolk place, Shoreditch 
+<p>K c Norfolk street, Cannon street road 
+<p>L b Norfolk street, Dog row 
+<p>C c Norfolk street, Globe lane 
+<p>D a Norfolk street, Maiden lane 
+<p>K b Norfolk street, Middlesex hospital 
+<p>A d Norfolk street, Park lane 
+<p>G e Norfolk street, Southwark Bridge road 
+<p>E d Norfolk street, Strand 
+<p>G b Norman street, Ironmonger row 
+<p>C c North crescent, Tottenham court road 
+<p>K a North Cretton place, Bethnal green 
+<p>C b North London hospital, Gower street 
+<p>A c North mews, Baker street 
+<p>E b North mews, Gray's inn lane 
+<p>E b North place (upper) Gray's inn Lane 
+<p>C a North place, Hampstead road 
+<p>H a North place, Kingsland road 
+<p>B d North row, Grosvenor square 
+<p>K a North street, Cambridge heath 
+<p>C c North street, Charlotte street 
+<p>I d North street, Church lane 
+<p>H b North street, City road 
+<p>E a North street, Collier street 
+<p>N d North street, E. I. dock road 
+<p>L b North street, Globe lane 
+<p>L a North street, Globe place 
+<p>L a North street, Green street 
+<p>A f North street (little) Han's place 
+<p>G g North street, Hawksbury place 
+<p>D f North street, St. John's church 
+<p>D a North street, Maiden lane 
+<p>B c North street, Manchester square 
+<p>K b North street (little) North street 
+<p>H b North street (new) Paul street 
+<p>E c North street (old) Red Lion square 
+<p>A e North street, Sloane street 
+<p>I c North street, Spitalfields market 
+<p>M c North street, Stepney 
+<p>E c North street (new) Theobald's road 
+<p>K b North street, Whitechapel road 
+<p>E f North street, York place 
+<p>H g Northampton street, Kent road 
+<p>G g Northampton street, North place 
+<p>F b Northampton street, St. John street 
+<p>D a Northam street, Wilsted street 
+<p>F b Northampton square St. John street road 
+<p>L a Norton street, Green street 
+<p>C b Norton street, New road 
+<p>H b Norton falgate, Bishopsgate street 
+<p>D d Northumberland house, Charing cross 
+<p>B b Northumberland street, New road 
+<p>D d Northumberland street, Strand 
+<p>F c Norwich court, Fetter lane 
+<p>B b Nottingham street, High street 
+<p>I a Nottingham street, Pearson street 
+<p>I c Nottingham place,Whitechapel road 
+<p>B b Nottingham place, New road 
+<p>G g Nottingham place, Trafalgar street 
+<p>F a Nowell's buildings, High street 
+<p>G g Nursery row, Nelson place 
+<p>F f Nursery row, St. George's road 
+<p>I b Oak street, Phoenix street 
+<p>I b Oakley street, Church lane 
+<p>E e Oakley street, Westminster road 
+<p>G c Oat lane, Wood street 
+<p>F f Obelisk, St. George's fields 
+<p>L c Ocean row, Stepney 
+<p>L c Ocean street, Stepney 
+<p>C c Ogle street, Foley street 
+<p>C c Ogle street (upper) Foley street 
+<p>F c Old bailey, Newgate street 
+<p>F d Old barge house stairs 
+<p>G d Old change, Watling street 
+<p>G d Old fish street, Upper Thares street 
+<p>G b Old street, St. Luke's <num value="28">28</num> 
+<p>H b Old street road, City road 
+<p>N a Oldford 
+<p>L a Oldford footpath bridge 
+<p>L a Oldford lock, Regent's canal 
+<p>M a Oldford road, Oldford 
+<p>L a Oldford road bridge, Regent's canal 
+<p>M b Oliver terrace, Mile end road 
+<p>I c Orange court, Whitechapel road 
+<p>L f Orange place, Deptford lower road 
+<p>F g Orange row, High street, Newington 
+<p>F e Orange street, Gravel lane 
+<p>D d Orange street, Leicester square 
+<p>E c Orange street, Red Lion square 
+<p>H a Orchard place, Kingsland road 
+<p>L d Orchard street, Broad street 
+<p>D f Orchard street, Dean street 
+<p>B c Orchard street, Portman square 
+<p>A g Orford place, Chelsea 
+<p>H g Orford row, Kent road 
+<p>A f Orford terrace, Whitehead's grove 
+<p>E b Ormond street (new) Lamb's conduit street 
+<p>E b Ormond street (great) Queen square 
+<p>E b Ormond place, Great Ormond street 
+<p>E b Ormond mews, Great Ormond street 
+<p>A g Ormond place, Paradise row 
+<p>I a Ormsby street, Pearson street 
+<p>F a Orphan school, City road 
+<p>E f Orphan asylum, Westminster road 
+<p>I c Osborn street, Whitechapel 
+<p>C b Osnaburg street, New road 
+<p>C b Osnaburg terrace. Albany road 
+<p>D a Ossulton street, Somers town 
+<p>F a Owen's place, Goswell street road 
+<p>K b Owen's row, the Dog row 
+<p>F a Owen's row, St. John street road 
+<p>C c Oxford market, Market street 
+<p>C c Oxford street 
+<p>K c Oxford street, Cannon street road 
+<p>D d Oxenden street, Haymarket 
+<p>B c Paddington street, High street, Marybone 
+<p>D f Page street, Holywell street 
+<p>H f Page's walk, Grange road 
+<p>M d Pageant's stairs, Rotherhithe 
+<p>B e Palace gardens, Grosvenor place 
+<p>E f Palace, New road, Bishop's walk 
+<p>C f Palace street William street 
+<p>D f Palace yard (old) Westminster 
+<p>D e Palace yard (new) Westminster 
+<p>D e Palace yard stairs, Westminster 
+<p>C e Pall mall, St. James 
+<p>D d Pall mall east, Charing cross 
+<p>L c Palmer street, Stepney 
+<p>C f Palmer'salms houses,Westminster 
+<p>C f Palmer's village, Westminster 
+<p>G d Pancras lane, Cheapside 
+<p>D a Pancras place, St. Pancras 
+<p>C b Pancras street,Tottenham court road 
+<p>A e Pantechnicon, Belgrave square 
+<p>C c Pantheon Bazaar, Oxford street 
+<p>D d Panton square, Coventry street 
+<p>D d Panton street, Haymarket 
+<p>I g Paper mills, Blue Anchor road 
+<p>D e Parade, St. James's park 
+<p>E a Parade, Pentonville 
+<p>E f Paradise place, High street 
+<p>K a Paradise row, Bethnal green 
+<p>A g Paradise row, Chelsea 
+<p>N f Paradise row, Deptford road 
+<p>D a Paradise row, Pancras 
+<p>K f Paradise row, Rotherhithe 
+<p>B e Paradise street, High street Marylebone 
+<p>E a Paradise street, Gray's Inn lane 
+<p>H b Paradise street, Paul street 
+<p>K e Paradise street, Rotherhithe 
+<p>G f Paragon, New Kent road 
+<p>G f Paragon row, Lock's fields 
+<p>F d Paris garden stairs, Bankside 
+<p>E f Paris street, Lambeth 
+<p>H e Parish street, Tooley street 
+<p>B b Park crescent, New road 
+<p>A e Park buildings, Knightsbridge 
+<p>A b Park lane (upper) Baker street 
+<p>A d Park lane, Oxford street 
+<p>A b i Park place (upper) Baker street 
+<p>I a Park place, Gloucester street 
+<p>H g Park place, East lane 
+<p>C e Park place, St. James's street 
+<p>E g Park row, Kennington lane 
+<p>B b Park square, Regent's park 
+<p>E g Park street, Chester place 
+<p>N d Park street, Commercial road 
+<p>A b Park street, Dorset square 
+<p>L a Park street, Globe place 
+<p>G d Park street (new) Great Guildford street 
+<p>B d Park street Grosvenor square 
+<p>A b Park street (upper) Milton street 
+<p>K b Park street, North street 
+<p>G e Park street, Bed cross street 
+<p>D e Park street, Westminster 
+<p>A b Park terrace, Regent's park 
+<p>B a Park village (east) Regent's park 
+<p>B a Park village (west) Regent's park 
+<p>I a Parker street, Pearson street 
+<p>E c Parker's lane, Drury lane 
+<p>I f Parker row, Neckinger road 
+<p>I f Parker's buildings, Spa road 
+<p>D f Parliament stairs, Old Palace yard 
+<p>K b Parliament street, the Dog row 
+<p>D e Parliament street, Westminster 
+<p>I d Parson's street Wellclose square 
+<p>F c Paternoster row, St. Paul's church yard 
+<p>I c Paternoster row, Spitalfields 
+<p>I b Patience street, Wheeler street 
+<p>K a Patriot row, Bethnal green 
+<p>K a Patriot square, Bethnal green 
+<p>K c Patriot street, Commercial road 
+<p>L c Patter's street, Stepney 
+<p>H b Paul street, Finsbury square 
+<p>H b Paul square, Paul street 
+<p>G c Paul's alley, Aldersgate street 
+<p>F d Paul's chain, St. Paul's churchyard 
+<p>F d Paul's wharf, Upper Thames street 
+<p>A f Pavillion, Hans' place 
+<p>A f Pavillion street, Sloane street 
+<p>E a Payne street, Pentonville 
+<p>F g Peacock street,High street Newington 
+<p>G b Pear tree street, Goswell street 
+<p>E e Pear tree street, Lambeth marsh 
+<p>N c Pearl ash manufactory, Limehouse 
+<p>E b Pearl crescent, lwr. road Pentonville 
+<p>F e Pearl row, Borough road 
+<p>I b Pearl street (great) Wheeler street 
+<p>K d Pearl street, New Gravel lane 
+<p>I a Pearson street, Kingsland road 
+<p>E e Pedlar's acre, Bridge road 
+<p>G b Peerless pool, City road 
+<p>I c Pelham street, Spitalfields 
+<p>L e Pelican stairs, W apping wall 
+<p>I d Pell street, Ratcliff highway 
+<p>C f Pembroke place Vauxhall bridge road 
+<p>D g Penitentiary house, Millbank 
+<p>K d Pennington street Ratcliff highway 
+<p>N d Pennyfield street, High street 
+<p>E a Pentonville 
+<p>E a Penton place, Pentonville 
+<p>F g Penton place, Walworth 
+<p>G g Penton row, Walworth road 
+<p>E a Penton street, Pentonville 
+<p>F g Penton street, Penton place 
+<p>G e Pepperstreet,Southwarkbridge road 
+<p>F b Percival street, Goswell street 
+<p>C c Percy street, Tottenham court road 
+<p>D f Perk row, (great) Peter street 
+<p>D a Perry street, St. Pancras 
+<p>I b Peter street, Church lane 
+<p>D f Peter street, (little) GreatPeter street 
+<p>D f Peter street, (great) Horseferry road 
+<p>D f Peter street, (new) Horseferry road 
+<p>F c Peter street, (great) Saffron hill 
+<p>G e Peter street, Southwark bridge road 
+<p>H c Peter street, Sun street 
+<p>C d Peter street, Wardour street 
+<p>F c Peter's lane, Smithfield bars 
+<p>H c Petticoat lane, Whitechapel 
+<p>G c Phillip lane, London wall 
+<p>E d Pickett street, Temple bar 
+<p>H e Pickle herringstreet, Potter'sfields 
+<p>H e Pickle herring stairs, Tooley street 
+<p>F a Pierre point buildings, Broadway 
+<p>F a Pierre point row, Broadway 
+<p>E g Pilgrim street, Kennington lane 
+<p>F d Pilgrim street, Ludgate street 
+<p>C f Pimlico 
+<p>H a Pimlico walk, Hoxton road 
+<p>H b Pitfield street, Old street road 
+<p>I f Pitman's place, Spa road 
+<p>K b Pitt street, Bethnal green road 
+<p>C c Pitt street, Charlotte street 
+<p>H f Pitt street, Kent road 
+<p>F f Pitt street, St. George's road 
+<p>F f Philantrophic inst. London road 
+<p>K d Philip street, Church road 
+<p>I d Philipst., Churchln.,Whitechapel 
+<p>H a Philip street, Kingsland road 
+<p>K c Philpot street, Commercial road 
+<p>H d Philpot lane, Fenchurch street 
+<p>H b Phipp street, Curtain road 
+<p>N d Phoebe street, Limehouse causeway 
+<p>G g Phoenix place, Trafalgar street 
+<p>D a Phoenix street, Clarendon square 
+<p>I b Phoenix street, Brick lane 
+<p>D c Phoenix street, Crown street St. Giles's 
+<p>F g Place row, Newington place 
+<p>G b Playhouse yard, Golden lane 
+<p>I b Pleasant place, Bethnal green road 
+<p>L a Pleasant place, Bonner street 
+<p>I c Pleasant row, Church street 
+<p>F g Pleasant row. Kennington lane 
+<p>H a Pleasant row, Kingsland road 
+<p>F f Pleasant row, Newington 
+<p>B b Pleasant row, New road 
+<p>E a Pleasant row, Pentonville 
+<p>G g Pleasant row, South street 
+<p>M b Plough, Mile end road 
+<p>L f Plough road, Deptford road 
+<p>P e Plough tavern, Blackwall 
+<p>M f Plough (the) Plough road 
+<p>G a Plumber street, City road 
+<p>K c Plumber's street, Commercial road 
+<p>H b Plum pudding row, Sh:oreditch 
+<p>I c Plumtree row, Whitechapel road 
+<p>D c Plumtree street, Bloomsbury 
+<p>C c Poland street, Oxford street 
+<p>I b Pollard's row, Bethnal green road 
+<p>K b Pollard street, Bethnal green road 
+<p>D a Polygon Clarendon square 
+<p>G d Pond street, Bankside, Southwark 
+<p>A f Pont street, Cadogan square 
+<p>L e Pool (the) Wapping 
+<p>G a Poole street, New north road 
+<p>G b Poole terrace City road 
+<p>N d Poplar 
+<p>G f Poplar row, New Kent road 
+<p>D d Porter street, Newport market 
+<p>B b Portland place, Park crescent 
+<p>C b Portland road, New road 
+<p>L e Portland street, Commercial road 
+<p>C c Portland stieet (little) Great Titchfield street 
+<p>G f Portland street, New Kent road 
+<p>C c Portland street (great) Portland road 
+<p>G g Portland street, Trafalgar street 
+<p>C c Portland street, Wardour street 
+<p>B c Portman barracks, Portman street 
+<p>B c Portman square 
+<p>B c Portman street, Portman square 
+<p>E c Portsmouth street, Lincoln's inn fields 
+<p>F g Portsmouth place, Kennington Lane 
+<p>E c Portpool lane, Gray's inn lane 
+<p>E c Portugal row, Lincoln's inn fields 
+<p>E c Portugal street, Lincoln's inn fields 
+<p>B d Portugal street, Mount street 
+<p>G c Post office (new) St. Martin's le grand 
+<p>H d Postern row, Great tower hill 
+<p>H f Potier's street, Bermondsey new road 
+<p>G d Poultry, Cheapside 
+<p>G d Pountney lane, (great) Cannon street 
+<p>K b Pot's street, Bethnai green road 
+<p>G e Pott's vinegar yard, Bridge street 
+<p>H e Potter's fields, Tooley street 
+<p>K a Potter's row, Russia lane 
+<p>F b Powell street, King square 
+<p>E b Powis place, Queen square 
+<p>E g Pownall terrace, Walcot place 
+<p>C a Pratt place, E-ampstead road 
+<p>E f Pratt street, Church street 
+<p>D a Pratt's buildings, St. Pancras 
+<p>I d Prescot street (greaty Goodman's fields 
+<p>I d Prescot street (little) Goodman's fields 
+<p>F b President street, King square 
+<p>F e Price's street, Gravel lane 
+<p>K b Primrose street, Bethnal green road 
+<p>H c Primrose street, Bishopsgate street without 
+<p>A a Primrose hill road, Regent's park 
+<p>I c Prince's street, Brick lane, Spitalfields 
+<p>F g Prince's buildings, Prince'ssquare 
+<p>G g Prince's street, Camden street 
+<p>C c Prince's street, Cavendish square 
+<p>C f Prince's street, Chelsea road 
+<p>H b Prince's street, Finsbury square 
+<p>C c Prince's street, Hanover square 
+<p>E c Prince's street, Lincoln's inn fields 
+<p>E c Prince'sstreet,(little) Little Queen street 
+<p>G c Prince's street, Lothbury 
+<p>K d Prince's street, Prince's square 
+<p>E c Prince's street, Red Lion square 
+<p>I d Prince's street, Rosemary lane 
+<p>K e Prince's street, Rotherhithe 
+<p>F f Prince's street, St. George's road 
+<p>F b Prince's street; St. John street 
+<p>D d Prince's street, Soho 
+<p>L c Prince's street, Stepney 
+<p>F e Prince's street, Stamford street 
+<p>F e Prince's street,(Upper) Stamford street 
+<p>D e Prince's street, Westminster 
+<p>D g Prince's street, Vauxhall 
+<p>I c Prince's street, Whitechapel road 
+<p>F g Prince's square, Kennington 
+<p>K d Prince's square, Ratcliff highway 
+<p>K e Prince's stairs, Rotherhithe 
+<p>E g Prince's road, Walcot place 
+<p>E g Prince's place, Walcot place 
+<p>F g Prince's place, Prince's square 
+<p>I f Prince's place, Rotherhithe 
+<p>H g Prior place, Park place 
+<p>F b Prison (new) Clerkenwell 
+<p>K a Pritchard's road, Hackney road 
+<p>A e Private road, Hyde park 
+<p>D e Privy gardens, Whitehall 
+<p>K e Projected tunnel undertheThames 
+<p>G f Prospect street, Walworth road 
+<p>N c Prospect place, Bow common 
+<p>O b Prospect place, Bromley 
+<p>O b Prospect place, (new) Bromley 
+<p>I f Prospect tow, Neckinger road 
+<p>K f Prospect place, Rotherhithe 
+<p>E b Prospect place, Wellington square 
+<p>I f Prospect row, Blue anchor road 
+<p>K a Prospect row, Russia lane 
+<p>I d Providence street, Commercial road 
+<p>H g Providence street, Walworth common 
+<p>E g Providenceplace,Kennington lane 
+<p>H b Providence row, Finsbury square 
+<p>L f Providence island 
+<p>G a Provost street, Hoxton new town 
+<p>H d Pudding lane, Lower Thames street 
+<p>F d Puddle dock, Upper Thames street 
+<p>C d Pultney street (great) Golden square 
+<p>C d Pultney street (little)Wardour street 
+<p>K b Punderson's street, Bethnal green road 
+<p>D f Pye street (old)Great St.Ann's street 
+<p>D f Pye street (new) Orchard street 
+<p>C d Quadrant, Regent's street 
+<p>I b Quaker street, Brick lane 
+<p>A c Quebeck street (great) New road 
+<p>A c Quebeck street Oxford street 
+<p>A c Quebeck street (north) Portman square 
+<p>A c Quebeck mews, Great Quebeck street 
+<p>G d Queenhithe stairs, Upper Thames street 
+<p>B d Queenhithe, Upper Thames street 
+<p>B c Queen Ann street (west) Cavendish square 
+<p>K c Queen Ann street,Whitechapel road 
+<p>D b Queen square 
+<p>C e Queen square chapel, Queen square 
+<p>C e Queen square, St. James's park 
+<p>E g Queen street, Barratt street 
+<p>A c Queen street, Bryanston square 
+<p>H b Queen street, Charles square 
+<p>G d Queen street, Cheapside 
+<p>I c Queen street, Church street 
+<p>L d Queen street, Commercial docks 
+<p>B d Queen street, Curzon street 
+<p>A c Queen street, Edgware road 
+<p>C d Queen street, Golden square 
+<p>B g Queen street, Grosvenor row 
+<p>F e Queen street, Higgler's lane 
+<p>E c Queen street (little) Holborn 
+<p>I e Queen street, Horselydown 
+<p>G e Queen street, King street 
+<p>M d Queen street, Limehouse 
+<p>E c Queen street (great) Lincoln's inn fields 
+<p>A f Queen street, North street 
+<p>B d Queen street, Oxford street 
+<p>C c Queen street, Oxford street 
+<p>I d Queen street, Rosemary lane 
+<p>K e Queen street, Rdtherhithe 
+<p>M e Queen street (lower) Rotherhithe <num value="31">31</num> 
+<p>D Queen street, <num value="7">Seven</num> dials 
+<p>D c Queen street, Soho square 
+<p>G e Queen street, Southwark bridge road 
+<p>L c Queen street, Stepney 
+<p>G g Queen street, Walworth 
+<p>D e Queen street, Westminster 
+<p>H b Queen street, Worship street 
+<p>A f Queen's gardens, North street 
+<p>H a Queen'sheadwalk, Kingsland road 
+<p>E g Queen's place, New street 
+<p>C e Queen's walk, Green park 
+<p>C f Queen's row, Chelsea road 
+<p>K b Queen's row, Dog row 
+<p>H a Queen's row, Hoxton road 
+<p>A e Queen's row, Knightsbridge green 
+<p>F g Queen's row, Newington place 
+<p>E a Queen's row, Pentonville 
+<p>M e Queen's wharf, Rotherhithe 
+<p>G b Radcliffe row, Bath street 
+<p>F b Radcliffe street, Northampton square 
+<p>G b Radnor street, Bath street,City road 
+<p>F a Rahere street, Goswell street road 
+<p>I b Ramsey street, Bethnal green 
+<p>M f Randall's rents, Deptford 
+<p>B g Ranelagh grove, Chelsea 
+<p>B g Ranelagh house, Chelsea hospital 
+<p>B g Ranelagh street, Commercial road 
+<p>B f Ranelagh street, Ebury street 
+<p>C g Ranelagh road (new)Neat louses 
+<p>I b Rusby street, Church street 
+<p>L d Ratcliff cross stairs 
+<p>K d Ratcliff highway 
+<p>L d Ratcliff square, Commercial road 
+<p>C c Rathbone place, Oxford street 
+<p>C c Rathbone place (little) Rathbone place 
+<p>K c Raven street, Mile end green 
+<p>F a Rawstone street, St. John street road 
+<p>F b Ray street, Clerkenwell green 
+<p>A g Rayner place, Green row 
+<p>E c Raymond's build. Gray's inn garden 
+<p>C e Recruit house, Queen square 
+<p>K b Red Cdw lane, Bethnal green 
+<p>G e Red Cross street, Borough 
+<p>G c Red Cross street, Barbican 
+<p>G f Red Cross alley, Kent street 
+<p>M g Red House wharf, Dertford 
+<p>I c Red Liori court, Red Lion street, Slitalfields 
+<p>L g Red Lion, Deptford lower road 
+<p>E c Red Lion passage, Red Lion square 
+<p>D a Red Lion place, St. Pancras 
+<p>E c Red Liori square, lHolborn 
+<p>F b Red Lion street, Clerkenwell green 
+<p>E c Red Lion street, Holborn 
+<p>I c Red Lion street, Spitalfields 
+<p>K e Red Lion street, Wapping street 
+<p>I c Red Lion street, Whitechapel 
+<p>L c Redman's row, Stepney green 
+<p>B d Reeve's mews, South Audley street 
+<p>H a Reeve's place, Hoxton road 
+<p>F g Regency place, Kennington lane 
+<p>C c Regent circus, Oxford street 
+<p>C d Regent circus, Piccadilly 
+<p>L b Regent place, Globe lane 
+<p>D b Regent square, Gray's inn lane 
+<p>C d Regent street, Piccadilly 
+<p>O d Regent street, Blackwall 
+<p>G a Regent street, City road 
+<p>N d Regent street, Limehouse causeway 
+<p>D f Regent street, Horseferry road 
+<p>M b Regent street, Mile end road 
+<p>C c Regent street, Oxford street 
+<p>E g Regent street, Prince's road 
+<p>E a Regent's canal 
+<p>N e Regent's docks, Isle of dogs 
+<p>B a Regent's park 
+<p>G a Regent's terrace, Regent's canal 
+<p>H a Rempstone place, New north road 
+<p>H f Rephidim street, Hunter street 
+<p>E a Reservoir, Pentonville 
+<p>C a Rhodes farm, Hampstead road 
+<p>M e Rhodes well common, Stepney 
+<p>M c Rhodes well road, Stepney 
+<p>N d Rich street, Commercial road 
+<p>K c Richard street, Commercial road 
+<p>F a Richard street, Pentonville 
+<p>M c Richard street, Stepney 
+<p>L f Richard place, Deptford Lower road 
+<p>H e Richardson street, Long lane 
+<p>K c Richardson street, Oxford street 
+<p>G b Richmond street, Bath street 
+<p>G g Richmond street, Trafalgar street 
+<p>G g Richmond terrace, East lane 
+<p>D e Richmond terrace, Parliament street 
+<p>C c Riding house lane, Great Titchfield street 
+<p>K b Rinton street, Bethnal green 
+<p>F a River street, Middleton square 
+<p>D d Robert street, Adelphi 
+<p>E b Robert street, Bedford row 
+<p>I b Robert street, Bethnal green road 
+<p>F e Robert street, Charles street 
+<p>H a Robert street, Haberdasher's walk 
+<p>C a Robert street, Hampstead road 
+<p>N e Robert street, Isle of dogs 
+<p>E e Robert street, Lambeth marsh 
+<p>K c Robert's place, Commercial road 
+<p>O d Robin Hood lane, Poplar 
+<p>C f Rochester street, Rochester row 
+<p>C f Rochester row, Vincent square 
+<p>G f Rockingham row, New Kent road 
+<p>G f Rodney buildings, New Kent road 
+<p>E a Rodney place, Rodney street 
+<p>G f Rodney row, New Kent road 
+<p>E a Rodney street, Pentonville 
+<p>M b Rodney terrace, Bow road 
+<p>M b Rodneyterrace east, Mile end road 
+<p>E g Roger's street, Tyer street 
+<p>E c Roll's gardens, Chancery lane 
+<p>E c Roll's inn, Chancery lane 
+<p>D f Romney street, Marsham street 
+<p>H d Rood lane, Fenchurch street 
+<p>M d Ropemaker's street, Church lane 
+<p>G b Rope walk, Brick lane 
+<p>G c Rope maker's street, Finsbury 
+<p>F b Rosamond street, New prison 
+<p>F b Rosamond street (upper) New river head 
+<p>F b Rosamond place, New river head 
+<p>M d Rose lane, Commercial road 
+<p>I c Rose lane, Wentworth street 
+<p>D d Rose passage, Long acre 
+<p>G b Rose street, Brick lane 
+<p>I b Rose street, Church lane 
+<p>L b Rose street, Globe lane 
+<p>D c Rose street, Soho square 
+<p>I d Rosemary lane, East Smithfield 
+<p>I e Ross alley, Shad thames 
+<p>K f Rotherhithe 
+<p>K e Rotherhithe church 
+<p>L e Rotherhithe street, Rotherhithe 
+<p>K e Rotherhithe stairs, Rotherhithe 
+<p>I e Rotherhithe wall 
+<p>F e Roupell street, Broadwall 
+<p>L c Rowland's row, Stepney green 
+<p>Q d Royal Exchange, Cornhill 
+<p>E f Royal street, Paris street 
+<p>G b Rotten row, Old street road 
+<p>F d Rotunda, Blackfriar's bridge 
+<p>I d Rupert street, Goodman's fields 
+<p>D d Rupert street, Haymarket 
+<p>L b Rural place, Mile end 
+<p>E d Russell court, Drury lane 
+<p>C b Russell place, Howland street 
+<p>D b Russell square 
+<p>H e Russell street (upper) Bermondsey street 
+<p>H e Russell street, Bermondsey street 
+<p>D c Russellst. (great)Bloomsbury square 
+<p>D c Russell street (little) Bloomsbury 
+<p>E d Russell street, Covent garden 
+<p>M f Russell street, Deptford road 
+<p>E d Russell street (little) Drury lane 
+<p>L e Russell's mill stairs, Rotherhithe 
+<p>K a Russia lane, Hackney road 
+<p>F d Rutland place, Upper Thames street 
+<p>K c Rutland street, Cannon street road 
+<p>K c Rutland street, Sidney street 
+<p>C a Rutland street, Hampstead road 
+<p>C d Ryder street (great) St. James's street 
+<p>C e Ryder street (little) St. James'sstreet 
+<p>D d St. Alban's place, Regent street 
+<p>E f St. Alban's street, Walcot place 
+<p>D c St. Andrew street (great) <num value="7">Seven</num> dials 
+<p>F d St. Andrew's hill, Earl street 
+<p>G f St. Andrew's road Horsemonger lane 
+<p>M d St. Ann's church, Limehouse 
+<p>D d St. Ann's church, Soho 
+<p>M d St. Ann's place, Commercial road 
+<p>N d St. Ann's row, Commercial road 
+<p>D f St. Ann's street (grt.) Great Peter street 
+<p>M d St. Ann's street, Commercial road 
+<p>F d St. Bride's church, Fleet street 
+<p>I e St. Catherine's, Tower hill 
+<p>B a St. Catherine's church and almshouses, Regent's park 
+<p>I d St. Catherine's dock, Tower hill 
+<p>I e St. Catherine's stairs 
+<p>E d St. Clement's church, Strand 
+<p>H d St. Dunstan's hill, Great Tower street 
+<p>G e St. George's church, Borough 
+<p>K d St. George's church, Cannon street 
+<p>B e St. George's hosp., Hyde park corner 
+<p>F f St. George's mall, Westminster road 
+<p>B g St. George's place, Willow walk 
+<p>F f St. George's road, Lambeth road 
+<p>G f St. George's road, New Kent road 
+<p>B g St. George's row, Turpentine walk 
+<p>D a St. Giles's chapel, Pancras 
+<p>D c St. Giles's church, St. Giles's 
+<p>H e St. Helen's place, Bishopsgate street 
+<p>L g St. Helena gardens, Deptford 
+<p>C a St. James's chapel, Hampstead road 
+<p>C e St. James's palace 
+<p>C e St. James's park 
+<p>C c St. James's place, St. James's street 
+<p>C b St. James's place, Hampstead road 
+<p>C d St. James's street, Piccadilly 
+<p>C d St. James's square 
+<p>F b St. James's walk, Clerkenwell 
+<p>F b St. John street, Smithfield <num value="33">33</num> 
+<p>I b St. John street, Brick lane 
+<p>F b St. John street road, Islington 
+<p>H e St. John's church, Horselydown 
+<p>D f St. John's church, Westminster 
+<p>F b St. John's lane, St. John's square 
+<p>B a St. John's lodge, Regent's park 
+<p>F b St. John's square, St. John's street 
+<p>O a St. Leonard's church, Bromley 
+<p>G b St. Luke's church, Old street 
+<p>G b St. Luke's hospital, Old street 
+<p>G a St. Luke's workhouse, City road 
+<p>D e St. Margaiet street, Westminster 
+<p>D e St. Margaret's church, Westminsti 
+<p>G d St. Mary Abchurch, Abchurch lane 
+<p>H c St. Mary-axe, Leadenhall street 
+<p>H c St. Mary-axe (little) Houndsditch 
+<p>B b St. Marylebone new church, New road 
+<p>B b St. Marylebone workhouse, New road 
+<p>G d St. Mary-le-bow, Cheapside 
+<p>O a St. Mary-le-bow church, Bow 
+<p>E d St. Mary-le-strand, Strand 
+<p>H e St. Mary Magdalen, Bermondsey 
+<p>H f St.MaryMagdalen,Bermondsey street 
+<p>G d St. Mary Overs stairs, Bankside 
+<p>G e St. Mary Overs church, Wellirigton street 
+<p>K f St. Mary Rotherhithe 
+<p>E f St. Mary's church, Lambeth 
+<p>F f St. Mary's church, Newington butts 
+<p>H d St. Mary's hill, Lower Thames street 
+<p>D d St. Martin's church, St.Martin's lane 
+<p>D d St. Martin's lane, Charing cross 
+<p>G d St. Martin's lane, Cannon street 
+<p>D d St. Martin's street, Leicester square 
+<p>I b St. Matthew's church, Bethnal gn; 
+<p>K a St. Matthew's place, Hackney d.; 
+<p>H e St; Olave's church, Tooley street 
+<p>D a St. Pancras 
+<p>D b St.Pancras new church, Euston square 
+<p>D a St. Pancras old church and church yard 
+<p>F d St. Paul's cathedral 
+<p>F c St. Paul's church-yard 
+<p>D d St. Paul's church, Covent garden 
+<p>L d St. Paul's church; Upper Shadwell 
+<p>G g St. Peter street, Portland street 
+<p>B f St. Peter's church, Grosvenor road 
+<p>F d St. Peter's church, Upper Thames street 
+<p>G g St. Peter's church, Walworth 
+<p>G d St. Peter's hill, Upper Thames street 
+<p>G e St. Saviour's church, Southwark 
+<p>I e St. Saviour's dock, Bermondsey 
+<p>G d St. Saviour's dock, Southwark 
+<p>G d St. Stephen's church, Walbrook 
+<p>G d St. Swithin's church, Cannon street 
+<p>G d St. Swithin's lane Lombard streeet 
+<p>G d St. Thomas apostle (great) Queen street, Cheapside 
+<p>G d St. Thomas apostle (little) Queen street, Cheapside 
+<p>G e St. Thomas's hospital, St. Thomas's street 
+<p>G e St. Thomas's street, Wellington street 
+<p>L c St. Vincent street, Stepney 
+<p>C d Sackville street, Piccadilly 
+<p>F a Saddler's Wells Theatre, New River Head 
+<p>F c Saffron hill, Hatton wall 
+<p>F b Saffron hill (little) Saffron hill 
+<p>B b Salcombe place, Regent's park 
+<p>K b Sale street, Bethnal green road 
+<p>G f Salisbury street, Lock's fields 
+<p>H a Salisbury street, New north road 
+<p>F d Salisbury court, Fleet street 
+<p>G g Salisbury crescent, Lock's fields 
+<p>I e Salisbury lane, Rotherhithe Wall 
+<p>A b Salisbury place, New road 
+<p>K f Salisbury place, Rotherhithe 
+<p>F d Salisbury square, Fleet street 
+<p>E d, Salisbury stairs, Salisbury street 
+<p>K e Salisbury street, Rotherhithe wall 
+<p>E d Salisbury street, Strand 
+<p>M c Salmon lane, Limehouse 
+<p>K d Samuel street, Cannon street road 
+<p>I c Samuel street, Spitalfields 
+<p>A c Samuel street, Stepney 
+<p>I b Samwell street, Church lane 
+<p>L f Sarah place, King's road 
+<p>G g Sarah-ann street,Walworth new town 
+<p>I b Satchwell row, Church lane 
+<p>P g Saunders' ness, Isle of dogs 
+<p>E f Saunders' place, Union street 
+<p>H d Savage gardens, Trinity square 
+<p>E f Saville place, Lambeth walk 
+<p>G g Saville place, Walworth road 
+<p>M b Saville row, Mile end road 
+<p>C d Saville street, Burlington gardens 
+<p>E d Savoy wharf, Waterloo bridge 
+<p>G a Saw mills, Regent's canal 
+<p>L d Schoolhouse lane, Broad street 
+<p>I b Sclater street, Brick lane 
+<p>D e Scotland yard, Whitehall 
+<p>K b Scott street, North street 
+<p>K b Seabright lane, Bethnal green road 
+<p>K a Seabright place, Hackney road 
+<p>K a Seabright street, Hackney road 
+<p>F c Seacoal lane, Skinner street 
+<p>K b Selby street, Bethnal green 
+<p>E c Serle street, Lincoln's-inn fields 
+<p>F a Sermon lane, Pentonville 
+<p>A e Serpentine river, Hyde park 
+<p>F b Sessions house, Clerkenwell green 
+<p>G f Sessions house, Newington causeway 
+<p>F c Sessions house, Old bailey 
+<p>H d Seething lane, Great Tower street 
+<p>D c <num value="7">Seven</num> dials, St. Giles's 
+<p>L f <num value="7">Seven</num> houses, Deptford lower road 
+<p>K f <num value="7">Seven</num> islands, Rotherhithe 
+<p>K b Severn place, Dog row 
+<p>I d Severn street Church lane Whitechapel 
+<p>G b Seward street, Goswell street 
+<p>D c Seymour crescent, Euston square 
+<p>A c Seymour street (<num value="4">4</num>pper) Edgware road 
+<p>A c Seymour place, Bryanstone square 
+<p>D b Seymour place, Euston square 
+<p>D a Seymour place (north) Euston square 
+<p>G g Seymour place, Walworth new town 
+<p>B c Seymour street (lower) Portman square 
+<p>C a Seymour street, Somer's town 
+<p>L d Shadwell (upper) 
+<p>L d Shadwell (lower) 
+<p>L d Shadwell dock stairs 
+<p>L d Shadwell market 
+<p>I e Shad thames, Horselydown 
+<p>C f Shaftsbury terrace, Chelsea road 
+<p>K d Shakspeare's walk, High street Shadwell 
+<p>I a Shap street, Pearson street 
+<p>E b Sharp square, Spafields 
+<p>E b Sharp street, Sharp square 
+<p>B c Shepherd street, Oxford street 
+<p>M d Shepherd and dog stairs 
+<p>B e Shepherd's market, Curzon street 
+<p>G d Sherborn lane, Lombard street 
+<p>C d Sherrard street, Golden square 
+<p>F f Ship lane, Walcot place 
+<p>K e Ship street, King street 
+<p>O e Ship yard, Blackwall 
+<p>P d Ship yard, Blackwall 
+<p>L e Shipwright street, Rotherhithe 
+<p>E c Shire lane, Fleet street 
+<p>F c Shoe lane, Fleet street 
+<p>F d Shoemaker's row, Ludgate hill 
+<p>H b Shoreditch 
+<p>H a Shoreditch workho., Kingsland road 
+<p>F e Short street, New cut 
+<p>H b Short street, Shoreditch 
+<p>I d Short street, Wellclose square 
+<p>D c Short's gardens, Drury lane 
+<p>E d Shot manufactory, Cuper's bridge 
+<p>E d Shot manufactory,Waterloo bridge A-c Shouldham street, Bryanstone square 
+<p>E b Sidmouth street, Regent square 
+<p>F a Sidney grove, City road 
+<p>K c Sidney place, Commercial road 
+<p>F a Sidney street, City road 
+<p>C a Sidney street, Clarendon street 
+<p>K c Sidney street, Commercial road 
+<p>L a Sidney street, Green street 
+<p>D d Sidney's alley, Leicester square 
+<p>D c Silver street, Bloomsbury 
+<p>L b Silver street, Globe lane 
+<p>C d Silver street, Golden square 
+<p>K e Silver street, King street, Wapping 
+<p>L c Silver street, Stepney 
+<p>G c Silver street, Wood street, Cheapside 
+<p>H g Sion place, East lane 
+<p>G d Size lane, Cheapside 
+<p>D a Skinner place, Skinner street 
+<p>H c Skinner street, Bishopsgate street without 
+<p>D a Skinner street, New road 
+<p>F b Skinner street, St. John street 
+<p>F c Skinner street, Snow hill 
+<p>M g Skinner's buildings, Lower road, Deptford 
+<p>A g Sloane square, Chelsea 
+<p>A f Sloane street, Chelsea 
+<p>N a Sloane street, Oldford 
+<p>A g Sloane street (lower) Sloane square 
+<p>A f Sloane terrace, Sloane street 
+<p>L d Sluice street, Commercial docks 
+<p>D a Small pox hospital, Battle bridge 
+<p>L a Smart street, Green street 
+<p>I f Smith place, Neckinger road 
+<p>D f Smith street (great) Dean street 
+<p>A g Smith street, King's road 
+<p>F b Smith street, Northampton square 
+<p>F b Smith street (upper) Northampn. square 
+<p>D a Smith street, St. Pancras 
+<p>L c Smith street, Stepney 
+<p>F c Smithfield bars 
+<p>I d Smithfield (east) 
+<p>F c Smithfield (west) 
+<p>H c Smock alley, Petticoat lane 
+<p>F c Snow hill 
+<p>H e Snow's fields, Bermondsey street 
+<p>D c Soho square 
+<p>E a Soley terrace, Amwell street <num value="35">35</num> 
+<p>D a Somer's bridge, Regent's canal 
+<p>I f Somer's place, Blue Anchor road 
+<p>D a Somer's place, New road 
+<p>F b Somer's street, Back hill 
+<p>D a Somer's town 
+<p>K b Somerford street, North street 
+<p>E d Somerset house, Strand 
+<p>E d Somerset house terrace 
+<p>H a Somerset place, New north road 
+<p>B c Somerset street, Portman square 
+<p>I c Somerset street, Whitechapel 
+<p>E g South London water works 
+<p>I b South street, Bethnal green road 
+<p>H c South street, Finsbury place 
+<p>A g South street, King's road 
+<p>E f South street, Lambeth terrace 
+<p>B c South street, Manchester square 
+<p>I c South street, Spitalfields market 
+<p>G g South street, Trafalgar street 
+<p>B d South street, South Audley street 
+<p>G e South street, Southwark square 
+<p>F f South street, West square 
+<p>B d South Audley street, Grosvenor square 
+<p>N d South-east row, E. I. Dock road 
+<p>B d South Moltou street, Oxford street 
+<p>B d South Molton lane, Oxford street 
+<p>D c South crescent, Store street 
+<p>B c South mews, Portman street 
+<p>L a South parade, West street 
+<p>D b South place, New road 
+<p>B b South villa, Regent's park 
+<p>C a Southampton arms, Hampstead road 
+<p>E c Southampton buildings, Holborn 
+<p>D a Southampton crescent, Seymour street 
+<p>D c Southampton mews, Southampton row 
+<p>C b Southampton place, New road 
+<p>C a Southampton row, Hampstead road 
+<p>D c Southampton row, Russell square 
+<p>D c Southampton street, Bloomsbury square 
+<p>C b Southampton street, Fitzroy square 
+<p>C a Southampton street Hampstead road 
+<p>K b Southampton street, North street 
+<p>E a Southampton street, Pentonville 
+<p>D d Southampton street, Strand 
+<p>G e Southwark 
+<p>G d Southwark bridge 
+<p>G e Southwark bridge road 
+<p>F f Southwark bridge road 
+<p>G e Southwark chapel, Long lane 
+<p>G e Southwark square, Bridge street 
+<p>I f Spa road, Bermondsey 
+<p>B c Spanish place, Manchester square 
+<p>H e Sparrick's row, Snow's fields 
+<p>D b Speldhurst street, Burton crescen 
+<p>K d Spencer street, Church road 
+<p>F a Spencer street, Goswell street road 
+<p>I b Spicer street, Brick lane 
+<p>H c Spital square, Bishopsgate street without 
+<p>I b Spital street, Brick lane 
+<p>I c Spitalfields market 
+<p>K b Spitalfields workho., Bethnal green 
+<p>N d Spread eagle street, Gun lane 
+<p>D d Spring gardens, Charing cross 
+<p>L b Spring grove, Mile end 
+<p>N c Spring place, Bromley new town 
+<p>A c Spring street, Crawford street 
+<p>A c Spring street (upper) Crawford street 
+<p>L d Spring street, Upper Shadwell 
+<p>E b Spring street, Wilmington square 
+<p>D d Spur street, Leicester square 
+<p>I b Squirries street, Bethnal green road 
+<p>E c Stable place, Great Queen street 
+<p>C e Stable yard, St. James's 
+<p>C f Stafford place, Charles street 
+<p>C e Stafford row, King's palace 
+<p>C d Stafford street, Old bond street 
+<p>G c Staining lane, Wood street Cheapside 
+<p>F d Stamford street, Blackfriars 
+<p>E e Stamford street (upper) Waterloo road 
+<p>E f Stangate stairs, Westminster bridge 
+<p>H f Stangate street, Bermondsey new road 
+<p>E e Stangate street, Bridge road 
+<p>B e Stanhope gate, Park lane 
+<p>A d Stanhope place, Connaught square 
+<p>C a Stanhope street, Cumberland market 
+<p>E c Stanhope street, Clare market 
+<p>B e Stanhope street, Park lane 
+<p>D a Stanmore street, St. Pancras 
+<p>G f Staple street, Kent street 
+<p>E c Staple's inn, Holborn 
+<p>H f Star corner, Long lane 
+<p>I f Star and garter, Neckinger road 
+<p>K d Star street, Wapping 
+<p>G d Steel yard stairs, Upper Thames street 
+<p>D c Stephen street, Tottenham court road 
+<p>L b Stephen street, Green street 
+<p>L d Stepney causeway, Commercial road 
+<p>L c Stepney church, Stepney 
+<p>M b Stepney foot-path bridge, Stepney 
+<p>L c Stepney green 
+<p>M e Stepney lane 
+<p>D a Stephenson street, Maiden lane 
+<p>H c Steward street, Union street b Steward's buildings, Bow 
+<p>H e Still stairs, Pickle herring street 
+<p>L d Stone stairs, Shadwell 
+<p>N f Stone wharf, Limehouse reach 
+<p>H e Stone yard, Tooley street 
+<p>F c Stone-cutter street, Farringdon street 
+<p>G e Stone-cutter street, Kent street 
+<p>G e Stoney lane, Clink street 
+<p>H e Stoney lane, Tooley street 
+<p>D c Store street (little) Bedford square 
+<p>D c Store street, Tottenham court road 
+<p>K c Storey street, Commercial road 
+<p>D c Stracey street, St. Giles's 
+<p>L c Stracey street, Stepney 
+<p>F a Strahan terrace, Pentonville 
+<p>E d Strand lane, Strand 
+<p>E d Strand lane stairs, Somerset house 
+<p>O a Stratford 
+<p>O a Stratford dock, Bow bridge 
+<p>O a Stratford place, Stratford 
+<p>B c Stratford place, Oxford street 
+<p>C d Stratton street, Piccadilly 
+<p>D c Streatham street, Bloomsbury 
+<p>C f Strutton ground, Horseferry road 
+<p>G a Sturt's Lock, Regent's canal 
+<p>D d Suffolk place, Suffolk street 
+<p>G d Suffolk lane, Upper Thames street 
+<p>K c Suffolk street, Cannon street road 
+<p>D a Suffolk street, Maiden lane 
+<p>D d Suffolk street, Pall mall, east 
+<p>G e Suffolk street (little) Great Suffolk street 
+<p>F a Suffolk street, While Lion street 
+<p>K a Sugar-loaf lane, Bethnal green road 
+<p>H c Sun street, Bishopsgate street 
+<p>H b Sun street, Old street road 
+<p>G g Sun street, Richmond place 
+<p>F e Surrey chapel, Great Surrey street 
+<p>H g Surrey grove, Surrey square 
+<p>H g Surrey place, Kent road 
+<p>H g Surrey place, Surrey square 
+<p>F e Surrey row, Great Surrey street 
+<p>E d Surrey street, Strand 
+<p>F e Surrey street (great) Blackfriars 
+<p>F e Surrey street (little) GreatSurrey street 
+<p>H g Surrey square, Kent road 
+<p>E d Surrey stairs, Surrey street 
+<p>F f Surrey theatre, Blackfriars' road 
+<p>F g Surrey zoological gardens, Walworth 
+<p>I g Sussex place (upper) Kent road 
+<p>A b Sussex place, Regent's park 
+<p>C b Sussex street, University street 
+<p>F b Sutton street (great)Goswell street 
+<p>K c Sutton street, Commercial road 
+<p>F b Sutton street (little) Goswell street 
+<p>G e Sutton street, Guy's hospital 
+<p>D c Sutton street, Soho square 
+<p>E e Sutton street, York road 
+<p>C d Swallow street, Piccadilly 
+<p>K f Swan, Rotherhithe 
+<p>G b Swan alley, Golden lane 
+<p>L e Swan lane, Rotherhithe 
+<p>G d Swan lane stairs,Upper Thames street 
+<p>G d Swan lane (old) Upper Thames street 
+<p>H g Swan place, Kent road 
+<p>I b Swan street, Church lane 
+<p>G e Swan street, Great Dover street 
+<p>H f Swan street, Kent road 
+<p>I d Swan street, Minories 
+<p>G f Swan street, Trinity street 
+<p>M g Swift's buildings, Victualling office row 
+<p>M f Swing bridge, Deptford road 
+<p>E a Swinton street, Gray's inn lane 
+<p>A g Symon's street, King's road 
+<p>A g Symon's street (little) King's road 
+<p>H b Tabernacle court, Paul street 
+<p>H b Tabernacleplace, Finsbury square 
+<p>H b Tabernacle row, City road 
+<p>H b Tabernacle square, Old street road 
+<p>H b Tabernacle walk, Finsburysquare 
+<p>N g Tannery,Tinker's mill, Isle of dogs 
+<p>K b Tap street, North street 
+<p>H g Tatum's place, John's street 
+<p>A b Taunton place, Regent's park 
+<p>D b Tavistock house, Tavistock square 
+<p>D b Tavistock place, Tavistock square 
+<p>D b Tavistock square 
+<p>E d Tavistock street, Covent garden 
+<p>D c Tavistock street Tottenham court road 
+<p>B a Taylor's, SirH.Villa, Regent's park 
+<p>K a Teal street, Hackney road 
+<p>K b Teal street, Seabright street 
+<p>I f Telegraph bdgs. BlueAnchor road 
+<p>E d Temple bar, Fleet street 
+<p>E d Temple, Fleet street 
+<p>F d Temple gardens, Temple 
+<p>E d Temple lane, Temple gardens 
+<p>E d Temple stairs, Temple gardens 
+<p>K a Temple street, Hackney road 
+<p>K b Temple street, North street 
+<p>F f Temple street, St. George's road 
+<p>F d Temple street, Temple 
+<p>K e Tench street, London dock 
+<p>K b Tent street, North street 
+<p>I g Tenter ground, Blue Anchor road 
+<p>G a Tenter row, City road 
+<p>C c Tenterden street, Hanover square 
+<p>K d Terling street, Commercial road 
+<p>F c Thaives inn, Holborn hill 
+<p>D g Thames bank wharf, Thames bank 
+<p>G d Thames street Bank side, Southwark 
+<p>M f Thames street, Deptford road 
+<p>H d Thames street (lower) London bridge 
+<p>G d Thames street (upper) Southwark bridge 
+<p>B c Thayer street, Manchester square 
+<p>N g Theobald's mill, Isle of dogs 
+<p>E c Theobald's road, Red lion square 
+<p>G f Theobald street, New Kent road 
+<p>I g Thirza place, Kent road 
+<p>C b Thomas place, Hampstead road 
+<p>K b Thomas street, Bethnal green road 
+<p>I b Thomas street, Brick lane 
+<p>I d Thomas street, Church lane 
+<p>K c Thomas street, Church street 
+<p>L d Thomas street, Commercial road 
+<p>K b Thomas street, Dog row 
+<p>I a Thomas street, Hackney road 
+<p>C b Thomas street, Hampstead road 
+<p>H f Thomas street, Kent road 
+<p>G f Thomas street, Lock's fields 
+<p>G f Thomas street, New Kent road 
+<p>B d Thomas street, Oxford street 
+<p>I e Thomas street, Shad Thames 
+<p>F e Thomas street, Stamford street 
+<p>F e Thomas street, Waterloo road 
+<p>K c Thomas street, Whitechapel road 
+<p>E a Thornhill place, Pentonville 
+<p>E a Thornhill street, Pentonville 
+<p>I e Thornton street, Dock head 
+<p>D c Thorny street, Bloomsbury 
+<p>I c Thrawl street, Brick lane 
+<p>H c Threadneedle street, Bishopsgate sreet within 
+<p>K b <num value="3">Three</num> colt lane, Dog row 
+<p>I b <num value="3">Three</num> colt street, St. John street 
+<p>M a <num value="3">Three</num> colts, Oldford road 
+<p>M d <num value="3">Three</num> colts street,Commercial road 
+<p>M a <num value="3">Three</num> colts street, Oldford road 
+<p>M a <num value="3">Three</num> coltstea garden, Oldford road 
+<p>G d <num value="3">Three</num> cranes wharf, Upper Thames street 
+<p>E f Threestags, Durham place Lambeth 
+<p>H c Throgmorton street, Bank 
+<p>H g Thurlow place, East lane 
+<p>I a Thurlow place, Hackney road 
+<p>C d Tichborne street, Piccadilly 
+<p>C c Titchfield street (great) Oxfordstreet 
+<p>C c Titchfield street (little) Great Portland street 
+<p>G f Tivertonrow, Newington causeway 
+<p>G c Token house yard, Lothbury 
+<p>C d Tollen street, Hanover square 
+<p>N g Tommy Tinker's mill, Isle of dogs 
+<p>D a Tonbridge place, New road 
+<p>D a Tonbridge street, New road 
+<p>H d Tooley stairs, Tooley street 
+<p>H e Tooley street, Southwark 
+<p>N e Torrington arms, Isle of Dogs 
+<p>D b Torrington place, Torrington square 
+<p>D b Torrington square 
+<p>D b Torrington street (little) Torrington square 
+<p>C f Tothill fields, Bridewell 
+<p>D e Tothill street, Westminster 
+<p>D f Tothill street (new) Westminster 
+<p>B b Tottenham buildings, New road 
+<p>C b Tottenham court road 
+<p>C b Tottenham court, New road 
+<p>C b Tottenham place Tottenham court road 
+<p>C c Tottenham street Tottenham court road 
+<p>L c Totton street, Commercial road 
+<p>H d Tower ditch, Tower hill 
+<p>H d Tower of London, GreatTower hill 
+<p>H d Tower (great) hill 
+<p>I d Tower (little) hill 
+<p>H d Tower street (great)GreatTower hill 
+<p>H d Tower stairs, Great Tower hill 
+<p>D d Tower street, <num value="7">Seven</num> Dials 
+<p>F f Tower street, Westminster road 
+<p>G d Tower royal, Watling street 
+<p>G e Town hall, Borough 
+<p>H f Townsend street, Kent road 
+<p>B b Toxopholite Society, Regent's park 
+<p>I a Trafalgar place, Hackney road 
+<p>G f Trafalgar place, Lock's fields 
+<p>D d Trafalgar square, Charing cross 
+<p>L c Trafalgar square, Stepney 
+<p>G g Trafalgar street, Walworth 
+<p>H d Traitor's bridge, Tower of London 
+<p>D e Treasury, Whitehall 
+<p>N h Tredegar place, Bow road 
+<p>M b Tredegar square, Mile end road 
+<p>A e Trevor square, Knightsbridge 
+<p>G d Trig lane, Upper Thames street 
+<p>K b Trinity almshouses, Dog row 
+<p>C b Trinity church, New road 
+<p>G f Trinity church, Trinity square 
+<p>G d Trinity lane (gt.)UpperThames street 
+<p>G d Trinity lane (little)Upper Thames street 
+<p>G f Trinity square, Trinity street 
+<p>H d Trinity square, Great Tower hill 
+<p>M e Trinity street, Rotherhithe 
+<p>G f Trinity street, Great Dover street 
+<p>C e Triumphant arch, St. James's park 
+<p>L g Trundley's Lane, Deptford lower road 
+<p>F d Tudor street, Bridge street Blackfriars 
+<p>D f Tufton street, Romney street 
+<p>C f Tullick terrace Vauxhall bridge road 
+<p>I c Tun alley (<num value="7">seven</num>) Petticoat lane 
+<p>F a Tunnel, New river 
+<p>E a Tunnel, Regent's canal 
+<p>N e Tunnel under the river Thames 
+<p>I b Turk street, Virginia street 
+<p>I b Turk street, Wellington street 
+<p>A g Turk's row, White lion street 
+<p>H a Turner square, Hoxton road 
+<p>K c Turner street, Commercial road 
+<p>M e Turner's row, Salmon lane 
+<p>F b Turnmill street, Clerkenwell green 
+<p>G d Turnwheel lane, Cannon street 
+<p>B g Turpentine walk, Chelsea 
+<p>I b Turville street, Church lane 
+<p>L a Twig folley, Regent's canal 
+<p>E g Tyerstreet, Vauxhall 
+<p>G c Type street, Chiswell street 
+<p>I b Tyrrell street, Bethnal green 
+<p>F b Tysoe street, Wilmington square 
+<p>H a Tyson place, Kingsland road 
+<p>I b Tyssen street, Church lane 
+<p>B b Ulster place, New road 
+<p>B b Ulster terrace, Regent's park 
+<p>I b Underwood street, Bethnal green 
+<p>E f Union brewery, Lambeth wall 
+<p>H a Union crescent, Hackney road 
+<p>G f Union crescent, New Kent road 
+<p>E f Union place, Church street 
+<p>P g Union place, Greenwich 
+<p>D a Union place, Maiden lane 
+<p>L c Union place, Stepney green 
+<p>F f Union place, Walworth road 
+<p>O a Union row, Bow bridge 
+<p>G b Union row, City road 
+<p>H g Union row, Cobourg road 
+<p>D a Union row, Maiden lane 
+<p>G f Union row, New Kent road 
+<p>K b Union row, Seabright street 
+<p>I e Union stairs, Wapping 
+<p>K d Union street, Back lane 
+<p>H c Union street, Bishopsgate street 
+<p>G e Union street, Borough 
+<p>F f Union street (great) Borough road 
+<p>F e Union street, Borough road 
+<p>F d Union street, Bridge street, Blackfriars 
+<p>F e Union street, Gravel lane 
+<p>L b Union street, Green street 
+<p>H a Union street, Kingsland road 
+<p>B c Union street, New Bond street 
+<p>O d Union street, Poplar 
+<p>G a Union street, Provost street 
+<p>K b Union street, Red cow lane 
+<p>G g Union street, Richmond place 
+<p>F f Union street, St. George's road 
+<p>D a Union street, Somer's town 
+<p>B d Union street, South street 
+<p>C c Union street, Great Titchfield street 
+<p>E f Union street, Walcot place 
+<p>F e Union street, Webber street 
+<p>P a Union street, West street 
+<p>I c Union street, Whitechapel 
+<p>H a Union walk, Kingsland road 
+<p>C b Universitystreet, Tottenham court road 
+<p>G f Uxbridge street, Brandon's row 
+<p>F e Valentine row, Webber street 
+<p>G a Vaugh terrace, City road 
+<p>D g Vauxhall 
+<p>D g Vauxhall bridge 
+<p>C f Vauxhall bridge road, Westminster 
+<p>D g Vauxhall bridge stairs 
+<p>E g Vauxhall chapel, Kennington Lane 
+<p>E g Vauxhall gardens, Vauxhall 
+<p>D g Vauxhall row, Vauxhall 
+<p>D g Vauxhall square, Vauxhall 
+<p>D g Vauxhall stairs, Vauxhall 
+<p>E g Vauxhall street, Kennington lane 
+<p>E g Vauxhall terrace, Vauxhall walk 
+<p>E g Vauxhall walk, Vauxhall 
+<p>E c Vere street, Clare market 
+<p>B c Vere street, Oxford street 
+<p>G f Victory place, Lock's fields 
+<p>M g Victualling office, Deptford 
+<p>M g Victualling office row, Deptford 
+<p>G f Victualler's (licensed) asylum, New Kent road 
+<p>C d Vigo street, Regent street 
+<p>D d Villiers street, Strand 
+<p>C f Vincent square, Westminster 
+<p>D f Vincent street, Regent street 
+<p>H b Vincent street, Old street road 
+<p>L d Vinegar street, Back lane 
+<p>E e Vine court, York road 
+<p>H d Vine crescent, Minories 
+<p>D c Vine street, Broad street Bloomsbury 
+<p>F b Vine street, Clerkenwell green 
+<p>D f Vine street, Millbank street 
+<p>I c Vine street, Wheeler street 
+<p>H e Vine yard, Tooley street 
+<p>K b Vintner's almshouses, Mile end 
+<p>I b Virginia street, Bird cage walk 
+<p>E a Vittoria street, Pentonville 
+<p>M b Wade's place, Mile end road 
+<p>N d Wade's place, Poplar 
+<p>N d Wade's street, Poplar 
+<p>D b Wakefield street, Regent square 
+<p>G d Walbrook, Cannon street 
+<p>H a Walbrook row, New North road 
+<p>H a Walbrook street, Hoxton new town 
+<p>K d Walburge street, Cannon street road 
+<p>E f Walcot place, Lambeth 
+<p>D a Waller's place, St. Pancras 
+<p>L b Waller's street, Green street 
+<p>I a Wallis's green, Hackney road 
+<p>E f Walnut tree walk, Walcot place 
+<p>K a Walverley place, Regent's canal 
+<p>G g Walworth 
+<p>H g Walworth common 
+<p>G g Walworth newtown,Walworth road 
+<p>G g Walworth place, Walworth road 
+<p>G g Walworth road 
+<p>G g Walworth terrace, Walworth road 
+<p>I e Wapping 
+<p>K e Wapping dock stairs, Wapping 
+<p>K e Wapping new stairs, Wapping 
+<p>K e Wapping old stairs, Wapping 
+<p>K e Wapping street, Wapping 
+<p>L d Wapping wall 
+<p>I a Warner place, Hackney road 
+<p>E b Warner street. Cold bath square 
+<p>G f Warner street, Great Dover street 
+<p>C b Warren street,Tottenham court road 
+<p>I b Warde's row, Bethnal green road 
+<p>C f Ward's row, Chelsea road 
+<p>C c Wardour street, Oxford street 
+<p>E c Warwick court, Holborn 
+<p>F c Warwick lane, Newgate street 
+<p>C d Warwick street, Golden square 
+<p>F d Water lane, Bridge street, Blackfriars 
+<p>F d Water lane, Fleet street 
+<p>H d Water lane, Great Tower street 
+<p>E d Water street, Strand 
+<p>F d Waterman's stairs, Temple gardens 
+<p>D g Waterworks, (South London) Vauxhall bridge 
+<p>I b Waterloo new town, Bethnal green 
+<p>E d Waterloo bridge stairs 
+<p>E d Waterloo bridge, Strand 
+<p>K a Waterloo place, Cambridge heath 
+<p>D d Waterloo place, Pall mall 
+<p>E e Waterloo road 
+<p>M d Waterloo street, Commercial road 
+<p>D a Watford street, St. Pancras 
+<p>G d Watling street, St. Paul's church yard 
+<p>K c Watney street, Commercial road 
+<p>H b Webb square, Shoreditch 
+<p>H e Webb street, Bermondsey street 
+<p>H f Webb street, Bermondsey new road 
+<p>G g Webb street, Portland street 
+<p>F e Webber row, Waterloo road 
+<p>F e Webber street, Great Surrey street 
+<p>F f Webber street, Westminster road 
+<p>E b Welch school, Gray's inn lane 
+<p>B e Welbeck street (little) Welbeck street 
+<p>B c Welbeck street, Cavendish square 
+<p>I c Well street, Church street 
+<p>I d Well street, East Smithfield 
+<p>C d Well street, Jermyn street 
+<p>G c Well street, Jewin street 
+<p>C c Well's mews, Well's street 
+<p>E b Well's street, Gray's inn lane 
+<p>C c Well's street, Oxford street 
+<p>O d Well's street, Poplar 
+<p>I d Wellclose square 
+<p>D a Wellesley street, Seymour street 
+<p>A f Wellington cricketground,Whitehead's grove 
+<p>I a Wellington place, King street 
+<p>L c Wellington place, Stepney 
+<p>H g Wellington place, Walworth common 
+<p>I a Wellington row, Hart street 
+<p>E b Wellington square, Gray's inn ln, 
+<p>G f Wellington street, Brandon's row 
+<p>E a Wellington street, Collier street 
+<p>F e Wellington street, Great Surreystreet 
+<p>F b Wellington street, King square 
+<p>I f Wellington street, Neckinger road 
+<p>C f Wellington street, New Bridewell, Westminster 
+<p>G e Wellington street, New London bridge 
+<p>K b Wellington street, North street 
+<p>L c Wellington street, Stepney green 
+<p>E d Wellington street, Strand 
+<p>I b Wellington street, Waterloo town 
+<p>G a Wenlock basin, Regent's canal 
+<p>G a Wenlock cottages, Vaugh terrace 
+<p>G a Wenlock road, City road 
+<p>G b Wenlock street, Ironmonger row 
+<p>L b Wentworth buildings, Mile end road 
+<p>I c Wentworth street, Spitalfields 
+<p>K e West lane, Rotherhithe wall 
+<p>K e West lane stairs, RotheIhithe 
+<p>F f West square, St. George's road 
+<p>I d West Strand, Charing cross 
+<p>K b West street, Dog row 
+<p>P a West street, East street 
+<p>G c West'street, Finsbury circus 
+<p>L a West street, Green street 
+<p>G e West street, Long lane 
+<p>K b West street, North street 
+<p>D a West street, New road, Paddington 
+<p>D d West street, <num value="7">Seven</num> dials 
+<p>G e West street, Southwark square 
+<p>O a West street, Stratford place 
+<p>G g West street, Walworth road 
+<p>F c West street, West Smithfield 
+<p>F f West street, West square 
+<p>P a West Ham 
+<p>P b West Ham abbey marsh 
+<p>M b West Ham reservoir, Mile end road 
+<p>O a West Ham water works 
+<p>O e West India dks. tavern Blackwall 
+<p>N e West India docks, Isle of dogs 
+<p>B f Westbourn place, Grosvenor road 
+<p>B g Westbourn street, Grosvenor row 
+<p>D f Westminster 
+<p>D f Westminster abbey,Old palaceyard 
+<p>D e Westminster bridge 
+<p>D e Westminster bridge stairs 
+<p>E e Westminster bridge stairs, Bridge road 
+<p>C f Westminster hospital,James street 
+<p>F f Westminster road 
+<p>C f Westminsterscholars' playground 
+<p>G a Westmoreland place, City road 
+<p>H g Westmoreland place, Walworth common 
+<p>I a Westmoreland street, Maria street 
+<p>B c Westmoreland street, Welbeck street 
+<p>D a Weston place, Battle bridge 
+<p>E a Weston street, Pentonville 
+<p>D a Weston street, Skinner street 
+<p>H e Weston street, Snow's fields 
+<p>L c Westover street, Stepney 
+<p>M g Wet dock, Deptford 
+<p>B c Weymouth mews, Weymouth street 
+<p>G f Weymouth street, New Kent road 
+<p>G a Weymouth street, New North road 
+<p>B c Weymouth street, Portland place 
+<p>I a Weymputh terrace, Hackney road 
+<p>E a Wharton street, Lower road, Pentonville 
+<p>I b Wheeler street, Spitalfields 
+<p>E c Whetstone park, Lincoln's inn fields 
+<p>F b Whiskin street, St. John street 
+<p>I c Whitechapel church,Whitechapel road 
+<p>I c Whitechapel road 
+<p>D d Whitcomb street, Charing cross 
+<p>E a White conduit house and tea gardens, Pentonville 
+<p>F a White conduit street, Chapel street 
+<p>G c Whitecross street, Fore street 
+<p>G b Whitecross street, Old street 
+<p>F d Whitefriars' dock 
+<p>D e Whitehall 
+<p>D e Whitehall chapel, Whitehall 
+<p>D e Whitehall place, Whitehall 
+<p>D e Whitehall stairs 
+<p>F g White hart place, Kennington Lane 
+<p>F g White hart row, Kennington lane 
+<p>D f White hart stairs, Broad street 
+<p>G f White hart street, New Kent road 
+<p>E d White hart yard, Drury lane 
+<p>A f Whitehead's grove, New road, Chelsea 
+<p>L c White horse lane, Stepney green 
+<p>L d Whitehorseplace, Commercial road 
+<p>L d White horse street,Commercial road 
+<p>B e White horse street, Piccadilly 
+<p>E d White horse yard, Drury lane 
+<p>A g White lands, King's road 
+<p>I d White lion street, Goodman's fields 
+<p>B g White lion street, Jew's row 
+<p>F a White lion street, Pentonville 
+<p>D c White lion street, <num value="7">Seven</num> dials 
+<p>H b White lion street, Shoreditch 
+<p>A g White stiles, King's road 
+<p>I b White street, Bethnal green 
+<p>G c White street, Finsbury 
+<p>G e White street, Long lane 
+<p>I c White street, Wentworth street 
+<p>K c White street, Whitechapel road 
+<p>G b White yard, Golden lane 
+<p>H e White's court, Bermondsey street 
+<p>I d White's yard, East Smithfield 
+<p>C c Whitfield's chapel, Tottenham court road 
+<p>H b Whitfield street, Leonard street 
+<p>H a Whitmore place, Whitmore row 
+<p>H a Whitmore row, Hoxton 
+<p>H c Widegate street, Bishopsgate street 
+<p>B c Wigmore street, Cavendish square 
+<p>E c Wild street (little) Great Queen street 
+<p>E c Wild street (great) Drury lane 
+<p>E e Wild street (little) Drury lane 
+<p>F b Wilderness row, Goswell street 
+<p>B g Wilderness row, Ranelagh grove 
+<p>H f Wilderness street, Hunter street 
+<p>I b Wilkes street, Quaker street <num value="41">41</num> 
+<p>C b William street, Albany street 
+<p>I b William street, Bethnal green road 
+<p>F d William street, Bridge street, Blackfriars 
+<p>K c William street, Cannon street road 
+<p>K d William street, Cannon street road 
+<p>L d William street, Commercial road 
+<p>F e William street, Charlotte street 
+<p>E g William street, East street 
+<p>L b William street, Green street 
+<p>G e William street, Great Suffolk street 
+<p>C b William street, Hampstead road 
+<p>C f William street, James street 
+<p>A e William street, Lowndes square 
+<p>G f William street, New Kent road 
+<p>H f William street, New Kent road 
+<p>H b William street, Shoreditch 
+<p>M e William street, Stepney 
+<p>H g William street, Surrey square 
+<p>E g William street, Walcot place 
+<p>E e William street, Waterloo road 
+<p>E a William street, Wilmington square 
+<p>N g Willow bridge ferry, Isle of dogs 
+<p>L b Willow street, Globe lane 
+<p>H b Willow street, Paul street 
+<p>C f Willowstreet, Vauxhall bridge road 
+<p>H f Willow walk, Grange road 
+<p>H b Willow walk, Old street road 
+<p>C g Willow walk, Vauxhall bridge road 
+<p>E b Wilmington square, Spa fields 
+<p>K b Wilmot square, Bethnal green road 
+<p>K b Wilmot street, Bethnal green road 
+<p>D b Wilmot street, Great Coram street 
+<p>K b Wilmot's folly, Bethnal green road 
+<p>H c Wilson street, Finsbury square 
+<p>E b Wilson street, Gray's inn lane 
+<p>H b Wilson street, Old street road 
+<p>D a Wilsted street, Somer's town 
+<p>B e Wilton crescent, Belgrave square 
+<p>B e Wilton place, Wilton crescent 
+<p>C f Wilton road, Chelsea road 
+<p>B f Wilton street, Grosvenor place 
+<p>D f Wilton street, Regent street 
+<p>I d Wilts street, Wellclose, square 
+<p>B c Wimpole mews, Great Marylebone street 
+<p>B e Wimpole street, Cavendish square 
+<p>B c Wimpole street (upper), Weymouth street 
+<p>E a Winchester place, Pentonville 
+<p>I b Winchester street, Bethnal green 
+<p>H c Winchester street, Old Broad street 
+<p>E a Winchester street, Pentonville 
+<p>G e Winchester street, Stoney lane <num value="42">42</num> 
+<p>M g Windmill lane, Deptford lower road 
+<p>E f Windmill street, Church street 
+<p>H b Windmill street, Finsbury square 
+<p>C d Windmill street (great) Haymarket 
+<p>C d Windmill street,(little)Golden square 
+<p>C c Windmill street,Tottenham court road 
+<p>M g Windmill (the) Deptford lower road 
+<p>G a Windsor place, City road 
+<p>G a Windsor street, City road 
+<p>G a Windsor terrace, City road 
+<p>F b Wing place, St. John street road 
+<p>B c Wingle mews, Great Marylebone street 
+<p>C c Winsley street, Oxford street 
+<p>H a Witmer gardens, Kingsland road 
+<p>C a Wittlebury street, Drummond street west 
+<p>C a Wittlebury street, Euston grove 
+<p>D b Woburn buildings, Woburn place 
+<p>D b Woburn place, Russell square 
+<p>D b Woburn place (upper) Euston square 
+<p>D b Woburn square 
+<p>O d Wodmore street, Poplar 
+<p>K a Wolverley place, Regent's canal 
+<p>G c Wood street, Cheapside 
+<p>D b Wood street, Cromer street 
+<p>F b Wood street, Exmouth street 
+<p>I b Wood street, Hare street 
+<p>D f Wood street, Millbank street 
+<p>H b Wood street, Old street road 
+<p>B c Wood street, Oxford street 
+<p>I c Wood street, Spitalfields 
+<p>E g Wood street, Tyer street 
+<p>B c Wood street, Weymouth street 
+<p>H g Wood's buildings, East lane 
+<p>I b Wood's close, Hare street 
+<p>B d Wood's mews, Park street 
+<p>B c Woodstock street, Oxford street 
+<p>F e Wootton street, Cornwall road 
+<p>G e Worcester street, Union street 
+<p>E g Workhouse lane, Lambeth butts 
+<p>M c World's end, Stepney 
+<p>H c Wormwood street, Bishopsgate street 
+<p>H b Worship street, Shoreditch 
+<p>I f Wright's buildings, Spa road 
+<p>E d Wych street, Drury lane 
+<p>G f Wycomb place, Kent street 
+<p>A e Wyndham place, Bryanstone square 
+<p>A c Wyndham street, New road 
+<p>F a Wynyatt street, Goswell street road 
+<p>F b Yardley street, Wilmington square 
+<p>F a York buildings, Broadway 
+<p>A b York buildings, New road 
+<p>D d York buildings stairs 
+<p>G g York buildings, Walworth new town 
+<p>B b York gate, Regent's park 
+<p>E e York place, Bridge road 
+<p>F a York place, City road 
+<p>A b York place (little) Gloucester place 
+<p>H a York place, Kingsland road 
+<p>M b York place, Mile end road 
+<p>A b York place, New road 
+<p>E a York place, Pentonville 
+<p>M e York place, Stepney lane 
+<p>C f York place, Vauxhall bridge road 
+<p>G g York place, Walworth road 
+<p>E f York place, Westminster road 
+<p>E e York road, Bridge road 
+<p>I a York row, Hackney road 
+<p>F g York row, Kennington 
+<p>M e York square, Commercial road 
+<p>C b York square, Osnaburg street 
+<p>E d York street, Brydge's street 
+<p>K c York street, Cannon street road 
+<p>H b York street (old) Church lane 
+<p>G a York street, City road 
+<p>K c York street, Commercial road 
+<p>M d York street, Commercial road 
+<p>A c York street (upper) Crawford street 
+<p>M f York street, Deptford road 
+<p>L b York street, Globe lane 
+<p>A c York street, Gloucester place 
+<p>F e York street, Great Surrey street 
+<p>I a York street, Hackney road 
+<p>A f York street, Han's place 
+<p>H f York street, Kent street 
+<p>H a York street, Kingsland road 
+<p>H g York street, Lock's fields, 
+<p>C c York street, Middlesex hospital 
+<p>E a York street, Pentonville 
+<p>C d York street, St. James's square 
+<p>L e York street, Swan lane 
+<p>G g York street, Walworth road 
+<p>G e York street, Wellington street 
+<p>M d York street, West Commercial road 
+<p>C f York street, Westminster 
+<p>B b York terrace, Regent's park 
+<p>E e York terrace, York road 
+<p>F e Zoar street, Gravel lane 
+<p>B a Zoological gardens, Regent's park 
+<p>E g Zoological gardens, Walworth </TEXT></TEI.2>

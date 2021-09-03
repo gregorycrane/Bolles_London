@@ -1,0 +1,1204 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Collectors and Collecting</title>
+<author>Edwin C. Bolles</author>
+&responsibility;
+&fund.IMLS;
+</titleStmt>
+&Perseus.publish;
+<sourceDesc><biblStruct>
+<monogr> <title>Collectors and Collecting</title> <author> Edwin C. Bolles</>
+<imprint><pubPlace>Melrose, Massachusetts</>
+<publisher>Published privately.</> <date value="1898">1898</date> </imprint>
+</monogr>
+</biblStruct>
+</sourcedesc>
+</filedesc>
+<encodingDesc>
+<editorialDecl>
+<correction status="high">&Perseus.OCR;
+</editorialDecl>
+<refsDecl><state unit="page" n="chunk">
+</refsDecl>
+<refsDecl>
+<state unit="part">
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id="en">English
+<language id="la">Latin
+<language id="greek">Greek
+<language id="de">German
+<language id="fr">French
+<language id="it">Italian
+<language id="anglosaxon">Anglo-Saxon
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="part" n="1"><head>
+Collectors and Collecting</head>
+<p>Of this book 300 copies have
+been printed and type distributed.
+This is No.11
+<pb>
+To Which are Added that the Antidote May Accompany the Bane, a Few Remarks by a Collector's Wife
+<pb>
+<div1 type="foreword"><head>
+FOREWORD</head>
+<p>These pages are printed as they were
+written to be read to patient friends.
+I have not eliminated the personal element
+or style. I simply seek in publication a chat
+with a little wider circle -that is all.
+<name type="person" key="Edwin C. Bolles">E. C. B.</name>
+<placeName key="Melrose, Massachusetts">Melrose</placeName>, <date value="1898-07">July, 1898.</date>
+<pb n="11" id="p.11">
+<p>Can I better take a motto for my essay,
+than by reviving my memory of Academic Latin, and making <name type="person" key="Horace">Horace</name>, courtly
+and laurel-crowned, say for me <foreign lang="la">"Collegisse
+juvat"</foreign>? For you may translate these words,
+"It is delightful to have been a Collector";
+and although the graceful Roman only
+applied them to "Olympian dust," their
+philosophy is broader than this. Among
+the keenest pleasures of life in hope, in
+acquisition, memory, there is hardly one to
+surpass the Collector's joy. His field is the
+world; the objects of his desire range indifferently from blackened postage stamps to
+Greek vases and diamonds;- if he be a
+Christian, immortality suggests to him the
+glorious possibility of unending explorations
+in the star-sown depths of space.
+<p>And yet it grieves me that there is no
+more dignified and sonorous name to apply
+<pb n="12" id="p.12">
+to the subject of this eulogy. Many separate
+species of the vast genus Collector possess
+learned or satirical titles. Thus a Collector
+of Insects is an Entomologist or a Bug-Hunter
+- a Book-Collector, a Bibliophile, a Biblio-maniac or a Book-Worm -while the man
+who tries to enrich his cabinet with fossil
+forms of life and who would not disdain to
+be styled a Palaeontologist is described in
+Philistine circles as a Stone-Smasher. But
+there is no one generous and noble term in
+which center all these separate characters
+and tastes; so I must simply call him "The
+Collector," although I know that in doing so,
+I employ a title which in practical life is too
+closely associated with bad debts, water-rates,
+taxes, pew-rents and assessments to touch
+any nerve of poetry in the common mind.
+<p>And since, as you may have suspected,
+like <name type="person" key="Henry Thoreau">Thoreau</name> in his "Walden," <quote lang="en
+">"I do not
+propose to write an Ode to Dejection, but
+crow as lustily as Chanticleer on his perch,"</quote>
+there are certain misconceptions of the place
+and value of the Collector in modern society,
+which, first of all, I must correct. I shall
+never be able to rouse you to a proper
+enthusiasm till this is done. You have
+<pb n="13" id="p.13">
+never begun to live until you have begun to
+collect; and if you have already flung away
+half of your earthly span without feeling the
+thrill and zest of the Collector's art, my
+missionary labors become all the more imperative for me and necessary to you.
+<p> I am well aware that to sing the Collector's
+praises in any large American city may appear
+to a purely critical mind as superfluous a
+charity as sending ice to Labrador or fashion-plates to <placeName key="Paris">Paris</placeName>. For many years the French
+have had a world-wide reputation as the
+most enthusiastic and universal collectors on
+the earth.<note place="foot" n="*"><name type="person" key="J. J. Osborne">J. J. Osborne</name> in Oddities of Paris, (Scribner,
+December, <date value="1879">1879</date>), says:
+<quote lang="en">"There is nothing odder in Paris than the private
+collections, especially the cabinets of pictures. Had
+<name type="person" key="Raphael">Raphael</name> lived a thousand years, and painted day and
+night, he could not have covered the canvas shown in
+Paris as his works. Some of these collections contain
+the clothes of eminent people; others have buttons;
+others still have shoes; here are snuff-boxes; there
+are wigs; yonder are fire-irons. All sorts of trash
+have their idolaters, as I discover when I visit these
+queer nooks. I come away convinced there is nothing
+lost in this world. The earnest look, the important
+air, and the pride these people take in showing their
+collection, though it be only chessmen, is amusing."</quote></note> But I think that if the geographers
+<pb n="14" id="p.14">
+and census-makers were to publish
+a "Collectors' Map," the area of densest
+population would probably fall on <placeName key="Boston">Boston</placeName>
+,
+<placeName key="Philadelphia">Philadelphia</placeName>
+or most likely of all, <placeName key="Manhattan Island">Manhattan
+Island</placeName>. The dispersion of the Seney, Barlow,
+Ives and other large <placeName key="New York">New York</placeName>
+ collections,
+is already ancient history; but aside from
+these splendid examples, almost every intelligent acquaintance of mine and possibly of
+yours has some hobby in this direction. We
+can perhaps call to mind some people whose
+otherwise unpleasant characteristics are in
+part redeemed by their persistent alacrity
+in collecting; -like that low-bred wretched
+sharper in Stevenson's story "The Wrong
+Box," toward whom our hearts grow perceptibly warmer as we follow his endeavors to
+increase what he brags about as "the best
+collection of Seal Rings in all London."
+<name type="person" key="Ian Maclaren">Ian Maclaren</name>, in his kindly praise of our
+country, grew pathetic when he said that if
+any rare book came into the English market,
+some precious example of the 'incunabula,'
+some unique copy, some book resplendent
+with the choicest binding and enriched with
+a king's heraldry embossed in gold, it was
+certain to be for no English purchaser, but
+<pb n="15" id="p.15">
+for some <placeName key="United States">United States</placeName>
+ collector. <placeName key="New York">New York</placeName>
+may not be the best mousing-place for the
+Collector, but it is surely drawing into its
+possession more of the Collector's treasures
+than any other city of the world.
+<p> Without further preface, let me address
+myself to your general good sense, and begin
+by clearing away some of the misconceptions
+at which I have hinted.
+<p> First: there is the sneer of the materialist
+and utilitarian (they call themselves practical
+men) that the only true collecting is the
+collecting of that which is the real power of
+the world and the solid basis of human life,
+i.e. money. There are people everywhere to
+whom the various hobbies and fancies which
+imply or induce the Collector's art appear
+not only worthless but injurious. They dissipate precious time. They absorb productive
+energy. They weaken the fiber of business
+pursuits. So such critics talk; and the serene
+assurance with which they press the fable of
+the Grasshopper and the Ant into their argument against the Collector causes Plutus to
+rejoice that in their day his altars will never
+lack a savory and sufficient sacrifice, and
+Pluto to smile at the victims who are daily
+<pb n="16" id="p.16">
+drawing nearer to the outer darkness of his
+realm. The Collector need not, however,
+disparage these men to answer them. No
+one knows better than he the real uses of
+money; and enough unchastened human
+nature is left in him sometimes to envy for
+his own purposes the hoards whose steady
+growth is their possessor's only joy. For
+the Collector ought to be a man who is doing
+a man's work in the world, outside this special
+function, and doing it all the better for the
+relief or intellectual excitement which his
+hobby gives. In fact, some of the best
+collectors in the world are business men,
+who have found a corner in their lives for
+the orderly accumulation of those things
+which have come from some harvest-field of
+nature or art. I have in mind such a man,
+filling a high place in one of the great corporations of the business world, busy, useful,
+rich; -and he collects little ancient, time-stained, flimsy scraps of literature bearing
+on a subject which rules his leisure hours.
+He is more proud of his case-full of these
+treasures than of his bank account; and he
+is right.
+<pb n="17" id="p.17">
+<p> Again: scientific men of a certain grade
+are very fond of saying that a Collector is
+never a Student. They look down on those
+who gather and arrange, and complete in
+series perhaps the very objects to which
+they themselves give the most exhaustive
+investigation, as men of an inferior capacity and aim. But I think that a Collector
+can hardly fail to become a Student, unless
+his collecting is the mere result of a vaccination for a fashionable craze or popular fancy,
+and depends more on his loose purse-strings
+than his personal application. "Original
+research" is not the only thing in Science,
+Art or Literature. At the lowest estimate
+of his value, the Collector needs much
+acquired knowledge to supply intelligently
+the materials whose collocation furnishes
+the high and severe scientist with food for
+thought. And sometimes the Collector
+thinks for himself with the most valuable
+results. <name type="person" key="John Hunter">John Hunter</name> and <name type="person" key="Louis Agassiz">Louis Agassiz</name>
+were indefatigable collectors; and let no
+man, perhaps unworthy to loose the latchet
+of their shoes, essay to pluck the laurels from
+their heads.
+<pb n="18" id="p.18">
+<p> But time forbids me to linger in apologies.
+The noble art of Collecting appeals to several
+sentiments which no one will maintain to be
+less than useful, not to say indispensable, to
+the world.
+<p> There is the principle of Order, for one.
+The rows of shining coins, in sequence of
+their dates-herbarium-sheets of flowers,
+in the natural links of their chains of beauty
+-pamphlets in their historical connection-prints marshalled by schools of engravers or
+the technique of their execution-shells as
+their spire or valves or lips direct their places
+in the cabinet -prehistoric arrowheads pointing in the line of their development-all
+these things suggest the presence and value
+of "Heaven's First Law." Some men can
+live in confusion, chance-medley and clutter.
+Their thread of life is a snarl, and their destiny
+chaos. Such men could never become true
+Collectors; or, becoming such, the tangle of
+their existence would grow clear. For a
+collector must be orderly or be smothered
+by his riches. Without order, he can never
+know the extent and worth of his treasures
+nor labor intelligently for their increase. Sir
+Walter Scott has pictured his Antiquary
+<pb n="19" id="p.19">
+otherwise, and has given a vivid sketch of
+the profusion and confusion of his books,
+vases and rusty scraps of a by-gone age.
+But, as you follow the story, you see that
+everything was in order for him, if only the
+"careless order" of <name type="person" key="Tennyson">Tennyson's</name> garden on
+the down.
+<p>Then again, there is the love and struggle
+for Completeness.<note place="foot" n="*">An essay on "A Noble Art" (Bookbinding), in
+The House Beautiful for <date value="1897-01">January, 1897</date>, speaks thus of
+Collecting in that line:
+<lb><quote lang="en">"Like a few other pursuits which seem to thrall men
+with peculiar charms, it has the virtue of infinite possibilities. Perfection is unattainable. The field is limitless. He never can, nor does he really hope, to possess
+the fully rounded and complete collection, but there is
+always the glorious vista, and by " hitching his wagon
+to a star," he has the range and movement of celestial
+travel. He lies of nights and dreams of having on his
+oaken shelves Grolier and Maioli, and sees himself the
+object of the gloating eyes of the whole world of amateurs. He thinks of himself sometime in an indefinite
+and beatific future, the proud possessor of the perfect
+book, the crown of all the ages, with leaves of vellum,
+blackest ink and richest rubrication, its covers gilt, with
+cunning handiwork, and on its inner cover the significant "Ex Libris," that betokens it his own."</quote>
+</note> <p> The collector always
+has gaps to be filled, links to be supplied,
+series to be finished; and as soon as one
+<pb n="20" id="p.20">
+work is done, another is begun, to be carried
+to perfection. He always, when he looks
+over his treasures and notes the vacant places
+in their arrangement, feels that what he needs
+is in existence somewhere, and he has been
+born to find it. And if he is a true collector,
+he does find it. It is in some out-of-the-way
+corner in an old book-store, or in a garret, an
+ash-heap, a paper-mill; perhaps masquerading
+under a false face or in company where you
+would least of all suspect it to be;- but the
+collector who needs it is sure to discover it
+at last. I heard of a collector of old English
+household chests, who had searched long and
+vainly for a peculiar type, which he believed
+to have been among the domestic goods
+brought to this country in that most famous
+and capacious of all emigrant ships, the Mayflower. One day he detected it doing duty
+as a hen-coop in a farm yard of a country
+town in <placeName key="Massachusetts">Massachusetts</placeName>. Freed from feathers
+and fertilizers, waxed and restored to its original beauty, it is now the pride of his heart
+and the joy of his eyes.
+<p> Two other examples rise to my mind, as I
+am writing this, to exemplify the way in which
+many things work together for the collector's
+<pb n="21" id="p.21">
+profit. Some years ago I picked up at Washington a vellum bound History of Italy, a
+dumpy duodecimo, chiefly valuable for the
+engraved heads of all the sovereigns from
+<name type="person" key="Attila">Attila</name> down to 1500. I never saw a copy
+before, and I have seen but one since.
+Getting interested in books on London, I
+exchanged, somewhat reluctantly, this History
+for a coveted work in that line. I am a
+frequenter of paper-mills, a snapper-up of
+unconsidered trifles from the great bales of
+old books and papers brought from over-sea
+to be converted into clean American stationery; and on a visit to one of my mill-haunts,
+the first book which tumbled out of a bale
+there opened was a History of Italy in finer
+condition than the one I had exchanged.
+The other illustration is of more recent date.
+One of my legal friends has long had it in
+mind to purchase a certain standard law-book written by the chief English authority
+on the subject which it discusses. But in his
+many visits to the city, he has never seemed
+to accomplish this; and probably he could
+not tell why he has entered dozens of bookstores and left them with the purchase still
+unmade. A few days ago, he saw a copy of
+
+<pb n="22">this book lying on an old book-stall at a shop-door. To examine it was the work of a moment; to buy it required only a few seconds, for his quick eye detected that it was a presentation copy, charmingly bound, of a first edition, and that it had been sent from its eminent English author to the highest legal authority of the day in New England, whose autograph still attested his appreciation of the gift.
+<p>Once more: the Collector learns the immense value which trifling things, almost useless as individuals, assume when studied in large, orderly and complete series. Nothing would seem more worthless than scraps of pottery, -not the perfect jugs and vases, but such potsherds as served Job in his cutaneous misery, or furnished the Hebrew prophets with effective symbols of contempt. Yet a collector of these from the rubbish heaps and the dust-bins of the world could assist in demonstrating a law which is just being worked out, the Evolution of Ornament, a remarkable example of Mr. Darwin's theory; while the investigation of their materials. firing and glazing might add another chapter to the keramic art. And Paleaographists
+<pb n="23">are well aware that many ancient examples of writing are to be found on bits of crockery used exactly as scraps of paper are with us. In fact, many interesting and precious specimens in these vast series
+
+<pb n="24" id="p.24">
+
+all civilized men in the most perfect state of
+security and order. And I know that a collection of the types of those buttons would
+illustrate, better than most histories, the affairs
+of fashion, civic and police establishments, the
+importation of foreign fancies, the organization of railroads and the steps of the art of
+design in America. A soul above buttons"
+may not be the best thing, after all.
+<p> Still again; until you become a collector,
+you can never know in its full force the fact
+of the richness and fullness of even the narrowest corner of creation in which you may
+exercise your art. The microscope sees an
+ocean in a drop and a world in a pinch of
+dust; and the eye at the lens will grow old
+before their marvels are exhausted. So, in
+the most limited sphere, the Collector grows
+into astonishment at its ever widening possibilities. The new is found to be old; all
+published catalogues and manuals are seen
+to be incomplete, and every collector must
+be his own authority. Then too, he discovers
+that what he had supposed to be made in a
+few ways or on a few types, has, in reality,
+in the ever active inventiveness of man,
+received a kaleidoscopic complexity. The
+<pb n="25" id="p.25">
+most famous hammer-maker of this country,
+an old Welshman, who died only a few years
+ago, conceived the idea of a museum of
+hammers, from the vine-handled stone of the
+savage to the productions of his contemporaries and rivals; and many were the hammers,
+rough and polished, clumsy and effective,
+which he had to show. It was hard to
+believe that so many forms, each representing somebody's idea of improvement on an
+ancestral hammer, had been evolved from
+the inner consciousness of the race. Try
+once to collect anything, if only pins or
+visiting-cards, and it will seem to you as if
+the intellect of universal man had been employed to produce only the exact thing on
+which you concentrate your attention.
+<p> The fervor of the Collector not unfrequently reaches a height which deserves to
+be called heroic. Twenty-one years ago, a
+pleasant gossipy volume The Bric-a-Brac
+Hunter was published by Major H. Byng
+Hall, who spent most of his life in the service
+of the English Crown as a "Silver Greyhound" or King's Messenger. His duties,
+of course, carried him all over the world;
+and in every country, all his leisure seems to
+<pb n="26" id="p.26">
+have been given to gathering in examples of
+old pottery and porcelain. For the frontispiece of his book we have his own photograph
+taken in his "den," an elegant apartment
+overflowing with his treasures. He was a
+descendant of Admiral Byng, and was especially proud of his pedigree, -not the least
+reason being that his ancestor, like the more
+famous Nelson, was an ardent and insatiable
+Collector. He even repeats the story that
+when Admiral Byng was at Majorca, an
+officer rushed into his presence, crying out
+that the French war-ships, with which a battle
+was expected, were in the offing. Byng was
+just then bargaining for a rare dish, and
+answered: "Look here, this rare specimen is
+worth all the French fleet -tell Captain
+to prepare for action, and the French to wait
+till I have secured it." And to show how
+ecclesiastical, as well as naval circles are
+invaded by an all-conquering passion, he
+adds: "I have known a dignitary of the
+Church, a man of high attainments, a Christian in all the attributes of life, to go home
+from a sale with a bilious attack, because he
+had failed to secure a group bearing the
+monogram of Carl Theodore, for which
+<pb n="27" id="p.27">
+porcelain--and I fully sympathized with
+him,-he had an intense liking."
+<p> I draw from my memory a few examples,
+out of hundreds which I might give, of the
+whims and fancies of Collectors. The mother
+of the present Czar of Russia collected perfume-bottles, and the last King of Portugal
+left a shady library of books suppressed by
+the Public Censor. Gladstone had a fancy
+for enamels, especially on snuff-boxes; and his
+treasures were exhibited at South Kensington
+some years ago. A letter has just been published in fac-simile by Bernard Quaritch,
+which Gladstone wrote September 9, 1896,
+regarding the rare books which he had drawn
+into his library. Sarah Bernhardt collects
+men's head-wear or hats, from the Spanish
+sombrero to the Indian's crown of feathers;
+and also women's belts, in which she has the
+foundation of a fortune in the gold and gems
+which decorate many of them. Lady Malet
+has a cabinet of 1ooo pairs of shoes; and
+she can illustrate the gamut of foot-wear
+from dancing-slippers to snow-shoes. A New
+York lady possesses a similar and rival collection. George Godwin of London has a
+house-full of historic chairs; and the visitor
+<pb n="28" id="p.28">
+can sit in them, where Anne Boleyn, Raleigh,
+Napoleon I, Thackeray, Bulwer, Byron, and
+many of the famous of all ages have rested
+before. Nothing is too gruesome for some
+collectors. One Mr. Urquhart has a large
+and fine assortment of halters which have
+interrupted the breath of many criminals;
+and Lawrence Hutton collects death-masks,
+-a pleasant adornment for the library or
+dining-room of a realistic age.
+<p>Looking at the great world of Collectors,
+we see that they may be divided into several
+classes, according to the means which they
+employ in the accumulation of their treasures.
+There is, especially at the great centers of
+human life, one sort of Collectors, privileged
+by fortune to be the aristocracy of the craft.
+For them are Raphaels and Correggios,
+Caxtons and first folios of Shakespeare,
+engraved gems, cut crystal and jade, classical
+marbles and mediaeval manuscripts. They
+are the gods and sit above the thunder.
+Sometimes they are benefactors, opening
+their collections to the public eye, or letting
+them flow at last into the great reservoirs of
+museums or libraries. Sometimes they are
+merely the selfish purchasers of the best
+<pb n="29" id="p.29">
+things in the world, and their collections are
+their coffins.
+<p>At the other end of the scale, are the collectors who by stealthy and secretive ways,
+keen eyes, a natural gift of dissimulation and
+an inexplicable favoritism of fortune, get all
+things without money and without price.
+Such was Snuffy Davie of Jonathan Oldbuck's tradition; such are the men who discover prizes in the book-boxes of the Paris
+Quais or the dirty rubbish of the Seven Dials.
+They are as inimitable to the ordinary collector as the millionaires who gratify their
+fancies without stint or hindrance. Common
+mortals can neither descend to these depths
+nor climb successfully to those heights.
+<p>But by far the largest class of collectors is
+of those who combine a reasonable expenditure with sagacity, careful study and much
+personal exertion; and it must be said that
+as the more of the last element enters into
+the combination, the better it is for their
+collections and themselves. The best artist
+still mixes his colors with brains. A collection
+ought to take a personal character from its
+owner, and the details of its richness and
+order should be the details of his own life.
+<pb n="30" id="p.30">
+Several years ago, I visited the library of old
+Sam. Pepys, the gossip and diarist of the
+Restoration. It is at Magdalene College,
+Cambridge, enshrined in its own Bibliotheca
+Pepysiana, as the inscription on the building
+reads. Pepys was a genuine collector,-of
+books, manuscripts, ballads, broadsides, mezzotint portraits and London views. You
+may still read the man in the selection and
+arrangement of the whole; for it all remains
+as he left it, 193 years ago. The official
+order and formalism, the love of beauty, the
+strange hankering after the vulgar, which, as
+otherwise we know from Pepys himself, since
+he wore his heart upon his sleeve, were the
+great collector's characteristics, appear in
+every department, even page of his collection.
+He mounted every ballad and print with his
+own hands, he drew around them the red
+and black lines, he wrote the index in each
+sumptuous scrap-book. How lovingly he
+must have lingered over the pretty face of
+Lady Castlemaine, the purchase of which
+engraving he notes in his Diary, comparing
+her with the graceful La Belle Stewart, her
+rival in Pepys' admiration. His three thousand books are in the old cases, drawn up in
+<pb n="31" id="p.31">
+dress-parade; for Pepys made the size and
+bindings of the volumes contribute to the
+fine appearance of the shelves.
+<p>So there have been collectors to whom
+London, their home, was the world: and
+they reappear in their collections, sometimes
+gigantic, always characteristic, relating to
+their greater self. The Guildhall, the Soane
+and British Museums have absorbed and still
+preserve much of this work. A collection
+illustrating Pennant's book on London, which
+I have studied in the British Museum, was
+made by an antiquarian named Crowle at a
+cost of thirty-five thousand dollars. The
+same national institution has obtained a similar collection, exhibited at South Kensington
+in 1880, and which was accumulated by a
+man who, during a long life was a hard-working official of the city, and who, little by little,
+gathered an almost incredible number of
+maps, plans, drawings and views of the
+metropolis. Its price is a secret, but must
+have much exceeded Crowle's. The largest
+collection of this kind to-day in private hands
+is said to be the property of a lamp-seller in
+the Strand.
+<pb n="32" id="p.32">
+<p>The most famous objects of collection,
+and among the noblest too, are books. In
+every country and language, still, books.
+And I do not here speak merely of their
+collection as the working materials of a literary life, but of books collected as books.
+Innumerable are the whims and lines and
+varieties among book-collectors; and very
+cordial is the scorn with which these specialists in print and paper sometimes regard their
+neighbors of a different type. You must read
+the many pleasant volumes written now-a-days about books, to learn the names and
+hobbies of these men. There are "Caxton
+men, and tall-copy men, and first edition men,
+and Russia leather and Levant morocco men."
+There are those who affect black-letter, or 16th
+century vignettes, or books from the Aldine
+or Elzevir presses. There are others who
+never touch a folio, and others still who would
+not collect the choicest duodecimo to save it
+from the paper-mill. Some give their lives
+and libraries to editions of Shakespeare,
+Dante, Boccaccio. Bindings or book-plates
+give their value to volumes in the eyes of
+certain collectors; and one distinct variety
+of the tribe collects books which bear the
+<pb n="33" id="p.33">
+autographs of distinguished or notorious
+people.<note n="*" place="foot">"There is a book in the British Museum, which
+would have to many people a greater value than any
+other single volume in the world; it is a copy of
+Florio's translation of Montaigue, and it bears Shakespeare's autograph on a fly-leaf."-Hamilton W. Mabie's
+Books and Culture.
+</note> There are also collectors who are
+anatomists of books; and as the Biologist
+bottles up the livers and lungs and eyes and
+hearts of animals, so they collect initials, title
+pages, tail-pieces, printers' marks, vignettes.
+Some are eager for Bewick's wood-cuts, others
+for Cruickshank's etchings. As of making
+books, so of book-collectors there is no end;
+and, as even book-collectors must die, great
+deposits of literary rarities are continually
+thrown into the general circulation of the
+world; while the catalogue-maker flourishes,
+and the voice of the auctioneer is heard in
+the land.
+<p>The Collector's work in connection with
+books takes still another and most interesting
+form. For more than a hundred years there
+have been bookish men who have sought to
+make collections to illustrate some particular
+book or favorite author. For this purpose,
+<pb n="34" id="p.34">
+engravings, views, maps, portraits, autograhps
+are drawn from every source,-sometimes
+by the ruin of other costly volumes-and
+then bound with the work or kept by themselves as a carefully collated and growing
+collection. Extra-illustrated books, as they
+are called, made for a market, sometimes
+deftly, sometimes clumsily, can be had in the
+shops of all great cities. Your essayist confesses to a mild but chronic form of this
+collector's mania; but he has to say that it
+is perhaps the method of collecting which
+requires most judgment and common sense.
+It is a sin to spoil a good and perfect book
+to enrich another; and the extravagant and
+foolish way in which this is sometimes done
+deserves condemnation. A common book,
+thus 'extended,' as the phrase sometimes
+runs, commands not unfrequently an enormous price. A Chicago lawyer owns a copy
+of Longfellow's Dante which cost him $1000
+in its extended shape,- a Philadelphia book-collector paid, a while ago, $1200 for three
+volumes of Grammont's Memoirs, - the failure of a New York broker threw into the
+market in 1885 an extra-illustrated Shakespeare on which he had expended $22,000. An
+<pb n="35" id="p.35">
+elegant volume published some years since on
+this branch of book-collecting, and giving a
+list of the treasures of this kind in New York
+and vicinity, would astonish you by the revelations which it makes of the zeal and
+extravagance of metropolitan collectors.<note n="*" place="foot">A Monograph on Privately-Illustrated Books. A
+Plea for Bibliomania, by Daniel M. Tredwell. New
+York, W. E. Benjamin, <date value="1891">1891</date>.</note>
+<p> As I have said, Americans have earned
+abroad the reputation of being the most
+miscellaneous and money-scattering of all
+collectors; and already much lamentation is
+heard in England and on the Continent at
+the irreplaceable treasures of art and literature which the new wealth of the United
+States is drawing to itself. When we are as
+old as our foreign cousins are to-day, we shall
+no doubt have done as great things in book-collecting; -in some respects we have perhaps reached their level now-but I have
+never heard of an extended book in American
+hands like the copy of Clarendon and Burnet
+made by Mr. Sutherland of London at an
+expense of $60,000, and now in the Bodleian
+Library at Oxford. Mr. Rees, who mentions
+<pb n="36" id="p.36">
+it in his charming Diversions of a Book-Worm,
+says: " It is in 67 large volumes, (the original
+could not have exceeded 6 or 8) and contains
+19,000 prints and drawings. There are 731
+portraits of Charles I, 518 of Charles II, 352
+of Cromwell, 273 of James II and 420 of
+William III. Forty years were spent in its
+compilation." After this, you will not be
+surprised to learn, on the same authority, of
+the foreign ecclesiastic who has got together
+12,000 portraits of the Virgin Mary, and of
+the daring collector, who so confidently counts
+on repeating the vital persistence of Methuselah that he has chosen Rees' Cyclopaedia
+as a work for extra-illustration!
+<p> And this leads me to say what may best
+perhaps be put in the form of a digression
+here, that however high may be the pulse of
+the collector's zeal, there are many circles in
+which he must walk circumspectly and moderate to others' eyes the fever which he feels.
+For collecting, like sovereignty, has its unscrupulous ambitions. If Russia longs for
+Bulgaria or Turkey, who would leave her
+alone with the unguarded object of her desire ?
+She is likely to steal it anyway, even before
+the face of all Europe. So the collector,
+<pb n="37" id="p.37">
+literary, artistic, scientific, is held by his
+brother collectors, by librarians, by the dealers
+in whose clientage he is to be found, as not
+unfrequently long-armed and light-fingered.
+No army forager ever appropriated a pig or
+chicken in a more serenely unprincipled way
+than will some collectors slyly convey to the
+gaps of their own cabinets the possessions of
+other men. The enmity toward France which
+Innocent X. manifested during his pontificate
+was ascribed to his having been detected and
+punished, when only a priest, for the attempt
+to steal a desirable volume from a Frenchman's collection. I visited, several years ago,
+the finest private collection in Great Britain
+of English gold and silver coins. The glittering store was exhibited freely and without
+reserve, - drawer after drawer was taken from
+the cabinets and passed under review. I
+noticed what at last I ventured to speak
+about, that every place for a coin in every
+drawer was occupied. "Yes," said the owner,
+"I keep them all full, and then I can see if
+any coin is missing when I put them back."<note place="foot" n="*">See also Grant Allen's story, The Gold Wulfric.</note>
+Sam. Pepys' collection which I have described,
+<pb n="38" id="p.38">
+can only be seen by the visitor in the company
+of a Fellow of Magdalene College; because
+it is held on the singular tenure that if the
+least object, if only a ballad or a leaf from a
+book comes to be missing, it all passes at
+once to another college of the University,
+which again can only keep it from reverting to
+Magdalene, so long as it is rigidly preserved
+from loss. When I inspected the collection,
+I turned from the index to a particular portrait which I wished to see. Its place was
+vacant! I looked significantly at the gentleman who was escort and guard. He answered
+with a laugh, " Yes, it's gone ! - Stolen! but
+luckily before we got it."<note n="*" place="foot">The essay, A Noble Art, already alluded to in a
+note, exaggerates, it is to be hoped, the kleptomaniac
+tendencies of the Book Collector, when it says of him;
+<lb>"He is altogether conscienceless, and would use the
+most questionable of methods to obtain his sinister
+ends. For one must know that 'all is fair in love and
+war and book-collecting,' provided only that he gains
+the end in view. Many a man of tried and serious virtue would barter soul and country, if only there were
+proper recompense in shape of incunabula or monk-made missal."</note>
+<p>All this is preliminary to the remark that
+of all thievish book-collectors the meanest
+<pb n="39" id="p.39">
+are those who steal for book-illustration.
+Every librarian will show you precious books
+robbed of title-page, abridged of prints or
+maps, or possibly lacking some special leaf
+of text; and these bits, the want of which
+does so much to destroy the value of the
+whole, are inserted in some rascal's extra-illustrated History or Biography. A wet
+string, a keen knife, a sharpened finger-nail
+are the implements of this robbery; and the
+Judas-like deed is done under cover of consulting the volume which is left plundered
+and impoverished. How great in general is
+the temptation which sometimes ends in
+such baseness, only a collector understands.
+Andrew Lang in his Ballade of the Unattainable, after apostrophizing "The books I cannot hope to buy, The books that never can
+be mine," ends his rhymes thus plaintively;
+<lb>"Prince, hear a hopeless Bard's appeal;
+<lb>" Reverse the rules of Mine and Thine;
+<lb>"Make it legitimate to steal
+<lb>" The books that never can be mine! "
+<p>To return for a moment to the subject of
+collecting, let me repeat that here especially
+a shadow always seems to rest on whatever
+does not show the collector incorporated
+<pb n="40" id="p.40">
+with his work. All that merely represents
+the power of the purchaser's purse and the
+toil of hirelings cannot escape the suspicion
+of vulgarity. It is therefore especially pleasant to remember one collection to which have
+been given the labor and love of many years,
+and which is, I believe, unique. Some of you
+may have seen it, but no public description
+of it has, to my knowledge, ever been given.
+<p> A gentleman of French descent, a fine
+linguist and artist, bred in an atmosphere of
+books, was, all his life, a student and admirer
+of the old chronicler Froissart. He gathered
+a valuable library of editions of this author,
+his commentators and the literary illustrations
+of his works. His own copy of Froissart was
+extended to more than a dozen times its
+original size by everything of portrait, print,
+map or autograph which could supply pictorial
+or verbal elucidation of the text. Separate
+title-pages were illuminated in the highest
+style of the art, and, from prolonged study,
+made correct in every detail of color, ornament or costume, to correspond with the
+exact chronology of their places in the book.
+All this was the work of the possessor's own
+hand. Such a collection was not sealed from
+<pb n="41" id="p.41">
+increase by binding, but kept in drawers, each
+chapter by itself, and under a crystal tablet
+of plate-glass.
+<p>Let me turn away, however, from the
+Collector's field in human history, art and
+literature,--for, grand as these things are,
+they have their limits,-to the boundless
+spaces and uncounted forms of Nature. Let
+me, as introduction, venture on a quotation
+from an essay by an old Autograph-Hunter.
+He says:
+<lb>"My attention was once called to a boy
+<lb>"just able to walk, and scarcely old enough
+<lb>"to talk who possessed (to use an oft-heard
+<lb>"phrase) 'a perfect mania for collecting.'
+<lb>"He would watch closely every attempt made
+<lb>"to light a lamp or a cigar, and would eagerly
+<lb>"search for the match that was thrown aside.
+<lb>"Such as he found, he carefully hoarded
+<lb>"and arranged. In his infantile mind there
+<lb>"seemed to be some idea of classification.
+<lb>"Some of the burnt matches in his possession
+<lb>"were 'rare specimens,' as was shown by the
+<lb>"care with which he guarded them. Others
+<lb>"were more common and not so highly prized.
+<lb>"By his actions he showed that there was in
+<lb>"his mind an ideal burnt match - a very rare
+<pb n="42" id="p.42">
+<lb>"specimen, toward the attainment of which
+<lb>"he was continually striving.
+<lb>"My close observation of this boy confirmed me in the opinion that the passion
+<lb>"for collecting was inherent in man. The
+<lb>"case above referred to was the earliest manifestation ever brought to my attention."
+<p>I believe this last statement too; and I
+think that our science of education shows its
+own infantile condition that it does not yet
+insist upon what should be one of its foundation principles that every boy and girl should
+be trained as a collector. See how the collector's instinct reveals itself so extensively
+in the passion for postage stamps and coins,
+and think what this might become if directed
+toward the infinite multitude of wonderful
+creations, surely waiting, if there can be any
+expression of desire and hope in nature, for
+the collector's touch and study! How many
+of us were told in childhood of the numbers
+and beauty of the tiny shells under the forest
+leaves, or taught to gather and compare and
+arrange in order the tender and delicate
+mosses and ferns? How many were intelligently trained to discriminate the sea-weeds
+and the Spring flowers? How many learned
+<pb n="43" id="p.43">
+of fungi good or bad, of minerals or crystals
+or birds or trees or leaves or seeds? True,
+we made some studies on the fishes on holiday afternoons, and some small collections,
+not scientific, with the aid of a hook and
+worm. And we did collect birds' eggs, though
+we should not have followed that pursuit with
+half the zest, if we had not been solemnly
+assured that it was a sin! Our education
+was neglected, even if we did learn to wear
+good clothes, and dance, and flirt, and play
+billiards and read Greek; and we have suffered all our life, though we may not know it,
+on account of that neglect. Douglass Jerrold, in his Chronicles of Clovernook, has a
+clever scheme of compensation and regeneration reported by the old hermit as in force
+in the wonderful kingdom of dreams which
+he had visited. Every one who had been
+violent or selfish or proud or covetous in this
+world became an infant there; and on his
+meekly accepting the situation and conduct ing himself as a good child in his nurse's
+arms, depended his growth and re-establish ment in man's estate. It would not be
+altogether out of place, could we command
+the conditions to send hard and worldly souls
+<pb n="44" id="p.44">
+to such a regenerating acquaintance, juvenile
+and scientific, with nature; where those whose
+acquaintance with zoology was limited to
+bulls and bears could come to know something more of the animal creation, and the
+selfish dames of fashion should be forced to
+study, as children, the flowers they have only
+known in counterfeit upon their hats!
+<p>The literature of Collecting would form a
+large and interesting library, in which almost
+every hobby would have its practical manuals,
+its eulogies, and even its poetry. It would
+include two American essays of widely differing style and fame. Mark Twain's paper on
+Collecting is perhaps his most irreverent
+production, lacerating with its shameless wit
+those tender sensibilities of the human heart
+by which, as I have tried to show you to-night
+the Collector is allied to the noblest of his
+race. Hawthorne's wonderful chapter on
+A Virtuoso's Collection exhibits indeed an
+unattainable ideal, but blends a lofty inspiration with the charms of the great master'
+style. Following this on a lower level, a
+charming English writer has sketched a collection of books such as might, but never will
+be made;-books which have the tenderest
+<pb n="45" id="p.45">
+or most tragic associations with the great
+souls of earth; like the prayer-book which
+Mary Queen of Scots carried in her hand to
+the scaffold at Fotheringay, and the crumpled
+volume which was taken from Shelley's
+pocket when his body lay stiff and cold on
+the Italian shore.<note place="foot" n="*">The Pleasures of a Book- Worm, by J. Rogers Rees,
+[New York, Geo. J. Coombes, 1886], p. 47 to p. 81.</note>
+<p>But I must take a text from the Roll-Call
+of Faith in the Epistle to the Hebrews. For
+the time would fail me to tell of the collectors
+of pottery and porcelain, lacquers and enamels, curios and bronzes, miniatures and rings,
+snuff-boxes and fans, lace and paper, Venice
+glass and Continental currency, Apostle
+spoons and Egyptian scarabaei, coins and
+medals, walking-sticks and prehistoric implements, eggs and sea-weeds, microscopic preparations and meteorites, minerals and cameos,
+carved ivories and missals. I could fairly
+exhaust the substantives of the dictionary
+before my catalogue was at an end. Of one
+and all of these fields for the collector, it may
+be said that there is in them much intellectual
+profit and more pleasure; and one must be
+<pb n="46" id="p.46">
+an indifferent collector indeed, if he does not
+find out, even in the apprenticeship to his
+calling, how Columbus felt when he discovered a new world.
+<p>I have, however, to set up one finger-post
+of warning, before I close. The fact-shall
+I call it Law or Original Sin?-of Supply
+and Demand operates here. The Collector
+is a known and recognized element in the
+commercial as in the intellectual world. And
+so the subtle art of fraudulent men lies in
+wait for him at every turn. Birmingham
+makes Egyptian gods in blue glaze and
+scarabaei by the thousand for him. The
+potter of the nineteenth century simulates
+the ware of the fifteenth and sixteenth-cracks it, crazes it, begrimes it, to sell it to
+him as a genuine antique. In garrets all over
+Europe, hungry canvas-daubers are painting
+Rembrandts and Claudes to hang upon his
+walls. The silver and gold vessels of the
+middle ages and the cameos of the Augustan
+period are counterfeited in his behalf. Alexander and the Caesars never minted so many
+coins as spring, with the ancient images and
+superscriptions, from the worshops of modern
+Italy. You may well refuse to buy a mummy
+<pb n="47" id="p.47">
+without its pedigree, or a sphinx without the
+autograph guarantee of Pharaoh. The white
+man can make wampum better than his red
+forerunner, and chip flint implements into
+the exact lines of the prehistoric stone. The
+furniture dealers of London and Paris can
+work miracles, multiplying an ancient carved
+chair or chest or footstool into a hundred,
+each fit to deceive the medieval elect. And
+but lately the ingenious Dusseldorfers have
+shamelessly patented a process for the imitation of old books, -dying with aniline, aging
+and moulding the paper, firing the edges-a
+process so atrociously successful as to cast
+suspicion on the Book of Time itself!<note place="foot" n="*">Those who are planning a trip to Europe will do
+well to read, and those who have already journeyed in
+foreign lands will preserve their peace of mind, if they
+do not read, two articles:
+1. Spurious Works of Art by J. C. Robinson in
+Nineteenth Century for November, 1891, and
+2. Fashions and Counterfeits in Bric-a-Brac, by
+Sarah Cooper Hewitt, in the Cosmopolitan Magazine
+of June, 1892.</note>
+<p>If I have spoken to any ripe collectors and
+adepts here to-night, I can foresee the immediate result of my words. They will go home,
+unlock some precious repository, and gloat a
+<pb n="48" id="p.48">
+little over its hoarded treasures before they
+go to bed, with the reflection to soothe and
+cheer them, how weakly the essayist has
+praised their craft, and how much better he
+would have written had he known what they
+know about Collecting. But for the rest,
+whose powers are yet untried, may I have
+turned some steps and thoughts toward our
+noble art! Dear friends, begin to collect,
+and collecting, persevere! Be honest, but
+assiduous; and be ready to face what is
+sometimes worse than the fagots or axe, the
+jeers of an unregenerate, uncollecting world!
+Collect; -even if your foes are of your own
+household; although the wife of your bosom
+calls your acquisitions 'rubbish,' and your
+daughters spurn them with their dainty slippered feet, and the Celtic Princess in the
+kitchen shows her aristocratic instincts by
+consigning them, with the shattered idols of
+your china-closet, to the ash-barrel;-persevere, although the cyclone of "house-cleaning" rage, and all the winds of Eolus roar
+against them; and, for your cheer, I will tell
+you what a poet, antiquarian and collector
+has sung of one department of our work.
+<pb n="49" id="p.49">
+<lb>"The days decay as flower of grass,
+<lb>The years as silent waters flow;
+<lb>All things that are, depart, alas I
+<lb> As leaves the winnowing breezes strow;
+<lb>And still, while yet, full-orbed and slow,
+<lb> New suns the old horizon climb,
+<lb>Old Time must reap, as others sow;
+<lb> We are the gleaners after Time
+<lb>"We garner all the things that pass,
+<lb> We harbor all the winds may blow;
+<lb> As misers, we upstore, amass
+<lb> All gifts the hurrying fates bestow;
+<lb> Old chronicles of feast and show,
+<lb> Old waifs of bygone rune and rhyme,
+<lb> Old jests that made old banquets glow;
+<lb> We are the gleaners after Time !
+<lb>"We hoard old love of lad and lass,
+<lb> Old flowers that in old gardens grow,
+<lb> Old records writ in tomb and brass,
+<lb> Old spoils of arrow-head and bow,
+<lb> Old wrecks of old worlds' overthrow,
+<lb> Old relics of Earth's primal slime,
+<lb> All drift that wanders to and fro;
+<lb> We are the gleaners after Time! "
+<pb n="52" id="p.52">
+<div1 type="part" n="2"><head>"Collegisee Juvat"</head><head type="sub"> A Few Remarks by a Collector's Wife"</>
+<pb n="53" id="p.53">
+<p>It is undoubtedly delightful to be an enthusiast in the noble art which the essayist
+has praised. But it presents a different aspect
+to the members of his own family. Too often
+the dust (not Olympian) falls to the care of
+his wife; and of that there is always enough
+to collect-for removal. It is not true that
+she is a natural foe to collecting, for she looks
+with unqualified pleasure on the collections
+of her friends and neighbors, deriving great
+comfort from the multitude of their afflictions.
+Her own enthusiasm is very properly modified
+by the nature of the objects collected;-
+whether large or small, antique gems or musty
+pamphlets, ormolu clocks or high-flavored
+pipes--and somewhat also by the dimensions of her house. Then it makes a difference to her whether the craze takes a mild
+<pb n="54" id="p.54">
+form, such as that to which the essayist confesses, or whether his "field is the world,"
+and the disease is chronic and the taste is
+omnivorous. The essayist quotes the old
+saying, "A man's foes are those of his own
+household." Allow a word in palliation of
+this domestic offence; and consider, as
+another side to the picture, when he says
+" You have never begun to live till you have
+begun to collect," how, under these home
+conditions, "the other half lives."
+<p>Judge also if in your opinion, the hope of
+immortality would be brighter to the dear
+ones of the family, if they had the confident
+assurance of an endless extension of the
+Collector's art. I have no doubt that the
+destitution of the family of Palissy the potter
+who sacrificed everything to his ambition,
+and even threw the last piece of his furniture
+into the kiln for firing his beloved clay, finds
+some parallel in the home of the Collector
+of the present day. They who must live
+with the Collector deserve our sympathy if
+they are not in haste to take up their cross
+in cheerful faith, and look with unclouded
+satisfaction at the irony of fate which leaves
+a family to starve while posterity exalts the
+<pb n="55" id="p.55">
+Collector to fame. We hear that Stow, the
+London antiquary of Elizabeth's day, spent
+all his life and substance on his researches,
+only to become at last the "King's bedesman" and to die in poverty. His family, if
+he had one, must have found little comfort
+in musing over the many details of city
+annals and the numberless quaint epitaphs
+which he accumulated. To them a little
+contemporaneous "taffy" would have been
+more acceptable than this wealth of ancient
+"epi-taphy."
+<p>The Collector's family may be very depraved in taste to prefer bonnets or bicycles,
+fine linen or china, house decorations or
+furniture, to the treasures of the junk-shop
+or the paper-mill. But early in their united
+life they learn that their desires must be held
+in check, and that the self-denial of woman
+is not a virtue of a bygone age. If the house
+be small, they must be contented with the
+least possible space for themselves and their
+belongings, to make room for these expanding and delightful "collections." May they
+not be pardoned if they do not always welcome
+with an unforced smile the little surprises of
+boxes and bundles of rarities creeping into
+<pb n="56" id="p.56">
+the house with Mephistophelian subtlety, and
+demanding new cabinets and shelves in the
+overcrowded rooms? No objection must be
+made to giving the new-comers the place of
+honor, upstairs, downstairs, or even in my
+lady's chamber. Is there anything more
+expressive of child-like trust and innocence
+than the Collector's faith in space! He is
+never chilled in his enthusiasm by the size of
+his abode. If he lives in a cabin, he collects
+for a palace. And like Artemus Ward in the
+Civil War he is zealous and patriotic enough
+to sacrifice to his principles his wife and all
+her relatives! If a Collector's family is so
+heartless as to be unsympathetic to his
+absorbing craze, let the members of it accept
+the fact, first, last, and all the time, that they
+have no rights of domestic occupation which
+he is bound to respect!
+<p>Again, the essayist has referred to the
+beautiful Law of Order which his art inspires
+and obeys. You must bear in mind that this
+only applies to the show collection. What of
+the vast store of material in the attic, the
+cellar, the closets and every available corner,
+awaiting the owner's leisure and attention.
+"Ah! mum," said my own Bridget once,
+<pb n="57" id="p.57">
+"this house is jist crawlin' with books and
+things, and I don't know what to do wid 'em!
+Cudden't some of these trashes be burnt
+up?" What wife, though in her heart she
+agreed with Bridget, would ever dare, while
+divorce laws exist, to propose such a house-cleaning? She has no difficulty in believing
+that "the intellect of universal man has been
+devoted to the manufacture of the exact thing
+in question." How these " books and things "
+multiply, with a fecundity only symbolized
+by the reptilian collections of Egypt, in
+Pharaoh's day!
+Moreover, after long experience and blasted
+hopes, the Collector's family may be pardoned
+if at last it loses faith in the mercantile value
+of these wonderful accumulations. But then,
+a true collector is never mercenary or utilitarian. He works for an art, not for a profit,
+which might tempt his wife and daughters
+into extravagance. No one knows better
+than he the value of money--to buy more
+of his darling "treasures." Fortunes may
+have been made in postage-stamps and autographs and rare books, and Lord Timothy
+Dexter did become rich by sending warming-pans to the tropics. Is there any such golden
+<pb n="58" id="p.58">
+goal for the average collector? Woman's
+feeble brain cannot understand how there
+can be, since she is told that articles of such
+great value are invariably picked up "almost
+for a song." According to her husband's
+own claim, he is a more successful patron of
+the bargain-counter than she is herself. Such
+treasures for a trifle put Moses and the green
+spectacles to the blush. As the spider for
+the fly, so does the wary dealer lie in wait
+for the innocent victims of the collecting
+craze. He is so fortunate in finding something unique in their line, so interested to
+complete their special set of specimens at so
+slight a cost! And the deluded man believes
+that the world will esteem these things as
+highly as he does, and pay its own hardly-
+earned money to obtain them! Sir Isaac
+Newton Gale, whom visitors to <placeName key="Bethlehem, New Hampshire">Bethlehem,
+N. H.</placeName>, will remember for his unique collection
+of broken bottles and tin cans, was always
+fond of discoursing on the enormous sums
+which had been offered for it, and which he
+had refused. The noble admiral at Majorca,
+who thought his specimen worth the whole
+French fleet, is not exceptional in his color-blindness to values. As a speck before the
+<pb n="59" id="p.59">
+eye may obscure the sun, so does the concentration of the Collector's mind on his
+peculiar hobby destroy his view of every
+other thing. We may not refuse to commiserate the clergyman who had the bilious
+attack because he did not secure his prize;
+but shall we forget the nervous prostration
+and heart failure which would probably have
+come upon his family if he had succeeded ?
+<p>There is nothing more to say of the ethical
+relations of Collecting, since the essayist has
+confessed its inevitable tendency to kleptomania. The wife of one whose honesty has
+never been questioned, will not soon forget
+the base suspicion cast upon her in London,
+when she was examining the old Herbarium
+of Linnaeus, kept at Burlington House. The
+Curator had gone out of the room for a
+moment, leaving her alone with her husband
+and the sacred plants. It was with a high
+moral tone that the good man exhorted her
+not to yield to a passion which he knew she
+felt, and refrain from stealing a specimen as
+a relic!
+<p>But Collecting is even worse than immoral
+-it is untidy! Who ever knew a Collector
+who did not war to the death against a dustbrush
+<pb n="60" id="p.60">
+or a broom ? In his eyes the dust of
+ages is to be preferred to the decent work of
+house-cleaning; while moths and book-worms
+are the associates which he cultivates in practice, if not in principle.
+<p>One advantage of Collecting, which the
+essayist has forgotten to mention, may receive
+a word of allusion. This is the convenience
+of moving collections, when one changes
+place of residence or when a fire breaks out
+in the immediate neighborhood. This, with
+other particulars which have been mentioned,
+determine the conditions on which only the
+true non-utilitarian Collector should be
+allowed to exist. He must be a bachelor
+with a large and certain income, and must
+occupy an elastic and permanent abode.
+Then, with an unbounded faith in Providence, a Methuselah life, and the fire department always on call, he may attain success.
+Otherwise let any would-be Collector and his
+impedimenta be consigned to their appropriate place -the nearest museum.
+<p>After a long experience with Collector's
+hobbies (not my own) I can truly say, that if
+the disease cannot be entirely cured, the
+department of Microscopy seems to me the
+<pb n="61" id="p.61">
+best, on account of the minuteness of its
+objects, into which its ravages can be turned.
+Or an accumulation of rare gold and silver
+coins may be allowed, if a sound Savings
+Bank be adopted as a cabinet in which to
+deposit them.
+<p> While you stand in admiration at the
+energy, enthusiasm, self-sacrifice and persistence which Collecting inspires, do not fail
+to give a passing thought to the many great
+and varied virtues which it has encouraged
+in A Collector's Wife.
+P.S.- A woman must have a postscript.
+This is mine: "DON'T!"
+MARGARET B. BOLLES.
+<pb n="62" id="p.62">
+</body></text>

@@ -1,0 +1,2091 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>SUNDAY SCENES IN LONDON AND ITS SUBURBS.</title>
+<author>BY PERCY CRUIKSHANK.</author>
+</titleStmt>
+&Perseus.publish;
+<sourceDesc>
+<p>LONDON:PUBLISHED BY THE ARTIST, 12, RODNEY STREET, PENTONVILLE;AND SOLD BY REEVES AND SONS, CHEAPSIDE.
+<date value="1854">1854</date></p></sourceDesc>
+</filedesc>
+<encodingDesc>
+<refsDecl>
+<state unit="page" n="chunk">
+</refsDecl>
+<refsDecl>
+<state unit="chapter">
+<state unit="page" n="chunk">
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id=en>English
+<language id=la>Latin
+<language id=greek>Greek
+<language id=fr>French
+<language id=it>Italian
+<language id=de>German
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<BODY>
+<div1 type="preface">
+
+<p><q>TRUTH IS STRANGER THAN FICTION.</q></p>
+<p>
+To
+THE <q>LORD'S DAY OBSERVANCE SOCIETY,</q>
+THE FOLLOWING <q>SCENES,</q>
+WELL WORTHY OF THEIR ATTENTION, DRAWN AND DESCRIBED FROM LIFE,
+ARE RESPECTFULLY
+WITHOUT PERMISSION,
+BY THE AUTHOR.</p>
+<div1 type="contents">
+<head> CONTENTS.</head
+<list>
+<ITEM>A FEW WORDS TO THE RELIGIOUS PUBLIC </ITEM>
+<ITEM>CHALK FARM AND HAMPSTEAD HILL </ITEM>
+<ITEM>CITY CHURCHES</ITEM> 
+<ITEM>FORE-CABIN OF GRAVESEND STEAMER</ITEM> 
+<ITEM>SUNDAY BEFORE GREENWICH FAIR </ITEM>
+<ITEM>TATTERSALL'S</ITEM> 
+<ITEM>CREMORNE GARDENS ON SUNDAY EVENING </ITEM>
+<ITEM>THE NEW CUT, LAMBETH </ITEM>
+<ITEM>STAR AND GARTER, RICHMOND </ITEM>
+<ITEM>HUNGERFORD PIER DURING THE HOURS OF DIVINE SERVICE 
+</ITEM>
+<ITEM>GIN AND SACRED MUSIC </ITEM>
+<ITEM>FARRINGDON STREET EXTENSION</ITEM>
+<ITEM>CONCLUSIONS </ITEM>
+</list>
+</div1>
+<div1 type="contents">
+<head>LIST OF ILLUSTRATIONS.</head>
+<list>
+<ITEM>1. CHALK FARM </ITEM>
+<ITEM>2. CITY CHURCHES</ITEM>
+<ITEM>3. GRAVESEND STEAMER </ITEM>
+<ITEM>4. GREENWICH FAIR</ITEM> 
+<ITEM>5. PAINTED HALL </ITEM>
+<ITEM>6. TATTERSALL'S </ITEM>
+<ITEM>7. CREMORNE</ITEM>
+<ITEM>8. NEW CUT </ITEM>
+<ITEM>9. STAR AND GARTER</ITEM>
+<ITEM>10. HUNGERFORD PIER </ITEM>
+<ITEM>11. RED CROSS GIN SHOP </ITEM>
+<ITEM>12. FARRINGDON STREET EXTENSION </ITEM>
+</list>
+</div1>
+
+<div1 type="chapter">
+<head>CHAPTER I.</head>
+<head>A FEW WORDS TO THE RELIGIOUS PUBLIC.</head>
+<p>THE respectable persons who claim for themselves the name of the
+Religious Public have succeeded, by digging up a clause in a forgotten
+Act of Parliament, in excluding all those hardworkers of London
+who take holiday on Sunday, from enjoying walks and rest in the
+Parks, Gardens, and 20 acres of Conservatory of the Crystal Palace
+at Sydenham.</p><p>
+The legitimate successors of Sir Andrew Agnew have carried an
+organised agitation from town to town and from parish to parish;
+agitators paid and unpaid have held public meetings and hawked
+memorials from door to door, against what, by begging the whole
+question they call <q> the desecration of the Sabbath.</q>
+</p><p>Nothing is more easy than to attract a considerable number of men,
+women, and children, to hear a Clergyman declaiming more or less
+eloquently on any given subject, or to procure an unlimited number of
+signatures for or against any undertaking recommended by respectable
+well-meaning people.
+</p><p>In the present case the gentlemen who have taken <q>The better
+<pb id="p.1" n="1">
+observance of the Sabbath</q> under their charge, assume that the
+opening of the Crystal Palace on Sunday will be a desecration of that
+holy day, the commencement of a new and fatal epoch, in which the
+people of England abandoning the pious habits of their forefathers
+will fall into the loose and vicious habits of those European States
+where Sunday is treated as a mere day of pleasure, which may at will
+be turned into a day of work, and the whiz of saws and the echoes
+of anvils may be heard mingling with dance, music, and opera
+performances.
+</p><p>The anti-Crystal Palace cry, based on fallacious assumptions, having
+been once raised, has been repeated by well-meaning, but ignorant
+simple-minded personages, with so much exaggeration that there are
+no doubt many who imagine that the Crystal Palace and Park on
+Sundays will be a sort of combination of Vauxhall and the French
+Dancing Gardens-that a vast multitude of well-conducted persons
+will be induced to neglect their religious duties and to indulge in
+dissipation of various kinds, to which if it had not been for this new
+Temple of Pleasure they would have been strangers.
+</p><p>Want of candour and charity, and the utter ignorance of what is
+passing in the every-day world, are equally remarkable in the leaders of
+the movement for what is called <q>better observance of the Sabbath.</q>
+</p><p>For the purpose of creating a popular party-cry they assume that it
+is intended to make the Park at Sydenham a place of vain amusement
+and loose festivity; on the one hand, they do not take the least
+trouble to ascertain what are the plans and the regulations under which
+it is to be thrown open on Sunday afternoon; on the other, they
+altogether ignore the thousands of gin-shops, and rum and gin-
+gardens, miscalled tea-gardens, which are now open from midday to
+midnight of every Sunday.
+</p><p>It is a curious fact that all the avowed and anonymous authors of
+attacks on the Crystal Palace Company have taken it for granted that
+the new palace, like that in Hyde Park, will be nothing more than a
+vast bazaar through which crowds may wander from hour to hour
+gazing, admiring, and valuing the various articles of luxury and
+convenience. Nine-tenths of the people who join in the Anti-Crystal
+Palace howl or groan assume that it will be a combination of a fair,
+a panorama, and a theatre.</p>
+<pb id="p.2" n="2">
+<p>The Crystal Palace will certainly include a great bazaar of beautiful
+useful and curious articles for exhibition and sale, it will include
+galleries of statues, and perhaps of pictures, and models and machines
+in motion; but on a Sunday, everything appertaining to commerce,
+everything in the nature of a show, will be closed, the looms will
+cease to weave, the automatons to sing, the sale departments will be
+shut.</p><p>But there will remain for the use and admiration of that great
+public, which has no rest and little fresh air except on Sunday, the
+Park, the out-door Gardens and fountains, and walks and seats within
+the vast Conservatory in which the vegetable productions of many
+climates will be displayed.
+</p><p>The draper's man or artisan with his wife and little ones, after six
+days spent in the atmosphere of his shop, or factory, will be able, regard-
+less of storms of rain, snow, or sleet, that rage outside, to walk or sit
+down among orange and lemon trees, tea and coffee shrubs, tall
+palms, gigantic cacti; he can there point out to his children the
+productions of Spain and Italy, of China and Ceylon, of the Pacific, of
+India, and of Mexico.
+</p><p>The space devoted for Sundays use, will in fact be two great Gardens,
+one out of doors, and the other under glass, the one devoted to the
+trees and plants of temperate, the other to those of tropical, and
+semi-tropical regions. The arrangements of the enclosed portion
+comprise eye lessons on the natural history of the earth, its geology,
+its vegetable productions, its animals arranged in groups according to
+climate, and also the various races of men. Not a museum of articles
+ranged in rows for the ignorant to stare at and the learned to study,
+but an epitome of an illustrated Book of Nature.*
+</p><p>In these Sunday Gardens of the Crystal Palace no intoxicating
+liquors will be consumed, no riotous conduct, no indecent language
+will be permitted. Every debasing influence will be excluded, and
+the utmost pains taken to render it the favourite resort of the families
+<NOTE  place="foot">* The world was not made to be inhabited by beasts, but studied and contemplated
+by man-it is the debt of our reason we owe unto God, and the homage we pay for not
+being beasts. The wisdom of God receives small honour from those vulgar heads that
+rudely stare about and with gross rusticity admire His works. Those highly magnify Him
+whose judicious inquiry into His acts and deliberate research into His creatures, return the
+duty of a devout and learned admiration.-<emph>Sir Thomas Overbury</emph>.</NOTE>
+<pb id="p.3" n="3">
+whose means do not allow them the benefit of a quiet garden of
+their own.
+</p><p> The opportunity of exercise in pleasant walks, rest on convenient seats,
+refreshment of a wholesome kind at a moderate cost, instruction in
+the wonders and beauties of nature,-these, with the music of running
+waters and bubbling fountains, will be the class of attractions provided
+to invite the presence of that class which is in the habit of seeking on
+Sunday some change of scene from the monotonous labours of the
+week. Why is a walk in the Gardens of Sydenham more improper
+than on Clapham Common or Hampstead Heath, or the Gardens
+of Kensington or Kew, or Hampton Court ?
+</p><p>Who are the Sunday customers of excursion trains ? Who are the
+people who fill suburban tea-gardens-who are the multitude found
+towards the close of a summer's Sunday evening, crowding the steam-
+boats and the omnibuses, and wearily treading the great entrances
+into London ?
+</p><p>They are a class of whom the platform orators on Sabbath observ-
+ance and their respectable well-to-do friends know nothing-they see
+them from afar off as we see bats or mice, and sympathise as little
+with their real wants and pains and aches as we do with those lower
+animals.
+</p><p>A large proportion of the respectable individuals who assume to
+themselves sometimes the title of the <soCalled>Religious,</soCalled> and other times of
+the <soCalled>Christian</soCalled> Public, are persons who never in their lives knew
+what hard-work means; they are well clad, they live in good houses,
+they sleep softly, either they have incomes which give them a decent
+competence, or are engaged in pursuits which only require regular
+attendance for limited hours in snug offices and counting-houses.
+They are the class described in one of the Anti-Crystal Palace
+pamphlets, as living near to Sydenham and deeply to be pitied because
+their Sabbath rest would be disturbed. <q>Merchants and tradesmen,
+who having toiled hard all the week in counting-house or shop, look
+forward to a real Sabbath in their quiet suburban houses.</q>
+</p><p>Such people have good gardens and plenty of exercise, horses and
+carriages-the best seat in the omnibus-a railway season ticket, they
+go to the sea side, if so inclined, every summer, they take a trip to
+Scotland or the Continent, they desire to rest on Sunday, and their
+<pb id="p.4" n="4">
+rest is to be still. If they walk, they walk in their gardens and
+conservatories, or round their fields, and on a Sunday they do not trouble
+the baker,-because they have excellent cooks at home.
+</p><p> Such wealthy Sabbatarians remind one of the monks of old, who
+fasted on the finest vegetables, and on fish of magnificent proportions,
+kept alive until the appointed moment in streams running through
+their kitchens, such as Beckford described in the Convent of Alcobaca.
+</p><p> Contrast with the week-days and Sundays of the banker, the
+merchant, the first-class tradesman, and the wives and daughters of the
+same, who help to swell the crowds of memorialists for stopping Sunday
+trains, and shutting up the <q> Palace and Park of Temperance,</q> with
+the condition of a very important, a very numerous, but very unpic-
+turesque and unromantic class of men and women.
+</p><p> According to the reports of the Early Closing Association, there are
+not less than one hundred thousand souls engaged in the shops of the
+metropolis.
+</p><p> A hundred thousand souls who pass from twelve to fourteen, and
+even sixteen, hours on their feet, in one close atmosphere, contaminated
+with human breath, thickened with dust, poisoned with gas!
+</p><p> Day after day, without change and without relaxation of any kind,
+except what is to be snatched at untimely hours of night or morning,
+these shop-servers must sleep either in the houses where they work, in
+dormitories more or less uncomfortable, or in lodgings close at hand.
+These people have no cosy study to retire to; even in their bed-
+chambers they are not alone; they have not the advantage of the
+evening walk or ride to the suburbs, which has become part of the
+system of the more opulent trading classes of London. They have
+little chance of the vacation ramble at Margate, Ramsgate, or Brighton,
+still less a tour through Switzerland or up the Rhine. A few days'
+holiday, and one or two pounds to spare, are the utmost they can
+aspire to; and these are the victims whom a section of the religious
+public seek to imprison within the circle of the streets of London, and
+to debar from any other resource than the public-house; the public-
+house which is to be found at the corner of every street from
+Kensington to Bow.
+</p><p> The vice of the well-to-do religious public lies in their want of
+sympathy with the hard-working bread-winners in unpicturesque
+<pb id="p.5" n="5">
+occupations. A beggar in rags may melt their hearts, and unloose their
+purse-strings. A Kaffir, a Krooman, a Hindoo Pariah, a Cuban, or
+Carolina slave excites their warmest pity and most lively emotions;
+but they hear with wonderful equanimity of the hard labour, the priva-
+tions, the actual sufferings of the small tradesmen and hundred
+thousand shop-attendants, whom the spread of luxuries dooms to a life
+of brick-walls and paved streets.
+</p><p>Again, beside the hundred thousand who are banded together for the
+boon of closing labour at eight o'clock in winter and ten in summer!
+there are the numerous tribe of clerks, obliged to keep up a decent
+appearance on small salaries, in very responsible employments,
+living in cramped lodgings or miniature cottages, who seldom see
+their children except on Sundays. There are tens of thousands of
+mechanics, and others following occupations created by the highly
+civilised state of society in which we live-engaged in producing those
+articles of comfort and luxury which smooth the path of the wealthy.
+</p><p>For all these town-working people, what day of rest is there-what
+opportunity of exchanging the close air of the city, of seeing grass, and
+trees, and flowers-of stretching their limbs and expanding their lungs
+-of laying in a stock of health for the ensuing week-except on the
+one day set apart for rest, the Sunday ? It is a libel on the goodness
+of God to believe that His day was intended as a punishment for the
+poor and a luxury for the rich.
+</p><p>The agricultural labourer, whose time is passed in the fields, may be
+well content on that day <emph>to sit still</emph>; to the townsman the <emph>rest of
+exercise</emph> is as essential as the rest from motion to the ploughman or the
+postman.
+</p><p>It is the small shopkeepers, the shop-assistants male and female, the
+mechanics who now fill the river steamboats, the excursion trains, the
+parks, the tea-gardens of the metropolis, who would and will fill the
+walks and terraces, and sit under the groves and alcoves of the Crystal
+Palace, whenever common-sense, and common humanity triumph over
+the clamour of ignorant bigotry.
+</p><p>But before the London section of the religious public commit them-
+selves permanently to the conspiracy for blocking up the first great
+example of an Intellectual Temperance Garden open to the Sunday
+excursionists, it would be well that they first ascertain what sort of
+<pb id="p.6" n="6">
+places of rest, refreshment, and amusement are now open to those who
+are not able, and not inclined, to confine themselves to the streets of
+London on their one day of rest; because facts in the shape of open
+gin-gardens, crowded taverns, empty churches, form a very important
+part of the case of the gentlemen who claim to enter into competition,
+with gardens, fountains and tea, and such-like temperance refreshment,
+against the brewers and distillers.
+</p><p>It will not do to set up the proprietors of the Crystal Palace
+Company as model philanthropists. It is the height of folly to
+insinuate or assume that the shareholders are willing to spend three-
+quarters of a million in order to educate and improve the people; they
+are, in point of fact, the same class of speculators as those who make
+canals, docks, railways, and even build churches on their estates, to
+improve the value of adjacent building land. But they have been
+shrewd enough to see that the improved moral and intellectual tone
+of the English Public demands something better than a glass of grog
+and a few yards of turf for Sunday relaxation, or than the capering of
+a band of half-naked ballet-girls for week-days; and therefore they
+have prepared a garden, a museum, where people can be innocently
+idle, or earnestly studious, if they please; and they hope to make a
+fortune by it. And as long as all conditions of men are paid, from
+the beadle to the Archbishop, from the brewer for his liquor to the
+Wesleyan for his preaching, there is no reason why they should not
+derive a profit from an investment for the use of the Sunday public,
+as well as the newspaper proprietor, who on the Sunday prepares a
+Monday newspaper, or the pier proprietor, who on the Sunday also takes
+toll-pence from the steam-boat traveller on his way to the taverns of
+Battersea, Putney, or Richmond.
+</p><p>But in an artificial state of society, quite unlike the mode of life in
+Pitcairn's Island, we must, if we are to do any good, look round and
+see what exists, and then, arguing by comparison, decide whether the
+Crystal Palace is not a great step in advance on public amusements
+now tolerated, and by taxation sanctioned.
+</p><p>With this end I and my friends have done what it would be well if
+the religious public would also do-we have shared the Sunday, the
+amusements of London and its suburbs, and sketched from life, without
+exaggeration, the Sunday scenes I am about to describe. These
+<pb id="p.7" n="7">
+scenes, or similar, are patronised by full a million souls. They are
+unknown to those who tremble, who rave, who write, who petition
+against such a desecration of Sunday as the opening the Crystal
+Palace.
+</p><p> I write no romance. I have painted what I have seen; I give this
+as my evidence on the Sunday question. I challenge contradiction.</p>
+<pb id="p.8" n="8"></div1>
+<div1 type="chapter">
+<head>CHAPTER II.</head>
+<head>CHALK FARM AND HAMPSTEAD HILL.</head>
+<p> LET US cross the Regent's Park without joining any of our friends
+in the pleasant enclosure, or, by the way, without taking advantage of our
+subscription to the Zoological Gardens-let us see what people do on a
+Sunday who, living within reach of the Regent's Park, are not of that
+class who live in terraces or can subscribe guineas to gardens. Pass out
+over the Suspension Bridge, turn to the right, and you have before you
+the conical hill, green in the spring, and brown and bare before the end
+of the summer, with the treading of many hundred thousand feet, which
+gives to many smaller children their first idea of a mountain. This is
+Chalk Farm or Primrose Hill; on any week day except Monday and
+the two holidays of Englishmen, Primrose Hill is almost solitary,
+the visitors, few, select, and juvenile. But Sunday sees another sight.
+On every fine Sunday at least Primrose Hill becomes a human ant-hill,
+all ages, both sexes, take possession of the sward from an early hour,
+and there seek rest or amusement according to taste.
+</p><p> The same feeling that sends a fashionable party to wander in
+Richmond Park, and dine at the Star and Garter, sends Father and
+Mother, Dick, Jane, Tom, and Polly, and the baby, to Primrose Hill-
+so too while Lord Harry and Sir John are having a quiet game of ecarte
+at the Coventry, One-eyed Jack, Red Pat, and Joe the Lumper, are
+playing the little odd man on Chalk Farm.
+</p><p> Primrose Hill is the commencement of a series of fields, partly
+intersected by half-finished streets and clusters of villas, leading on to
+Hampstead Heath, across which, from time immemorial, footpaths
+<pb id="p.9" n="9">
+have been trodden. It is impossible for any one of right feeling to
+pass along these fields on a Sunday afternoon without desiring that
+they might be preserved perpetually in their present rural state, for
+the benefit of the multitude now swarming across it. The view of
+London from the brow of these fields, far extending, a wilderness
+of streets shrouded in a canopy of mist and smoke, with the long
+line of Surrey hills rising beyond, is indeed imposing. There is
+quiet in these fields-the speckled cows graze around undisturbed
+by the children playing-trees in clumps make such a leafy screen,
+that it is possible to imagine oneself miles distant in some rural county.
+The influence of the scene is stamped on the countenance of those
+who frequent the sylvan scene on the warm days of spring, summer,
+and autumn.
+</p><p> The greater number are evidently respectable tradesmen and
+mechanics with their families, taking this pleasant route to Hampstead
+Heath, or sitting on the turf inhaling the purer air and enjoying the
+mental contrast between the noisy London in which they live, and the
+silent London that lies below them.
+</p><p> Those who do not know how softening, how humanising are the
+effects of rural walks, on town-toiled men, may gather evidence not to
+be despised, as near as Hampstead.
+</p><p> It is true that all we meet in such resorts are not quiet and
+contemplative, but it is easy to see that, dispersed over a large space,
+the conduct of the uneducated is more influenced by good example
+than when crammed into hot gin palaces and frowzy tavern parlours.
+The true philanthropist will not be diverted from his purpose of general
+improvement by the language, the dress, the demeanour, of a few
+vagabond groups who perhaps are ruffians because they have not enough
+education to be blacklegs. Rough, rude people will go on living, in spite
+of the disgust of the genteel-and it is easy after visiting such resorts
+as Primrose Hill and Hampstead Heath to satisfy ourselves that we do
+not increase, but rather diminish evil influences, by removing a
+population that exists whether we see it or not from courts and alleys
+to parks and open fields.
+</p><p> But although there is much to gratify in the decent, happy expression
+of those who wander about refreshing their lungs and their limbs,
+between Kensington Gardens and Hampstead Hill, we must not forget
+<pb id="p.10" n="10">
+that our climate is uncertain and that man is an eating-drinking
+animal. Indeed, we cannot if we would, forget it. As we look down
+from Haverstock Hill towards Primrose Hill, we see in various
+directions the commencement of works in brick and compo; wherever
+there is a new street, one corner is formed by a mansion of more
+stately elevation than the rest of the row-rich in such architectural
+decorations as Mr. Stuccoe loves, with a fine portico, highly ornamented
+windows, and not unfrequently a terrace roof with massive balustrades.
+These mansions are places kindly provided by the enterprise of
+brewers and distillers for the refreshment of suburban wanderers,
+and graciously licenced by the magistracy. They are thrown up
+on military principles-they command every defile. The wife of the
+<soCalled>thirsty soul,</soCalled> however ingenious her geography, cannot escape them
+when once she reaches the regions of brick. She has no resource but
+to wait outside with the children, or go in to join in the <soCalled> one more
+half pint.</soCalled>
+</p><p> To the existence of taverns and beer-houses in the outskirts of
+London there can be no abstract objection. But when we hear so
+much of Crystal Palace desecration, two points occur to us. One is
+that the state of our laws offers a premium to the man who tempts
+the Sunday wayfarer to alcoholic instead of to temperance drinks; and
+the other that when these green fields have disappeared in dusty
+streets, the only monuments of the glories of departed scenery will be
+found in the terrace roofs of the gin palaces.
+</p><p> As a specimen of what is permitted within earshot and eyesight of
+a very refined public, I have given a sketch from nature of a Sunday
+scene at the foot of Primrose Hill. I had not space for the van loads
+which are discharged in Camden Town.
+</p><p> The Chalk Farm taverns supply to the class who frequent them
+refreshment and amusement answering to that afforded to a different
+class at the Trafalgar, Greenwich, and the Star and Garter, Richmond.
+The one boasts its company in four-in-hand drags and neat Broughams.
+The other attracts a number of clients in gaily painted vans and
+costermongers' carts.
+</p><p> Enterprising individuals have provided amusements for the fre-
+quenters of the district, which certainly enliven the scene if they do not
+add much to the intellectual instruction of the partakers and spectators.</p>
+<pb id="p.11" n="11">
+<p> My frontispiece, sketched from the road, presents a view of the
+<soCalled>neat but unpretending</soCalled> facade of the Primrose Tavern, conveniently
+situated within a stone's throw of the Hill. If thirsty, you will have
+considerable difficulty on a hot Sunday, in making your way to the
+bar, where a light lively conversation of gents, on the Sunday spree,
+addressed to ladies of the same mind, is unharmoniously diversified by
+the cries of unhappy infants, and the remonstrances of prudent wives,
+endeavouring to get their husbands home with some remains of a
+week's wages.
+</p><p> Outside, a gentleman in the most inviting terms, with rapidity which
+only Charles Mathews could imitate, offers to ascertain your exact
+weight, by <q> the famous machine which obtained the gold medal at the
+Great Exhibition;</q> and for the same small charge will enable you to
+test the strength of your lungs by following some hundreds in blowing
+into a sort of India rubber register.
+</p><p> For those whose tastes do not lie in the way of weights and
+measures, roundabouts and swings are provided in close vicinity to
+a tent of thirsty souls. Thus both parties derive mutual encourage-
+ment. The happy smoker in the tent gazes and sips, and sips and
+gazes with amusement or admiration on fair forms floating in mid-air,
+encouraged to strange feats by the pipe-and-pot applause. If the
+roundabout is not your taste, then military ardour may be satisfied in
+<q>The Primrose Rifle Grounds,</q> at a penny a shot.
+</p><p> Thus, between the popping of rifles, the shouts of heroes, excited
+by the more than ordinary gyrations of the swing, the screams of
+heroines, and the applause of the sots in the tent, the foot of Primrose
+Hill, in spite of the subduing presence of policemen, does not afford
+exactly the place for Sabbath meditations, and is a scene likely to
+produce no elevating effect on the moral tone of the rising generation.
+</p><p> Yet Primrose Hill Tavern is only one among scores of similar
+resorts round London on Sunday.</p>
+</div1>
+<div1 type="chapter">
+<head>CHAPTER III.</head>
+<head>CITY CHURCHES.</head>
+<p> IN those days, which people who indulge a sentimental love of the
+past call <soCalled> good </soCalled> and <soCalled>old,</soCalled> when Pepys gossiped, Evelyn moralised, and
+Wren built; when king and courtiers were witty and profligate, and their
+humbler imitators were profligate and not witty, the city was what it now
+is not-a place of residence. There the merchant princes of England
+lived in stately mansions on the lap of Father Thames, and displayed
+a solid and heavy, if not a splendid or elegant hospitality in buildings
+now desecrated, by the innovations of commerce, to the custody of sacks
+and barrels, jars and bales of goods. It was in such earlier reigns that
+the piety of our forefathers supplied the spiritual wants of the city with
+numerous churches then really required, appreciated, and used-
+now very handsome, very comfortable, but always very empty-snug
+sinecures for invalid, idle, or studious incumbents, but a useless
+congregation of steeples in a congregationless district. In the neigh-
+bourhood of Gracechurch and Lombard Street there is a cluster of
+spires within stone's throw of each other. Their several Rectors and
+Vicars might stand each on his own watch-tower, and could they
+still the roar of traffic in the adjoining streets, might without difficulty
+enter into conversation. When these churches* were first built, the
+streets in which they stand were inhabited. People employed in
+business resided in the City, slept there, eat there, entertained there-
+spent their Sundays there-Tyburnia had not then become fashionable
+<NOTE place=foot>* Vide Newcourt's Repertorium Londinense.</NOTE>
+<pb id="p.13" n="13">
+-Belgravia was a marshy swamp. The merchant had no princely
+mansion at the west end-his clerk no villa at Camberwell, or cottage
+at Islington. At present there are parts of London which, densely
+crowded in the day time, are every night, and the whole of Sunday,
+almost entirely empty. A single clerk remains in a Bank where fifty
+or sixty are daily employed, and where hundreds come to pay, and
+thousands to draw out money One or two servants are left in charge
+of a solicitor's office where twenty clerks have been employed during the
+day, and where clients innumerable have flocked like sheep to the
+slaughter. It is therefore what Mr. Thomas Carlyle would call a
+<soCalled> sham,</soCalled> and Lord Denman <soCalled>a delusion and a snare,</soCalled> to keep up these
+expensive and useless edifices when their day for usefulness has
+departed. Had an Ecclesiastical Commission ever been appointed,
+which had the slightest intention of doing any practical good, this is
+one of the first abuses the Commissioners should have exposed and
+destroyed. As it is, we have seen of late in the House of Lords some
+bungling legislation on the subject which began with blunders, and has
+ended, if not in discomfiture, in delay. Were a thorough investigation
+of Charitable Trusts attempted, the tranquillity of this dream-land of
+otiose Parsondom must infallibly be disturbed. For report says (but
+we must of course charitably remember that Fame is a liar), that in
+these small parishes without inhabitants so snugly adjacent on such a
+small area, there is a yearly mal-appropriation of some hundreds of
+pounds. One daring Radical reformer, not fifty miles from Lombard
+Street, informs me that several large bequests intended for the poor, or
+for the Church, are expended in paying Church rates, and that even
+worse sacrilege than this takes place, when Parson, Churchwardens,
+and Vestrymen, who could all eat good dinners at home at their own
+expense, go down to Blackwall and Greenwich to devour Whitebait and
+imbibe Moselle from funds intended by our generous and confiding
+ancestors to feed the hungry, and relieve the suffering. Now for this
+lamentable state of affairs I do not blame the clergy themselves. It is
+the Bishops- the Ecclesiastical Commissioners, and the loud-voiced
+Reformers in Church and State who have allowed this nest of abuses
+to escape their boasted vigilance. It is no fault of the incumbents
+themselves that they do not attract congregations. There is no flock
+to come. One out of the six churches in the district of which I have
+<pb id="p.14" n="14">
+spoken would amply supply the spiritual wants of the neighbourhood,
+while the other five might be transplanted with most advantageous
+effect to suburbs with large populations and scanty church accommoda-
+tion. This course, which should have been taken years ago, will,
+perchance, in some distant future be adopted when the abuse has been
+ventilated by discussion, and public opinion will no longer tolerate so
+gross an absurdity.
+</p><p>It would force me into personalities which I am above all things
+anxious to avoid, did I attempt to fill up with my pen the sketch made
+with my pencil, the accuracy of which may be tested by any of my
+readers who may think to visit on Sunday afternoon the Church of
+St. Peter le Poor, Old Broad Street, City. As a specimen of an
+afternoon congregation it forms no exception to the general rule of City
+Churches. But to the small cluster of spires of which I have been
+previously speaking, even in the morning no amount of zeal or eloquence
+can succeed in attracting a large audience. Many of my readers may
+remember the account given by Mr. Carlyle of the church in which he
+heard his friend John Sterling preach, and in which his biographer tells
+us that he might have amused himself by rifle shooting without peril to
+one Christian life. More will call to mind Charles Dickens' description
+of the sacred building in which Mr. and Mrs. Dombey were married.
+There is something altogether distinct and peculiar about these
+churches. There is an air of quiet rich indolent respectability about
+them-they do not unnecessarily obtrude themselves. The money-
+changers of the adjoining streets, though they do enter the temple
+itself, traffic so vehemently around, that the striking of the clocks is
+scarcely heard, the ringing of the bells falls faintly on the ear-in fact,
+the general disposition which they evince to be retiring gives to them
+the appearance of being ashamed of their strange and anomalous
+position. This is rather their exterior aspect. When you enter them,
+emptiness and uselessness are their most striking characteristics. In
+the incumbents themselves there is nothing very distinguishing except,
+perhaps, that the habit of reading and preaching to so limited a number
+superinduces a careless and rather indolent way of doing both. In the
+clerks there is the same diversity as everywhere else-from the young
+and dandy to the old deaf and semi-imbecile clerk. Take them all in
+all, the clerks of churches are an extraordinary race; and they are as
+<pb id="p.15" n="15">
+great an ecclesiastical nuisance as they are a phenomenon. Why, when
+the officiating clergyman reads one verse of a Psalm, the congregation
+cannot audibly respond, without being led (or rather <emph>mis</emph>led) by some
+consequential fellow who is either too illiterate or too affected to read
+with decency, much less with devotion, I cannot comprehend. Lord
+Chesterfield has well observed that it is very unphilosophical to assail
+any body of men as a class, and certainly the clergy are not the one
+which I should single out for attack. The influence they <emph>might</emph> use
+in behalf of the vast body of the working-classes it would be impos-
+sible to over-estimate. The good which they actually do, though
+far below what it might be, is not inconsiderable. Though some of
+them may lay aside the clerical character on every day except
+the first of the week-though others may shock us by their love
+of pleasure, their levity, their desire to be fashionable, their sub-
+servience to the rich and great, their greed and their grasping, yet
+who will deny that there are among them many heroic, self-
+denying men, toiling for miserable pittances in a self-devoting con-
+scientious spirit, doing their duty as if ever <q> under their great
+Taskmaster's eye </q>-true helpers of the oppressed and <q> Tribunes of
+the People ? </q></p>
+</div1>
+<div1 type="chapter"><head>CHAPTER IV.</head>
+<head>FORE-CABIN OF GRAVESEND STEAMER.</head>
+<p> <foreign lang=la><q>PER ardua ad alta</q></foreign> would not be an inappropriate motto for a
+Gravesend steamer-<emph>i. e.</emph> supposing we translate it <q> through difficulties
+to the deep.</q> If not for the steamboat itself, it most certainly would
+be for the passengers-and above all, Sunday passengers. After a
+trip by one of these vessels it is difficult to understand what are the
+attractions which can induce people to voyage so far in such crowded
+discomfort. In July and August, when the weather is warmer, then
+it is that the captain of steamboat Meteor, or some other steam craft
+with an equally good name, is brought before the Lord Mayor or some
+other city magistrate, for overcrowding his boat, the number allowed to
+him by law being only seven hundred, or within a few of that number.
+But in May and June there are usually quite sufficient persons on
+board these steamers to make the voyage uncomfortable, if not
+dangerous.
+</p><p> It is not that Gravesend is the most charming place in the world.
+The sands there are scarcely famous-nor sea-bathing very good-and
+Rosherville-classic Rosherville even with its noble association with
+the name and title of Baron Nathan-is not Paradise itself. And even
+were Gravesend the <q> Baiae amaenae </q> of our capital, and the neigh-
+bouring gardens, Eden itself, the Sunday steamer visitors have time
+for but a brief stay amid these delectable scenes. Is not the
+rush here, as well as everywhere else, to be accounted for in this
+way, viz., that there are some thousands of persons doomed to labour
+hard for their subsistence six days per week, whose lungs require fresh
+
+<pb id="p.17" n="17">
+air, whose limbs exercise, whose whole system mental and bodily some
+recreation and excitement ? But our rulers in their inscrutable
+wisdom close the <q>People's Sunday School</q>* on the heights of
+Sydenham-to the undisguised satisfaction of the proprietors of gin-
+palaces and tea-gardens. There is joy at Highbury Barn, ovation in
+the Grecian Saloon; great is the triumph at the Red House Battersea,
+and the Gardens at Cremorne; Jack Straw's Castle fills well, and
+the Publicans of Windmill Hill are in raptures.
+</p><p> Meanwhile the Crystal Palace with its gates closed stands a monument
+of National Righteousness. As at Rome the temple of Janus was shut
+when the Republic was at peace, so we shut up the Temple of
+Temperance and innocent pleasure, because we are suffering from a
+periodical fit of piety. <q>We are a religious people </q>-a statement
+which sounds remarkably well from the pulpit or the platform; but
+which any one who like myself will look carefully at Sunday scenes
+and Sunday amusements, may possibly forget.
+</p><p>To all visitors to Gravesend on Sunday, there are all the means and
+appliances for intoxication ready to hand. The band on the pier is
+silent, but a tap is open at every tenth step. On Windmill Hill, and at
+the foot, are eight public houses. On my approach to the hill, I was
+invited to try the <soCalled> Real Havannahs.</soCalled> The first object which attracted
+my attention was an enormous board, having on it in huge letters this
+gratifying announcement:</p>
+<p>STRONG GIN.</p>
+<p>I was followed by several assiduous waiters, who vied with each other
+in their hospitable invitations to the several small inns to which they
+belonged, and in continually chaunting the praises of their <soCalled> fine old
+Tom,</soCalled> <soCalled> best cream gin,</soCalled> ale and porter of the best qualities and the
+cheapest prices. They also pressed me much to ascend their several
+house-tops, and take a panoramic view of Gravesend and its suburbs,
+by the aid of a telescope. These thoughtful, delicate, and disinterested
+<NOTE place=foot>* A name given to the Crystal Palace by a speaker at a large meeting held in Drury Lane
+Theatre, and received with a round of deafening cheers.</NOTE>
+<pb id="p.18" n="18">
+attentions on the part of the waiters, had their intended effect on the
+majority of the excursionists, who flocked to the various hostelries
+in question, and were, I suspect, obliged, for the good of the house,
+to make use of the glasses below, the contents of which cheer and
+inebriate, as a return for the use of those above which assisted in a
+minute admiration of the surrounding landscape. I looked into several
+of their <soCalled>Palaces,</soCalled> where the working-man enjoys such tempting
+opportunities for disbursing his superfluous cash, and must confess
+that the consumption of beer and spirits proceeded with a steady
+rapidity which could not but have gratified the landlords.
+</p><p> It next occurred to me, that as many steamboats, as full as the
+one in which I had voyaged down, call at Gravesend on Sunday, it
+would tax the capabilities of even these eight large public-houses to
+accommodate all the tourists from town. The rest, methought, must be
+at Rosherville, and to those far-famed gardens I therefore at once took
+my way. The gardens lie in a large, irregularly-shaped marl pit, which
+has been thus turned to very good account, and the grounds-a certain
+cockney regularity in the attempts to imitate the irregularity and wild-
+ness of nature notwithstanding-are tastefully and prettily laid out.
+Here, as at Cremorne and Highbury Barn, each visitor pays sixpence
+as the fee for entrance-but in this case there is no refreshment ticket.
+You sink the whole sum for the sake of entering, without any equivalent
+but that pleasure. After strolling among flower-beds, through undu-
+lating walks adorned with some feeble attempts at ruined aqueducts
+and arches, I found a number of persons congregated round a deep
+tank with a pole in the centre, and with iron railings round it, in which
+two large black bears were the objects of attraction. These monsters
+stood erect on their hind legs, and caught in their mouths, with an
+expertness which practice had rendered perfect, scraps of buns and
+biscuits which were thrown to them. The children among the by-
+standers were, of course, in great raptures. As the voracity of bruin
+and his mate appeared to know no end, and was therefore growing
+monotonous, I wandered on, passed the archery ground, and entered
+a very imposing pile of architecture, called<soCalled> the Banquet Hall.</soCalled> Here
+were a few persons dining at a table upon which various cold viands
+were spread, one or two couple were dining in a hotter and heavier style
+at separate tables; and at other tables shrimps were being swallowed
+<pb id="p.19" n="19">
+and washed down with hot weak tea. In this  <soCalled>gilded saloon </soCalled>(as
+Mr. Disraeli would call it if he had to deliver an after-dinner agricul-
+tural speech there) the nymphs of Gravesend and the neighbourhood,
+with no less a man than Baron Nathan as high-priest of the mysteries,
+do honour to Terpsichore on every evening except that of Sunday, on
+which day, dancing being prohibited, the spacious building is solely
+devoted to gluttony and intoxication. There appeared to be a strong
+force of waiters, who had an air so independent, that one would suppose
+them the joint-proprietors of the gardens, if one might judge from the
+leisurely way in which they executed orders, the easy familiarity of
+their manners, and the general jocularity of their demeanour. Having
+fortified myself in the Banquet Hall with some dinner, which though
+it might be unfair to call it <soCalled>cheap and nasty,</soCalled> was neither very
+dear nor very clean, I walked on and explored the other parts of
+the gardens. Following a direction given in one of Murray's Hand-
+books, that to get a good view of any place you should at first ascend
+an eminence, I climbed up to a height called the Tower, from which
+there is a really very pretty view of the river, the country round, and
+the gardens lying in the pit below. Just below me I saw a grand game
+of romps, in which kissing was an interesting feature, going on between
+some sailors and servant-maids, who were chasing each other in the
+maze, and shrieking with laughter at their futile efforts to get out of it.
+If the young ladies had regaled themselves with tea, the gallant
+mariners had imbibed something more exhilarating; for they were a
+trifle too noisy for tea-totallers, and ever and anon a few of the
+favourite oaths which are familiar in the mouth of the British tar as
+household words, might be heard loudly ejaculated. Behind the last
+hedge of the maze are seated two gipsies, not any such invisible and
+preternatural absurdities as the wondrous Thalaba of Cremorne, with
+his deep diaphragmatic intonation, but the regular genuine home article
+in the way of gipsies; two of exactly the same class, who with dark hair,
+dark eyes, dirty brown complexion, old bonnets and ragged shawls, molest
+us at Epsom, Henley, and Ascot; and inform all the <soCalled>pretty ladies</soCalled> 
+in the carriages that they will enjoy patriarchal longevity. It was
+time to be making my way back to the pier, and I therefore followed a
+string of persons who seemed to be homeward bound. As the steamer
+had been well nigh filled, there appeared to be a doubt whether
+<pb id="p.20" n="20">
+it could accommodate all the people on the pier-and there conse-
+quently took place a vast deal of pushing and crushing, in which
+jostling it is marvellous that some women and children were not killed,
+though it is certain from their vociferous squalling that some of the
+latter were frightened if not hurt. The opportunity was not thrown
+away upon some of those very agreeable, though light-fingered gentle-
+men, who belong to that famous and much-maligned fraternity-the
+swell-mob. Though accustomed to look in at print-shops, and loiter
+at book-stalls in London without having my pockets picked, I
+suffered, upon this occasion, the loss of a silk handkerchief. A pretty-
+looking girl, whom I recognised as one of the corps de ballet of a
+theatre, was lamenting most piteously the loss of a new and expensive
+parasol, which had a few minutes before been safe enough in her hands;
+and her escort, a fast-looking Templar, was doing his utmost to console
+her for her loss.
+</p><p> The vessel had scarcely got off from the pier when it began to rain,
+and a general scramble for both cabins took place. This rush tilted
+the vessel, when, as a matter of course, some of the women screamed.
+<q>There is nothing so easily frightened as a female,</q> observed a thick-
+set snob with a cigar in his mouth, in a manner so contemplative, and
+with an air so self-satisfied, that you would have supposed he imagined
+the remark a profound generalisation. I went into both cabins-The
+after one was very crowded, and tolerably decorous-The state of the
+fore-cabin may be seen in the sketch prefixed. Unlike the gin-palace
+in Barbican, where the self-acting organ manufactures sacred music for
+the edification of the dram-drinkers-the musicians of the Sunday
+Gravesend steamer treat their audience to the most popular comic and
+sentimental airs. <q>Pop goes the weasel</q> was a favourite; some of the
+rather pretty airs of Mr. Russell, and the  <q>Standard Bearer,</q> were
+played very much out of time and tune, with a few polkas, waltzes
+and galloppes; after which, the man who had lustily blown the
+clarionet until he had quite blown himself, went round with the
+hat. His first application for a pecuniary acknowledgment of his
+musical efforts was to a fat, torpid-looking man, who was half drunk,
+and very sleepy, and who, raising up his head from the table said
+curtly, <q> Go to 'ell-I can't be civil to everybody.</q> This courteous
+reply provoked no apparent indignation or disgust among the select
+<pb id="p.21" n="21">
+society in which I found myself; a great deal of laughter ensued, and
+the discomfited musician moved on, but was scarcely more fortunate in
+his next petition; for this was to a saturnine tract distributor, who,
+instead of a penny or halfpenny, made a literary contribution in the
+shape of a short lucubration with the attractive title of <q> Hell-Flames,
+or the Sabbath Breaker's Doom.</q> I begged at once for a copy of
+this theological treatise, and when I had perused it, entered into
+conversation with the distributor. Our argument was long, and
+perhaps on both sides very illogical. It might, perhaps, be thus
+briefly analysed:-</p>
+<p> <q> How come you here, on Sunday ?</q></p>
+<p> <q> To distribute tracts.</q></p>
+<p> <q> What do you think will become of these people who are drinking,
+smoking, and swearing, all around us ?</q></p>
+<p> <q>Unless they immediately repent, I have not a hope of their
+salvation.</q></p>
+<p> <q>How do you think they should spend Sunday ?</q></p>
+<p><q> In church, chapel, family or private prayer and praise,</q></p>
+<p><q> What, are they to have no fresh air or change of scene, or amuse-
+ment on Sunday, when they are compelled to toil all the week ?</q></p>
+<p> <q>All Sunday amusements are wicked and profane.</q></p>
+<p> <q>You think that there is no such thing as innocent amusement on
+Sundays ? </q>-</p>
+<p><q> Certainly not.</q></p>
+<p> I did all in my power to convince this earnest, but deluded man, that
+rational and innocent amusement on Sunday was feasible, and that the
+religious party to which he belonged was doing fearful mischief by
+advocating views so gloomy and extreme as to leave all who did not go
+three times to church or chapel on Sunday, to the temptations of
+public-houses, tea-gardens, and steam-boats.</p>
+</div1><pb id="p.22" n="22">
+<div1 type="chapter"><head>CHAPTER V.</head>
+<head>SUNDAY BEFORE GREENWICH FAIR.</head>
+<p> FAIRS have their uses-in country places they afford the inhabitants
+a little excitement for the year. It was the serious saying of a
+celebrated physician that a mountebank visit to a village would
+cure more sickness than a dozen doctors. So in that way Fairs have
+their uses, although children do get very sick with too much toffy and
+ginger-bread. Fairs in towns have the advantage of collecting all the
+rascality and vagabondage into one focus. In this respect Greenwich
+Fair is supereminent. The original uses have long passed away, and
+the principal fun consists in pretending to tear shawls and coats with
+a small circular instrument made for the purpose. To be sure
+Greenwich Fair is an excuse for getting drunk, and that truly British
+custom ought, in these degenerate lays, to be encouraged.
+</p><p> The Fair legally commences on a Monday, but by favour of the
+authorities, preparations are permitted on the previous Saturday, and
+Sunday is devoted to a sort of undress rehearsal of the more prominent
+features of the ensuing week.
+</p><p> The shows are not open, but the booths for eating and drinking are,
+and the result would astonish some of those good people who from the
+recesses of their libraries, contemplate with horror, any other Sunday
+amusement for a mechanic than a sermon and a cold dinner, and a view
+of the chimney-pots.
+</p><p> The pipe-and-pot performance, with the usual chaffing, maudlin, and
+blaspheming accompaniments, form the back-ground of the picture in
+<pb id="p.23" n="23">
+every street, while active gesticulations and loud cries, call attention to
+every sort of eatable, from oysters to ginger-bread nuts.
+</p><p> We wonder what can be the impression of an intelligent foreigner,
+who, having been told that Sunday is a strict day in England,
+finds himself in Greenwich on the Sunday before the fair. There
+is nothing in his own country like it. <q>Now gents,</q> roars
+the ardent proprietor, <q>walk in-walk in,-admission free to the
+Hungarian spring-rifle shooting gallery!</q> One penny, only one
+penny a shot: and pop-pop goes the spring rifle most invitingly.
+<q>Here's your real Baselona filberts-crack and try before you buy-
+penny a half pint, and give yer a score for every bad un yer finds !</q>-
+<q>Milky coker-nut-fine milky coker-nuts fresh for the Inges !</q> shrieks
+a rival, at the same time a deep bass keeps steadily on with <q>Penny a
+lot iseters - iseters! </q> The tenders of refreshin' drinks, and oranges
+two a penny, are not less persevering, while there is no peace for the
+passer-by who does not invest and keep in his hand by way of protec-
+tion a bag of <soCalled>spice-nuts,</soCalled> the praises of which shrill female voices are
+continually chaunting. Every Public house is full from bar to attic.
+Touting tapboys and flashily-made-up TEA-SHOP girls * are active in
+the streets as orderlies at a review. The street bears witness as
+does the park, to the triumphs of the Publican interest.
+</p><p>Well, we must say one thing for the <soCalled>"Religious Public;"</soCalled> there is no
+medium about their proceedings, and the only Sunday amusements they
+wink at are thoroughly disgusting. They reject Sydenham and
+swallow Greenwich Fair without a sigh.
+</p><p>Yet, even in the midst of these scenes of riot and low debauchery,
+we need not travel far to learn how capable the working-classes
+are of enjoying better things than pots and pipes and impromptu
+slang.
+</p><p> The buildings and grounds of Greenwich Hospital are open on a
+Sunday to all comers; a charge of fourpence per head is made for
+admission to the Painted Hall, where hang pictures of some of our
+most celebrated naval battles, and portraits of our great sea captains.
+The collection, almost lost in the bad light, is neither so good
+<NOTE place=foot>* These shops where the gaudily attired Vestals tout for customers were some time ago
+brought under the notice of the Police authorities, and it was found that there existed no
+law by which the nuisance could he put down.</NOTE>
+<pb id="p.24" n="24">
+nor so complete as it ought to be, and merits the interest which would
+be conferred by a good catalogue with historical and biographical
+notes. Nevertheless, it is crowded with humble people whose serious
+and earnest demeanour, so different to that of the same individuals
+when contaminated by the blackguardism of the Fair, shows the effect of
+scenes which excite thought. It was pleasant to hear fathers explaining
+the stories of victories to their children, and to note the tearful interest
+with which the women looked on the coat in which Nelson was slain.
+</p><p>The Painted Hall at Greenwich affords every Sunday sufficient
+evidence of the advantage to be derived from a gallery, illustrating
+Art and Science.</p></div1><pb id="p.25" n="25">
+<div1 type="chapter"><head>CHAPTER VI.</head>
+<head>TATTERSALL'S.</head>
+<p> AT Hyde Park Corner, descending the narrow slip that flanks
+St. George's Hospital, on the Grosvenor Place front, we reach the
+greatest horse mart in the world, and the great Exchange-the Capel
+Court-the " Bourse" of betting men. On every Sunday, from three
+to six o'clock, a more or less numerous section of the sporting and
+horse-loving fraternity, of all ranks from the peer to the brothel-keeper,
+from the stock-jobber to the hell-keeper, lounge through the stables
+where the horses to be sold on the following Monday are exhibited,
+and at the same time select purchases, indulge in criticism or gossip,
+or "catch a flat," or add a line to their betting-books. The sale of a
+celebrated stud will fill the yard and the stables in the height of the
+season, and bring down a crowd of wealthy and high-born to " Tatt's,"
+before taking their appetising ride or drive in the Park. In these
+reunions all professions are well represented-and both Houses of
+Parliament, the Army and Navy, beside a large sprinkling of captains
+whose titles rest on their spurs and mustachios--even the Church
+contributes a certain number of <soCalled>outsiders,</soCalled> including a Dean !
+</p><p>But the great, the certain day for seeing in perfection this one of
+the few places of Sunday amusement open gratis, without let or
+hindrance from new or musty Act of Parliament, to all Her Majesty's
+subjects, is the Sunday before the Derby.
+</p><p>On<date value="1853-05-22"> May 22, 1853</date>, it needed no guide or guide-book to direct the
+passer-by the gates of Hyde Park the way to the <soCalled> Corner.</soCalled> A stream
+pressed constantly down the archway, over which might so appro-
+<pb id="p.26" n="26">
+priately be written <foreign lang=la> Facilis descensus Averni,</foreign> an extra detachment of
+red jacketed cads with horse-cloths on arm, stood ready to take charge
+of the steeds of the groomless-small boys hovered about, offering
+cigar-lights. Carriages, cabriolets, and street-cabs drove up continually,
+and disgorged their contents.
+</p><p>The narrow footway was crowded. On reaching the open space
+leading to the sale yard and stables on the one hand, and to the
+subscription rooms and ring on the other, I found the former crowded
+-and what a crowd! I walked through the stables; it was like the
+entrance to the pit of the opera on a favourite night. It seemed
+wonderful that no one suffered from the heels of horses, indignant at
+so much useless handling and ignorant criticism. There were many
+idlers and amateur spectators like myself; but the words that reached
+my ears, and the prevalence of memorandum books and lead pencils,
+showed that this was rather a day of business than a day of pleasure.
+Leaving the stables hot with the exertion of crushing through them,
+I took my stand in a convenient position, with my back against a pillar
+in the yard, and surveyed a fine panorama of one part of Sunday in
+London. In my sketch I have neither exaggerated nor grouped for
+effect. A tall, pale, aristocratic-looking man, with thin long fingers,
+covered with rings, elaborately dressed, was a hell-keeper; a stumpy
+man near him, with large reddish whiskers, the son of an earl; close
+rubbing against him was a prize-fighter in conversation with a down-
+cast looking bird, who bears a good character at the <soCalled>Corner,</soCalled> although
+he has been tried more than once for swindling, at the Old Bailey.
+</p><p>Every now and then there was a rush and ring formed of eager faces
+closely crowding round two individuals making, or trying to make a
+great bet. On these occasions familiarity was the order of the day,
+and a groom, cad, or a cigar-shopkeeper, might be seen with his head
+closely pressing the shoulder of a Right Honourable.
+</p><p>Still in the midst of this eager excitement there was no noise or
+confusion; the assembly was well-dressed, that is to say few were
+seedy, although many were horsy, flashy, hairy, and much bedecked
+with rich jewellery. The gentlemen sportsmen gave a sort of tone
+to the place, but the more serious business was being carried on
+in the subscription ring, from which the <foreign lang=la> oi polloi</foreign> were excluded.
+Still from time to time amid such phrases as-<q>" Will any one back
+<pb id="p.27" n="27">
+Sittingbourne ? </q>-<q>" I want to lay against Rataplan! </q>-<q>" He's as good
+as boiled:</q>-<q> All over but the shouting,</q>--there came a loud rude
+dialogue like the following: <q>You're a pretty fellow to be showing
+your nose here. When do you mean to pay me the money you owe
+me on the Chester Cup, you d-d vagabond?</q> <q>I owe you nothing,
+Mr. 0., and I beg you'll not make a blackguard of yourself,</q> responded
+the defaulter, sneaking away. <q>Blackguard,</q> cried the honourable
+creditor; <q>I'd pull your d-d nose for two-pence. Such fellows ought
+to be kicked out of the yard.</q> Here a sober Mentor interposed, and
+the defaulting <soCalled>flat-catcher</soCalled> disappeared.
+</p><p>Leaving the stable-yard, I found a crowd pressing in and out of the
+subscription rooms, and a couple of policemen keeping order before
+the iron gates which shut out the mob from the exercise ground,
+where under the shade of the trees, lounging on benches, a dozen
+guardsmen and young peers were whiling an hour in sporting gossip,
+surrounded by other subscribers of less aristocratic pretensions. The
+business was dull. The winning of the favourite was considered a
+dead certainty-groups were continually formed and broken up again
+without the transaction of any real bet. Meanwhile with the step of an
+ostrich, and the indifferent emotionless expression of a rhinoceros, the
+<soCalled>Leviathan</soCalled>  of the ring stalked round and round, ready to lay the odds
+against anything, with an equanimity that was almost sublime. Talk
+of democracy, I have seen no levelling like Tattersall's yard, and no
+sign of equality like the mode in which peers address and accept the
+curt replies of this ci-devant journeyman carpenter.
+</p><p> While part of these proceedings were going on, the Church bells
+were ringing for evening service !</p></div1><pb id="p.28" n="28">
+<div1 type="chapter"><head>CHAPTER VII.</head>
+<head>CREMORNE GARDENS ON SUNDAY EVENING.</head>
+<p> CREMORNE GARDENS (or <emph>Cre</emph>-morne, as the vulgar invariably pro-
+nounce the word, with an emphasis on the first syllable which is quite
+violent) present a busy and remarkable scene enough on any evening of
+the week; but Sunday is <emph>the</emph> day to visit them, ye who on your
+comfortable sofas doze after a heavy cold dinner over a colder and heavier
+sermon. True it is that no balloon tempts on this day the admirers of
+aeronautic daring-true also that the votaries of Terpsichore must
+restrain their passion for the polka, and restrict their energies to a
+somewhat solemn circular promenade round</p>
+<p>The place where the <emph>band</emph> ought to <emph>blow</emph>.</p>
+<p>Undeniable is it also that the steeds of the circus enjoy a Sabbatical
+rest, and the strong-minded lady in the glittering tights, balanced
+by a ponderous pole, will not this evening make her  <soCalled>terrific ascent</soCalled>
+on the rope amid the hissing of squibs, the whizzing of rockets, and
+the cheering of the multitude below, some twenty or thirty of whom
+the aforesaid adventurous lady would infallibly kill if she and her
+pole came down simultaneously among them.
+</p><p>But, in spite of all this lack of excitement, the crowd is far denser,
+and more heterogeneous, though not a whit more respectable, than on
+any other day of the week. I am afraid to say, lest I should seem to
+exaggerate, how many thousands of persons have visited this suburban
+retreat on a fine Sunday, or how many hundreds of pounds the
+<pb id="p.29" n="29">
+proprietors have received in sixpences at the door, not to mention the
+extra pence for staring at semi-nude Kaffirs, or diving into futurity by
+the aid of the Chaldaean seer. From midday almost to midnight flow
+in and out people of every age, rank, and condition. The earlier
+visitors arrive in crowded steam-boats, the omnibuses carry their
+proportion, and the later and more fashionable visitors dash up to the
+entrance in Hansom cabs.
+</p><p> Having voyaged up in a steamer perilously full, after having been
+jostled almost to death, well-nigh poisoned by a <soCalled> boundless contiguity </soCalled>
+of home-made cheroots, the ashes of which flew a good deal into my eyes,
+as well as those of other people, I sprang out exultingly at the pier at
+Battersea, gave up my three-penny ticket, and walked on to the Gardens.
+Though not yet seven o'clock, I met a few persons already returning,
+but their number bore no proportion to the throng before and behind
+me about to enter, or to the multitude inside.
+</p><p> The Gardens are prettily situated on the bank of the river, surrounded
+by some fine trees, and, without any pretence to high art, nicely laid
+out. At the entrance you find some iron railings, and a few gaudy
+lamps. Within these is seated, in a small box, a vigilant janitor, who,
+in return for the sixpence you deposit, supplies you with a  <soCalled><emph>refreshment</emph>
+ticket,</soCalled> as it is ironically termed. By means of this cheque, which
+will be honoured at sight, if your taste be tobacco, you may procure two
+cigars of the most deleterious kind, or, if taps are your " vanity," a waiter
+will bring you a glass of rum, whisky, or gin-and-water. Should your
+weakness be brandy, a glass can only be procured by two of these
+mysterious cards, or one and an additional sixpence. After receiving
+the ticket at the entrance, it is examined by two other <foreign lang=la>portae custodes</foreign>
+a few yards in advance, and you are then fairly launched into the
+Gardens, the world of Cremorne all before you, and free to take your
+choice.
+</p><p> The marked contrast to the appearance of the Gardens on a week-
+day is the first impression. No music-no dancing-no fireworks-no
+poses plastiques-not at an early hour much larking, romping, noise or
+laughter. Decorous hard-drinking is the order of the day, or rather of
+the evening and night. For every two persons promenading fifty are
+sitting round tables, in doors and out of doors, drinking. After
+following the walk which leads to the circular promenade, I turned into
+<pb id="p.30" n="30">
+a spacious saloon used as a theatre, where, on week-days, dramatic
+performances take place, and where the Hungarian band plays. It is
+used also as a ball-room when rain or cold drives the dancers from the
+promenade. On the left side, as you enter in a central position,
+stands, with imposing aspect, the tap. Behind the bar several  <soCalled>young
+persons </soCalled>of not unprepossessing exterior are handing over to the
+waiters glasses of hot and cold spirits and water, small and large
+bottles of ale and porter, an occasional glass of punch or sherry-cobler,
+and a still more occasional cup of tea. Charged with the freight of
+these precious and wholesome beverages, the waiters rush with furious
+but safe rapidity to every corner of the gardens. In this room are
+fifty or sixty tables, round which are clustered people of every age,
+and of both sexes, in parties varying in numbers from twelve or
+fourteen to three or four. In this saloon are assembled the noisiest
+and least respectable of the <emph>Cre</emph>morne visitors. The tradesman or
+artisan who frequents these gardens, and brings his wife and children
+to them because the grounds are spacious and pretty and the air fresh,
+has nevertheless a well-grounded suspicion that it is not the most
+respectable place in the world, nor the company which frequents it the
+most select. He therefore drinks outside, at a table under the trees,
+in the mixture of twilight and gaslight, and avoids the glare of this
+spacious saloon, where sailors, soldiers, second-rate women of the town,
+and the noisier class of cheroot-smoking gents carry on contests of
+<soCalled>chaff,</soCalled> in which the style is more forcible than elegant. On the
+tables I observed that the proportion was about twenty glasses of ale,
+or alcohol, to one cup of tea. The herb, which is said to cheer but
+not inebriate, is quite at a discount in the saloon. Passing out through
+the door which faces the bar, I took a turn on the circular promenade,
+where a few couples of young ladies and gentlemen were indulging in
+rather solemn and decorous peripatetics. I next crossed and entered
+the hotel. The first and strongest impression here was-<emph>drink</emph>. At an
+extensive bar stand numbers of very fast-looking men, and still faster
+looking young ladies, all drinking. Here intoxication takes a loftier
+flight, and brandy is the favourite beverage. I walked into the
+adjoining large room with the bow-window. Here I met young Snaggs,
+with whom I have a bowing acquaintance. On this occasion he
+condescended to shake hands, being evidently under an impression
+<pb id="p.31" n="31">
+that as he met me at Cremorne I was growing fast, and therefore
+worthy of his patronage and regard. Snaggs is a very fat, overgrown,
+over-dressed, vulgar-looking, well-meaning young man, who, if his
+pranks and proceedings are not swiftly discovered by his relatives, will
+go with certain celerity to the dogs. I am told that he is to be
+found every Sunday evening at Cremorne, accompanied by a stout
+middle-aged woman with girlish bonnet and heavy jewellery. She is
+not Snaggs's sister, and does not behave like his wife. I wonder who
+she can be ? On Sundays this silly youth is to be seen driving with
+her in a Brougham in the park, and from thence he orders his
+coachman to take him to Cremorne, where he dines elaborately,
+swaggers a good deal, and pays seven shillings a bottle for port.
+Snaggs's allowance from his father, who is a respectable banker in a
+country town, is three hundred a year; but, by the help of bill-
+discounting attorneys, and a very large acquaintance with usurious
+Hebrews in Gray's Inn, Clifford's Inn, Lyon's Inn, Staple's Inn, not
+to mention even more obscure, dishonest, and exorbitant money-
+lenders in small streets and dirty courts and alleys, he has lived at
+the rate of a thousand per annum for two years, and his excellent
+reversionary prospects are, of course, not at all injured to support his
+present vicious and vulgar prosperity. He is intended by his confiding
+parent to practise as a solicitor. At present his prospects of passing
+are, to say the least of them, remote. He may soon be compelled to
+peruse Byles on Bills with some painstaking. As yet he has not
+read even that light and popular work. So much for Snaggs. He is
+a fair type of the aristocratic and fast Sunday habitues of Cremorne.
+</p><p> I hurried away from this promising young man and sat down
+at a table in the corner of the room, and as if waiting for some one,
+watched with vigilance what was going on around me. At the
+adjoining table a very respectable and gentlemanly-looking foreigner
+with two ladies, one of whom from her likeness to him, must have been
+his sister, and a little girl, with soft blue eyes, and luxuriant ringlets,
+were drinking coffee. These gardens are very much frequented on
+every day of the week by French and Germans, who guided by their
+own national tastes and habits, bring their children with them, and do
+not comprehend into what a close proximity with vice and vulgarity
+they are driven by their love of public amusement. I trust that on
+<pb id="p.32" n="32">
+the occasion to which I allude, the child of the party was too unskilled
+in our tongue to appreciate some of the choice facetiae which were
+giving rise to very boisterous mirth at the opposite table. Here were
+seated four young ladies attired in silks and satins, with bonnets half
+off their heads, bad bracelets and cheap rings innumerable, who
+occasionally helped themselves from two decanters on the table, to
+port and sherry, and were asking two fast men conundrums, which had
+I estimated their wit by the amount of laughter they produced, I should
+have ranked very high as humorous efforts-but which I unfortunately
+heard, and certainly cannot repeat. Having no very decided taste for
+this sort of thing, I rose, and passing by some more tables, at one
+of which sat a barrister and ex-M.P. with young ladies of the ballet,
+sucking sherry cobler with straws most industriously, quickly made
+my exit.
+</p><p>I now strolled over every part of the Gardens-and stronger
+than ever grew my impression that the genius loci was DRINK. Tea-
+spoons full of gin-and-water administered to children by indulgent
+parents seemed quite to have exhilarated the juveniles. Flirtations
+were growing more tender and affectionate. A disposition to run about
+and romp was exhibiting itself; and kissing was becoming a popular
+pastime.
+</p><p>In all the sequestered nooks and corners, with seats
+<q>For talking age and whispering lovers made,</q>
+I watched carefully the character of the liquids which were being
+consumed.</p>
+<p>They were somewhat in this proportion:-</p>
+<list>
+<item>No. I. Glasses of Spirits and Water.</item>
+<ITEM>II. Bottles of Beer.</ITEM>
+<ITEM>III. Spirits.</ITEM>
+<ITEM>IV. Beer.</ITEM>
+<ITEM>V. Sherry Cobler.</ITEM>
+<ITEM>VI. Spirits.</ITEM>
+<ITEM>VII. Tea and Shrimps.</ITEM>
+</list>
+<p>And then ale and alcohol in constant alternation until I reached
+No. XIX. or XX., when tea and shrimps were once more to be seen.</p>
+<pb id="p.33" n="33">
+<p> Passing down the centre walk,-where on one side, on all except
+Sunday evenings, cockney sportsmen shoot at diminutive pasteboard
+hares and rabbits-passing the bowling alley, also on Sunday closed,
+I strolled to the other gate, with the intention of making a speedy exit,
+when my eye was attracted by the scene depicted in the sketch of the
+entrance to the mystic shrine of the Chaldaean astrologer-the wondrous
+Thalaba. Lothario Higg is the gentleman or gent, who is inducing
+Miss Susan Smith to enter with him, and strive to penetrate the gloom
+of destiny. He invites her with supernatural solemnity, and she
+timidly assents. I felt that it would be quite useless to quote
+to Higg-</p>
+<p><foreign lang=fr> Tu ne quaesieris, scire nefas, quem mihi, quem tibi
+Finem Di dederint, Leuconoe, nec Babylonios
+Tentaris numeros.</foreign></p>
+<p>-so merely muttered the lines to myself, and entered with Lothario and
+Susan. In each case some three or four couplets of infamous doggrel
+informed the expectant querist that he or she would suffer some slight
+calamity, over which he or she would triumph, that a letter full of good
+news would at some time or other be received, that matrimony would
+soon ensue-and fecundity and longevity were always prominent
+predictions. Higg who was apparently a wag, insisted on reading
+aloud the answer vouchsafed to the blushing maid. It ran almost
+as follows:-</p>
+<p> <q>A letter ten days hence, will bring you joy,
+Marriage will follow-twins-a girl and boy,
+A widow soon <emph>you'll</emph> be-but quick you'll find
+Another husband much more to your mind-
+Ten children then <emph>you'll</emph> have-who all will do
+Well-and <emph>you'll</emph> live until you're eighty-two.</q></p>
+<p> Poor Susan looked at Lothario, whom she had never met before that
+evening, with prescient pity for his premature fate.</p>
+<p> On coming out I encountered Policeman P slowly perambulating the
+Garden in a pensive manner. <q>Is this Wizard's Cave always open on
+Sunday?</q> I said.
+</p><p> <q> Yes, sir.</q>
+</p><p> <q> And on every day of the week ?</q>
+<pb id="p.34" n="34">
+</p><p>
+<q> Yes, sir.</q>
+</p><p><q> And it has always been here ?</q>
+</p><p><q>I've only been on duty here last season and this; but I've heerd
+it's always bin here.</q>
+</p><p><q>Have you ever been on duty in the country ?</q> I asked.
+</p><p><q>Never in the force, sir; but I was a constable in Berks for some
+years.</q>
+</p><p><q> And you've taken up gipsies for telling fortunes, have you not ?</q>
+</p><p><q>Often, sir.</q>
+</p><p><q>Thank you,</q> I replied, and feeling that I had no right to indoctrinate
+a policeman with discontent, even at such palpable inconsistency and
+injustice as this, I made my way for the gate at which I had originally
+entered. I here discovered that in the course of another hour
+omnibuses would be starting from the door to London. I determined
+to wait, from a preference to this mode of conveyance, over the crush
+and crowd of the steam-boat with the chance of being drowned in the
+dark. I was not perhaps altogether uninfluenced by the remark of
+the veteran whip, who once observed that <q>if you are thrown off and
+killed, why there you are-but if you're blown up, where are you ?</q>
+There certainly is a terrific vagueness about the latter alternative.
+</p><p>I now strolled through the two saloons again-lounged on the
+promenade-and walked round the Garden-alcohol was even more in
+the ascendant-tea and shrimps were no longer to be seen. The
+chaffing grew louder-and sometimes more indecent-the romping
+more boisterous-and in the quieter nooks and walks there was audible
+kissing-I recognised my friends Mr. Higg and Miss Smith-Lothario
+was rapidly insinuating himself into the affections of the silly young
+girl. He had one arm round her waist, his other hand held a tumbler
+of spirits and water, from which she occasionally took a sip-and the
+poor girl giggled and looked as happy as if she had really secured
+a constant and virtuous lover, who would some fine morning take
+her from the slavery of the needle to church, and thence to a
+comfortable home.
+</p><p>It was now time to secure my seat in the omnibus-and accordingly
+I hurried to the door, and, as the night was fine, seated myself outside,
+and next to the driver. He was an intelligent, amusing fellow-and
+more communicative than these charioteers usually are. During the
+<pb id="p.35" n="35">
+ten or twelve minutes which we waited for the omnibus to fill, I
+ventured an observation on the appearance of his horses, which elicited
+the following remarks-<q> Oh, these ere 'osses aint much o' cattle-the
+gray mare wont last much longer-and this 'ere bay's wery old-but
+he's been a good 'un in his day-and though he can't move a bit now
+coz' he's wery stiff at starting, when he gets warm he goes like a
+squirrel.-But they aint nothing so bad as the pair I druv this day
+week. I druv them four and twenty mile right off without taking 'em
+out o' 'arness-three stages, eight mile a piece-with 'eavy Sunday
+loads-and, God bless my soul, if the proprietor wer'n't a complaining
+next mornun of the appearance of the 'osses. Talk o' cruelty to
+hanimals arter that-and I started to work at a quarter past eight in
+the mornun, and kep at it without time to get a proper meal of wittals
+till one in the mornun.</q>
+</p><p>I could not avoid a reflection at the time, which recurs to me very
+forcibly again-that the Pietists who pray against excursion trains, and
+think a walk anywhere but in their own garden on Sunday a crime,
+forget, in their narrow and blind sectarianism, that there are in this
+country some hundreds of thousands whose weekly labours preclude
+recreation or visiting on the week-day-and whose health and social
+nature demand amusement and locomotion. Should these enthusiasts
+ever condescend to reason on the subject, it may occur to them that
+excursion trains which carry vast numbers at but little cost of human
+labour, are preferable to omnibuses which convey but a few by over-
+driving horses-and over-working drivers.
+</p><p><foreign lang=la>Ecce iterum Crispinus !</foreign> Here's Higg again. I thought I was
+destined to never get rid of this man. He was by this time decidedly
+exhilarated-and the unfortunate Susan was (I am afraid I must out
+with the truth) tipsy. She had hold of Lothario's arm, was hanging
+her head on one side in a sleepy and helpless manner, and clamorously
+petitioning to go inside. This was not Higg's idea of a lark-and
+so, with the aid of the conductor, and a gent on the top, she was raised
+to the <soCalled>knife board,</soCalled> where Higg seated himself by her side-and put
+his arm round her waist. Her appearance, as she laid her head
+on the shoulder of this vulgar brute, and fell fast asleep, I shall
+never forget. The girl when I first saw her in the gardens looked
+modest and respectable, and the rapid effect the spirits had
+<pb id="p.36" n="36">
+produced on her, only proved that she was unaccustomed to the
+consumption of such poison.
+</p><p>The scene excited the honest indignation of my friend Jehu. <q>That
+feller aint none o' the best sort,</q> said he, somewhat audibly. <q> He
+keeps a small betting-office near Leicester Square. He's down reg'lar
+every Sunday night; and I never seed him with the same gal twice.
+That young 'un as he's got hold of wont come to much good.
+Mark my word.</q>
+</p><p>By this time, the four young ladies who had previously displayed
+such a knowledge of that portion of the lighter literature of Holy-
+well Street which consists of indelicate conundrums, made their
+appearance with two fast men, all in a state of jovial and boisterous
+semi-intoxication. One of the men suggested that they should all go
+in a cab. But Thais, Chloe, Lalage, and Lydia, as I will christen
+them (the surnames on their cards probably showing their connection
+with the houses of De Vere, Somerville, Gordon, and Montague),
+expressed in no measured terms their resolve to go on the  <soCalled>buss,</soCalled> and
+nowhere else. They were accordingly lifted up with great difficulty;
+and as the omnibus was now crowded to discomfort inside and danger
+outside, we started. The scene that ensued no pen or pencil could
+describe. They sang songs with a loud chorus; screeched out jests
+which were a mixture of blasphemy and obscenity; insulted every
+pedestrian on the pavement with indecent jokes or questions. We
+stopped at several public-houses. At each beer and brandy-and-
+water was handed to the top of the omnibus, copiously consumed by
+the young ladies, and liberally paid for by the gents. The Cremorne
+omnibuses must be a nuisance and a curse to the people of Chelsea, if
+I may judge of the usual style of proceeding on the part of outside
+passengers from that Sunday night's entertainments.
+</p><p>The shrieking, shouting, swearing and singing, were kept up with
+great spirit during the whole trip; and when, infinitely disgusted and
+wearied, I got off the vehicle at the top of the Haymarket, the two gents
+descended, and in their company the four vestals to whom I have before
+alluded arranged their rustling silks before leaving, and floated with airy
+grace into divers oyster-shops and supper-rooms, where <emph>every</emph> night,<emph> in
+a Christian country</emph> (as they say in Exeter Hall), are held Bacchanalian
+orgies which would have done credit to Rome under the empire, and
+<pb id="p.37" n="37">
+which burlesque the blackguardism of the reigns of Charles II. or
+George IV.</p>
+<p>As I walked home it occurred to me, not for the first or the last
+time, but very forcibly, that it might be possible to afford to the inha-
+bitants of our metropolis some opportunity of stretching their limbs,
+refreshing their eyes, and regaling mind and body, by innocent gratifi-
+cation on Sunday afternoon, without necessarily exposing the virtuous
+and the respectable to scenes of debauchery and degradation.</p></div1><pb id="p.38" n="38">
+<div1 type="chapter">
+<head>CHAPTER VIII.</head>
+<head>THE NEW CUT, LAMBETH</head>
+<p> BETWEEN the Westminster Road, as marked by Astley's Theatre, on
+the one side, and the Waterloo Road, marked by the Victoria, lies
+the region of the New Cut, Lambeth, in the heart of a colony of
+costermongers, roughs, thieves, with here and there a manufactory.
+The shops there are all carved out in the primitive style, with open
+fronts and bawling-touters, which appears to those who have never seen
+it, so picturesque and pleasing in the description of the two London
+apprentices in Scott's <q>Fortunes of Nigel.</q> Once all the retail trade
+of London was carried on in the same way. The custom still lingers
+in the neighbourhood of Leicester Square, although the alley that
+gave it scope by its narrowness has been enlarged into a street. But in
+Lambeth the <soCalled>chaffing</soCalled> style of trade flourishes every day, but
+in thorough perfection on Saturday night and Sunday morning.
+</p><p> The street corners of Lower Marsh, which leads to the New Cut,
+occur just after passing the South Western Railway arch, and are
+flanked by two of the most gorgeous and gigantic gin shops in London,
+which are always crowded with a lively multitude on Sunday evening.
+On Sunday morning the gin shops are closed, and form the supports and
+centres of attraction of a crowd of natives, among whom the kiddy
+swell, in glaring neck-tie, flash shooting jacket, greasy hair, with
+a knowing curl on each cheek, slouched cap, soft hands guilt-
+less of work, and pump-clad feet, is the chief ornament as he
+lounges patronizing his admiring friends among the hard-workers of
+both sexes.</p>
+<pb id="p.39" n="39">
+<p> With nothing worth losing in your pocket, you may venture down the
+New Cut on a Sunday morning. Police discipline has reduced the
+savages to a very decent state. Insult is rare, and injury from the
+sober unknown. Supposing that you have arrived from some decent part
+of the town, say Russell Square, or one of the quiet squares round
+Pentonville, and could be conveyed with eyes closed, and ears stopped,
+to the entrance of the New Cut, on recovering the use of your faculties
+you would imagine that you had arrived in Bedlam, a vast crowd con-
+sisting chiefly of the poorest class of labourers' wives making their
+market. The better-minded employers pay their men on Friday or on
+Saturday at four o'clock. The latter is the plan adopted by Messrs.
+Maudsley and Field, the great engineers. Workmen under such
+masters can send their wives to market to the best advantage; but
+other employers, especially among small builders, pay late on Saturday
+night, and pay at public-houses. Sometimes the master and sometimes
+the foreman has an interest in the public-house. In any it is difficult
+for a workman, once in, to get out without drinking something.
+</p><p> The late drinkers are the Sunday marketers. The shopkeeping
+style is suited to the class addressed. The reverential obsequiousness
+or airy flutter of the west-end would not do here. The Sunday
+morning market combines both business and pleasure-it is a comic
+performance in which spectators take a part, and perhaps for rude
+ready wit, there is nothing like it out of the land. There is a
+great demand for farthings in the New Cut. The profits are small
+and the returns are quick. The quality of the articles moderate--the
+variety wonderful.
+</p><p> At the same moment you hear each at the top of his voice, one
+calling-<q> Here's young greens, gereens-jolly greens, best in Lambeth,
+all for a half-penny.</q> Another, <q> Best blacking, three cakes a-penny;</q>
+a third, <q> Good strong braces ;</q> while butchers in dozens, all red, blue,
+and greasy, flop about their bargains, and compete with each other on
+the plan of a Dutch auction, and address every woman in the most
+endearing terms. <q> Mackerell<q> and <q><emph>rubub</emph>,</q> <q>iseters</q> and <q>cubars,</q>
+<q>turmots</q> and </q>piatees,</q> resound amid bits of ballads, fierce and
+funny slang, but no fighting. The policeman, awful in his unseen
+power, parades from the vantage ground of the church-steps, which
+no one cares to dispute with him, and marks as they pass, with a view
+<pb id="p.40" n="40">
+to prospective identification, the numerous candidates for his future
+services.</p>
+<p> We must not forget the beggars; in spite of the poverty, or rather
+improvidence of the mob, beggars in one shape or another, pick up a
+fair living from the tender-heartedness of women.
+</p><p>The condition of the Sunday market in the New Cut is a disgrace to
+civilized London; but merely to try to put it down would be useless.
+Something better must be substituted.
+</p><p>It would be worth while to try a covered market about the same
+spot.
+</p><p> It is remarkable, and not creditable to the Radicals of Lambeth, that
+while so furious in reforming every quarter of the globe, and denouncing
+the iniquities of every party sect and society out of their own pale, they
+have the dirtiest and most neglected parish in England. They have
+done nothing for baths, wash-houses, or popular education. They
+permit the existence of slums, breeding death and disease, and have
+not even the proper spirit to set a good example to the contrasts of the
+contented cant party. Gardens and Parks, and Crystal Palaces, will do
+no good to those who dwell in dens unwashed, unkempt, untaught.
+Lambeth, with its blind alleys and filthy streets, its Radical bone
+boilers, and parish orators, is just one of the extremes that meet the
+results in the same view as the cant of its contented neighbour-
+Clapham.</p></div1><pb id="p.41" n="41">
+<div1 type="chapter">
+<head>CHAPTER IX.<head>
+<head>STAR AND GARTER, RICHMOND.</head>
+<p><q>Oh, Mrs. Fry, why go to Newgate,
+Why not go to Carlton Palace, why ?</q></p>
+<p> So says and sings a poet who, not a famous moralist, now and then
+stumbled on a startling truth that, changing names, will apply as well
+now as when he wrote.</p>
+<p> We, too, ask why the Religious Public who join the Anti-Sunday
+Relaxation onslaught, don't go at once to the top of the tree,
+<q> And make a dash against the rich,
+Before they touch the poor.</q></p>
+<p>They should remember that all great moral reforms have begun with
+the wealthier classes. When gentlemen wore swords and used them,
+and little rapier matches after the theatre were as common as slanging
+matches are now after the breaking up of the Coal Hole, then the
+working order did little murders on their own account on slight
+provocation. Robbery on a large scale was considered rather spirited
+than otherwise-gentlemen of good family, if hard up, took to the road,
+and if found out were sometimes tried and hung, and oftener pitied and
+sent on a visit to relations in the Plantations-Westminster in those
+days gloried in a cock-pit, where mains were fought, and dogs and
+bears, and every living quadruped that would fight, did fight. Then
+gentlemen and statesmen of European reputation were not ashamed to
+tumble under the table of a tavern drunk, and to spend nights and
+<pb id="p.42" n="42">
+days gambling in the clubs of St. James's. Such conduct was thought
+foolish, but no one thought it ungenteel. Then, too, on a close division,
+taverns and places of even more questionable resort were swept for
+votes by the whippers-in. Jack was as good, or rather as bad, as his
+master, and coachmen and footmen drank, swore, and gamed <soCalled>like
+lords.</soCalled>
+</p><p>Well, those days have past, and although Arcadia has not arrived, or
+the Millennium,-although there is a per-centage of vice going on in all
+ranks, decency in the higher orders is the order of the day. We have
+only one Judge who sets decorum at defiance. Ministers of State, if
+they have vices, are not permitted to offend their inferiors with the
+contamination of public bad example. The result of the change in
+improvement in the character, tastes, and pursuits of our aristocracy, is
+to be seen reflected on every class of society, from the mechanic
+upwards. It is only in Glasgow and a few other parts of Scotland,
+that drunkenness is considered consistent with eminently pious
+pretensions.
+</p><p>If Sunday excursion trains are to be put down, vans stopped,
+omnibus horses to have rest, cab drivers the benefit of leisure without a
+strike, and steamers to be still on Sundays, what shall we say to
+Richmond and that acme of English hotel scenery, the Star and Garter.
+Stop the railway, the steamboat, and the omnibus, and the gardens and
+the dining-rooms of the Star and Garter will still be crowded. A famous
+cook, brilliant parterres, pleasant views of fine woodland scenery, the
+silver Thames and royal houses in the distance, these attract a well-
+dressed crowd who are not to be denied by any common obstacles.
+Sunday is the great day of liberty for theatrical artists of all classes.
+The opera and the ballet, the tragedy and the poses plastiques, the
+man that swallows his own backbone, and the lady who ascends the
+tight-rope in the midst of fireworks, all like a drive to Richmond, to
+Hampton Court, or to Greenwich. They like a sniff of fresh air on
+Sundays to mix with the gas and sawdust of the week. Their admirers
+are of the same mind, so down come four-in-hand drags, quiet
+Broughams, cabriolets, with gigantic horses and minute tigers-landaus
+and barouches, beside disguised flys and undisguised Hansoms. You may
+see them without venturing within what our pious friend All-Saints
+Pankey calls that den of iniquity-Pankey who keeps a small Star-and-
+<pb id="p.43" n="43">
+Garter establishment in his own kitchen, besides having the run of all
+the best City tables. The chariots of the wicked, to speak figuratively,
+are ranged in large rows outside the hotel, for coach-house room there
+is none. As dinner-hour approaches, the horses of fresh vehicles
+dash up more vigorously, and parties who have been strolling through
+the delicious Park, or seeking an appetite on the Terrace, enliven the
+portals. There is Lord Marrowfat, an ancient, but not venerable peer,
+tottering between two pets of the ballet, and close following him is
+Tom Slum, with a perfect garden of flowers in the bonnet of the lady
+on his arm. Slum is a jobber, and having made a good hit last week,
+is <q>coming it rather the cheese,</q> to use his own expression. A group
+of foreigners, who have been intensely disgusted with a week of London
+sights, are enjoying the fresh and the fashionable bustle and the idea
+of a civilised dinner, little thinking of the bill that awaits them. The
+waiters, black-coated and white neckclothed, receive the successive
+guests with an air of profound devotion, worthy of curates visiting
+a bishop, while, on the outside, grooms, hostlers, and strappers,
+hiss and swear with energy befitting the day and the place. All
+is bustle, luxury, extravagance. Nothing loud, nothing disgusting,
+nothing to irritate the finest nerves, unless it be the cigars and the
+slang of the return drags. Well, these things exist in spite of Act of
+Parliament, in some shape or other, and certainly the wine of the Star
+and Garter is more humanising than the serious drinking of the back
+parlours of Glasgow, and often as innocent as the dinner-tables of holy
+Clapham.
+</p><p>But if there is to be a general pulling down of Sunday amusements,
+we suggest that the Society which holds its meetings in a particularly
+musty room in Salisbury Square should commence its operations with
+the visitors of the Star and Garter and the Castle, Richmond, and the
+Trafalgar, and such like hotels, Greenwich.</p></div1><pb id="p.44" n="44">
+<div1 type="chapter">
+<head>CHAPTER X.</head>
+<head>HUNGERFORD PIER DURING THE HOURS OF DIVINE SERVICE.</head>
+<p> SUPPOSE, if it is not impious to do so, dear reader, we turn out of the
+Strand for a few minutes, on any fine Sunday, pass through Hungerford
+Market, walk nearly half across the Suspension Bridge, and descend to
+the pier. Could reverend gentlemen, who write against the opening
+of the Crystal Palace, accompany us they would, I fear, in the
+Market itself recognise some of the wandering sheep of their flocks.
+Here, in the teeth of bills against Sunday trading, a good deal of
+commerce of a small kind is going on. The refuse of fruit not sold on
+Saturday in Covent Garden is vended here at reduced prices. On all
+sides are small heaps of hot and sweating gooseberries, red and
+white currants which begin to look dusty and dry, stunted pears
+and unripe apples in abundance-almond-nuts in baskets, with three-
+cornered pieces of cocoa-nut once white and fresh, but now stale and
+dirty. These, and penny ices, which are very popular on hot days,
+lure the coppers out of the pockets of servant-maids and apprentice-
+boys; and the traffic creates such a stir and a bustle, that with difficulty
+we should elbow our way through the pleasure-seeking crowd journeying
+to or from the steamboats. But supposing us to have arrived at the
+pier, what a scene presents itself! Compared with the noise of the
+market this is Chaos itself, with a dash of Babel in it. <q>Confusion
+worse confounded</q> assuredly it is. Four or five steamers are lying close
+to the pier, puffing and steaming in a most agitated way-across their
+decks crowds of (what the Rev. Onesimus Bang would call) <soCalled>sabbath-
+breakers</soCalled> are passing to and fro. Small boys are shouting, children
+<pb id="p.45" n="45">
+crying lustily, <soCalled>gents</soCalled> chaffing. In several small sentry-boxes the
+money-takers receive sixpences and threepences, for which they give
+small pieces of paper, which you are especially requested to present
+open, but which a jocular friend of mine always folds with much care
+and industry into the shape of a cocked hat, to the disgust of the
+official. The aforesaid humourist has been known to ask the man from
+whom he received it, <q>whether the ticket includes refreshment.</q> This
+if done when there is a great crush, and the boat is on the point of
+starting and leaving a great number on the pier, is calculated to
+infuriate the ticket-giver to an indescribable degree, while the by-
+standers, who are delayed by the joke in question, are very slow to see
+its point. The pushing, squeezing, and crushing is such, that it is
+more than a miracle that all the corpulent people in the crowd are not
+reduced to a jelly, or at least flattened to a pancake. The children are
+so numerous and so noisy, that one sighs for the days of Herod. Not
+that there appears to be any necessity for a massacre of the innocents,
+for by their cries and sobs they are being speedily suffocated.
+</p><p>In this heterogeneous crowd gentism and snobbism are triumphant.
+Such a mixture of every variety of bad tobacco never at once, before or
+since, offended my nostrils. The light banter which is carried on
+savours frequently of personality, and is rendered more piquant by
+a little indelicacy, and a more than occasional oath. As I stood
+there one day, a gent near me deliberately puffed a large mouthful of
+smoke from an infamously bad cheroot into the ears and eyes of
+a man standing near him who was almost old enough to be his grand-
+father.
+</p><p><q>I'll thenk you to keep yer d--d cabbage smoke out o' my eyes,
+young feller,</q> observed the old man.
+</p><p> <q>Didn't burn yer whiskers though, did I ?</q>  was the retort, which,
+inasmuch as the old man had no whiskers, elicited a chorus of laughter
+from a small knot of fraternal snobs, who evidently regarded this as a
+triumphant sally from the wit of their set. After successfully insulting
+the old man, the wag was so encouraged by the applause of his com-
+rades, that he began to look around him for fresh victims.
+</p><p><q>Hope you don't find my cigar disagreeable,</q> he observed, as he
+pushed himself rather nearer to me, and was evidently singling me out
+for some fun.
+<pb id="p.46" n="46">
+</p><p><q>It's very cheap, bad tobacco; but I dare say you'd smell as unplea-
+santly without it,</q> I replied, quietly, looking with expressive disgust on
+his lank, greasy hair, and shining whiskers.
+</p><p>He muttered an oath, and slunk off, rather discomfited; but soon, I
+observed, rallied his spirits, and was pinching some servant maids, who
+giggled, and thought him very funny. I soon, however, lost sight of
+him altogether; for, upon the arrival of the iron steamboat, <emph>Citizen</emph>,
+amid cries of <q>Westminster Bridge, Battersee, Chelsee, <emph>Cre</emph>morne !</q>
+this accomplished young gentleman and his set got on board, with a
+manifest intention of making a day, and perhaps a night of it, at the
+Red House, or the Gardens.
+</p><p>Though numbers got into this and other boats, the crowd on the pier
+never appeared to diminish, as there was a constant influx from the
+street. Some were bound for Greenwich and Woolwich; others were
+going up the river as far as Kew. The Red House was tolerably
+popular; but the majority were, I think, votaries of Cremorne. The
+blundering and bungling about the boats was endless. One unfor-
+tunate man, who wanted to cross the river, and spend his afternoon in
+the vicinity of holy Clapham, made several unsuccessful attempts to
+start. At first he got on board the <emph>Dahlia</emph>; on inquiry, he left
+this steamer, and returned to the pier. He allowed two Chelsea
+boats to pass, and then boarded the Pink; whereupon he was
+informed by one of the officials on the pier, in a voice of thunder,
+that <q>No flowers goes to <emph>Nine-helms</emph>.</q> What ultimately became of
+the unfortunate man, I know not; for the crowd became denser and
+noisier.
+</p><p><q>Keep yer hands in yer pockuts; here's a nobleman ere as has lost
+his ticker</q>! shouted a facetious small boy; and every one crushed to
+that direction to see what sort of looking creature the peer in question
+was, and with what feelings he endured his loss. As the whole thing
+however, was an invention of the imaginative youth, the pardonable
+curiosity of the populace was not satisfied; and the press in one
+direction only gave rise to a good deal of screaming among the women,
+and swearing among the men, who were by it nearly pushed into the
+water.
+</p><p>There seemed to be no hope of the crowd clearing away. Like the
+rustic of old, I waited to see if the stream would cease; but, like Old
+<pb id="p.47" n="47">
+Father Thames at our feet, the river of human beings poured into the
+pier, and from off it very regularly-and as</p>
+<p><foreign lang=la><q>Labitur et labetur</q></foreign></p>
+<p>seemed the order of the day, I walked back to the Strand, wondering
+whether the reverend gentlemen I have before spoken of, when they
+preach sermons and write pamphlets against the opening of the Crystal
+Palace on Sunday, know the condition of Hungerford pier during the
+hours of Divine Service.</p></div1><pb id="p.48" n="48">
+<div1 type="chapter">
+<head>CHAPTER XI.</head>
+<p> GIN AND SACRED MUSIC.</p>
+<p>I HAVE always been a great wanderer in London and its suburbs,
+and I have never confined my perambulations. to the fashionable West.
+Indeed, I never could precisely appreciate the humour of the question
+of the Right Hon. Nicholas Rigby, when he asked, in the House of
+Commons, <q>Where <emph>is</emph> Bedford Square?</q> Very <emph>small</emph> jokes elicit
+laughter-or <q> roars of laughter in which the worthy speaker joined,</q>
+as the reporters say, in the great Senate of England; which fact may
+account for the success of the interrogatory sally just mentioned.
+Theodore Hook has done his utmost also, to make dinners and tea
+parties in Bloomsbury appear ludicrous, if not presumptuous; and with
+sundry magazine writers of the present day, it seems to be thought
+jocose to say that any one (whom the writer wishes especially to
+ridicule) lives in Guilford or Keppel Street, Russell Square. All this
+jocularity and sarcasm notwithstanding, I have always had a profound
+respect for the City. Though the course of fashion, like that of empire,
+takes its way Westward, yet in ancient days wisdom came from the
+East, and if we cannot still get myrrh and frankincense, we shall
+certainly find gold there.
+</p><p>I am very partial to a stroll in the City- either at night or on
+Sunday. There is scarcely a finer sight in Europe than the City by
+moonlight. Cross London Bridge, and see the pale Thames glittering
+like floating quicksilver under the lunar rays, and looking calmly
+unconscious of the infinite traffic and gigantic commerce which the
+venerable river-god bears on his ample shoulders. See the quaint old
+<pb id="p.49" n="49">
+Tower with its varied historical associations, the wharfs before so
+stirring with commercial activity now all so tranquil, and above all the
+tapering church spires pointing up so speakingly to the sky. Pass
+on through streets now so cold and calm, a few hours ago crowded by
+hurried passengers so full of hope, anxiety, expectancy, and excitement.
+All the public buildings which, in the stir and the bustle of the day, one
+has no leisure to look at, stand out in bold relief, pale and symmetrical,
+their outlines mellowed down by the soft moonlight. And on Sunday,
+too, the streets of the City present a contrast to their normal week-day
+condition which is very striking. In the churches there is no very
+great difference. They are closed and empty during the week. They
+are open and empty on Sunday. But in spite of the neglect of the
+established sanctuaries manifested by the denizens of the City,
+the natural gloom and seriousness inherent in the English character,
+prompts sundry irregular theological and devotional outbreaks. Hence,
+assemble on Sunday afternoons and evenings in the Smithfield-market
+(of all places in the world) a crowd of persons with a taste, if not a
+talent, for religious controversy. I have frequently stopped, and listened
+to the discussions which were being carried on. Eight or ten small
+knots of persons may be seen assembled in different parts of the market.
+At first the uninitiated would suppose that a pugilistic encounter, or a
+little thimble-rig was the congregating cause. Not so. Approach and
+look, and listen. In Group I. you may find a stout argument conducted
+with more than the wonted theological acerbity, by a sturdy Protestant
+on the one side, and an acute and plausible Roman Catholic on the
+other. They are both, to all appearance, Irish labourers; but their
+acquaintance with the points of difference between the rival Churches
+does as much credit to their knowledge, as the earnestness with which
+they display it, does to their zeal. Group II., a rational religionist,
+who, if we may judge from accent and physiognomy, is undoubtedly
+Yankee, is destroying the miracles seriatim, not like Gibbon, according
+to Lord Byron,-</p>
+<p><q> Sapping a solemn creed with solemn sneer,</q></p>
+<p>but hurling infinite contempt, with some declamatory power, on Lot's
+wife and the pillar of salt, and on the passage of the Red Sea. On the
+loquacity of Balaam's ass he is especially funny, and not a little
+<pb id="p.50" n="50">
+blasphemous. He is evidently a wag, and as scoffing is always popular
+with a vulgar and uninformed audience, he has triumphed over a
+solemn tract-distributor, who was tempted to break a lance with
+the American, and who, by his weak advocacy, has done, pro tern.
+among that select circle, some harm to the orthodox cause.
+</p><p>In Group III., a mad-woman is endeavouring to explain, in a
+manner the most incoherent, to a small band of gaping fools, almost as
+fit candidates for Bedlam as their teacher, that the appearance of
+Louis Napoleon on the stage of European affairs was intimately
+connected with the opening of some seal in the Revelations (I forget
+which), and that the Crystal Palace at Sydenham was pointedly alluded
+to, in the same part of the sacred volume, as a <soCalled>sea of glass.</soCalled> The
+women among her hearers sometimes seem affected, if not convinced.
+Among the men there is a rather sceptical spirit apparent, and upon
+one occasion, after she had been beyond her wont, fervent, I heard one
+man, a Gallio in his small way, say to another, Come along, Bill, let's
+have a drop o' tea arter this ere. Bill was not loath to accept the con-
+vivial challenge, but the tea turned out to be gin, of which I saw them
+imbibe<soCalled> two penn'orth</soCalled>  each, in a neighbouring public-house. Some
+of these public-houses, and their Sunday habitues, have come under my
+notice, as well as the polemical people in the market. The scene depicted
+in the sketch is no exaggerated copy of the interior of one of these places
+where <q> a drop of tea,</q> as Bill's companion euphemistically phrased
+it, may be enjoyed with the accompaniment of a little sacred music on
+Sunday evening. The same gloomy turn which induced these people
+to discuss theology in Smithfield leads them, it would appear, to make
+an unholy alliance between sacred music and the consumption of beer
+and spirits.
+</p><p>I then entered the public-house into which the men had gone.
+I found that I was in a musical gin-palace, and that the music was
+of the most orthodox kind. A self-acting organ behind the bar
+was playing in a slow and doleful manner, <q>Angels ever bright and
+fair,</q> and when this was ended, proceeded after a slight pause
+to sound forth the 100th Psalm, in a very lively manner. This organ
+was at intervals wound up by the pot-boy. <q>Do you have music
+here every Sunday ? </q> I asked.  <q>Yes, sir; but sacred music - only
+sacred music, sir,</q> added the boy, with such pride as that with which
+<pb id="p.51" n="51">
+the vagabond, in Goldsmith's Comedy, declared that his bear danced to
+none but the genteelest of tunes, the minuet in Ariadne, or <q> water
+parted.</q> This same sacred music, which so excited my curiosity, did
+not appear to have the slightest effect on the <foreign lang=fr>habitues</foreign> of the house.
+They drank-smoked-laughed-swore, as if there was no music in the
+case. The bar-maid, with the mechanical movements of an automaton,
+tapped the beer, ale, and spirits, and changed shillings and sixpences,
+without seeming to recognise the existence of the organ, which was
+under the sole superintendence of the pot-boy, who wound it up on the
+principle of a mangle.
+</p><p>The sketch of the interior of this  <soCalled>Public </soCalled> is faithful. It will
+remind any of my readers, who know what the appearance of a
+London gin-shop is, of the tawdry finery and vulgar show that
+pervades it. The sacred music is the distinctive feature, and is as
+curious and characteristic as the disputations in Smithfield, and proves
+the intimate connection so flippantly said to exist between <soCalled> rum and
+true religion.</soCalled></p></div1><pb id="p.52" n="52">
+<div1 type="chapter">
+<head>CHAPTER XII.</head>
+<head>FARRINGDON-STREET EXTENSION.</head>
+<p>NOTWITHSTANDING the laudable efforts of some modern writers to
+give the public at large some slight idea of the condition of the poorest,
+and most wretched of those who are called the lower orders, there are
+numbers of the civilised and respectable portion of the community who
+are in almost total ignorance of the state in which many of their fellow-
+creatures live and die.
+</p><p><q>There are,</q> writes Charles Dickens, in <emph>Master Humphrey's Clock</emph>,
+<q>some few people well to do, who remember to have heard it said, that
+numbers of men and women-thousands they think it was-get up in
+London every day, unknowing where to lay their heads at night; and
+that there are quarters of the town where misery and famine always are.
+They don't believe it quite-there may be some truth in it, but it is
+exaggerated of course.</q>
+</p><p> If some of those who, when they take their walks at the West End,
+give a beggar a penny with a kind of shuddering doubt as to whether
+they are doing right or wrong, would walk through Farringdon Street
+Extension on Sunday morning they may see as fine specimens of human
+savages as could be found in any of those distant islands in the Pacific,
+which afford such a fund of religious anecdote to the Orators of Exeter
+Hall. I do not mean that physically they are fine savages-for they
+are mostly, as far as one can see through their ragged clothes and
+squalid filth, skinny and stunted-but that they are quite in as
+brutalised a condition.
+</p><p>No country makes philanthropic efforts of so vast and so noble a kind
+<pb id="p.53" n="53">
+as our own. Were they more domestic and practical we should
+have few such sights as Farringdon Street Extension on Sunday
+morning. We have no right, however, to boast of our national great-
+ness or goodness while such things are to be seen.
+</p><p>Our Government, which appears to be so deeply interested in the
+welfare of a man the moment he has been found guilty of crime-
+appears to ignore his existence previous to that consummation, and
+whatever its activity in seeking to punish or reform the criminal,
+leaves the innocent unregarded and untaught.</p>
+<p>In Reading and other gaols the prisoners are so schooled in theology
+that they ought to turn out profound Divines. These boys and girls
+running wild, whose grotesque appearance I have attempted to depict
+in the sketch, are taught nothing. They will, however, doubtless soon
+qualify for some prison or other, where, too late, they may learn the
+ingenuous arts-or leave this country to better their worldly prospects in
+a Colony.</p>
+<p> At any rate here they are at present, to be seen on any Sunday
+morning or afternoon, playing pitch and toss, cursing and swearing,
+shouting, screaming, splashing each other with dirty water, and throwing
+at each other stones and mud to the peril of passers-by. <q>And this,
+too, sir,</q> as a stout man once said to me in reference to the non-
+arrival of a train at a railway-station-<q>in a Christian country!</q></p></div1>
+<div1 type="chapter">
+<head>CHAPTER XIII.</head>
+<head> CONCLUSION.</head>
+<p>I HAVE now done my task. I have sketched from actual scenes, and
+described what passes on every Summer Sunday in and about London.
+I have not, although I could, described and drawn the luxurious
+residences of those who have set themselves against the Sydenham
+<q>School and Garden of Temperance.</q> That may remain a task for a
+future day. Now, looking back upon these sketches and descriptions,
+the first thing that strikes me in the pretended Sabbath Observance
+cry is its horrible Pharisaical selfishness.
+</p><p>To men of the wealthy middle class-and it is from parties chiefly in
+that position, as to means, and from simple well-meaning women who
+know no better, that the cry arises-an Act of Parliament, enforcing
+the absolute cessation of all occupation on Sunday would be no privation,
+it would never pass the fence of their pleasure grounds; having
+ridden or driven to town every day during the week, having been
+heartily wearied by business, having a country-house in a pleasant
+situation, with a good garden and enough servants, not being dependent
+on the Saturday-night butcher, or the huxter or the baker, for every
+Sunday meal, they have no more personal experience of the feelings of
+a poor man as to Sunday, than a Hindoo has of a frosty winter.
+</p><p>They could, with no great inconvenience, have an extremely comfortable
+cold dinner, where cold fish, fowl, game, meat, tart, and salad, would
+render any Sunday cooking unnecessary. They do not need the
+change or excitement of an excursion by rail. Not being fashionable
+men, they do not want to drive in the park. Not being betting men,
+<pb id="p.55" n="55">
+they do not care to meet our titled and untitled sporting aristocracy
+at Hyde-park Corner. Not being politicians, they do not rush down to
+any club to hear the last political gossip.
+</p><p>They are only too happy to rest, to attend their parish churches, to
+instruct their children, to meditate, and allow holier thoughts for that
+day to supersede the money-making of the English week-day.
+</p><p>Their own gardens and grounds afford them that space which
+the occupant of a shopman's barrack, of an artisan's attic, or a court
+in Smithfield or St. Giles's, seeks on Windmill Hill or by an excursion
+train.
+</p><p>To be sure, then, there is no form of religious pretension so easy as
+that which consists in glorifying ourselves by inflicting pain on our
+fellow creatures.
+</p><p>The Sunday-restriction conspiracy is, in fact, only another form of
+that feeling which led Philip of Spain to witness with so much content
+the burning of his unhappy Jewish, Moorish, and Protesting subjects;
+and Louis the Fourteenth to atone for a life of wretched pride and sin
+by the revocation of the Edict of Nantes, and slaughtering his
+Protestant subjects.*
+</p><p>Thoughts cannot be controlled by public opinion, or even by Acts of
+Parliament; we can no more make a man pious by excluding him from
+the country, and compelling him to remain during Sunday wherever
+his finances compel him to lodge during week-days, than we can
+prevent the banker at church or at home from devoting the time,
+outwardly given to pious meditations, inwardly to financial calculations;
+<NOTE place=foot>* The persecuting spirit which actuates the self-elected religious public is exemplified in
+the following extract from a Scotch paper, showing how heads were broken in the name of
+Sabbath observance :
+<q> SINGULAR AFFRAY AT GARELOCH-HEAD.-On Sunday week the usually quiet watering-
+place of Gareloch-head, in Dumbartonshire, was the scene of an extraordinary disturbance,
+caused by an attempt on the part of the servants of Sir J. Colquhoun, aided by the police
+and others, to resist the landing of the passengers from a Glasgow steamboat called the
+Emperor. It appears that great dissatisfaction had been created in the minds of many of
+the inhabitants by this steamboat plying to and from Gareloch-head and other watering-
+places on Sunday; and Sir J. Colquhoun, sympathising with this feeling, resolved, if
+possible, to prevent the disembarkation of the passengers on that day, basing his right to do
+so on the ground that the landing-pier was his private property. Accordingly when the
+Emperor reached the pier on Sunday forenoon it was found that a strong barricade, composed
+of barrels, herring-boxes, and large pieces of wood, surmounted by a heavy gangway,
+completely blocked up the passage to the shore, while before and behind it a numerous body of gamekeepers, gillies, and others, including some policemen, were stationed, to repel the
+passengers should they attempt to effect a landing. This attempt the passengers were not
+slow in making. A rush was made from the steamer, and, notwithstanding the free use of
+bludgeons and other weapons by the party on shore, a large body of passengers got a
+footing on the pier, took the barricade by storm, threw the materials into the sea, and, having
+beaten back their opponents, secured an easy passage to the shore. The scuffle, though,
+brief, appears to have been rather fierce, and some hard blows were dealt on both sides.
+Having gained their object, the passengers set about enjoying themselves in a harmless way,
+and at the end of two hours returned to the steamer, which they were allowed to enter
+through the pier, without molestation, and were soon on their way again to Glasgow.</q></NOTE>
+<pb id="p.56" n="56">
+</p><p>or the merchant from speculations on the probable price of wool
+and tallow.
+</p><p>The parties who are the real movers of the agitation for ensuring a
+better observance of Sunday by legislative penalties on locomotion, are
+the direct representatives, and some of them actual sharers in the
+movement attempted by Sir Andrew Agnew twenty years ago, for
+reviving the Puritanical observance of Sunday-the only real beneficial
+result of his agitation was the closing of public-houses from midnight
+on Saturday night to midday on Sunday.
+</p><p>And now, after a pause of twenty years, the Agnewites make the
+Sunday opening of the Crystal Palace the excuse for a renewed
+agitation founded on a strange combination of ignorance and cant.
+</p><p> Before Sir Andrew Agnew's Sunday Observance Committee the chief
+evidence of his favourite witnesses was directed towards showing the
+tendency of Sunday public-houses to promote drunkenness, and there
+was a good deal of truth in the evidence.
+</p><p>When a man has no education, and consequently no mental resources
+-when he lives in such confined lodgings as are the lot of the hard-
+working in large towns-when he has neither park nor garden, nor
+sheltered alcove at command-when he has a cross wife and crying
+children (and none of us would be very good-tempered if compelled to
+live as many of the poor live), why he finds it very comfortable to retire
+to the warm, well-lighted gin-palace, where liquor cheers his heart, and
+congenial companions find him agreeable conversation. It is to him
+what the club is to the wealthier man; he drinks gin or beer instead of
+claret or port; he leans against the counter, or sits on a rude bench,
+instead of taking his ease in a snug arm-chair, with this difference, that
+in our own, or in our club dining-rooms, we need not drink more than
+we desire-there is neither temptation nor public opinion to lead us on
+
+<pb id="p.57" n="57">
+to intoxication; while, in the bar or parlour of the gin-palace, the man
+who enjoys the fire, the light, and the society, is expected to drink for
+the good of the house.
+</p><p> As I have before observed, when noblemen and gentlemen were in
+the habit of dining and passing their evenings in taverns, Ministers of
+State and leaders of society got drunk without reproach. In the same
+period it was almost a proverb that the best workmen were drunkards.
+Among respectable mechanics at the present day, as well as among
+peers and members of parliament, drunkenness is considered a
+disgraceful vice; but this change of public opinion was not brought
+about by shutting up public-houses, or by penalties, or by restrictive
+acts of any kind, but by an improved moral tone, assisted by the spread
+of a taste for cheaper non-intoxicating drinks.
+</p><p>While tea and coffee, highly taxed, were luxuries confined to the
+wealthier classes, beer and gin were the morning and evening drinks of
+labouring men. It was not by forcibly closing the gin-palace, but setting
+up a coffee-shop next door, that the rising generation was weaned from
+the fatal vice of Englishmen.
+</p><p>Looking back at the steps, and the means by which England has
+advanced from the degraded condition of a universally drunken people
+to its present improved state, I cannot restrain my amazement at the
+blindness and the ignorance of the opponents of the glass-covered
+Gardens of Sydenham, for that is what this  <soCalled>Temple of Pleasure</soCalled>
+resolves itself into.
+</p><p>One reverend and anonymous pamphlet writer, full of pity for the
+merchants of Sydenham, but with no pity for those who have the hard
+work during the week, but not the country-house to retire to on a
+Sunday, exclaims, <q>Houses of refreshment will spring up around, and
+all these will be crammed on Sundays. If beer and spirits cannot be
+had in the building itself, means will be found to furnish them here, and
+it requires no prophet's eye to see that Sabbath drunkenness will be
+added to the accompaniments of the Crystal Palace.</q>
+</p><p> No doubt the reverend gentleman, who also threatens that several of
+the inhabitants of Sydenham will leave the district if the proposed plan
+be carried out, is quite right; there will be beer-shops and as many
+public-houses as the magistrates of the county chose to sanction, set up
+in the neighbourhood of the Crystal Palace; and those who are not
+<pb id="p.58" n="58">
+contented with the temperate fare and decent regulations of the People's
+Palace may stay outside to drink and blaspheme; but why should they
+travel all the way to Sydenham for that purpose ? All those who like
+drinking on a Sunday afternoon can do it, and do it to their hearts'
+content, in every thoroughfare in London.
+</p><p>If the Reverend Messrs. Jowett and Jones, for whose motives I have
+the utmost respect, will only take the trouble to inquire as to the real
+state of Stockwell and Clapham on a Sunday afternoon, they will find
+the public-house trade decidedly brisk. On Sundays every bar and
+every tap will be found full; on fine days, everything in the shape of
+a garden, an open space, a skittle-ground, a flat roof, a portico, will be
+found crowded by men, women, and boys, whose right to a seat depends
+on a consumption of beer or spirits. They will find that, whenever a
+garden is attached to a public-house, there a charge is made for
+admittance, which entitles the payer to refreshments, thus giving a
+direct premium to drink.
+</p><p> I shall not be surprised to find that the gentlemen who head this
+Sabbath observance agitation, are quite ignorant of all this. They
+have never witnessed the scenes which I have drawn and described
+from life. On Sundays they stay at home; they have good port and
+sherry in their cellars, so have no need to go to the public-house for
+refreshment, and they do not consider it their duty to inquire how the
+millions pass their time.
+</p><p>Why, not one of the least remarkable and most painful sights in
+London, is the aspect of the public-houses on Sunday afternoon.
+Whether we proceed towards Hampstead or Highgate, or to Camber-
+well and Peckham, or to Chelsea, Battersea and Wandsworth, and
+Putney, or eastward toward Bow, or beyond Paddington, it is the same
+sight; everything in the shape of a prospect or a garden, filled by parties
+whose admission is paid in drink: men drink, women drink-even girls
+of a respectable appearance may be seen with glasses of rum and water
+before them at such places as the Globe Gardens, Mile-end, Bow.
+</p><p>It certainly is most extraordinary, that with crowded gin-palaces
+at the corner of every street, with Cremorne Gardens at Chelsea, the
+Rosemary Branch at Peckham, the Grecian Saloon in the City Road,
+the Globe Gardens at Mile-end, the Highbury Barn at Highbury, and
+thousands of other similar establishments open and crowded every
+<pb id="p.59" n="59">
+Sunday, places where there is every incentive to drink so long as
+drunkenness does not call in the interference of the police; drunken-
+ness, too, taxed, sanctioned, and licensed by the State itself; the
+advocates for a Puritanical observance of Sunday, should have levelled
+their opposition against the Crystal Palace, the first attempt to provide
+on a large scale a place to which those who are condemned to reside in
+the unwholesome precincts of a great city during the day, can resort
+with their wives and families, without encountering temptation to
+intoxication, and without exposing the modesty of their female relatives
+to contamination from foul language or immodest demeanour of some
+of the frequenters of tea-gardens and the like.
+</p><p> At present it is difficult to say whether the young wife of the
+mechanic or shopman incurs the greater risk in accompanying her
+husband to Sunday Gardens, there to acquire a taste for spirituous
+liquors, and to have the bloom of modesty brushed off by the coarse
+conversation of other frequenters, or in leaving her husband to go
+alone, and there, without her restraining influence, be exposed to the
+seductions of <soCalled> another glass.</soCalled>
+</p><p> A great and enormous improvement has taken place within the last
+twenty-five years in the character of our bread-earning population
+of all classes; from the mechanic upwards, sobriety and decency of
+language have kept pace with improvement in education, in food, and
+in clothes. Yet the lamentable fact remains, that our cities increase in
+size, and consequently in the influences which injuriously affect health
+-while, on the one hand, no adequate provision has been made for
+securing decent healthy houses for the poorer classes; on the other, the
+chief open spaces for air and exercise, with shelter, are entirely in the
+hands of publicans.
+</p><p>I am not so sanguine as to imagine that one Crystal Palace can
+attract and accommodate, at the price it proposed to charge, anything
+like the population which now pours out of London in search of fresh
+air and change of scene every fine Sunday; even if the charge were
+one penny per person, instead of one shilling, that would not be
+possible.
+</p><p> But I am sanguine enough to expect that the example of the Crystal
+Palace, as a place of wholesome, healthy, well-conducted sober recrea-
+tion and rest for those to whom Sunday affords their only hours of
+<pb id="p.60" n="60">
+leisure, will present a great moral lesson, not only to the inhabitants of
+London, but those of all our populous manufacturing districts.
+</p><p>That it will inevitably raise the standard of all places of amusement,
+and show what may be done toward softening the manners and im-
+proving the taste of the millions who will make it their resort. That
+it will, in fact, prepare the soil for receiving the seeds which zealous
+teachers and pious preachers are prepared to sow.
+</p><p>It may be the dream of pious mole-eyed men, that in London, on
+Sunday, the whole population divides its time between attending places
+of worship and silent serious meditations at their own dwellings, and
+that the opening of the Crystal Palace Gardens will be the signal for a
+new order of profanity; if so, this work, imperfectly as it has been
+executed, will prove, in sober fact, that during the greater part of the
+day, London, especially that part of it devoted to trade, is deserted, and
+that on foot and by every means of conveyance, the population streams
+outwards. If it were not so, if the population which the vast increase
+of towns condemns to live a life very different to that of the Israelites,
+in tents, were not able to escape from time to time into the country,
+we should soon find our towns devastated by pestilence, and sapped by
+consumption.
+</p><p>The question to be settled, is not whether an imaginary Sunday
+observance shall be infringed, but whether it is not an excellent
+measure to offer as a counter-attraction to the grog-gardens of the
+suburbs, and gin-palaces of the city-a place where no father need be
+ashamed to accompany his family, and where, instead of temptation,
+instruction of the highest kind, of the most interesting nature, will be
+afforded to the youth of either sex.
+</p><p>The fact is, that the most ardent propagators of this Anti-Crystal
+Palace cry, consist of hypocrites who are always ready to obtain that
+cheap character for piety which is to be earned by abusing and
+oppressing others-and of sincere ignorant enthusiasts, the direct
+descendants of the Puritans who laid so excellent a foundation for the
+reactionary debaucheries of Charles II.'s reign.
+</p><p>These would, if they could, bring every movement, every transaction
+to a stand still on the seventh day; nay, in their eyes, neither
+music, nor dancing, nor any other amusement, is commendable on
+week-days.
+<pb id="p.61" n="61">
+<p>They would close every shop and every coffee-house, stop every
+cab, every omnibus, every horse, every railway train, suppress every
+Sunday and every Monday newspaper, close the parks, and allow no
+one to walk, except to and from church, permit no ships to sail or
+arrive, and punish severely all who ventured to infringe their notions
+of Sabbatical law.
+</p><p>Private serious drinking they could not restrain, nor would they, as
+we know by the experience of Scotland, some of whose great towns are
+equally renowned for drunkenness and strict observance of Sunday.
+</p><p>The question is simply, whether we are prepared for the one course
+or the other. Are we prepared to drive back our populations into
+towns, to leave the luxuries of Sunday rest to the monopoly of those
+who have suburban villas, to stop all means of public conveyance, and
+make fresh air one of the luxuries of the rich, and the strong, able to
+walk long miles ? are we prepared to close the Zoological and Botanical
+Gardens, the mis-called tea-gardens, and all the train of resorts for
+drinking; or shall we, with the grossest inconsistency, confine ourselves
+to forbidding gardens of temperance, like those of the Crystal Palace,
+and excursion trains, to which thousands owe their health, while leaving
+unchecked the temples of intemperance that flourish at the corner of
+every street ?
+</p><p>Are we to strain at an excursion train, and swallow the countless
+temptations to intoxication ?
+</p><p> Shall all the luxuries of Sabbath rest be for the rich, and for the
+poor punishment and pain only ?
+</p><p>Which will be in the more thankful and prayerful disposition; which
+better prepared to keep down evil thoughts and evil tempers; which a
+tenderer parent and a more loving husband; the man, who after a week's
+work at bench or counter, is condemned to pass the Sunday within the
+narrow bounds of his lodgings, looking out on dingy houses, or on rows
+of chimney-pots, sallow, sick, and weary, or he who is enabled by
+steam-boat or railway-train to get out of the smoke of town with his
+family, and at once refresh his limbs, his eyes, his ears, and his lungs,
+with exercise, with air, with country scenes and country sounds ?
+</p><p>South, speaking of the hypocrites of his day, has well described the
+influence of cant and pretence in the following passage:-
+</p><p><q>Bodily abstinence, joined with a demure affected countenance, is
+<pb id="p.62" n="62">
+often called and accounted piety. Suppose a man infinitely ambitious
+and equally spiteful and malicious, or who poisons men's ears with
+spiteful whispers; yet, if he step forth with a lantern face and a
+mournful ditty for the vices of the times-oh, then he is a saint upon
+earth !</q>
+</p><p> <q>What primitive, self-mortifying vigour there is in forbearing a dinner
+that we may have a better stomach for supper.</q>
+</p><p>
+<q>The world stands in admiration of such men, fools are fond of
+them, wise men are afraid of them.</q></p>
+<p>THE END.</p>
+<p>BRADBURY AND EVANS, PRINTERS, WHITEFRIARS.</p><pb id="p.63" n="63">
+</body>
+</text>

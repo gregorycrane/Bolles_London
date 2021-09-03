@@ -1,0 +1,1356 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>
+Farrington Without</title><title type="sub"> History of the Most Interesting Places, Leading Events; and Some Account of the Eminent Men connected therewith, since the year 1600.</title>
+<author>Adolphus Decimus Francis.</author>
+&responsibility;
+&fund.IMLS;
+</titlestmt>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title>
+Farrington Without</title> <title type="sub"> History of the Most Interesting Places, Leading Events; and Some Account of the Eminent Men connected therewith, since the year 1600.</title>
+<imprint>
+<pubPlace>London</pubplace>
+<publisher>Daniel Green, 184a, Fleet Street.</publisher>
+<date>1870</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourcedesc>
+</filedesc>
+    <encodingDesc>
+      <refsDecl>
+	<state unit="page" n="chunk">
+      </refsDecl>
+      <refsDecl>
+	<state unit="page">
+	<state unit="entry">
+      </refsDecl>
+    </encodingDesc>
+<profileDesc>
+<langUsage>
+<language id=en>English
+<language id=la>Latin
+<language id=greek>Greek
+<language id=de>German
+<language id=fr>French
+<language id=it>Italian
+<language id=anglosaxon>Anglo-Saxon
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="dedication" n="0">
+ <head>To the  Members of the City of London
+             Tradesmen's Club.</head>
+ <p>Gentlemen,
+<p>I dedicate this work to you. When I had the
+pleasure during three weekly meetings to direct your attention
+to the interesting and notable events connected  with "Our
+Ward," and to the many eminent men who made it their abiding place, I little dreamed to arouse in you an enthusiastic
+desire to possess some permanent record of my efforts to please
+you. In obedience to your expressed wishes I place before you
+this pamphlet, and trust the handsome spontaneous subscription you raised to defray the cost of publication will, whilst being
+acknowledged by me, be more appreciably requited by your
+finding the book full of agreeable mementoes of Farringdon
+Without, and carefully selected reliable information.  To the
+gentlemen at the Record Office, and to Mr. Overall, the City
+Librarian, who placed valuable information within my reach
+--to them and to you I offer heartfelt thanks.
+                         <p>Believe me,
+                             <lb>Faithfully yours,
+                        <lb><name type="person" key="Adolphus Decimus Francis.">Adolphus Decimus Francis.</name>
+   <date value="1869-12-05">December 5th, 1869.</date>
+  <div1 type="section" n="1"><head>              THE WARD OF
+ FARRINGDON WITHOUT,</head>
+ <p>TO the thoughtful mind, has always been preg        nant with intellect, and replete with  nota    bilities, even from the earliest times. We find
+        in <date value="1698">1698</date>, Sir Francis Child, one of the first
+bankers established in London, alderman of this ward,
+and lord mayor of London: the ancestor of the Earls
+of Westmoreland and the Earls of Jersey: two of his
+sons: Sir Robert and Sir Francis Child followed in
+his footsteps, both becoming aldermen, Sir Francis attaining the dignity of lord mayor in <date value="1731">1731</date>.  To them
+succeeded Sir Richard Hoare as alderman, also a banker,
+who was made mayor in <date value="1745">1745</date>; then came Alderman
+Richard Beckford, who died before he reached the civic
+chair. His son William Beckford wrote an Arabian tale
+called "Vathek," at one sitting: a work Lord Byron pronounced, for correctness of costume, beauty of description,
+<pb n="10" id="p.10">
+and power of imagination, the most Eastern and sublime
+tale ever written.  Alderman Sir F. Gosling succeeded
+Beckford, in <date value="1756">1756</date>, but died before reaching the mayoralty;
+he was followed by John Wilkes, who, elected alderman
+<date value="1769">1769</date>, was lord mayor <date value="1774">1774</date>. Wilkes may be considered
+the father of city liberty, and the upholder of city independence. To him succeeded Sir Charles Price, Bart., likewise a banker, mayor in <date value="1802">1802</date>; and he was followed by the
+great and good Alderman Robert Waithman, lord mayor
+in <date value="1823">1823</date>.  James Harmer was elected alderman in <date value="1833">1833</date>,
+and it is sufficient to say he was the proprietor of the
+"Weekly Dispatch," one of the oldest liberal newspapers in
+England.  He did not reach the highest civic honours.
+Sir James Duke, Bart., was mayor in <date value="1848">1848</date>; he has enjoyed
+the aldermanic distinction since <date value="1840">1840</date>, having presided over
+the ward during crises of great pith and moment, with
+dignity all his own, and with suavity which has won for him
+the respect and esteem of the whole ward, comprising nearly
+one-fifth of the electors of the entire city.
+<p>In the year <date value="1279">1279</date>, one William Farendon, or Farndone,
+(liber Albus Faryngdone,) an opulent goldsmith, purchased
+or leased of Edward I., through Ralph le Feore, the then
+holder, the right to the aldermanry of this ward, thenceforth
+called by his name, which the transition of language, natural
+to the march of refinement and euphony, has merged into
+Farringdon."  Farendon's lease ran eighty years, and
+             <pb n="11" id="p.11">
+during that period was enjoyed in fief by his descendants,who
+paid annually, at Easter, in token of vassaldom, a gilly-flower, or July flower (garofolo, nut), then most rare.
+<p>          "Sir, let us take a walk down Fleet Street,"
+and from the nethermost western end we will perambulate
+the ward together.
+<p>                 Fleet Street,
+Deriving its name from the river Fleet, has always been
+renowned for exhibitions, out-door games, and processions.
+Scarcely a century has passed since football was a pastime
+publicly permitted in this great thoroughfare, and the cry of
+" Bat," would at the same period bring a swarm of "prentices " to the rescue of a friend in trouble, or a stranger in
+distress. Its coffee-houses and taverns have won for Fleet
+Street world-wide celebrity; in some of them were congregated the immortality of intellect, leaving their " mots," not
+for a generation but for all time. Ever a centre for booksellers, stationers, and printers, Fleet Street has been the
+hotbed of genius and the nurse of thought. The houses were
+badly built until the fire of London cleared away the rubbish
+nearly to St. Dunstan's Church, north and south ; we still
+have records of the reign of him who " never spared man in
+his anger, nor woman in his lust," although it is doubtful
+whether Henry VIII. ever lived in the gable-fronted over
+<pb n="12" id="p.12">
+hanging house which bears his name. Fleet Street was
+badly paved until John Macadam, at the commencement
+of the present century, revolutionized our road-making. It
+is scarcely within the province of this brochure to detail
+the animated scenes that oft took place in Fleet Street in
+the olden times; those curious in such matters will find in
+Sir Walter Scott's "Fortunes of Nigel" life-like word
+painting and richly-dressed descriptions of this neighbourhood in <date value="1600">1600</date>. Thirty-four streets, lanes, and alleys run
+into or out of Fleet Street, each and every one memorable
+in its way: each and every one having been a pioneer on
+the highway towards civilization. At No. 192, Fleet Street,
+was born Abraham Cowley (B. <date value="1618">1618</date>, D. <date value="1667">1667</date>), whose father
+kept a grocer's shop on these premises. The sublime, the
+moral, and the witty Cowley, though educated at Westminster, matured his thoughts 'neath his father's roof.
+After passing through various hands, these premises becamethe "King's Head" tavern, and Titus Oates here, in <date value="1680">1680</date>,
+hatched his nefarious schemes, and with a "tongue" that
+perjured and a perjured tongue revealed a pretended popish
+plot that unjustly overwhelmed many innocent of crime.
+Here, also, was held the "Green Ribbon Club," a society
+almost analogous to the Fenians of our day. In <date value="1740">1740</date> they
+were again opened as a grocer's, by North and Co., who
+sold tea there at 16s. per lb., and this business is still
+carried on.
+             <pb n="13" id="p.13">
+<p>At No. 17, nearly opposite, erroneously called the " palace
+of Henry VIII. and Cardinal Wolsey," may be seen a very
+fine specimen of wood carving on the frontage, though its
+being gilt somewhat militates against its charming finish;
+here was conducted, in <date value="1795">1795</date>, "Mrs. Salmon's moving
+wax-work exhibition," that achieved European fame. Two
+doors west of Chancery Lane, in Fleet Street, lived
+Izakk Walton, the author of the "Complete Angler," a book
+replete with all the charms of nature, and overflowing with
+unaffected simplicity and adoration of divine perfection.
+At 184 and 185 lived Michael Drayton, the author of the
+Barons' Wars," and the " Poly-Albion," a description of
+England, the former containing many passages of great
+poetic beauty that Milton deigned to copy, the latter
+overflowing with antiquarian, geographical, and historical
+learning, and abounding in chaste imagery. At No. 134,
+formerly the Globe tavern, long the house of the Robin
+Hood Club, Oliver Goldsmith hob-nobbed with Charles
+Macklin, who played Shylock in the " Merchant of Venice"
+when he was one hundred years old; and to such perfection
+did he bring the delineation, that Alexander Pope said
+                   <lb>"This is the Jew
+                   <lb>That Shakespeare drew."
+Macklin was the author of an undying comedy, " The
+Man of the World."   At No. 103, now the "Sunday
+<pb n="14" id="p.14">
+Times" office, lived Alderman Waithman, lord mayor of
+London in <date value="1823">1823</date>, and so worthily did he fulfil his duties as
+alderman and mayor, that the citizens of London elected
+him six times their representative to parliament, and at his
+death raised a monument to his memory near the house he
+so long inhabited.
+<p>In this year of grace, <date value="1869">1869</date>, we have No. 85, used as the
+publishing office for " Punch, or the London Charivari," the
+first satirical and humorous periodical established in England, and the best: containing more genuine Attic wit, and
+having a larger scope of satirical humour, than any other
+journal ever published. At 135, 136, and 137, is published
+and printed " The Daily Telegraph," the most wonderful
+modern newspaper: established about fifteen years only, it
+has, by consistently advocating popular rights, vaulted into
+the foremost rank of journalism, and acquired a circulation
+equal to nearly all the other daily papers put together. No.
+129 is "The Standard" office, the organ of Conservative
+principles, which with great power disseminates its party's
+opinions, and is rising to the highest pinnacle of newspaper
+fame.
+<p>The churches in Fleet Street are St. Dunstan's, an
+Italianized gothic structure, with circular-headed windows;
+the clock was formerly one of the wonders of London, it
+overhung the pavement, and had two gilt life-size figures of
+savages wielding clubs, with which they struck each quarter
+             <pb n="15" id="p.15">
+of an hour, and at the same time moved their heads.
+Cowper refers to this:
+          <lb>"When labour and when dulness, club in hand,
+          <lb>Like the two figures at St. Dunstan's stand."
+<p>St. Bride's, or St. Bridget's church, one of the most
+charming creations emanating from Wren's genius, with its
+graceful steeple, its fine stained-glass windows-a splendid
+copy of Rubens' " Descent from the Cross," on the east
+side, and its brilliant peal of twelve bells, make it a
+favourite resort.  In this churchyard are buried Samuel
+Richardson and Alderman Waithman, both ward celebrities.
+<p>At the Portugal Hotel, Fleet Street, is held, weekly,
+"The City of London Tradesmen's Club"-an institution
+established some fifty years since for the purpose of discussing or debating the important political and social questions
+of the day, and enabling its members, and the ratepayers
+of the Ward of Farringdon Without, to ventilate their
+opinions; affording opportunities to its representatives at
+the Court of Common Council to express their views and
+ascertain the feelings of their constituents.  This club,
+formerly called "The Farringdon Club," was established at
+the Ram Inn, Smithfield, and the notorious Galloway was a
+member.   It then removed to Anderton's Hotel, and the
+name was changed to the present title; subsequently it
+held its meetings for some years at Salter's  Hotel, in the
+<pb n="16" id="p.16">
+valley at the bottom of Snow Hill, and remained there
+until the premises were pulled down for the building of the
+Viaduct. At the commencement of the year <date value="1869">1869</date>, it was
+again removed near the scene of its early triumphs--its
+present locale. It consists of seventy members--professional
+and trading gentlemen, carrying on their avocations in the
+City of London. The Alderman and Common Council representing the Ward of Farringdon Without have from
+time immemorial been members of this club.
+                  <div1 type="section" n="2"><head>Temple Bar</head>
+<p>The most western boundary of the ward of Farringdon
+Without, was built by Sir Christopher Wren, and is admirably adapted for the purpose for which it was intended; it
+is constructed of Portland stone, of rustic work below, and
+of the Corinthian order. In two niches over the gate on
+the east side are statues of Queen Elizabeth and King
+James I., the king's arms being placed over the key-stone.
+The statues of King Charles I. and Charles II. adorn the
+west side. On the iron spikes above the pediment were
+formerly exhibited the heads and limbs of traitors, which
+having been placed thereon, were left to blister in the sun.
+The rooms above the gateway are now used by Messrs. Child,
+the bankers, as a depository for their books.
+<p>In olden time Temple Bar was what its name conveys
+            <pb n="17" id="p.17">
+"a bar," composed of posts, rails, and a chain, stretching
+across the street, to prevent unsanctioned ingress or egress;
+that gave place to a house of timber, removed at the great
+fire of London, when, under the influence of Wren's reforming hand, the present building was reared to " reign in its
+stead."
+<div1 type="section" n=3><head>The Temple</head><p>
+Was formerly the residence, containing the mansion and
+grounds, of the Knight Templars, a body having its origin
+as follows:  After the capture of Jerusalem by the Crusaders, in
+<date value="1099">1099</date>, the zeal or fanaticism for pilgrimage to the holy
+shrine, which, by reason of its difficult accomplishment
+seemed to be invested with double attractions, burst with
+its smothered intensity, and a fierce desire to visit the East
+permeated Europe. The cruel and bloody Turcomans, who
+had long been the scourge of the pilgrims, although expelled Jerusalem, had not been driven from Palestine; there maintaining vast strongholds and impregnable fortresses;
+from whence they made frequent raids, attacking fiercely
+the numerous bands of weary and peaceful pilgrims; plundering and murdering all who came within their power. To counteract these barbarities, to protect the saintly honour
+of the holy virgins and matrons, and the grey hairs of the
+
+<pb n="18" id="p.18">
+devout Palmers, nine knights of noble lineage, of high
+renown, formed themselves into a devoted band to do
+battle with the infidels, and aid each other, and all
+persons in distress. At first without fixed residence, they
+wandered hither and thither in quest of adventure; and
+it was not until <date value="1118">1118</date>, " the poor fellow-soldiers of
+Jesus Christ," as they dubbed themselves, having acquired great renown for the services they rendered to
+Christians and Christianity, that Baldwin, king of Jerusalem, invited them  to take up their residence in the
+sacred precincts of the holy temple on Mount Moriah:
+hence their name " Templars," or " Knights of the Temple
+of Solomon."  About the year <date value="1128">1128</date>, one Hugh de Payens,
+who for his extraordinary valour and severe piety was
+elected "Master of the Templars," visited England to raise
+money and followers to support their cause and join their
+continental brethren in this Christian warfare. He was
+well received by all classes, had grants of land and rich
+presents given to him on behalf of the Templars, and he
+enlisted many noble men and doughty knights under their
+banner, fixing on, as their residence or inn, a magnificent
+mansion on the south side of Holborn, just without " the
+bars," and near where now stand Southampton Buildings.
+Subsequently the order purchased considerable property in
+land and houses, extending from the west of Whitefriars
+to the east of Essex House, Essex Street, Strand, being
+            <pb n="19" id="p.19">
+bounded on the south by the river; and along this extended
+frontage on the Thames they built their more than regal
+palaces. In <date value="1185">1185</date> was erected and consecrated the beautiful
+Temple Church, the most perfect memorial of their order
+now in existence.
+<p>King John was for some time a resident in the Temple,
+where he took refuge against the coercion of his rebellious
+subjects, and here the barons compelled him to negociate
+the terms of Magna Charta; and it is somewhat doubtful
+if he did not sign the copy of it during this residence. We
+are told that Henry III. gave a sumptuous entertainment
+to ambassadors from Castile in the great temple hall, and
+the king especially ordered the Lord Mayor and sheriffs to
+escort them thither. The Templars were disbanded about
+the year <date value="1312">1312</date> by Pope Clement V., the chief cause of their
+ruin being their unbounded wealth, which was triparted
+amongst the pope, the king, and the order of the Knights
+of St. John of Jerusalem, a rival body of military monks,
+who lived at a mansion north of Smithfield, the entrance
+being St. John's Gate, Clerkenwell. A portion of their
+possessions, viz., the Temple proper, was claimed in 1315
+by Thomas Earl of Lancaster, and the claim allowed by
+Edward II. The Earl of Lancaster leased the premises to
+a company of lawyers, who fixed their abode here; and
+having once become housed, they managed to retain possession. The lawyers of the Temple were always famed
+
+<pb n="20" id="p.20">
+for plays, masques, and revels; they gave grand entertainments at Christmas, Halloween, Candlemas, and on Ascension Day; and these several periods were kept with great
+splendour in their hall. Charles II. dined with them in
+<date value="1661">1661</date>. At each of their fetes a play was performed, and
+after the play barristers sang songs to the sergeants and
+judges, who kept up the mirth and jollity of the scene by
+dancing round the sea-coal fire. It would be a strange sight
+in these times to see the grave and reverend lawyers tripping
+it on "the light fantastic toe" in all the stately elegance of a
+saraband or a minuet. One of the most remarkable entertainments given in the Temple was the Hunt, in which their
+huntsman entered attired in green velvet and green satin,
+dragging after him a cat, a fox, a purse net, and nine or ten
+couple of hounds, the cat and fox being tied at the ends of
+a staff to be hunted by the dogs amidst the blowing of
+horns.
+<p>Geoffrey Chaucer, the father of English poetry, was a
+student in the Inner Temple, the author of "The Canterbury
+Tales," a series of poems full of beauty and merit, displaying a knowledge of mankind that ranks with the highest
+flight of human intellect. Born <date value="1328">1328</date>, died <date value="1400">1400</date>. Middle
+Temple Lane was formerly a thoroughfare to the river
+for conveyances, but the lawyers have shut the public
+out, and claim the inheritance as their sole right. From
+the Temple to Alsatia, or Sanctuary, seems but a step,
+            <pb n="21" id="p.21">
+and this was once a privileged place from arrest for debt
+and small misdemeanours, and was inhabited by bullies,
+desperadoes, broken tradesmen, extravagant spendthrifts,
+affidavit men, or knights of the post, bully-cocks, and the
+refuse of society, who, having infringed and thereby become
+amenable to law, sought here a refuge from retributive
+justice; and too frequently found it, until crime growing
+daring in its enormity beyond endurance, Sanctuary was
+partially stamped out by the armed heel of power, and
+Alsatia gave place to law and order. Scott's " Fortunes of
+Nigel" vividly depicts the scenes that frequently arose in
+Sanctuary, and disgraced medieval ages.
+<p>The boundary of Alsatia on the west was the Temple;
+on the north, Fleet Street; on the south, the Thames; and
+on the east, Whitefriars, formerly Water Lane, where stood
+the monastery of the white-robed Carmelites, an order of
+mendicants deriving their name from Mount Carmel, in
+Judea, and practising great austerities; and thus was seen,
+as it ever is between law and religion, a congregation of
+the pariahs of society, fed on either side by the upheaving
+of unworthy members, who, hunted from the one to the
+other, took refuge in the common haunt of rascaldom. In
+Shire Lane or Lower Serle Street
+That stood on the north side of Fleet Street, immediately
+<pb n="22" id="p.22">
+contiguous to Temple Bar, and divided the city from the
+shire, removed to make way for modern improvements,
+lived Sir Charles Sedly, the contemporary and friend of
+Rochester, and one of the wittiest of the Court of
+Charles II.; his poems, though loose in morals, are elegant
+in diction, and captivating in style; here lived, too,
+Christopher Kat, the originator of, and at whose house
+was founded and held, the celebrated club called the Kit
+Kat, deriving its name from his, although some suggest that
+the title was taken from Kitten and Cat, and amongst them
+Pope, who thus apostrophises it:
+            <lb>"Whence deathless Kit Kat took its name,
+            <lb>   Few Critics can unriddle;
+            <lb> Some say from pastrycook it came,
+            <lb>   And some from Cat and Fiddle.
+            <lb> From no trim beaux its name it boasts,
+            <lb>   Grey statesmen, or green wits;
+            <lb> But from the pell mell pack of toasts
+            <lb>   Of old Cats and young Kits."
+<p>Kat was a pastrycook, famous for mutton pies, which
+formed a portion of the bill of fare of the dinners given by
+the club, which consisted of thirty-nine noblemen and
+gentlemen banded    together for the purpose of giving
+stability to the Protestant succession of the House of
+Hanover.
+<p>Bell Yard was always a famous resort for fishing-tackle
+makers, as was also
+            <pb n="23" id="p.23">
+                <div1 type="section" n="3"><head>Fetter Lane</head>
+<p>Which derives its name from Fewters, or idle people, who
+lounged away their time in and about its purlieus. Some
+historians give the derivation from Fetters, by reason of
+criminals lying there in fetters waiting their doom ; the lane
+was used at either end for a period of two centuries as a place
+of execution. The White Horse Inn, once a celebrated
+Oxford University house, where many eminent men visiting
+London from that seat of learning took up their residence,
+and amongst them Lord Eldon, is now turned into a threepenny lodging-house for tramps and beggars, where the
+poor have furnished them a halfpennyworth of bread, butter, cheese, tea, or sugar; or of any other delicate comestible out of which can be made a profit by the innkeeper.
+<p>At 77 lived <name type="person" key="Thomas Paine">Tom Paine</name>, the author of "The Rights of
+Man," which he dedicated to General Washington. For
+the opinions enunciated therein, he was imprisoned, and by
+that sentence raised to martyrdom and made famous; he
+produced many other works, written with great fluency and
+clear thought, but yet so scurrilous in tone, and often so
+false and ignorant in data, as to be unworthy the perusal
+of minds sedulous to acquire truthful and sound ideas.
+Tom Paine represented Calais in the French Republic, and
+endeavoured to stimulate the French people to make  war
+against England.
+<pb n="24" id="p.24">
+  "Praise-God Barebone," the leather-seller of the Revolution, who became one of the most intolerant members of
+Cromwell's Parliament, that was named after him, lived here
+with his two brothers, who were severally named "Christcame-into-the-worl-to-save  Barebone,"  and  "If-Christhad-not-died-thou-hadst-been-damned Barebone,"a trio eminently suggestive in nomenclature, and highly euphonious.
+<p>Surely fanaticism in surnames can no further go! At 16,
+over Fleur-de-lis Court, lived John Dryden, born <date value="1631">1631</date>, died
+<date value="1700">1700</date>; it is sufficient for his fame to point to his translation
+of Virgil, where vigour, variety, and copiousness abound,
+and march side by side with correct and harmonious poetry,
+matchless in freedom and admirable in refinement; indeed,
+so finished is it, that Pope pronounces it "the most noble
+and spirited translation in any language ;" and he was right,
+for it has rendered his name famous, and placed a wreath
+of immortality on his brow. Next door to Dryden, at the
+right-hand corner of Fleur-de-lis Court, lived the infamous
+Mrs. Brownrigg, who
+           <lb> "Whipped two female 'prentices to death,
+           <lb> And hid them in the coal-hole.
+           <lb> For this act did Brownrigg swing."
+<p>At 3, Bartlett's Passage, lived <name type="person" key="John Guy">John Guy</name>, the author of
+the most popular Spelling Book of this century. In
+            <pb n="25" id="p.25">
+                 <div1 type="section" n="4"><head>Child's Place</head>
+<p>Was situated the celebrated "Devil's Tavern," with its
+unique sign of St. Dunstan pulling the Devil's nose; the
+tavern is, I believe turned into Child's banking house, but
+the sign is still shown on the premises. The story goes
+that St. Dunstan, who derives his name from the Saxon
+words dun, high; stane, a stone-born A.D. 924, was a
+famous worker in iron and brass. A protean devil, in the
+shape and form of a beautiful woman, appeared to him
+whilst he was at work making some iron trinkets, and
+Dunstan, being irritated at the intrusion and temptation
+offered him, plucked his tongs, glowing hot from the fire,
+seized the Devil by the nose, and kept him there some
+time roaring with agony. In
+                 <div1 type="section" n="5"><head>Chaucery Lane</head><p>
+Stood the palace of the Bishop of Chichester, between
+Bream's Buildings and Cursitor Street, and the mansion is
+still standing. On the present site of Southampton Buildings was the residence of the ill-fated <name type="person" key="William Russell">Lord William Russell</name>,
+implicated in " The Rye House Plot;" and although the
+evidence against him was of the most contradictory character, he was condemned to death and beheaded in Lincoln's
+Inn Fields in <date value="1683">1683</date>. Some of the most charming and wifely
+<pb n="26" id="p.26">
+letters in the English tongue are those addressed to him by
+<name type="person" key="Rachel Russell">Lady Rachel Russell</name> from their residence in <placeName key="Chancery Lane">Chancery Lane</placeName>
+.
+His wife attended him at his trial as his secretary, and after
+his death mourned him in sorrowful widowhood for nearly
+forty years.
+                  <div1 type="section" n="6"><head>Crane Court,</head><p>
+One of the most notable turnings out of <placeName key="Fleet Street">Fleet Street</placeName>
+, has a
+splendid specimen of a fine brick-built house, one of <name type="person" key="Christopher Wren">Wren's</name>,
+at the end; here was the original locale of the <name type="organization" key="Royal Society">Royal Society</name>.
+In <placeName key="Crane Court">Crane Court</placeName>
+ " Punch, the London Charivari," first saw
+light. The " Illustrated London News " was published at
+No. 10 for a considerable period, and the "Society of Arts"
+held its first meetings in this court ; indeed, almost every
+house carries with it an interesting souvenir.
+                  <div1 type="section" n="6"><head> Mitre Court</head><p>
+Bears with it, in the <placeName key="Mitre Tavern">Mitre Tavern</placeName>
+, reminiscences of the
+poet " who wrote not for an age, but for all time."  <name type="person" key="William Shakespeare">Shakespeare</name>, who has delineated every phase of human character,
+and forecast the nature of man so closely, that <name type="person" key="Ben Johnson">Johnson</name> in
+his panegyric says, <quote>"panting time toil'd after him in vain,"</quote>
+made the Mitre his house of call, and refers to it frequently
+in his dramas. Johnson and Boswell gave their parties
+               <pb n="27" id="p.27">
+here, and included amongst the guests Percy and Hawksworth.   In
+                      <div1 type="section" n="7"><head>Bolt Court,</head><p>
+At No. 8 lived Dr. Johnson for the last twenty years of
+his life.  Johnson, who wrote " Rasselas," one of the most
+charming tales in the English language, " The Lives of the
+Poets," containing a critical analysis of the leading poetical
+minds ; Johnson, of whom     Garrick said, and truly so
+       <lb>"Talk of war with a Briton, he'll boldly advance,
+         <lb>That one English soldier can beat ten of France;
+         <lb>If you alter the fame from the sword to the pen,
+         <lb>Our odds are still greater, still greater our men.
+         <lb>In the deep mines of science though Frenchmen may toil,
+         <lb>Can their strength be compared to Locke, Newton, or Boyle?
+         <lb>Let them rally their heroes, bring forth all their powers,
+         <lb>Their verse-men and prose-men, then match them with ours.
+         <lb>First Shakspeare and Milton, like gods in the fight,
+         <lb>Have put their whole Drama and Epic to flight.
+         <lb>In satires, epistles, and odes would they cope,
+         <lb>Their numbers retreat before Dryden and Pope.
+         <lb>And Johnson, well armed, like a hero of yore,
+         <lb>Has beat forty French, and can beat forty more."
+  <p>This eulogium places in sufficient prominence the fact,
+that Johnson produced a Dictionary of the English lan
+guage--for it is to this dictionary Garrick specially alluded
+--so complete that it out-distances and out-perfections the
+French Dictionary that occupied the thoughts and intel
+lects of the whole Academie Francaise, consisting of forty
+<pb n="28" id="p.28">
+members. Johnson, who was born at Lichfield in <date value="1709">1709</date>,
+and died <date value="1784">1784</date>, had many peculiarities which have come to
+us minutely photographed. He is in his private life better
+known to us than any other celebrity: through the instrumentality of Boswell, we know everything anent him; "his
+hat, coat, wig, figure, face, scrofula--his St. Vitus's dance, his
+rolling walk, blinking eye, and the too outward signs on his
+visage of his gluttonous propensities, his voracity for fishsauce, craving for tea; his trick of touching the posts, his
+hoarding orange peel; his contortions, his mutterings, gruntings, puffings, his sarcastic wit, his insolence, his rage "-all
+are stereotyped by Boswell, the spy, the tattler, and the
+sycophant.
+<p>In Bolt Court lived <name type="person" key="William Cobbett">William Cobbett</name>, where he wrote
+and printed his " Political Register," and sold Indian Corn.
+The Register was subsequently published at 83, Fleet
+Street ; and the famous Gridiron, which was his emblem or
+trade mark, was exhibited here. Cobbett was one of the
+most remarkable men of his time; born in <date value="1762">1762</date>, his birth,
+station, employment, ignorance, temper, and character,
+in early life, were all against him; he overcame them all,
+and produced a French and English Grammar, and several
+political works, exhibiting a very high order of genius.
+Most of his studies were carried on under the arduous
+duties and midst the great privations which fall to the lot
+of a common soldier on active service. As a main self
+            <pb n="29" id="p.29">
+educated, he is a memorable example of what can be
+achieved by self-reliance and indomitable perseverance.
+He died in <date value="1835">1835</date>.
+                 <div1 type="section" n="7"><head>Johnson's Court.</head><p>
+<p>At No. 11 the "John Bull" newspaper was first commenced, with <name type="person" key="Theodore Hook">Theodore Hook</name>, as editor, in <date value="1820">1820</date>. Hook
+was full of exuberant fun, and played off many practical
+jokes amongst his friends. His novel of " Gilbert Gurney"
+contains an admirable autobiography. In
+Salisbury Court
+Stood the inn of the Bishop of Salisbury. In olden timesthe most important residences of the nobility and gentry
+were called " inns."  The house now referred to became
+subsequently Sackville House, the residence of Sir Thomas
+Sackville, who was created Earl of Dorset by James I., and
+of whom it was said he could bear to hear others praised,
+but despised the arts of courtiers. He befriended the unhappy; he was most engaging in manners, loveable and
+accomplished, and at once a poet, philosopher, philanthropist, and wit; full of chivalric notions and daring courage.
+On his change of style and title to Earl of Dorset, the
+residence changed to Dorset House, hence Dorset Street.
+<pb n="30" id="p.30">
+The Duke's Theatre, built by Sir C. Wren, stood near the
+south end of Dorset Street, on the site where now stand the
+City Gas Works.
+                <div1 type="section" n="8"><head>Salisbury Square.</head><p>
+<p>At No. 11  lived  <name type="person" key="Samuel Richardson">Samuel Richardson</name>, the father of
+English novelists.  His " Pamela," " Clarissa Harlowe,"
+and " Sir Charles Grandison," paved the way for the introduction of refined novel writing, and breathe a tone so
+superior to aught that went before, as to justify the high
+reputation he has achieved, and places him as the pioneer
+of novelists. He was a printer by trade, but kept the best
+literary society, and was visited by Johnson, Archbishop
+Secker, Madame Chapone, Goldsmith, Hogarth, Dr. Young,
+and Mrs. Barbauld,the amiable and pious author of "Hymns
+and Stories for Children:" as Richardson was not above
+keeping his shop, his shop kept him, and he was consequently one of the few authors who, in the age in which he
+lived, enjoyed a competency. At No. 14 was founded the
+Jennerian Society for vaccination, and Dr. Jenner came
+here frequently.
+                  <div1 type="section" n="9"><head>Gough Square.</head><p>
+<p>At No. 17 resided <name type="person" key="Samuel Johnson">Dr. Johnson</name>, and here he may be said
+to have commenced and finished his <title>Dictionary</title>. In this
+            <pb n="31" id="p.31">
+house it was he foretold the lighting of <placeName key="London">London</placeName>
+ by gas or
+smoke. Sitting one evening in company with Boswell, as
+was his wont, the lamplighter came along to light the oil
+lamp, and <name type="person" key="Samuel Johnson">Johnson</name>, turning to Boswell, said, "The time is
+coming when London will be lighted from end to end with
+smoke." In
+          <div1 type="section" n="10"><head> St. Bride's Church Yard</head><p>
+Lodged <name type="person" key="John Milton">John Milton</name>, "the lady of <placeName key="Christ's College">Christ's College</placeName>
+," as he
+was called at Cambridge, from his handsome face. The
+charm of his "<foreign lang="it"><title>Comus</title></foreign>," "<foreign lang="it"><title>L'Allegro</title></foreign>," and " <foreign lang="it"><title>I Penseroso</title></foreign>,"
+their poetic diction and their chaste imagery, were sufficient to immortalize his name; but the grandeur of his
+intellect soared to the highest flights of genius, in producing
+"<title>Paradise Lost</title>," and "<title>Paradise Regained </title>;" and these
+mighty works have stamped his fame, and sown broad cast
+the glories of English literature throughout the civilized
+globe.
+  In <placeName key="Bride Lane">Bride Lane</placeName>
+   stands the <placeName key="Cogers' Hall">Cogers' Hall</placeName>
+   , where <name type="person" key=x>Curran</name>
+fledged his matchless eloquence, and <name type="person" key=x>O'Connell</name> spell-bound
+his auditors with wondrous oratory.
+              <div1 type="section" n="11"><head>Wine Office Court.</head><p>
+<p>At No. 6 resided Goldsmith, after Johnson rescued him
+from the clutches of his landlady, in Green Arbour Square.
+<pb n="32" id="p.32">
+The " Cheshire Cheese" furnished many a bowl of punch to
+Johnson and Goldsmith, who supped there frequently. The
+Rev. W. G. Barnes, lecturer at St. Bride's Church, lived
+in Wine Office Court, and planted here a fig-tree that grew
+to wonderful perfection.
+Shoe Lane
+Contained a celebrated cockpit (temp. James I.), and about
+one hundred years ago, this neighbourhood was noted for
+its charming gardens, its lime trees and rookery, and wore
+all the aspects of being a rural retreat.
+ <p> The Bishop of Bangor lived here, at Bangor House, south
+of St. Andrew's Church; and Bangor Court, still in existence, testifies to the locality.
+                <div1 type="section" n="12"><head>Farringdon Street</head><p>
+Is built on what was formerly the bed of the river Fleet,
+which became subsequently the Fleet Ditch, and still courses
+on its weary way beneath the street as the Fleet Sewer; the
+Fleet gave its name to the street and the prison. It was an
+important stream, and derived its name from its rapid current; it likewise means the place where the tide comes up.
+<p>It took its rise east of Hampstead Hill. We are told by
+old chroniclers, it carried on its bosom at one time eight
+ships abreast to Holborn Bridge, where they traversed the
+             <pb n="33" id="p.33">
+watery highway. It is even said that the remains of a
+ship were found embedded in this ancient river, near Camden Town. Willows grew along and lined its sedgy banks,
+and it was fed by numberless small streams or brooks,
+which swelled its rapid current, and it emptied itself into
+the mighty Thames, near the foot of Blackfriars Bridge.
+ <p> On the western side of Farringdon Street is Farringdon
+Market, formerly the site of St. Andrew's workhouse and
+burying-ground: it covers the remains of the ill-starred and
+ill-fated, but highly-gifted boy poet, Thomas Chatterton,
+who, reduced to the greatest distress, at his lodgings in
+Brooke Street, Holborn, in a fit of despair poisoned himself. Farringdon Market, designed for the sale of fruit and
+vegetables, was built by the Corporation of the City of
+London, at a cost of &pound; 250,000, and extends over an acre
+and a half of ground, but it has never achieved that success
+which its centrality seemed to promise.
+  Nos. 22 and 23, Farringdon Street, were formerly the
+"Wheatsheaf Inn," a noted carrying house, but a still more
+notable marrying shop, where marriages were effected,
+called "Fleet marriages" (i.e., clandestine marriages performed
+in the Fleet prison and in its neighbourhood), between any
+two persons, male and female, who chose to present
+themselves in the chapel or parlour set aside in these premises for that purpose. The ceremony was performed by
+itinerant parsons who dwelt in the locality, and who
+    C
+<pb n="34" id="p.34">
+frequently carried about them books in which they registered the performance of the rite, and this was frequently the
+only registry vouchsafed to such marriages. Nearly every
+inn in the locality, situate on or near the banks of the
+Fleet river, had its chapel for this purpose, and this barbarous usage, paralleled only by the mummeries enacted
+until very recently at Gretna Green, continued until <date value="1754">1754</date>,
+when the reformation swept it away; but so great was the
+fascination for this legal illegality, that on the last day
+such marriages as were performed under this "custom,"
+could be held to be legal, 217 unions took place at one
+marrying shop in one day. A curious style of entry occasionally is seen where it was intended to keep secret the
+rites that had been performed; as thus:  " Ed. and Eliz. were married, and would not let me know
+their names. The man said he was a weaver, and lived in
+Bandy-leg Court, Boro'-Pr. E. Ashwell."
+  The Fleet Prison was situated on the eastern bank of the
+river Fleet, and was a large and pretentious-looking building, having a fosse running completely round it, on whose
+banks the willows grew luxuriantly, and into whose waters
+were freely turned the entire sewage of the locality, and
+public latrines were erected on the outer side. The Fleet
+was pre-eminently the Star Chamber prison.     Here
+Prynne lost his ears, and was pilloried; the most
+            <pb n="35" id="p.35">
+frightful tortures were enacted towards the poor victims
+who became prisoners in the Fleet. Hogarth has immortalized its horrors in his notable picture of " Bainbridge,
+one of its warders, under examination," wherein a prisoner
+is supposed to recite the horrors and cruelties he suffered
+at his hands.
+<p>Subsequently to its being abolished as a state prison
+it was used only for the confinement of debtors; and
+Charles Dickens has, in his " Pickwick Papers," with that
+graphic naturalness that is all his own, painted in undying colours the sufferings and privations endured by the
+poor debtors even under the new regime. The Fleet was
+abolished by act of Parliament in <date value="1842">1842</date>.
+<p>The Fleet sewer, which runs beneath Farringdon Street
+and New Bridge Street, is one of the most important
+sewers in the kingdom. It drains an area nearly seven
+times as large as the whole City of London, and receives
+its tributaries of sewerage from far-off suburban districts.
+             <div1 type="section" n="Ludgate, or Floodgate,"><head>Ludgate, or Floodgate,</head><p>
+Which gives its name to Ludgate Hill and Ludgate Street,
+was formerly one of the six great gates that enclosed the
+City of London proper, and was situate between the London Coffee House and St. Martin's Church, on Ludgate
+Hill. The gate is supposed to have been built by King
+    C 2
+<pb n="36" id="p.36">
+Lud, who reigned in England about sixty-six years B. C.:
+it was removed in <date value="1760">1760</date>, and the statues of King Lud and
+his two sons, with one of Queen Elizabeth, were placed in
+St. Dunstan's Church, Fleet Street, where they may still
+be seen. Some persons contend that the name was originally Flood-gate, and was derived from the flood or stream
+that coursed down here from all parts into the Fleet.
+<p>Ludgate Street and Hill were always famous for mercers and drapers.
+         <div1 type="section" n="13"><head>The Belle Sauvage Yard</head><p>
+Is situated on the north side. The derivation of the term
+Belle Sauvage, is shrouded in mystery; by some it is defined
+as a beautiful woman, supposed to have been found in a wood
+or wilderness; by some its derivation is pronounced as arising
+from a picture of a Bell and a Savage; and by others,
+that it took its name from one Isabella Savage, who held
+some right to this property, and ceded it to the Cutlers'
+Company: it matters little which derivation is correct.
+In the yard was situated the Belle Sauvage Inn, some portion of which is still standing; the building was a fine
+specimen of the "Players' Inn," before regular theatres
+were built, and there they performed their mysteries and
+their mummeries in the open air.
+<p>At No. 11 , Belle Sauvage Yard, lived Grinling Gibbons
+            <pb n="37" id="p.37">
+the eminent wood carver, whose celebrated carved nosegay,
+that the slightest zephyr could put in motion, so that the
+flowers, in their grace and beauty, deceived the most practised eye, was pronounced the most perfect chef d'ouvre
+ever seen.  Gibbons was the sculptor of the celebrated
+work of art in the Royal Exchange, the figure of Charles II.,
+adorned with all the beauty and finish of the most
+elaborate workmanship. A large section of the yard is
+covered now by the immense printing establishment of
+Messrs. Cassell, Petter, and Galpin, who have done more
+to educate the people by their popular literature than any
+modern publishers.
+               <div1 type="section" n="14"><head> The Old Bailey</head><p>
+Is supposed to derive its name from Ballium, an outer
+space, or from Bail-hill, an eminence, whereon was situated
+the Bail, or Bailiff's-house. At No. 68 lived Jonathan Wild,
+the notorious housebreaker, where he was arrested in <date value="1724">1724</date>,
+condemned and executed at Tyburn.   At No. 67 lived
+William Hone, the author of the profane parodies of the
+Litany of the Church of England, a man of singular erudition.
+             <div1 type="section" n="15"><head>Green Arbour Court.</head><p>
+<p>At No. 12 lodged Oliver Goldsmith, in <date value="1759">1759</date>; and here
+he wrote "The Vicar of Wakefield," a beautiful novel. His
+<pb n="38" id="p.38">
+finest poems, " The Traveller," and "The Deserted Village,"
+for description and pathos, have few equals in any language.
+Goldsmith made a tour through Europe on foot, in <date value="1755">1755</date>,
+and started, as he characteristically tells us, with "one
+guinea in his pocket, a shirt on his back, and a flute in his
+hand."  He died in <date value="1774">1774</date>, and was buried in the Temple
+churchyard. In
+Ship Court
+Was born, in <date value="1697">1697</date>, <name type="person" key="William Hogarth">William Hogarth</name>, the eminent painter
+and moral satirist. He may be pronounced the greatest
+caricaturist that ever lived. His colouring is solid though
+unpretending; his "March to Finchley " is too little known,
+for it bears the stamp of his highest genius. "The Rake's
+Progress," "The Harlot's Progress," and "La Mariage a
+la Mode," are works that gained for the early English school
+of painting world-wide fame, and their truthfulness and
+vivid reality have never been surpassed. He died in <date value="1764">1764</date>,
+and is buried in Chiswick churchyard.
+  <div1 type="section" n="16"><head>Prugean Square</head><p>. At No. 6 lived Dr. Prugean, one of the
+first Presidents of the College of Physicians.
+Is supposed to derive its name from the fact, that it was
+the last gate, or newest gate built, enclosing the City of
+             <pb n="39" id="p.39">
+London on the west. The original gate was erected in
+the time of William the Conqueror, but destroyed by the
+discontented populace that marched to Smithfield under
+the leadership of Wat Tyler. The present structure owes
+its origin to Sir Richard Whittington, thrice Lord Mayor
+of London.
+<p>Newgate is a prison of detention for persons who have to
+be tried for various offences committed in the Cityof London
+or in the County of Middlesex ; it is also the place of execution for criminals sentenced to suffer the extreme penalty
+of the law in the county of Middlesex. The chief court of
+judicature held herein is the Central Criminal Court, the
+arena in which the most eminent jurists this country has
+produced have won their spurs. The celebrity of Old
+Bailey wit and repartee is world-wide.  An alderman of
+the City of London is compelled by the legal enactments
+of the court, to sit on the Bench with the principal judges
+who try the causes here; and the sheriffs are bound to furnish a special bill of fare for their dinner. Two dinners are
+provided each day the court sits, at three and at five P.M.,
+and each must be alike; both must include marrow puddings and rump-steaks; and not unfrequently has it been
+noted that aldermen maintain their reputation for gastronomy by indulging their epicurean proclivities at both
+dinners.
+  Daniel de Foe was imprisoned in Newgate for writing a
+<pb n="40" id="p.40">
+pamphlet of a semi-political and religious character, entitled
+"The Shortest Way with the Dissenters ;" he was sentenced to the pillory, to be fined and imprisoned; but the
+punishment was a failure, for exulting thousands accompanied him daily from the pillory to Newgate, and the
+pillory itself was decorated with garlands of flowers. De
+Foe was the author of " Robinson Crusoe," one of the most
+charming romances in our language, and said to be founded
+on the true history of the residence of Alexander Selkirk
+on the desert isle of Juan Fernandez. Dr. Johnson remarks
+of the author, and his opinion will be endorsed by all
+who read De Foe: " Was there ever anything written by
+mere man that the reader wished longer, except Robinson
+Crusoe, Don Quixote, and the Pilgrim's Progress?"
+  The Press-yard, one of the feudal horrors still in existence, shows to what length the mind of man, under the
+debasing effects of example, will go. The punishment of
+the Press-yard consisted of thumb-screws, weights, and
+presses. The thought of having one's thumbs pressed in a
+kind of vice until the joints cracked, and the blood spurted
+forth; to be placed bodily on a slab of stone, and to have
+weights piled on one's chest and stomach, until nature
+could nought heavier bear, seems the perfection of torture
+and not punishment, seems calculated to engender crime,
+not repress it, by making men familiar with the sight of
+blood, and indifferent to the agonies of their fellows, and
+<pb n="42" id="p.42">
+  At 94, Holborn Hill, was Fearon's Gin Distillery, immortalised by Hood as follows, in a letter to his wife:
+               <lb>"The flavour now of Fearon's
+               <lb>   That mingles in my dram,
+               <lb> Reminds me you're in England,
+               <lb>   And I'm at Rotterdam."
+  <p>The hills and the valley that made Holborn famous, or
+infamous, have given place to a magnificent viaduct, built
+by the Corporation of the City of London, and opened on
+the 6th November, <date value="1869">1869</date>, by her most gracious Majesty
+Queen Victoria, in the presence of the Lord Mayor, the
+civic authorities, and countless thousands of the English
+people. From end to end it is a thousand feet in length
+and eighty feet in width. The subway is constructed on
+the most solid and scientific principles, giving special facilities for the laying down of water, or gas-pipes, electric
+wires, or any subterranean necessity that advancing science
+may need, to carry out improvements. At each of the four
+corners of the bridge that spans Farringdon Street is built
+a splendid tower, containing the steps by which you descend
+into Farringdon Street. The towers are enriched with
+genuine works of art, consisting of figures of notabilities of
+the City of London--Sir Thomas Gresham, Henry Fitzalweyn, Sir William  Walworth, Sir Hugh Myddelton;
+whilst at the several corners of Farringdon bridge are hand
+            <pb n="43" id="p.43">
+some figures typical of fine arts, agriculture, science, and
+commerce. Take it for all in all, this work is a triumph of
+modern engineering skill, and confers honour on all engaged
+in its construction.
+Barnard's Inn.
+ <p> At No. 2 lived Peter Woulfe, a famous alchemist, who
+gave his breakfast-parties at four o'clock in the morning.
+Woulfe had eccentric ideas with regard to illness, and used,
+if he were at all unwell, to take a seat outside the Edinburgh
+Mail Coach, in order to restore himself to health. In one
+of these journeys he took cold, from which he died. When
+his rooms were opened, after his decease, it was with the
+greatest difficulty they could be entered, because they were
+so crowded with apparatus of all sorts.
+ <p> St. Andrew's Church is one of the finest of Sir C. Wren's
+building-rich in gilding and stained windows, it has been
+not inaptly called the poet's church; and indeed it contains
+much that is poetical in its history. John Webster, the
+dramatist, author of "The Duchess of Malfi," was once
+clerk to St. Andrew's. Richard Savage, a natural son of
+the Countess of Macclesfield, was connected with St. Andrew's. Poor Savage, whose misfortunes commenced, one
+might say, in his shameless mother's womb-for it is a
+misfortune to have a mother who, before a child is born,
+<pb n="44" id="p.44">
+can, and will, openly boast that her husband is not its
+father. Savage unfortunately killed a man in a tavern
+broil, and his mother did everything possible to get him
+executed; and being condemned, she exerted all her influence to prevent his receiving a royal pardon. He was,
+however, reprieved, but fell into misfortunes, and eventually
+died in the debtors' prison, Bristol, <date value="1743">1743</date>.
+Ely Place,
+Where stood once the mansion of the bishops of Ely, from
+whence its name is derived, is nearly all swept away by the
+ruthless hand of time. There is left, however, St. Ethelreda's Chapel, with its wondrous boldly-arched roof, its
+splendid row of windows,-that, at the east end, being finely
+and richly ornamented. Shakspeare, in Richard III., incidentally mentions the gardens and the fine strawberries
+grown in Ely Gardens. In Richard II., he again refers to
+Ely House as the place in which John of Gaunt, time
+honoured Lancaster, died, and where he held his last
+interview  with Richard II.  One other relic has survived the Vandalism  of the age-a stone mitre, said
+to have adorned the gate or walls of Ely House,
+beautifully cut, bearing the date <date value="1546">1546</date>, and now the sign
+of the Mitre Tavern, Mitre Court, Hatton Garden, may
+be seen fixed in the wall.
+            <pb n="45" id="p.45">
+                   <div1 type="section" n="16"><head>Field Lane,</head><p>
+Always a resort of the most notorious characters, is graphically described by Dickens in " Oliver Twist." Here were
+situ atedhouses in which the most abandoned of the scum
+of London kenneled: for "a picture in little," of the hideous
+depravity that openly walked abroad in this locality, readers
+are referred to the Newgate Calendar of April, <date value="1726">1726</date>.
+                   <div1 type="section" n="17"><head>Snow Hill</head><p>,
+Formerly Snore Hill, has well-nigh disappeared beneath
+the improvements daily progressing in this locality. It is
+well to note that in Angel Court was opened, in <date value="1690">1690</date>, the
+first mint for the issue of farthing and halfpenny coins,
+which were composed of hardened tin. In the same house
+was subsequently carried on the business of the Hand-inHand Insurance Office, one of the earliest establishments
+of the kind founded in England.
+  John Bunyan died on Snow Hill--by turns, tinker, soldier,
+and preacher, he was for doing his master's businesspreaching to a congregation of Baptists at Bedford, thrown
+into prison, where he lay twelve years; here he composed
+the finest and most popular allegory, " The Pilgrim's Progress," that adorns our tongue. It may be incidentally
+noted, that although Bunyan was a self-educated man,
+<pb n="46" id="p.46">
+this work contains, next to the Bible, more pure
+Saxon words than any book written in English. At
+No. 41 lived William Godwin, bookseller, and author
+of "Caleb Williams."
+                <div1 type="section" n="18"><head> Skinner Street,</head><p>
+Built by Alderman Skinner, about the year <date value="1802">1802</date>, is
+entirely wiped out of existence by the viaduct.  It
+ended on the east at St. Sepulchre's Church, and on
+the west ran into the hollow; it was memorable for the
+Saracen's Head Hotel, one of the fine old inns. The
+yard of the Saracen's Head is mentioned in "Nicholas
+Nickleby" as the starting-point of Squeers and Nicholas
+Nickleby for Do-the-boys-Hall.
+  St. Sepulchre's Church is situated in Skinner Street, but
+was anciently mentioned as being in the Bailey; it is a remarkably handsome building, partly constructed by Wren's
+genius, and partly of most ancient date. The organ is one
+of the finest in London. A mournful history attaches to one
+of the bells of St. Sepulchre; one Richard Dowe, in the year
+<date value="1605">1605</date>, left the sum of £50, the interest of which was to pay
+for a person connected with St. Sepulchre's to go, the night
+before the execution of a criminal, as near as possible to
+the condemned cell at Newgate, and ring a warning and
+chaunt a rhyme depicting his coming fate.
+             <pb n="47" id="p.47">
+                 <div1 type="section" n="19"><head>Giltspur Street</head><p>
+Takes its name from the "gilt spurs" worn by the knights
+riding through to Smithfield; it was formerly called Knight
+Rider Street, and was the highway for all the pageants and
+fetes to pass into the field. As we pass along, we may just
+call attention to a portion of the kitchen of Christ's Hospital
+which belongs to Farringdon Without.
+                  <div1 type="section" n="20"><head> Cock Lane</head><p>,
+At the corner of which, in Giltspur Street, is now the
+"Fortune of War" public house, finished the fire of London, on the 5th September, <date value="1666">1666</date>, consuming 78 parish
+churches, 5 chapels, 13,200 houses, and entailing a loss of
+nearly 75 millions of our present money value. To commemorate this the figure of a boy is placed over the first-floor
+of the " Fortune of War," with his arms folded over his
+breast, and holding a tablet, on which is inscribed, although
+scarcely to be read,--" This boy is in memory put up for
+the late fire of London, occasioned by the sin of gluttony,
+<date value="1666">1666</date>." This house is memorable as a notorious bodysnatchers' den. Here Hare and Burke frequently met their
+"Burkers," and here the bodies were placed up like statues
+round the room for the selection of the students from St.
+Bartholomew's Hospital; here the notorious Dr. Brooke
+<pb n="48" id="p.48">
+came to purchase the offal (shall we say) of each corpse
+intended for dissection. Many a hideous scene has been
+enacted in the back room, which contains some mementoes
+of these ghastly doings; to the curious in such matters it is
+worth a visit. In Cock Lane the house still stands that was
+the scene of the Cock Lane ghost imposture in <date value="1762">1762</date>, visited
+by princes, peers, and ladies, and by countless thousands
+of believers and non-believers; it attained world-wide celebrity, and many pamphlets were written supporting its existence, and many denying. In Red Lion Place there is a
+grotesque head carved in wood, temp. James I. In Red
+Lion Court resided Alderman Wilkes, and from thence he
+married Miss Mead, the rich drysalter's daughter. Wilkes
+published here the celebrated periodical, "The North
+Briton ;" he retained the aldermanic dignity until he was
+elected chamberlain of the City of London, and then resigned it. Chick Lane, Cow Lane, Hosier Lane, all built in
+Henry V.'s reign, reveal their derivation in their names.
+                    <div1 type="section" n="21"><head>  Smithfield,</head><p>
+ Or <placeName key="Smithfield">Smoothfield</placeName>
+  (from the Saxon smith, smoothe), was
+ anciently the great public suburban promenade of the citi zens of London; it was likewise the live cattle-market of
+ the metropolis, and was used for that purpose, as early as
+ <date value="1150">1150</date>, and continued as a market for more than seven
+             <pb n="49" id="p.49">
+centuries. Situate just outside the walls of the city, planted
+with here and there its clumps of elms, and rich with willows
+on the west, it formed an agreeable recreation ground for
+all who had leisure to enjoy it; not unfrequently forsaken
+by the sober citizens, and given over to the roughs, who
+settled all disputes within the field, it acquired from their
+frays and fights the name of Ruffian's Hall; here were held
+the quintain matches of the middle ages, which gave proficiency and dexterity in warlike exercises to the competitors. The Town Green had its special clump of trees, where
+executions were carried out, as early as <date value="1219">1219</date>, and here many
+hundred martyrs suffered at the stake for their religion.
+            <lb>"But this was for their fathers' faith
+           <lb> They suffered chains and courted death."
+ <p>These fanatical executions commenced in <name type="person" key="Henry IV">Henry IV.'s</name>
+reign, and reached their climax in <name type="person" key="Mary">Mary's</name>. Of the 277 persons burnt for heresy in bloody Mary's reign, nearly all
+suffered in Smithfield. The gallows was set up near St.
+Bartholomew's gate, and here in <name type="person" key="Henry VIII">Henry VIII.'s</name> reign they
+boiled a man who had been convicted of poisoning. In
+Smithfield were held feasts, rejoicings, jousts, and tournaments, to commemorate great victories or especial events.
+<name type="person" key="Edward III">Edward III.</name>, in <date value="1357">1357</date>, proclaimed a great and truly regal
+joust, to celebrate the victories of Cressy and Poictiers over
+the French in <date value="1356">1356</date>. And John, King of France, surnamed
+     D
+<pb n="50" id="p.50">
+the Good, taken prisoner in the last-named battle, together
+with David Bruce, King of Scotland, who had been defeated
+and captured at Nevil's Cross, in <date value="1346">1346</date>, "graced the chariot
+wheels" of Edward, and mournfully assisted at these fetes.
+Richard II., successor to the throne of his grandfather,
+Edward III., caused a proclamation to be made throughout
+Europe by his heralds, that on "the Sunday next following
+the feast of St. Michael" would be commenced jousts or
+tournaments, open to all comers, and inviting the flower and
+elite of foreign chevaliers to a trial of arms against the English nobility. It is recorded that on the day appointed there
+issued about three o'clock in the afternoon, from the gates
+of the Tower, sixty high-mettled and richly-caparisoned
+war horses, each bearing a squire of gentle blood, riding at
+a quiet pace; then followed sixty ladies of high degree,
+richly dressed and mounted on palfreys, riding on one side,
+and leading by a golden chain each her favourite knight,
+and thus they took, amidst the sound of trumpets and the
+clang of martial music, their way towards Smithfield.
+Arriving there, the squires and ladies descended from their
+horses, and took the places assigned them; and the knights
+mounted each his charger; after the helmet was fastened
+on their heads, and they were otherwise armed, the heralds
+made proclamation, and the jousts began. These fetes lasted
+several days, amidst great feasting; the knights who contested specially in honour of the king, had their armour
+            <pb n="51" id="p.51">
+and trappings adorned with a white hart, having a crown of
+gold on its neck.  In these jousts the English nobility
+carried off nearly all the prizes. On the 15th June, <date value="1381">1381</date>,
+Richard II. met Wat Tyler in Smithfield, who was at the
+head of a riotous mob; to hold a conference and hear a
+statement of the grievances under which the rebels complained they suffered; when Tyler, seizing the king's horse
+by the bridle, was stabbed by Walworth, mayor of London;
+at the same moment the king, then only about fifteen years
+of age, spurring on his horse towards the irritated populace,
+called out in a loud voice-" Follow your king, I will be
+your leader, and redress your grievances." The people,
+astonished at so daring an act, submitted quietly to
+be led out of Smithfield, and dispersed to their homes.
+A few days after, Jack Straw, the second rebel in
+command, and Tyler's lieutenant, having been taken
+prisoner, was executed in Smithfield.  Trial by ordeal
+was carried on in Smithfield-ordeal consisted of either
+fire or water.  Trial by fire was used for the free;
+simple ordeal consisted in carrying in the hand, red
+hot, a I lb. weight-double ordeal, in carrying a 2 lb.:
+and triple, in carrying a 3 lb.  Trial by water was
+used for the servile only.   After the great fire of
+London, the houseless, poor, and wretched, lived in huts
+erected in Smithfield, until more permanent residences
+could be procured.
+<pb n="52" id="p.52">
+              <div1 type="section" n=x><head> St. Bartholomew.</head><p>
+  The Church of St. Bartholomew-the-Great deserves
+mention, as being the oldest Church in the City of London.
+Two fairs were annually held at St. Bartholomew-tide: one,
+the great Cloth Fair of the kingdom, in Cloth Fair district:
+and the other, for the sale of cattle and goods, and likewise a pleasure fair, held in the open space in Smithfield;
+this last was abolished in <date value="1855">1855</date>, after an existence of 7
+years. <name type="person" key="Henry I">Henry I.</name> made a grant to his jester, Rayer, who,
+whilst travelling on the Continent, had been much impressed with some religious ceremonies he witnessed,
+determined, on his return to England, to do something
+towards the salvation of his soul. He therefore founded
+a Priory within the precincts of St. Bartholomew, wherein
+was held the Cloth Fair. Rayer is said to have performed
+many miracles; at least he managed, by his clever jugglery,
+to impose on large numbers of persons, and achieved a
+reputation that brought him  considerable offerings in
+money and kind, from devotees who sought his aid or
+came to worship at St. Bartholomew's Priory.  Here is
+erected a monument to his memory, and there he lies,
+upon a raised tomb, bare-headed and shaven crown, his
+hands crossed together; on each side of him are two
+Friars, in grey, holding two large books. Boniface, Archbishop of Canterbury, visited the Priory in <date value="1250">1250</date>, and was
+            <pb n="53" id="p.53">
+received by the Sub-Prior, who, not liking the tone of
+Boniface's interrogations, answered him impertinently, and
+received for his guerdon a severe beating, at which ensued
+a fight between the Archbishop's followers and the Priory
+Monks, who, being in the end severely cudgelled, complained to the King at Westminster, but could get no
+redress. Within the precincts of Cloth Fair, at the " Hand
+and Shears" public house, was held a Court of Justice,
+called dusty feet, or "pieds poudre," and persons guilty of
+infringing the laws of the fair were tried for any offences
+of which they were accused, and if convicted were summarily punished with the stocks, pillory, or whipping; and
+this continued until the Reformation.
+<div1 type="section" n=x><head>Bartholomew Fair</head><p>
+Was usually proclaimed on the 2nd September, by the
+Lord Mayor and his officers, who came in state for that
+purpose, and it was always opened with a burlesque
+proclamation and by the cloth dealers marching in order
+round Smithfield, snapping their shears and shouting.
+Hentzner graphically describes the proclamation of the
+Fair, in all its absurdity-the wrestling, and jumping after;
+the excited crowd hunting wild rabbits, graced by the
+admiring presence of the Lord Mayor, Aldermen, and
+City worthies.  The amusements, some of which will
+<pb n="54" id="p.54">
+be described more at length, consisted of exhibitions of
+wild beasts, dwarfs, and any monstrosities or abortions of
+nature, tight-rope dancing, sarabands, performing dogs,
+hares, and tigers, punchinello, punch-and-judy, and indeed
+of any novelty that could be imported and that was
+thought likely to be attractive.
+  There was usually an ox roasted whole, and pigs a galore
+served up in savoury portions. Many eminent men have
+appeared at St. Bartholomew Fair, and amongst them
+Tom Doggett, the comedian, who left a considerable sum
+of money for a prize, to be contended for by six watermen's apprentices, on the first day of August in every year,
+who are to row from London Bridge to Chelsea against
+tide, and the winner to receive as a guerdon a coat
+and badge.
+  Ben Jonson, the contemporary and friend of Shakspeare,
+played THE grave-digger in Hamlet at St. Bartholomew's
+Fair, and it is said that Edmund Kean, in his early years,
+was a harlequin at Richardson's booth. Warwick House
+(temp. Elizabeth), situate in Cloth Fair, together with the
+Priory, and the right to hold the fair, were purchased
+by Sir R. Rich, in <date value="1544">1544</date>, and handed down to his descendants, the Earls of Warwick and Lord Holland. Lady
+Holland's mob, the nucleus of which was formed in this
+locality, and which has been known to number 5,0<pb n="00" id="p.00">
+strong, was, in the last century and in the early portions of
+             <pb n="55" id="p.55">
+this, so formidable as to overawe the entire civil authority.
+It is worthy of notice that two very fine brackets, carved
+in wood, are to be seen at the corner of Cloth Fair.
+  Ben Jonson, in his comedy of Bartholomew Fair, humorously depicts its motions, puppet shows, and moving
+figures, representing the fall of Jerusalem, Nineveh, and
+the conspiracy of the Gunpowder Plot-the last having
+been performed nine times in one afternoon, at a then
+celebrated booth, to twenty-penny audiences.  Pepys says
+he found Lady Castlemaine visiting a puppet show, her
+coach attending hard by-the street full of people awaiting
+her return from the fair. Having fairly entered on the
+scene, we shall find at different periods, Cadmus, the flyer
+on the rope, immortalized by Hogarth. Phillips listening
+to the first trial of " Britons, strike home," written expressly for St. Bartlemy, and Sweet Kitty Clive amorously
+ogling her many admirers. Against the many attractions
+of the fair, the regular theatres found it useless to cope,
+so with worldly wisdom they made a virtue of necessity,
+and closed their doors for the time it lasted; indeed, what
+theatres could withstand such attractions as were often put
+forth to be seen for one shilling, sixpence, threepence,
+or even a penny, at last: for as the fair fluctuated in its
+attractiveness, the shows kept up or reduced their prices
+according as their highest or lowest periods of success had
+set in. Only fancy the advertisement of the first intro
+<pb n="56" id="p.56">
+duction into this country of "a large and beautiful young
+camel from Grand Cairo, in Egypt, twenty-three years old;
+his head and neck are like that of a deer, and he is to be
+seen or sold at the first house on the pavement at the end
+of Hosier Lane during the fair."
+  Sir Hans Sloane found sufficient novelties in the foreign
+animals exhibited to employ an artist to sketch all the
+wonders.  There were to be seen scores of celebrated
+characters; conjurors, tumblers, rope-walkers, fire-eaters,
+actors, mummers, and exhibitors of all sorts--" Joy," the
+English Samson-Burling and his wonderful monkeythe stone-eater (Battalia)-Topham the strong manHale the piper, having very surprising faculties-The Moorfields book auctioneer removed his bookstall to Smithfield
+round, during the fair-Powell, with his puppets, always a
+favourite resort for his mechanical people, played " Whittington and his Cat," "Dr. Faustus" "Robin Hood and Little
+John," and "The Children in the Wood;" add to these
+the comical, serio-farcical humours of Valentini, Nicolini,
+and the tuneful warbling pig of Italian race, and you have
+a bill of fare worthy a lord mayor and his sheriffs. Judith
+and Holophernes took possession and kept the boards for
+a long time. Then there were the learned cats that beat the
+drum, turned the spit, ground knives-aye, and well tooplayed music, it might have been the " cat's call," struck an
+anvil and rang bells; then the wonderful dog that would
+            <pb n="57" id="p.57">
+and could play any gentleman at dominoes who would
+play with him. One of the great sights was the acrobat
+women, who balanced themselves on the palms of their
+hands on the points of sharpened swords, with their
+heads downwards, and their feet in the air; such a feat
+is not attempted in these days-even by Japanese jugglers.  Another feature in female acrobattery was their
+walking on stilts, carrying babies in their arms, and jugs
+of water on their heads.  Toby, the real learned pig,
+was a great card, and his competitor also drew crowds
+under the style and title of "The Amazing Pig of Knowledge." There was the wondrous child, said to have been
+born back to back with a live bear, and clever was the
+deceit.  Or would you like to sea feats of strength ? The
+Italian Female Samson, who could walk barefoot along a
+bar of red-hot iron, bear a block of marble <date value="2000">2000</date> to <date value="3000">3000</date> lbs.
+weight upon her body, and, without touching it with her
+hands, heave it six feet; or, placing her head on one chair,
+and her feet on another, would bear the weight of six large
+men between her stomach and her instep; these are
+feats unparalleled in modern muscularity--at least by
+women.
+  Another remarkable exhibitor was one Joseph Clark,
+the posture master, who could imitate any deformity or
+dislocation. It was he who frequently performed those
+ludicrous tricks on the tailors sent to measure him, appear
+<pb n="58" id="p.58">
+ing before them first as a man having a hump on his right
+shoulder; when the tailor brought home the clothes, the
+hump was on the left shoulder; then, after he had made
+the necessary alteration, and apologized for his blunder
+and inattention in observing where the hump was, he found
+Clark at his next visit with the hump changed to his
+back. Once more having retired to re-alter and re-adapt
+the garments, he returned only to find Clark perfectly
+straight, and enjoying heartily the discomfiture of Snip.
+Grouped with him was the facial contortionist, who lolls
+out his tongue a full foot from his lips, and turns his eyes
+in or out of their sockets; at the same time contracts his
+face until it is as small as an apple, extends his mouth to
+six inches wide, then shapes it like a bird's beak, then into
+the form of a hat cocked up on three sides, licks his nose
+like a cow, or makes his eyes as round as an owl's.
+  Near the last worthy was perched the little man of the
+fair, two feet nine inches high, likewise a contortionist, who,
+when he slept, put his head between his two feet as on
+a pillow, and his great toes one in each ear. Then you
+come upon the country yokel, who entertained his friends
+in this wise
+          "In fifty-five (may I never thrive
+             If I tell you any more than is true),
+             To London we came, hearing of the fame
+             Of a Fair they call Bartholomew."
+               <pb n="59" id="p.59">
+            "In houses of boards men walk upon cords,
+               As easy as squirrels crack filberds.
+             But the cut-purses they do bite, and rob away
+             But those we suppose to be ill-birds."
+     "For a penny you may see a fine puppet play,
+         For twopence a rare piece of art;
+       And a penny a can, that even a man
+         May put zix of each into a quart.
+       When zights are so rich, is able to bewitch
+         The head of a very nice man-a.
+         Here's patient Grisel here, and fair Rosamond there,
+         And the history of Susanna."
+      " At Pye Corner End, mark well, my good friend;
+          'Tis a very fine dirty place        Where there's more arrows and bows, the Lord above knows,
+          Than was handled at Chevy Chase.
+        Then at Smithfield Bars, 'twixt the ground and the stars,
+          There's a place they call Shoemaker Row        Where, that you may buy, shoes every day,
+          Or go bare-foot all the year, I tro ! "
+  Rambling further on, and plodding on your way, amidst
+the cries of " What do you lack, gentlemen ? "  " What do you lack, fair maids? See; a fine hobby-horse for your young
+master. Cost you but a token a week for his provender."
+      " Have you any corns on your feet and toes ?
+      " Buy a Mouse-trap--buy a Mousetrap;"
+      " A Tormentor for a flea ;"
+      " Buy some Ginger-bread ;"
+      "Ballads, Ballads, fine new Ballads ;"
+      " Hear for your love, and buy for your money."
+      " A delicate ballad o' the ferret and the coney;"
+      "A dozen of divine points, and the Godly Satan ;
+      " The fairing of good counsel, of an ell and three-quarters."
+<pb n="60" id="p.60">
+  "What do you lack, Mistress? What do you lack? a fine hobby horse to
+make your son a tilter-a drum to make him a soldier-a fiddle to make him
+a reveller-What is't you lack ? little dogs for your daughters-or babies
+(male or female)-a delicate show pig, little misters, with sweet sauce and
+crackling like 'de bay leaf i 'de fire-la ! tou shall ha'de clean side o' de table
+clot and de glash vash'd wi di phatersh of Dame Annesh Cleare."
+  Here they tickle your ear with a straw; and lo ! you have
+lost your purse.
+              " Now the fair filling,"
+              " O for a tune to startle"
+              " The birds of the booths now billing,"
+              " Yearly with Old Saint Bartle."
+              " Buy any Ballads, new Ballads ;"
+              " Buy my Pears, Pears-"
+              " Fine, very fine Pears."
+  Onward you go, running against John Locke, who is
+elbowing his way through the crowd in philosophic mood,
+till you near Hosier Lane, where the large placards announce
+"The Wonderful Rattlesnakes; one a very large reptile
+that rattles so loud you may hear him near a quarter of a
+mile off, and plays something of music that grows on his
+tail."
+  <p>But stay; why divides the crowd--what tumult onward
+makes it way ? 'Tis authority's stern port that heads towards
+the elms, to mete out justice to some bold defier of the
+law, and yet this man seems not of the common order, but
+of mien most noble ;-'tis great Wallace, the rugged hero,
+stout of heart and strong of hand, was brought to London
+             <pb n="61" id="p.61">
+the day before the opening of the Fair, has been tried and
+sentenced, with sparse time for shrift or shrive, and now is
+dragged all through the muddy streets, at the horse's tail,
+from Westminster to Smithfield, for execution. The great
+hero, soiled and polluted with the filth and garbage of the
+streets, still defiant looks upon his executioners and the
+wondering crowd.   Trade for the moment is forgotten;
+the booths deserted, Punch is silent, the puppets no longer
+dance in sportive mimicry; even the vendors' cries are
+hushed, as dreadful whisper fearfully breathes the patriot's
+name; and when the noose is fastened to his neck, his
+body launched from the quivering bow, a mighty sigh
+-seeming of relief-swells from  the surging crowd, as
+though a dauntless and much-feared enemy was no more,
+and pent-up feeling thus finds relief; and yet it is not so,
+for though hanged, it is not to death. Ere the vital spark
+had fled, and whilst the flesh is quivering in the agonizing
+throes of death, the brutal sentence, still incomplete, must
+be completed. With two cross gashes from the reeking
+blade forth gush his bowels, to be torn with ruthless hand
+from his shivering flesh, and even before his eyes, still
+vital with their noble fire, are burnt within his view.
+One other gash strikes off his head, then his body,
+cut into five parts, is carted back to gaol, and thus
+divided: four portions are sent, one each, to Perth,
+Aberdeen, Newcastle, and Berwick; the last portion, with
+<pb n="62" id="p.62">
+the head, being retained in the great city, to scare the
+gaping crowd at Temple Bar.
+               "It's a mad world, my masters."
+  <p>In the British Museum, amongst Bayford's collection, is
+a Play-bill of Heatley's Booth in the time of Queen Anne,
+well worthy a perusal, to show the versatility of our forefathers. As late as <date value="1830">1830</date>, upwards of 200 booths for the
+sale of toys and gingerbread, interspersed here and there
+with Richardson's, Saunders's and Wombwell's shows, were
+crowded into Smithfield, at St. Bartholomew.
+        <lb>" Now farewell to the fair, you who are wise;
+        <lb>  Preserve your purses whilst you feast your eyes."
+  <p>Bartholomew Fair greatly declined after the reign of
+Queen Elizabeth. The mysteries were succeeded by plays
+and conjuring; the Corporation of London licensed it for
+fourteen days, and certain city officers were paid out of the
+emoluments. The same Corporation, eventually tired of its
+fooleries, in <date value="1845">1845</date> and <date value="1855">1855</date>, bought up the last vestige of its
+dying glories, and from that period Bartholomew fair bade
+the world good night.
+  <p> Smithfield, in this year of grace, is more utilized than it
+has ever been before. On the <date value="1868-11-24">24th November,1868</date>, was
+inaugurated the splendid Metropolitan Meat and Poultry
+Market, built by the Corporation of the City of London, at
+             <pb n="63" id="p.63">
+an expense of £200,000. Some idea of the vastness of this
+building may be formed, when it is stated that there are
+five miles of iron girders to support the structure.
+  <p>The style of the building is Italian Renaissance: the
+height of the external wall 32 feet. The covered roadway, which divides the market, 50 feet in width. There
+are 162 shops in the market, and the size of each is about
+36 feet by 15 feet.
+  <p>Long Lane has a few houses remaining of the Elizabethan date, but nothing calling for special notice.
+  <p>We have wandered through the ward, stopping here and
+there to cull a flower or pluck a weed. To the little that
+has been said, much might be added of imperial interest;
+every stone bears the imprint of the feet of Genius; the
+threshold of each house has been brightened by the figures
+of this country's intellectual might more than any locality
+in modern Babylon.
+  <p>Farringdon Without has been the cradle of the great; and
+whether we glance at ye olden time, at mediaeval ages, or
+at modern era, we find this locality distinctive for its
+patronage of, and aid given to, the onward march of progress, and stamping with its recognition all that is great,
+noble, and liberal.
+</body>
+</text>

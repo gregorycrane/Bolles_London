@@ -1,0 +1,1247 @@
+<!DOCTYPE tei.2 PUBLIC "-//TEI P3//DTD Main Document Type//EN" [
+<!ENTITY % PersProse PUBLIC "-//Perseus//DTD Perseus Prose//EN" >
+%PersProse;
+]>
+<tei.2>
+<TeiHeader>
+<fileDesc>
+<titleStmt>
+<title>Degeneration amongst Londoners</title>
+<author>James Cantlie</author>
+&responsibility;
+&fund.IMLS;
+</titlestmt>
+&Perseus.publish;
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title>Degeneration amongst Londoners</title>
+<author>Cantlie, James, Sir</author>
+<imprint>
+<pubPlace>London</pubplace>
+<publisher>Field and Tuer</publisher>
+<date>1885</date>
+</imprint>
+</monogr>
+</biblStruct>
+</sourcedesc>
+</filedesc>
+<encodingDesc>
+<editorialDecl>
+<correction status=high>&Perseus.OCR;
+</editorialDecl>
+<refsDecl>
+<state unit="section" n="chunk">
+<state unit="subsection">
+</refsDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language id=en>English
+<language id=greek>Greek
+<language id=la>Latin
+<language id=de>German
+<language id=fr>French
+<language id=it>Italian
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change><date> 7-Mar-01</date>
+<respStmt><name>K. Wixson</name><resp>markup</resp></respstmt>
+<item>
+$Log: cantlie.a.sgml,v $
+Revision 1.3  2001/08/01 13:29:28  jbranco
+fixed author's name
+
+Revision 1.2  2001/06/08 19:02:20  jbranco
+looking at sgml examples
+removed blank space
+
+Revision 1.1  2001/04/13 19:55:53  dasmith
+Made files have .a.sgml names.
+Revision 1.13  2001/04/05 15:22:04  kwixson
+fixed random typo
+Revision 1.12  2001/03/27 21:33:50  kwixson
+fixed emph tags
+Revision 1.11  2013/08/28 09:42:38  kwixson
+added funding entity
+Revision 1.10  2001/03/20 16:17:48  kwixson
+entered into repository
+Revision 1.9  2001/03/14 23:14:45  kwixson
+fixed a few titlepage tags; ready to go public
+Revision 1.8  2001/03/14 23:10:14  kwixson
+fixed minor typos
+Revision 1.7  2001/03/14 22:47:55  kwixson
+tagged ads at end of text; added heads for div2s; fixed halftitle; parsing
+Revision 1.6  2001/03/14 22:08:52  kwixson
+minor changes
+Revision 1.5  2001/03/13 22:57:20  kwixson
+tagged dates, parsing; all that needs to be done is move the half-title.
+Revision 1.4  2001/03/13 22:19:12  kwixson
+stripped <fw> tags, added heads for div3s.
+Revision 1.3  2001/03/08 20:48:44  kwixson
+added <fw> tags, cleaned up a few typos; parsing
+Revision 1.2  2001/03/08 17:59:43  cwulfman
+fixed teiheader, page numbers, divs.
+Revision 1.1  2001/03/08 17:31:58  kwixson
+checking in cantlie; not parsing yet.
+</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<TitlePage>
+<docTitle>
+<titlePart type=main>Degeneration
+<lb>Amongst
+<lb>Londoners</titlePart>
+<titlePart type=desc>A Lecture delivered at the Parkes Museum of
+Hygiene, <dateStruct value="1885-01-27"><month reg=01>January</month> <day reg=27>27</day>, <year reg="1885">1885</year></dateStruct>.<titlePart>
+</doctitle>
+<byline>By
+<lb>James Cantlie,
+<lb>M.A., M.B., F.R.C.S.</byline>
+<docimprint><pubplace>London:</>
+<lb>Field &amp; Tuer, The Leadenhall Press, &amp;.C.
+<lb>Simpkin, Marshall &amp; Co.; Hamilton, Addams &amp; Co.
+<lb>Field and Tuer,
+<lb>The Leadenhall Press, E.C.
+<lb>T. 4,236.
+</docimprint>
+</titlepage>
+<div1 type=preface n=1>
+<head>Preface</head>
+<p>THIS Lecture, which seems to
+have attracted so much public
+attention in the newspapers, has
+been printed in order to show what
+were the true statements made.
+<lb>J. C.
+<lb>14, Suffolk Street,
+<lb>Pall Mall, W.
+</front>
+<body>
+<pb n=7>
+<div1 type=lecture n=2>
+<head>Degeneration
+Amongst Londoners.</head>
+<div2 type=section n=1>
+<head>[Part I]</head>
+<p>To all who live in London the
+title of this lecture is calculated
+to excite surprise and suspicion:
+surprise, that in this, the most
+healthy of all large towns, as
+judged from the death-rate returns,
+there should be even a question of
+gradual degeneration;  suspicion,
+lest false grounds, mistaken premises, and too narrow observations
+have landed me in an erroneous
+belief.
+<p>An apology seems at first sight
+<pb n=8>
+necessary, but I will reserve giving
+it until the end of the lecture,
+when, if it is proved I am in error,
+I shall be ready to grant one.
+<div3 type=subsection>
+<head>I.The first knotty point to be
+settled is-What is, or where is
+London from a hygienic standpoint?</head>
+<p>It is not limited by bars or gates,
+nor by high walls or entrenchments, <emph>but by the distance any
+given point of it is removed from
+the nearest point where really fresh
+air is to be obtained</emph>. In this street,
+for instance, it is many a decade
+since really fresh country air has
+been wafted along its length by
+even a gale of wind.
+<p>The next thing to occur to one
+<pb n=9>
+is, <emph>What is fresh air, or what is
+there in fresh air</emph> to make so great
+a difference between the air we
+obtain in town and that which
+circulates in the country ?
+Most agree that it is <emph>ozone</emph>, a
+gas, a modification of oxygen, to
+which unsearchable vital powers
+are ascribed: it is found in the
+open country, at sea-in fact everywhere, where there is not too
+great an aggregation of human
+beings to abstract or decompose it.
+This gas gives the peculiar
+odour present in the neighbourhood of an electric machine; it is
+present in the air in quantity
+during a thunderstorm and a fall
+of snow: it is borne in greater
+<pb n=10>
+quantity on the south-west wind
+than on any other, probably because
+that comes, in this country, from
+off the sea, and the sea seems to be
+its haven or birthplace, for it is
+greater in quantity there than
+elsewhere. If ozone is the health-giving spark, certain it is, none of
+it is to be found in London. The
+air has been tested over and over
+again for this gas, and I had it
+examined on <dateStruct value="1885-01-18"><month reg=01>January</month><day reg=18> 18th</day>, <year reg="1885">1885</year></dateStruct>,
+once more. The day was very dull,
+the wind N.E., and blowing at
+the rate of only about one and a half
+miles an hour. The various places
+from whence I obtained information on that day were:    near
+Brownswood Park, in the N.E. of
+<pb n=11>
+London; near Maida Vale, in the
+N.W.; at Wandsworth, at Barnes,
+at Chiswick, and in Bushy Park,
+in the S.W.; and in Hyde Park.
+With the exception of a faint, very
+faint indication of ozone in the
+N.E. there was no evidence of
+ozone being present anywhere else.
+It was from  the N.E. quarter
+the wind was blowing, hence at
+Bushy Park the air had travelled
+all over London, and consequently
+had little likelihood of containing
+ozone after that. Practically there
+was no ozone beyond a small
+semicircle of the N.E. quarter.
+<p>But supposing a gale had been
+blowing, and it had been summertime when the air had been tested,
+<pb n=12>
+it is unlikely that ozone or fresh
+air would have travelled further
+than one mile nearer the centre of
+London, or, say, as far as the Angel
+at Islington. So it is with other
+districts when the wind blows from
+different quarters: if from the south,
+it has to pass over Croydon, and
+but little ozone then finds its way to
+London.   From whatever quarter
+the air is blowing, the outer circlet
+of, say, half-a mile of human beings,
+absorbs the fresh air, and not only
+so, but adds various pollutions to it,
+so that the air breathed within a
+given area, centred around, for instance Charing Cross, or the Bank,
+has not had fresh air supplied to it
+for, say, 50 or 100 years.
+<pb n=13>
+<p>Hence we might define London
+as a district where there is no ozone.
+<div3 type=subsection>
+<head>II. Did you ever get sunburnt
+in London?</head>
+<p>I shall answer the
+question for you, and say NO. The
+natural appearance of the face in
+London is pale; when it is otherwise it is red; not brown or tanned,
+but red.  An omnibus-driver does
+not get brown, he gets red ; and you
+can see the cause of the redness to
+be dilated vessels in the skin of
+his face.
+<p>Why does one not get sunburnt
+in London? Is it absence of light,
+or is it the absence of fresh air-the ozone we have been speaking of?
+<p>Light, as we know, develops pigment;
+<pb n=14>
+and it will do so in human
+beings under certain conditions.
+When, however, one is sickening for
+an illness-say typhoid fever-it is
+impossible to get sunburnt for some
+weeks previously even at the sea-side.
+There are varieties of consumptive
+people who never get sunburnt in
+the country or at sea. It is only at
+a certain turning-point in convalescence that a person can get sunburnt.
+Beneath a quarter-deck in the
+tropics, where it is supposed the
+reflection from the sea is the cause
+of the sunburning (just as if the
+reflection of a mirror could sunburn), you can tell the healthy
+traveller from the blanched and
+pale invalid returning home suffering
+<pb n=15>
+from Asiatic diarrhoea or dysentery
+by the effect which the sun has
+upon them.
+<p>A convalescent on board ship,
+who is kept in his cabin with only
+the stream of light (and it may be
+from the shaded side) which enters
+through the window, gets sunburnt.
+Hence, it is not altogether light;
+there must be something else
+present in the air: and to avoid
+creating a new entity, we shall
+term it ozone still, and believe
+that ozone must be present in the
+air before healthy people can be
+sunburnt, but that no amount of
+exposure to even ozonised air will
+"tan" a person suffering from the
+conditions mentioned above. Hence
+<pb n=16>
+I would limit <emph>London to the region
+where sunburning is unknown</emph>.
+<div3 type=subsection n=3>
+<head>III.  Thirdly, I would define
+London to be a region where at
+any time beneficial exercise is impossible.</head>
+<p>No exercise can be
+beneficial in "the highest sense"
+which is undertaken in polluted air.
+With increased exertion, increased
+respiratory processes are necessary,
+and greater chemical changes are
+requisite, necessitating for their
+hygienic  completion  a  greater
+supply of fresh air.  But as this
+is absent in the air of London,
+exercise taken in London cannot
+do that amount of good it does
+were it taken in fresh air. Far be
+<pb n=17>
+it from me to condemn exercise in
+London, and to say, Never walk
+when you can ride. I would say
+rather, Walk whenever you can;
+mount a horse if you have one, and
+take what air and exercise you can
+get even in the area mentioned.
+The evils which accrue from want
+of exercise, greatly outbalance the
+total want of exercise in an atmosphere that may not be <emph>quite</emph> fresh.
+Still, there is no doubt that were a
+gymnast (<foreign lang=la>i.e.</foreign>, a man requiring an increased amount of air) trained in such
+an atmosphere as that of the underground railway, he would die sooner,
+than, if living in such an atmosphere
+he moved about in an ordinary
+way. Hence I land myself in a
+<pb n=18>
+dilemma: am I to condemn exercise
+in London because it is bad, or am
+I to say the good gained from
+exercise, say walking, outbalances
+the evils of sedentary life ? Whichever way we settle it, it practically
+settles itself. Few people walk far in
+towns; few of you walked here to
+this lecture. Why do not people
+walk in town as in the country?
+Because they get so quickly tired;
+there is no freshness in the air, even
+in the parks, and what is theoretically wrong is practically borne out,
+viz., that people in London walk
+as little as possible simply because
+they do not feel inclined to; but
+if they did walk more, the good that
+would come of it would be doubtful.
+<pb n=19>
+<p>Hence, then, I will return to my
+enunciation, viz., that no exercise
+can be beneficial in the highest
+sense which is undertaken in
+polluted air.
+<div2 type=section n=2>
+<head>[Part II]</head>
+<p>In the next place I have to <emph>define</emph> a Londoner. A Londoner is
+one whose <emph>parents</emph> were born,
+brought up, and lived in the area
+defined, and who himself, or herself,
+was born, brought up, and lived in
+London, and whose only notion
+of the country or the sea-side is
+an occasional run on a Bank Holiday.
+<p>Some four years ago, when my
+attention was first drawn to this
+subject, I started with the premises
+that a Londoner was one whose
+<pb n=20>
+<emph>grand-parents</emph>, and not the parents
+only, came under the category;
+but I had to stop, as I could find
+no such specimens.
+<p>As you may imagine, it has taken
+much questioning and investigation
+to obtain substantive evidence on
+such a subject.
+<p>The nearest approach beyond
+what I have given as a definition,
+are specimens of generations whose
+grandfather or grandmother came
+from the country. I have two men
+under my observation just now,
+one whose grandfather came from
+the country, Somersetshire; the
+other whose   grandmother was
+Irish.
+<p>First, I shall describe to you
+<pb n=21>
+the man with the Somersetshire
+grandfather, but whose folks had
+lived in London, commencing from
+the grand-parents. Height 5 feet 1
+inch; age 21 ; chest measurement
+28 inches.   His head measure
+around above the eyebrows is 19
+inches (nearly 3 inches below the
+average); measured across from tip
+of ear to tip of ear, 11 inches (1 1/2
+below the average).  His aspect
+is pale waxy; he is very narrow
+between the eyes, and with a decided squint. Solemnity intense.
+<p>I shall now describe the man
+with the Irish grandmother, but
+the others of whose predecessors
+have lived rigidly in London from
+the   grand-parents  downwards.
+<pb n=22>
+Height 5 feet 3 inches. Age 19.
+Chest measurement 29 inches.
+His head measures 20 inches round
+(2 inches below the average).
+His face is mottled, pale, and
+pimpled. He squints rather badly.
+His jaws are misshapen; he cannot
+bring his front teeth within half an
+inch of each other; his upper jaw
+is pointed, and falls within the
+arch of the lower; his teeth spiculated, and must be well nigh useless
+to him. Solemnity great.
+<p>Again, I might describe girls of
+similar pedigree. Here is one:-
+height 4 feet 10 inches. Age 18.
+Misshapen jaw, almost the same as
+above described. Enlarged scrofulous glands all around lower jaw,
+<pb n=23>
+a red scrofulous aspect; slight
+tendency to  squint.  Solemnity
+marked.
+<p>These are specimens I have come
+across, as I say, after much inquiry.
+I have never come across the children of any such, and I believe it is
+not likely I ever shall. Nature steps
+in and denies the continuance of
+such; and weakness of brain-power
+gives such a being but little chance
+in this struggling world.
+<p>Now, I know it will be said, Why
+take London, why abuse its surroundings? There are many other
+towns whose citizens are placed
+under worse conditions; such as
+Sheffield,  Bradford,  Liverpool,
+Manchester, Glasgow, and, in fact
+<pb n=24>
+many towns where numerous manufactories pour their smoke and
+chemical poisons into the air. Now,
+that is just the very reason why I have
+not chosen these, but prefer to study
+the Londoner and London, where
+manufactories do not poison the air
+but to an infinitesimal extent compared with many other towns. What
+I want to prove, if possible, is
+that a mere collection of human
+beings is enough, without manufactories' smoke, to render the air in
+such a condition that the families
+living in such an atmosphere dwindle
+and disappear from inability of continuance.  I want to find out if
+there is such a thing as "<emph>urbomorbus</emph>" or "city disease," independently
+<pb n=25>
+of trade disease; hence I
+chose to study London. Every one
+in their inner conscience knows and
+believes that town air is bad, that
+every one working in it must suffer
+after a time in health and stamina;
+and that person must be blind
+indeed, who does not observe the
+effect on children born and brought
+up in towns, even if they belong to
+the upper or middle classes.
+<div2 type=section n=3>
+<head>[Part III]</head>
+<p>Now, in the absence of the smoke
+of manufactories, what is it in towns
+which causes this deterioration ? <emph>It
+is the presence of non-ozonised air
+air that has been pre-breathed, and
+the consequent bad effects of taking
+exercise therein</emph>.
+<p>First, then, as to the physical
+<pb n=26>
+effects of want of beneficial exercise. In the earliest times of the
+human race, when man's only duty
+was to till the ground or follow
+the chase, it was unnecessary to
+prompt people to take exercise farther than what was required in the
+execution of their labours. Now-
+a-days, however, the multiplication
+of industries is such, that but few
+obtain exercise <emph>at</emph> their employment;
+and consequently, if they are to have
+exercise at all, it must be something
+<emph>added on to</emph> and independent of
+their daily employment. Such a departure from an open air or natural
+employment, to one with unnatural
+or cooped-up surroundings whilst at
+labour, may be proof of advance of
+<pb n=27>
+man's intellect, but in its effect there
+must be a physical retrocession, <emph>or
+artificial means</emph> must be taken to
+maintain that physique.
+<p>This state of things obtains not
+only in towns, but also in villages
+and country places. This "nation
+of shop-keepers"  is  becoming
+more and more "townified." The
+farm-labouring class is the only
+large  class  of all the   community which has preserved to it
+man's natural calling. For has not
+the shop-keeper, the shoe-maker,
+the weaver, and the butcher as close
+employment in even a country
+village as in a large town? Thus
+have all classes, except the farm-
+labourer, undertaken work which is
+<pb n=28>
+without a sufficiency of exercise;
+and unless care is taken to provide
+for such, there will, in time, be
+developed a puny race unfit to
+maintain themselves.  If such is
+the case in villages, how much more
+is it the case in large towns and
+cities, where the city shop-keeper
+has not the advantage of fresh air
+entering his abode, and who, tied
+up all the hours of sunlight, can
+only take exercise after dark and
+in a polluted atmosphere.
+<p>Before proceeding  further,  I
+should like to state once for all, that
+in the present decade we have individuals amongst us who are capable
+of feats of strength such as were
+never dreamt of in former days.
+<pb n=29>
+<p>When Captain Webb swam the
+Channel in <dateStruct value="1875--"><year reg="1875">1875</year></dateStruct>, it was a feat
+unparalleled in strength and endurance. Until the year <dateStruct value="1877--"><year reg="1877">1877</year></dateStruct>, no
+human being had been known to
+leap from the ground six feet two
+inches, as happened at the Oxford
+and Cambridge sports that year.
+The feats of walking performed
+now-500 miles in a week, and so
+on-are prodigies of strength such
+as we never read of in former days.
+Four minutes is almost the time a
+mile can be run in now-a-days.
+<p>I could bring forward many
+other instances to show, that,
+there are individuals of the present
+generation who are superior in the
+performance of feats of strength
+<pb n=30>
+and endurance to any of our predecessors. But what is being done
+to maintain this state of things ?
+Are we not at the end of the
+generation who lived before railways, and therefore before steam,
+manufactories, large cities, and all
+the modern developments which
+have made our air more impure,
+our <emph>necessity for walking</emph> less-
+almost a waste of time, our citizens
+to be attendants rather than workers
+at big machines ? It is coming to
+pass that we shall forget that our
+hands are organs whereby to feed
+ourselves with, and that our lower
+extremities are meant to carry us
+about to get our requirements. In
+place of our hands and arms we
+<pb n=31>
+use machines now-a-days; and in
+place of our legs we have railways,
+omnibuses, cabs, etc., to supplant
+the necessity for their use.
+<p>Are there any signs of such
+retrocession abroad ? What about
+the  rowing  championship ?  It
+was competed for last on an
+Australian river, and the competitors were the progeny of previous
+British generations, a Canadian and
+anAustralian, men whose fathers had
+gone forth from out of this nation
+of cities and polluted air, and found
+vigour and strength in the Canadian
+forest or Australian bush. Depend
+upon it we are at a turning-point
+in our national health; our soldiers
+are as brave, as stout-hearted,
+<pb n=32>
+steady and calm under difficulties
+as ever; and shall we even say that
+the events of the last few days have
+proved them even better than any
+who have preceded them ? Allowing all that, let not the people of
+this country be blinded to the fact
+of the effect of living in large
+towns, of this incessant travelling
+in carriages of all sorts. Muscle
+now-a-days is at a discount; brain
+power is what is sought for, and
+there is no doubt it is forthcoming:
+but as it requires a healthy heart to
+give forth a normal sound, so it
+requires a healthy brain to beget
+wise thoughts.
+<div2 type=section n=4>
+<head>[Part IV]</head>
+<p>It is sad to contemplate
+that now-a-days honest labour
+<pb n=33>
+brings with it of necessity illness
+and misery, instead of health and
+comfort-that the close confinement and the foul air of our cities
+are shortening the life of the individual, and raising up a puny and
+ill-developed race. But certain it is,
+and every one knows on the face of
+it that it is true; and if you will bear
+with me whilst I run through some
+of the effects of city life and want
+of beneficial exercise, I will promise
+to be short.
+<p>First, let us look at the surroundings of the child. In this
+moist climate of ours, and with
+the murky atmosphere of coal
+smoke which obscures the sunlight,
+where, in addition, thousands of
+<pb n=34>
+tall chimneys vomit forth their
+impurities, how can it be otherwise
+than that the child, from want of
+exercise in fresh air, gets  out
+of health and condition ? The
+bones are imperfectly developed;
+being soft and spongy they bend
+beneath the body weight, nor can
+they resist the muscular contractions. How few families in London
+of even the better class escape
+wholly what is called rickets-"the
+English malady," as the French call
+it, from its frequency amongst us.
+As with the child, so with the growing lad; and even more pronounced
+still are the effects of town life to
+be seen in growing girls.  The
+chest does not expand properly,
+           the
+<pb n=35>
+the bones of the limbs may grow in
+length, but being soft and spongy
+knock-knees or bow-legs may be
+the result. A growing out of one
+shoulder (a lateral curvature) is
+another common type of infirmity;
+and combined with these apparent
+deformities there is the wan appearance, bad digestion, want of
+spirits and energy, and so forth,
+but ill-calculated to develop a
+healthy man or woman.
+<p>As with individuals, so with
+families and races. Every one
+knows of families who, owing to a
+sudden accession of wealth, and
+possessed  only  of  democratic
+methods of enjoying it, have proved
+themselves unable mentally and
+<pb n=36>
+physically to bear the strain, and
+who drift intounwise extremes of
+eating and drinking, religion or
+revelry, lavishness or effeminacy.
+<p>Again, looking round upon many
+a previous race now in decadence
+bears out the same fact. Luxury
+destroyed the Roman Empire.
+Spain, only yesterday, as it were,
+fell from being the leader of nations
+to the position she holds to-day.
+The Spaniards, held in bondage
+by the Moor, were for centuries
+condemned to slave and toil under
+their hard masters; the Moor, enjoying the luxury of sloth, despised
+the labouring peasant. But out of
+the stout hirelings sprang men with
+strong frames and indomitable
+<pb n=37>
+courage, and the Moor had now in
+turn to succumb.   From  Spain
+the sons of labour sailed forth to
+the utmost ends of the earth,
+civilising, conquering, and adding
+to their wealth.  So monetarily
+wealthy grew they that in time
+labour ceased to be a necessity,
+the sons of the active spirits grew
+up to laugh at labour, and in no
+long time degeneracy succeeded,
+placitude gave place to energy, and
+now the sons of the mighty Spaniard
+are content to play a second-rate
+part in the affairs of the world.
+Thus it is that luxury in families
+or nations begets sloth in the unwise, and exercise of all kinds
+comes to be considered vulgar. In
+<pb n=38>
+this country we are blessed with an
+aristocracy of long and tried standing; those whom luxury had upset
+have died out, and we are blessed
+for the most part, with a race of
+men and women capable of resisting the effeminacy and sloth, into
+which their high position and attendant wealth might delude them.
+<p>As an example of what <emph>artificial
+exercise</emph>, wisely conducted, and in
+fresh air, will do for generations
+of families, as compared with exercise obtained <emph>at</emph> work in polluted
+air, consider the following. As
+an example of an industrious class
+who works all the hours of sunlight, who seldom stirs out of
+doors, and who knows no holiday
+<pb n=39>
+beyond, it may be, Christmas Day,
+take the Spitalfields weavers. In
+them we find a stunted, puny
+race, who become prematurely old,
+whose grave and sorrowful countenances betray a body and mind
+at variance with natural habiliments. Being an abstemious class
+they continue, it may be, to a
+third generation; but they are
+more machines than active livers,
+and, on the face of it, it is improbable that out of such a class
+a healthy person could spring.
+As an example of an opposite
+class take  the  Royal families
+of Europe at the present moment.  The sons and daughters
+of our own Royal family can together
+<pb n=40>
+compare in physique with the
+sons and daughters of any family
+in the land.  Then again take
+the German, Italian, Austrian, or
+Russian Royal families, and it will
+be found they are almost all of
+them types of their races, and each
+man amongst them fit to hold his
+own in physique with the stoutest
+peasant in his land.
+<p>How is this to be explained
+away ? Here we have two classes
+living exactly opposite lives, one
+condemned to labour incessantly
+indoors, the other called upon
+to do no manual labour. When
+we look into it we find that the
+former have departed from out-
+of-door employment to sit and
+<pb n=41>
+watch the shuttle and the loom,
+are assembled in a large town to
+be near a market for their wares,
+where the close employment and
+polluted air bring upon them physical ruin. On the other hand we
+find a class whose ancestors have
+known no labour for centuries,
+whose only work is compulsory
+parades, but whose pastimes-
+shooting, riding, drilling, yachting,
+and such like-carry them out of
+towns, and induce them to take
+exercise of a beneficial kind.
+Which of these two classes has
+the better physique has been
+already stated, and it forces this
+conclusion on us, viz., that close
+employment-<emph>i.e.</emph>, during all the
+<pb n=42>
+hours of sunlight, and in the polluted air of towns, is ruinous to
+the individual and his progeny;
+but that employment, combined
+with artificial beneficial exercise,
+produces a race which has a
+tendency to increase in physique.
+Hence there is no necessity for
+wringing of hands, of lamentations
+as to our national decline. It is
+quite possible for us to follow
+closely the city <emph>regime</emph> of to-day,
+and still, by a system of beneficial
+exercise, to compensate for the
+apparent defiance of Nature's
+laws.
+<p>The instances I have given may,
+by many of you, be considered to
+be extreme; therefore I will take a
+<pb n=43>
+more familiar example. Consider
+the percentage of the leading men
+in almost any branch of industry
+in London, and establish the fact of
+whether they were born in town or
+country. The boy who is to become a Lord Mayor is pictured as
+invariably coming into London
+from the country; and avoiding
+pantomime revelation, turn up
+Orridge's account of the Lord
+Mayors of London, and take note of
+the Mayors and Sheriffs who were
+born in London. Few, very few, will
+you find during the last hundred
+years, and when the odd occurrence
+took place, prominence is given to
+the fact in a special footnote.  Of
+the last thirty Mayors mentioned,
+<pb n=44>
+twenty-seven were born in the
+country and the remaining three
+of country parents.
+<p>I take examples from amongst
+the Lord Mayors in preference to
+judges, or politicians, etc., who, if
+born in towns, must of necessity
+almost have spent some years of
+their youth at one of our large
+public schools  or  universities,
+where beneficial exercise has been
+obtainable, and where exercise in
+manly English sport has lent vigour
+to their frames and freshness to their
+minds. The son of a townsman, however, who is to be trained in his
+father's business, is more frequently
+educated in a city school, and at
+fourteen or fifteen enters an office
+<pb n=45>
+and pursues work. The sedentary
+life inculcated, the close room, the
+inevitable dyspepsia consequent on
+hurried meals, the bending over
+a desk, and the absence of fresh
+air or any beneficial exercise, engender the belief that the lad
+would be unlikely to attain eminence, and that by such up-bringing
+our greatest citizens are not made.
+We grieve over the fact that a
+third generation of Anglo-Indians
+attaining adult years is impossible;
+but it may be that we have the
+same non-continuance near home
+without our having ever given it a
+thought.
+<div2 type=section n=5>
+<head>[Part V]</head>
+<p>Another point which is noticeable as the result of town life, it
+<pb n=46>
+appears to me, is <emph>that individuality
+and enthusiasm  are gone</emph>.  Now
+all England is becoming largely
+"townified" in the sense of want
+of enthusiasm. I have often been
+laughed at for saying, that I could
+tell which of the members of an
+audience before me were town-bred
+or not, by the way they take things.
+The enthusiastic hearer-in other
+words, the one who has sufficient
+energy given him, or who has not
+become two "urbanised" in his
+manner-communicates in a variety
+of ways that he is understanding
+what one says and appreciating it.
+The urbanised being is cruelly undemonstrative; he is interrogatory
+and querulous in his interrogations.
+<pb n=47>
+If a joke is made the urbanised
+person neither pretends to see it,
+nor can he bother himself to signify
+his disapprobation, beyond it may
+be a dyspeptic sniggle; there is
+nothing indicative of any mental
+expression on his part.
+<p>In town we are reduced, or raised
+up, to a level, which is it ? And
+nowhere more is this the case than
+in London. A democratic negative
+ness is what seems to be the aim
+and goal of the rising generation;
+the sinking of the individual to
+be a passing show in the acquaintance of a few equally democratised
+acquaintances. There is not enough
+energy left in the "set" to make
+<emph>friends</emph>. There is too much thought
+<pb n=48>
+of the community and not enough
+of the individual.  There is too
+much regard for what one's neighbours will say. The manly motto
+of the Keiths, Earls Mareschal of
+Scotland, of "They say; what say
+they ? Let them say "-has given
+place to-" They say. Oh, do they
+say so ? Then we shan't do it."
+<p>Any of you who saw a leading
+article in the <bibl><title>Standard</title>,</bibl> of yesterday
+morning, January 28th, upon "Our
+Boys," must have been struck with
+the truthfulness of it. The writer
+of that article says boys are now
+complete little gentlemen of the
+world at fifteen. They have command long before then of their
+feelings, affections, and manners.
+<pb n=49>
+They have lost their energy, self-assertion, and a certain amount of
+what our Irish friends used to call
+devilry.  The   writer of  this
+article has had on his mind what
+has been turning over in mine for
+a long time, and I expect most
+people have been thinking the
+same, although many will combat
+its truth, but still believe it in their
+hearts.  It is the <emph>young</emph> people
+now-a-days who shape manners
+for their <emph>elders</emph>, and tell <emph>them</emph>
+what they must do or leave undone. The generation now passing
+away are taking all the enthusiasm
+with them; it is the <emph>old</emph>, not the
+young people who are enthusiastic.
+<emph>They</emph> spread our civilisation, made
+<pb n=50>
+themselves rich and widened our
+Empire, until now there seems not
+much more to do. America now-
+a-days returns many of the emigrants who used to be swallowed
+up in her western maw.    The
+levelling process has gone on until
+foreign countries are tied to us by
+bands of communication.   The
+distant parts of the earth can send
+news to us in an hour or two.
+There is no sailing forth now-a-
+days in search of unknown lands;
+no facing dangers for the <emph>individual</emph>
+as in the old days of discovery and
+exploration.  The world in the
+days of the generation passing
+away was but opening up. Railways, steamboats, and telegraphs
+<pb n=51>
+were but developing their powers,
+and disclosing their effects, and the
+world seemed young, hopeful, and
+full of promise. Now the work is
+done, and, as it were, stagnation has
+set in, and is now bearing its fruits.
+Is this the cause of the apathy of
+the young ? Think over it, for it
+is a question which has serious
+bearings.  How much better for
+the future of this country were
+the elders to assume the reins of
+government as of old!   Instead
+of the boy dictating to his father
+what he ought or ought not to do,
+or the boarding-school Miss telling
+her mother, of whom she is rather
+ashamed at times, how she ought
+to behave herself, let them be
+<pb n=52>
+"taught" to be young before they
+are old; let them honour their
+fathers and mothers in the way they
+ought. It was <emph>not</emph> the young who
+made this Empire; it was not
+good behaviour, nor fine manners,
+nor apathy, nor perfect morals
+which welded it together. It was
+ambition, energy, enthusiasm and
+love of enterprise, which sent our
+fathers forth to unknown climes
+and to brave perils of war and
+weather.  It is beyond prophecy
+to guess even what the rising
+degeneration will grow into, what
+this Empire will become after they
+have got charge of it. The wisdom
+at sixteen affects what used to be
+considered sufficient for forty. Is
+<pb n=53>
+this modern wisdom of the proper
+kind ? is this devotion, of townsfolk
+especially, to their children, right ?
+is this forcing and quick maturity of
+thought desirable? is the placing
+children on a level with their
+parents what should be? is the
+companionship which now-a-days
+exists between father and son not
+derogatory to the elder ? These
+are all questions which time alone
+will answer; but it may do so when
+too late, and the bitter fruits will
+cause children to curse their parents.
+<div2 type=section n=6>
+<head>[Part VI]</head>
+<p>Now, I do not wish to stop without aiding in some way to allay
+this monster which I have raised
+This demon of want of beneficial
+exercise and its results must be
+<pb n=54>
+combated; and how is this to be
+done ? The sports and pastimes
+which even thirty years ago were
+sufficient for the health of the community have now become insufficient, and in consequence new
+means of obtaining exercise have
+been evolved. The three which
+seem the most prominent, and
+which have taken a real hold on
+the community, are-1, Cycling;
+2, Lawn tennis; 3, Gymnastics.
+<div3 type=subsection n=1>
+<head>I. Cycling</head>
+<p>Cycling counts its devotees by
+tens of thousands. From the Land's
+End to John o'Groat's house,
+men are familiar with the noiseless
+wheels.  By the bicycle and tricycle men and women can be carried
+<pb n=55>
+rapidly out of town to country
+lanes and open air. The exercise
+is pleasant in that the motion is
+rapid, and that one is sent along
+by one's own exertion. Nothing in
+the way of exercise could be more
+calculated to do good to dwellers in
+tons, and it seems a merciful interposition that such an excellent
+means has been supplied. It allows
+of really beneficial exercise when it
+carries its rider out of an ozoneless
+region.  If a cyclist is wise, he
+will, when taking a short "constitutional," travel in the direction <emph>from</emph>
+which the wind is blowing, as not
+only is he more able when he starts
+to go against the wind, than when
+returning home tired after a long,
+<pb n=56>
+journey, but there will be more
+good got from it as he more quickly
+reaches fresh air, and it is possible
+to get ozone to windward of the
+town, but to leeward it is impossible unless a far journey be taken.
+<div3 type=subsection n=2>
+<head>II. Lawn Tennis</head>
+<p>Lawn tennis.-Of modern inventions in the way of games, this
+is one of the best. It is suitable to
+young and middle-aged men and
+women. It has many advantages
+over other ball games, as it canbe
+played at home with one's own
+friends ; it may be engaged in for a
+variable length of time; it can be
+taken up with safety by anyone
+without previous training ; it is less
+likely to give rise to serious accidents
+<pb n=57>
+than other ball games. Lawn
+tennis has more adherents than has
+cricket; it includes men, women and
+children among its devotees.  As
+pursued in towns exercise of this
+kind is not in the "highest" sense
+beneficial, as it is performed in a
+polluted ozoneless air.  Still, as
+stated previously, exercise taken in
+even such an atmosphere as that
+of a London park, or a garden in a
+square, is better than none at all.
+Hence lawn tennis does not grant
+such a beneficial exercise as does
+cycling, from the fact that in but
+few instances does it take people
+out of town to play it.
+<div3 type=subsection n=3>
+<head>III. Gymnastics</head>
+<p>Gymnastics have of late
+<pb n=58>
+years been a good deal taken up
+by the youth of this country. That
+this is an unmixed good is very
+doubtful. The Romans had magnificent gymnasia, and in days of
+hand-to-hand conflict they did, and
+would do now, much good. But
+the wretched dens we know of as
+gymnasia are but as dog-kennels
+to a palace. A few fairly good
+gymnasia there are in this country;
+but the majority are in cellars,
+under archways, filthy, from the
+products of gas which is an invariable accompaniment, the stuffiness
+from overcrowding, and the sawdust on the floor. Even in the best
+gymnasia in London, our youth are
+condemned to go in the evening,
+<pb n=59>
+when the overcrowding and the
+numerous gas flames render the
+atmosphere filthy.  Besides, are
+gymnastics real exercise? Do we
+thereby exercise our lower extremities? No! Consequently they are
+not a real exercise. When we exercise our arms only to the exclusion
+of our lower extremities we may
+then know we are wrong.    The
+rowing man cannot continue in a fit
+state unless he walks eight or nine
+miles a day. Nor is any exercise
+a real gain which does not cause us
+to use our lower limbs; they were
+given to carry us about to get our
+food, and our hands were meant as
+organs whereby to feed ourselves,
+<p>Hence, of the three modern innovations
+<pb n=60>
+evolved, out of the necessity for some such, to counteract
+the effects of town life, cycling is
+the best; lawn tennis is excellent,
+and when performed out of town
+is purely beneficial ; but gymnastics
+as practised in our gymnasia, are a
+mistake, and likely to lead to
+physical ruin instead of muscular
+stamina. How good for our national
+welfare would it be, did the future
+"physical" state of those coming
+after us concern us equally with
+the more selfish interest in our own
+"spiritual" welfare. There would
+be preserved to the world more
+healthy doctrines, more true Christianity.  In the words of Parkes
+I will finish: <quote>"Were the laws of
+<pb n=61>
+health and of physiology better
+understood how great would be
+the effect! Let us hope that
+matters of such great moment may
+not always be considered of less
+importance than the language of
+extinct nations, or the unimportant
+facts of a dead history."</quote>
+<pb n=62>
+<div2 type=section n=7>
+<head>Publisher's Advertising</head>
+<div3 type=subsection n=1>
+<head>Recent Books
+and Something About Them</head>
+<p>Field &amp; Tuer, Publishers &amp; Printers,
+The Leadenhall Press, 50, Leadenhall
+Street, London, E.C. 24pages. FREE.
+<div3 type=subsection n=2>
+<head>Tennis Cuts and Quips, in Prose and
+Verse, with Rules and Wrinkles.</head>
+<quote>"Amusement and information combined."</quote>
+<p>Edited by Julian
+Marshall, author of "The Annals of Tennis," Hon.
+Sec. All England Lawn Tennis Club, Wimbledon.
+London: Field &amp; Tuer, The Leadenhall Press, E.C.
+Two-and-Sixpence.
+<p>A collection of essays, letters, anecdotes, and
+verses, serious, comic, and serio-comic, by
+various hands, about tennis and lawn-tennis, with
+rules of the latter game.  Useful information and
+critical remarks are mixed with much genuinely
+amusing matter.
+<pb n=63>
+<div3 type=subsection n=3>
+<head>The Author's Paper Pad</head>
+<quote>"With Bad Paper, One's Best is impossible."</quote>
+<p>(Issued by the Proprietors of the Leadenhall Press.) Contains,
+in block form, fifty sheets of paper, fibrous and
+difficult to tear as a piece of linen, over which
+-being of unusual but not painful smoothness-
+the pen slips with perfect freedom.   Easily
+detachable, the size of the sheets is about 7 1/2 x 8 3/4
+in., and the price is only that usually charged
+for common scribbling paper. The Author's
+Paper Pad may be comfortably used, whether
+at the desk, held in the hand, or resting on the
+knee. As being most convenient for both author
+and compositor, the paper is ruled the narrow
+way, and of course on one side only.-<emph>Sixpence
+each</emph>, 5/- <emph>per dozen, ruled or plain</emph>.-Field
+&amp; Tuer, Publishers and Printers, The Leadenhall Press, London, E.C.
+<div3 type=subsection n=4>
+<quote>"Stickphast is as necessary to an Editor
+for securing clippings as the inevitable
+scissors."</quote>
+<p>Stickphast Paste for office and  household  use.  Large
+bottle, with strong useful book-binder's brush. One
+Shilling. Much cheaper and cleaner than gum. No
+more messy fingers or messed edges to papers. <emph>Keeps
+good and sweet always and "sticks-fast."</emph>  Largely
+used in Her Majesty's Government Offices. Beware
+of evil-smelling and worthless imitations. Sold
+everywhere.
+<pb n=64>
+<div3 type=subsection n=5>
+<head>JUST OUT.</head>
+<head>Dickens.</head>
+<p>Dickens Memento. A beautifully printed and luxuriously
+got-up book of special value to the Dickens collector. In
+three separate divisions, the text includes primarily a reprint
+of the catalogue of the Dickens sale, at which it may be remembered almost fabulous sums were realised. Mr. Francis
+Phillimore contributes a gossipy and interesting introduction,
+and Mr. John F. Dexter a lengthy, learned, and exhaustive
+paper on book rarities, subtitled "Hints to Dickens Collectors."
+Seven-and-Sixpence.
+<div3 type=subsection n=6>
+<head>Bewick.</head>
+<p>Bewick Memento. A beautifully printed and luxuriously
+got-up book of special value to the Bewick collector. Mr.
+Robert Robinson, of Newcastle-upon-Tyne, who contributes
+the introduction, has been connected during the greater part
+of a long lifetime with the Bewick family, and he writes with
+a full knowledge of his subject. Of the eighteen beautiful
+illustrations, printed on separate leaves, twelve embellished
+the original catalogue, but the six additional at the end, including the humorously treated frontispiece of "Cows Angling"
+-all charming specimens of Bewick's skill with the graver-
+are first impressions from blocks hitherto not printed from.
+Ten-and-Sixpence.
+<div3 type=subsection n=7>
+<head>Bartolozzi.</head>
+<p>Fine Old-Fashioned Prints, by and after the celebrated
+Bartolozzi and Engravers of his School. Of these beautiful prints the <title>Athenaeum</title> says:-" Messrs. Field &amp; Tuer, of the
+Leadenhall Press, are going to republish some of the original
+copperplates engraved by Bartolozzi and his school-in all
+some three dozen.
+<emph>Full particulars and list free on application.</emph>
+<div3 type=subsection n=8>
+<head>Bartolozzi and his Works</head>
+<p>Revised Edition, Beautifully Bound: in the Press.  (Dedicated by permission
+to Her Majesty the Queen). Biographical, Anecdotal, and Descriptive
+By Andrew W. Tuer. London: Field &amp; Tuer, The Leadenhall
+Press, E.C.  Twelve-and-Sixpence.
+<emph>A Complete guide to the study of old-fashioned prints of the
+Bartolozzi School. Cheap and revised edition in one handsome
+volume.</emph>
+<div3 type=subsection n=9>
+<head>"RECENT BOOKS AND SOMETHING ABOUT THEM"</head>
+<p>24 pp., free on application.
+<lb>Field &amp; Tuer,
+<lb>The Leadenhall Press,
+<lb>50, Leadenhall Street, London, E.C.
+</body>
+</text>
+</tei.2>
