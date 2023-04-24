@@ -1,0 +1,2902 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+<TEI.2>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+		<title>Old London Street Cries and the Cries of Today</title>
+		<author>Andrew W. Tuer</author>
+		<funder>Institute for Museum and Library Services</funder>
+		</titleStmt>
+
+		<editionStmt>
+			<edition><date>2002-01-01</date></edition>
+		</editionStmt>
+
+		<extent>123326 bytes</extent>
+
+		<publicationStmt>
+			<distributor>Tufts University Digital Collections and Archives</distributor>
+			<address>
+				<addrLine>Tufts University</addrLine>
+				<addrLine>35 Professors Row</addrLine>
+				<addrLine>Tisch Library Medford, MA 02155</addrLine>
+			</address>
+			<idno>tufts:central:dca:UA069:UA069.005.DO.00041</idno>
+			<availability status="free"><p>This publication is freely available for scholarly or educational use.</p></availability>
+		</publicationStmt>
+
+  		<notesStmt>
+			<note>This document was created from the 1885 edition of Andrew W. Tuer's Old London Street Cries and the Cries of Today.
+			</note>
+		</notesStmt>
+
+    		<sourceDesc>
+			<biblStruct>
+				<monogr>
+				<author> Andrew W. Tuer</author>
+				<title>Old London Street Cries and the Cries of Today</title>
+				<imprint>
+				<pubPlace>London</pubPlace>
+				<publisher>Field &#x0026; Tuer, The Leadenhall Press, E.C.</publisher>
+				<date value="1885">1885</date>
+				</imprint>
+				</monogr>
+			</biblStruct>
+		</sourceDesc>
+	</fileDesc>
+
+	<encodingDesc>
+
+		<editorialDecl>
+			<stdVals><p>Standard date values are given in ISO form: yyyy-mm-dd.</p></stdVals>
+			<interpretation><p>Place names are marked.</p>
+					<p>Dates are marked.</p>
+					<p>This text was converted to electronic form by optical character recognition and has been proofread to a high level of accuracy.</p>
+			</interpretation>
+		</editorialDecl>
+
+		<refsDecl n="TOC">
+			<state unit="preface"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="chapter"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="appendix"/>
+		</refsDecl>
+		
+
+		<classDecl>
+		<taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+		<taxonomy id="LC"><bibl><title>Library of Congress</title></bibl></taxonomy>
+		</classDecl>
+	</encodingDesc>
+
+	<profileDesc>
+		<creation><date>2000-01-01</date></creation>
+		<langUsage><language id="EN" usage="98">English.</language>
+		<language id="FR" usage="1">French.</language>
+		<language id="LA" usage="1">Latin.</language></langUsage>
+
+		<textClass>
+			<keywords scheme="LCSH">
+			<list>
+			<item>Cries--England--London.</item>
+			</list>
+			</keywords>
+			<classCode scheme='LC'>DA 688</classCode>
+		</textClass>
+	</profileDesc>
+
+	<revisionDesc>
+		<change><date>2004-08-20</date><respStmt><name>Cynthia Mackey</name><resp>admin.</resp></respStmt><item>Updated text to TEI P4 XML. Added Tufts Digital Library object identifiers for figures.</item></change>
+	</revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+	<titlePage>
+	<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00001"><head>Cover page</head></figure>
+		<docTitle>
+			<titlePart type="main">Old London Street
+			<lb/>Cries 
+			<lb/>and the Cries of To-day</titlePart>
+			<titlePart type="desc">with Heaps of Quaint Cuts 
+			<lb/>including 
+			<lb/>Hand-coloured Frontispiece:</titlePart>
+		</docTitle>
+		<byline>by <docAuthor>Andrew W. Tuer,</docAuthor>
+		<lb/>Author of 'Bartolozzi and his Works', &#x0026;c.</byline>
+		<docImprint>
+			<docDate>1885.</docDate>
+			<pubPlace>London:</pubPlace>
+			<publisher>Field &#x0026; Tuer, the Leadenhall Press, E.C.</publisher>
+			<publisher>Simpkin, Marshall &#x0026; Co.;</publisher><publisher>Hamilton, Adams &#x0026; Co.</publisher>
+			<pubPlace>New York :</pubPlace> <publisher>Scribner &#x0026; Welford.</publisher>
+		</docImprint>
+		<pb n="2" id="p.2"/><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00002"><head>Frontpiece.</head></figure>
+		<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00003"><head><quote>Flowers, penny a bunch.</quote></head></figure>
+		<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00004"><head></head></figure>
+	</titlePage>
+
+<div1 type="preface" n="Introductory" id="front001"><head>Introductory</head>
+
+<p>The "Cries"<note n="1" place="foot"> See page 138</note> have been sufficiently
+well received in bolder form at a
+guinea to induce the publication of this
+additionally illustrated extension at the more
+popular price of a shilling.</p>
+</div1>
+</front>
+
+<body>
+<pb n="3"/>
+<div1 type="chapter" n="Old London Street Cries" id="c1"><head>Old London Street Cries</head>
+<p>DATES, unless in the form of the luscious fruit of Smyrna, are generally dry. It is enough therefore to state that the earliest mention of London Cries is found in a quaint old ballad entitled <quote>London Lyckpenny,</quote> or Lack penny, by that prolific writer, John Lydgate, a Benedictine monk of Bury St. Edmunds, who flourished about the middle of the fifteenth century.</p>
+<p>These cries are particularly quaint, and especially valuable as a record of the daily life of the time.
+<lb/>Then unto London I dyd me hye,
+<lb/>Of all the land it beareth the pryse:
+<lb/>Hot pescodes, one began to crye,
+<lb/>Stabery rype, and cherryes in the ryse;<note n="1" place="foot">On the bough</note></p>
+
+<p>
+<pb n="4"/><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00005"><head><quote>I love a Ballad in print, a'life; for then we are sure
+they are true."-WINTER'S TALE, Act. iv., Sc. iii</quote></head></figure></p>
+
+
+
+
+<pb n="5" id="p.5"/>
+<p>
+<lb/>One bad me come nere and by some spyce,
+<lb/>Peper and safforne they gan me bede,
+<lb/>But for lack of money I myght not spede.
+<lb/>Then to the Chepe I began me drawne,
+<lb/>Where mutch people I saw for to stande;
+<lb/>One spred me velvet, sylke, and lawne,
+<lb/>Another he taketh me by the hande,
+<lb/>" Here is Parys thred, the fynest in the land;"
+<lb/>I never was used to such thyngs indede,
+<lb/>And wantyng money I myght not spede.
+<lb/>Then went I forth by London stone,
+<lb/>Throughout all Canwyke<note n="2" place="foot">Candlewick.</note>  Streete;
+<lb/>Drapers mutch cloth me offred anone,
+<lb/>Then comes me one cryed hot shepes feete;
+<lb/>One cryde makerell, rystert grene,<note n="3" place="foot">Rushes green.</note> an other gan greete;
+<lb/>On bad me by a hood to cover my head,
+<lb/>But, for want of mony I myght not be sped.
+<lb/>Then I hyed me into Est-Chepe;
+<lb/>One cryes rybbs of befe, and many a pye;</p>
+<p>Since Lydgate's time the cries of London have been
+a stock subject for ballads and children's books, of
+
+
+<pb n="6" id="p.6"/>
+
+which, in various forms, some hundreds must have
+appeared within the last two centuries. The cuts, unless from the hand of a Rowlandson or a Cruikshank,
+are usually of the mechanical order; and one finds
+copies of the same illustrations, though differently
+treated, constantly reappearing.</p>
+<p>In the books there is usually a cut on each page,
+with a cry printed above or underneath, and in addition a verse of descriptive poetry, which, if not of the
+highest order, serves its purpose.
+With his machine and ass to help
+<lb/>To draw the frame along,
+<lb/>Pray mark the razor-grinder's yelp
+<lb/>The burden of his song.
+<lb/>His patched umbrella quick aloft
+<lb/>He mounts if skies should lower,
+<lb/>Then laughing whirls his wheel full oft,
+<lb/>Nor heeds the falling shower.</p>
+<p>A well-known collection is that entitled " Habits &#x0026; 
+Cryes of the City of London, drawne after the Life;
+P. [Pearce] Tempest, excudit," containing seventy-four
+plates, drawn by Marcellus Laroon [Lauron], and republished in <date value="1711">1711</date>. The first edition, with only fifty
+illustrations, had appeared some three-and-twenty
+years earlier; and many of the copper-plates in the
+
+
+<pb n="7" id="p.7"/>
+
+later issue were so altered as to bring the costume
+into the fashion of the time of republication. The
+hats had their high crowns cut down into low; and
+shoe-buckles were substituted for laces. Otherwise
+the plates,-with the exception of some of the faces,
+which were entirely re-engraved,-were left in their
+original condition.<note n="4" place="foot">Mr. J. E. Gardner's collection of prints and drawings illustrating London, and numbering considerably over 20,0000, contains many fine prints illustrating Old London Cries, including
+numerous examples of the alterations here indicated.</note>  The letter-press descriptions are
+in English, French, and Italian. The engraver, Marcellus Lauron, or Captain.Laroon, who was born in
+London, has left on record that his family name was
+Lauron, but being always called Laroon, he adopted
+that spelling in early life. Of the seventy-four plates,
+those representing eccentric characters, etc., are omitted from the list that follows :
+<list>
+<item>Any Card Matches or Save Alls ?</item>
+<item>Pretty Maids, Pretty Pins, Pretty Women!</item></list></p>
+<p>I remember," says Hone, " that pins were disposed of in
+this manner, in the streets by women. Their cry was a musical
+distich :-
+<list type="cries"> <item>' Three Rows a Penny pins,</item>
+<item>Short, Whites, and Mid-dl-ings !"</item>
+<item>Ripe Strawberryes !
+</item></list>
+
+<pb n="8" id="p.8"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00006"><head><quote>Three Rows a Penny pins !</quote></head></figure>
+<list>
+<item>A Bed Matt [mat] or a Door Matt!</item>
+<item>Buy a fine Table Basket?</item>
+<item>Ha, ha, Poor Jack!
+<lb/>Can hardly be called a London cry: the call of a well-known
+character, who, accompanied by his wife, sold fish.</item>
+<item>Buy my Dish of great Eeles ?</item>
+
+</list>
+<pb n="9" id="p.9"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00007"><head>Buy a fine Singing Bird ?"</head></figure>
+
+
+<pb n="10" id="p.10"/>
+<list>
+<item>Buy a fine singing Bird?</item>
+<item>Buy any wax or wafers ?</item>
+<item>Fine Writeing Ink !</item>
+<item>A Right Merry Song !</item>
+<item>Old Shooes for some Broomes !</item>
+<item>Hott baked Wardens [stewed pears] Hott</item>
+<item>Small Coale!
+Swift mentions this cry in his "Morning in Town."</item>
+<item>"The Small Coal Man was heard with cadence deep
+<lb/>Till drowned in shriller notes of ' Chimney Sweep.' "</item>
+<item>Maids, any Coonie [rabbit] Skinns ?</item>
+<item>Buy a Rabbit, a Rabbit ?</item>
+<item>Chimney Sweep !</item>
+<item>Crab, Crab, any Crab?</item>
+<item>Oh, Rare Shoe!</item>
+<item>Lilly White Vinegar!</item>
+<item>Buy any Dutch Biskets ?</item>
+<item>Ripe Speregas! [asparagus]</item>
+<item>Buy a Fork or a Fire Shovel? [See p. 13.]</item>
+<item>Maids, buy a Mapp ? [mop]</item>
+<item>Buy my fat Chickens?</item>
+<item>Buy my Flounders ?</item>
+<item>Old Cloaks, Suits, or Coats 
+<lb/>[Succeeding Old Doublets, the cry of a slightly earlier period.]</item>
+<item>Fair Lemons and Oranges !</item>
+
+</list>
+<pb n="11" id="p.11"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00008"><head><quote>Fine Writeing Ink</quote></head></figure>
+
+
+<pb n="12" id="p.12"/>
+<list>
+<item>Old Chaires to Mend ?</item>
+<item>Twelve Pence a Peck, Oysters !</item>
+<item>Troope every one ! [See p. 17.]
+<lb/>The man blowing a trumpet-troope every one !-was a
+street seller of toy hobby-horses. He carried his wares in a
+sort of cage; and to each rudely represented horse's head was
+attached a small flag. The toy hobby-horse has long since
+disappeared, and nowadays we give a little boy a stick to thrust
+between his legs as a Bucephalus. Hone opines that our forefathers were better natured, for they presented him with something of the semblance of the genuine animal.</item>
+<item>Old Satten, Old Taffety, or Velvet!</item>
+<item>Buy a new Almanack !</item>
+<item>Buy my Singing Glasses !
+<lb/>These were long bell-mouthed glass tubes. The writer
+recollects that when a boy he purchased, for a copper or two,
+fragile glass trumpets of a similar description.</item>
+<item>Any Kitchen Stuffe have you, Maids ?</item>
+<item>Knives, Combs, or Inkhorns !</item>
+<item>Four for Six Pence, Mackrell!</item>
+<item>Any work for the Cooper ?</item>
+<item>Four Paire for a Shilling, Holland Socks !</item>
+<item>Colly Molly Puffe!
+<lb/>The cry of a noted seller of pastry.  He is mentioned in
+<hi rend="italics">Spectator</hi>, No. xxv.</item>
+<item>Sixpence a pound, Fair Cherryes ! [See p. 21.]</item>
+</list>
+<pb n="13" id="p.13"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00009"><head>"Buy a Fork or a Fire Shovel"</head></figure>
+
+<pb n="14" id="p.14"/>
+<list>
+<item>Knives or Cisers to Grinde !</item>
+<item>Long thread Laces, long and strong !</item>
+<item>Remember the poor Prisoners !
+<lb/>In a series of early prints in the Bridgewater library, from
+copper plates, by an unknown artist, probably engraved between <date value="1650">1650</date> and 1680<date value="1680"></date>, there is one thus titled: " Some broken
+Breade and meate for ye poore prisoners: for the Lorde's sake
+pittey the poore." Within the memory of our fathers a tin box
+was put out from a grated window in the Fleet prison, a prisoner
+meanwhile imploring the public to remember the poor debtors.
+In the "Cries of York, for the amusement of young children,"
+undated, but published probably towards the end of the last
+century, are the following lines:-
+<lb/>Of prisoners in the Castle drear
+<lb/>Come buy a Kalendar,
+<lb/>Their crimes and names are set down here
+<lb/>'Tis Truth I do declare.
+<lb/>A brass Pott or an Iron Pott to mend !
+<lb/>Buy my four ropes of Hard Onyons !
+<lb/><hi rend="italics">London's Gazette</hi> here !
+The <hi rend="italics">London Gazette</hi>, established in <date value="1665">1665</date>.
+</item><item>Buy a White Line or a Jack Line, or a Cloathes
+Line.</item>
+<item>Any old Iron take money for ?</item>
+<item>Delicate Cowcumbers to pickle</item>
+<item>Any Bakeing Peares?</item>
+<item>New River Water!</item></list></p>
+
+
+<pb n="15" id="p.15"/> <p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00010"><head><quote>Fine Oysters</quote></head></figure></p>
+
+
+
+<pb n="16" id="p.16"/>
+
+<p>The cry of <quote>Marking Stones,</quote> which marked
+black or red, and preceded the daintier cedar-encased
+lead pencil of our own time, is not mentioned by
+Laroon. J. T. Smith,<note n="5" place="foot"><quote>The Cries of London:</quote> Copied from rare engravings
+or drawn from the life by John Thomas Smith, late Keeper of
+the Prints in the British Museum, 1839. On inquiring at the Print
+Department of the British Museum for a copy of this work, the
+attendant knew nothing of it, and was quite sure the department
+had no such book. It turned up on a little pressure, however,
+but the leaves were uncut.-<hi rend="italics"><foreign lang="FR">Les morts vont vite</foreign> !</hi></note> says that the colour of the red
+marking-stone was due to <soCalled>Ruddle,</soCalled> a colour not to
+be washed out, and that fifty years ago (he wrote in
+1839) it was the custom at cheap lodging-houses to
+mark with it on linen the words, <hi rend="italics"><quote>Stop thief!</quote></hi></p>
+<p>The following lines are from a sheet of London
+Cries, twelve in number, undated, but probably of
+James the Second's time;-
+<lb/>Buy marking-stones, marking-stones buy,
+<lb/>Much profit in their use doth lie;
+<lb/>I've marking-stones of colour red,
+<lb/>Passing good, or else black lead.</p>
+<p>In the British Museum is a folio volume containing another curious little collection, on three sheets,
+of early London cries; also undated and of foreign
+
+
+<pb n="17" id="p.17"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00011"><head><quote>Troope every one!</quote></head></figure>
+
+
+<pb n="18" id="p.18"/>
+
+workmanship, but attributable to the time of Charles
+II. The first sheet has a principal representation of a
+rat-catcher with a banner emblazoned with rats; he is
+attended by an assistant boy, and underneath are
+these lines :-
+<lb/>He that will have neither
+<lb/>Ratt nor mousse,
+<lb/>Lett him pluck of the tilles
+<lb/>And set fire of his hows.</p>
+<p>Then come the following cries:
+<list><item>Cooper.</item>
+<item>En of golde !</item>
+<item>Olde Dublets !</item>
+<item>Blackinge man.</item>
+<item>Tinker.</item>
+<item>Pippins !</item>
+<item>Bui a matte !</item>
+<item>Coales !</item>
+<item>Chimney swepes.</item>
+<item>Bui brumes !</item>
+<item>Camphires ! [Samphire]</item>
+<item>Cherrie ripe !</item>
+<item>Alminake !</item>
+<item>Coonie skine !</item>
+<item>Mussels !</item>
+<item>Cabeches!</item>
+<item>Kitchen stuff!</item>
+<item>Glasses !</item>
+<item>Cockels!</item>
+<item>Hartti Chaks !</item>
+<item>Mackrill!</item>
+<item>Oranges, Lemens !</item>
+<item>Lettice !</item>
+<item>Place !</item>
+<item>Olde Iron !</item>
+<item>Aqua vitae !</item>
+<item>Pens and Ink !</item>
+<item>Olde bellows !</item>
+<item>Herrings !</item>
+<item>Bui any milke ?</item>
+</list>
+<pb n="19" id="p.19"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00012"><head><quote>Milk below, Maids!</quote></head></figure>
+
+
+<pb n="20" id="p.20"/>
+<list>
+<item>Piepin pys !</item>
+<item>Osters !</item>
+<item>Shades !</item>
+<item>Turneps !</item>
+<item>Rossmarie Baie !</item>
+<item>Onions. !</item></list>
+</p>
+
+<p>The principal figure on the second sheet is the
+<soCalled>Belman,</soCalled> with halberd, lanthorn, and dog.
+<lb/>Mayds in your Smocks, Loocke
+<lb/>Wel to your locke-
+<lb/>Your fire
+<lb/>And your light,
+<lb/>&#x0026; God
+<lb/>Give you good-night.
+<lb/>At
+<lb/>One o'Clock.</p>
+<p>This is followed by:
+
+
+<list type="cries"><item>Buy any shrimps ?</item>
+<item>Buy some figs ?</item>
+<item>Buy a tosting iron ?</item>
+<item>Lantorne Candellyht.</item>
+<item>Buy any maydes ?</item>
+<item>The Water Bearer.</item>
+<item>Buy a whyt pot ?</item>
+<item>Bread and Meate !</item>
+<item>Buy a candelsticke ?</item>
+<item>Buy any prunes ?</item>
+<item>Buy a washing ball ?</item>
+<item>Good sasages !</item>
+<item>Buy a purs ?</item>
+<item>Buy a dish a flounders ?</item>
+<item>Buy a footestoole ?</item>
+<item>Buy a fine bowpot ?</item>
+<item>Buy a pair a shoes ?</item>
+<item>Buy any garters ?</item>
+<item>Featherbeds to dryue ?</item>
+<item>Buy any bottens ?</item>
+<item>Buy any whiting maps ?</item>
+<item>Buy any tape ?</item>
+</list></p>
+<pb n="21" id="p.21"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00013"><head><quote>Sixpence a pound, Fair Cherryes</quote></head></figure>
+
+<p>
+<pb n="22" id="p.22"/>
+<list>
+<item>Worcestershyr salt!</item>
+<item>Ripe damsons !</item>
+<item>Buy any marking stores ?</item>
+<item>The Bear bayting.</item>
+<item>Buy any blew starch ?</item>
+<item>Buy any points?</item>
+<item>New Hadog !</item>
+<item>Yards and Ells !</item>
+<item>Buy a fyne brush ?</item>
+<item>Hote mutton poys !</item>
+<item>New sprats new !</item>
+<item>New cod new !</item>
+<item>Buy any reasons ?</item>
+<item>P. and glasses to mend!</item>
+</list></p>
+<p>The public "Cryer" on the third sheet, who
+bears a staff and keys, humorously speaks as follows:
+<lb/>"yis, any man or woman that
+<lb/>Can tell any tydings of a little
+<lb/>Mayden childe of the age of 24
+<lb/>Yeares. Bring worde to the Cryer
+<lb/>And you shal be pleased for
+<lb/>Your labor,
+<lb/>And God's blessinge."
+</p>
+
+<p>Then follow:
+<list type="cries">
+<item>Buy any wheat ?</item>
+<item>Buy al my smelts ?</item>
+<item>Quick periwinckels !</item>
+<item>Rype chesnuts !</item>
+<item>Payres fyn !</item>
+<item>White redish whyt!</item>
+<item>Buy any whyting ?</item>
+<item>Buy any bone lays ?</item>
+<item>I ha rype straberies!</item>
+<item>Buy a case for a hat ?</item>
+<item>Birds and hens !</item>
+<item>Hote podding pyes !</item>
+<item>Buy a hair line ?</item>
+<item>Buy any pompcons ?</item>
+<item>Whyt scalions !</item>
+<item>Rype walnuts !</item></list>
+</p>
+<p>
+<pb n="23" id="p.23"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00014"><head><quote>Songs, penny a sheet !</quote></head></figure>
+
+<pb n="24" id="p.24"/>
+<list>
+<item>Fyne potatos fyn !</item>
+<item>Hote eele pyes !</item>
+<item>Fresh cheese and creame?</item>
+<item>Buy any garlick?</item>
+<item>Buy a longe brush ?</item>
+<item>Whyt carots whyt !</item>
+<item>Fyne pomgranats!</item>
+<item>Buy any Russes ?</item>
+<item>Hats or caps to dress ?</item>
+<item>Wood to cleave ?</item>
+<item>Pins of the Maker !</item>
+<item>Any sciruy gras ?</item>
+<item>Any cornes to pick ?</item>
+<item>Buy any parsnips ?</item>
+<item>Hot codlinges hot !</item>
+<item>Buy all my soales ?</item>
+<item>Good morrow m.</item>
+<item>Buy any cocumber?</item>
+<item>New thornebacke !</item>
+<item>Fyne oate cakes !</item>
+</list></p>
+
+<p>From all this it will be seen that merchandise of
+almost every description was formerly " carried and
+cried" in the streets. When shops were little more
+than open shanties, the apprentice's cry of " What d'ye
+lack, what d'ye lack my masters ?" was often accompanied by a running description of the goods on sale,
+together with personal remarks, complimentary or
+otherwise, to likely and unlikely buyers.</p>
+<p>A very puzzling London Cry, yet at one time a very
+common one, was <quote>A tormentor for your fleas!</quote><note n="6" place="foot">See Appendix.</note> What the instrument so heralded could have been,
+one can but dimly guess. A contributor to <hi rend="italics">Fraser's
+Magazine</hi>, tells us that in a collection of London Cries
+appended to Thomas Heywood's <hi rend="italics">Rape of Lucrece</hi>
+
+
+<pb n="25" id="p.25"/>
+
+(<date value="1608">1608</date>), he gives us this one: <quote>Buy a very fine mousetrap, or a tormentor for your fleaes ;</quote> and the cry of
+the mouse-trap man in Ben Jonson's Bartholomew
+Fair (<date value="1614">1614</date>), is, <quote>Buy a mouse-trap, a mouse-trap, or a
+tormentor for a flea.</quote> The flea-trap is also alluded to
+in <hi rend="italics">The Bonduca</hi> of Beaumont and Fletcher, and in
+<hi rend="italics">Travels of Twelve-Pence</hi>, by Taylor, the Water Poet;
+and it reappears in a broadside in the Roxburgh Collection of ballads, <quote>The Common Cries of London</quote>
+[dated <date value="1662">1662</date> but probably written a hundred years
+earlier] : <quote>Buy a trap, a mouse-trap, a torment for the
+fleas !</quote> When the great Bard of the Lake School was
+on a tour, he made a call at an inn where Shelley happened to be; but the conversation, which the young
+man would fain have turned to philosophy and poetry
+and art, was almost confined to the elder poet's prosaic
+description of his dog as <quote>an excellent flea-trap.</quote> It
+may be assumed that fleas were plentiful when this
+cry was in vogue; and it may have been that the trap
+was part of the (undressed ?) skin of an animal with
+the hair left on, in which fleas would naturally take
+refuge, drowning, perhaps, being their ultimate fate.
+But all this is mere conjecture.
+It was unlikely that so close an observer of London
+life as Addison should leave unnoticed the Cries of
+London; and the <hi rend="italics">Spectator</hi> is interspersed with occasional
+
+
+<pb n="26" id="p.26"/>
+
+allusions to them. In No. ccli. we read: "There is
+nothing which more astonishes a Foreigner, and frights
+a Country Squire, than the Cries of London. My good
+Friend Sir ROGER often declares that he cannot get
+them out of His Head, or go to sleep for them, the
+first Week that he is in Town. On the contrary, WILL
+HONEYCOMB calls them the <hi rend="italics">Ramage de la Ville</hi>, and
+prefers them to the Sounds of Larks and Nightingales,
+with all the Musick of the Fields and Woods."</p>
+<p>In Steele's comedy of <hi rend="italics">The Funeral</hi>, Trim tells some
+ragged soldiers, <quote>There's a thousand things you might
+do to help out about this town, as to cry Puff-Puff
+Pyes; have you any Knives or Scissors to grind ? or
+late in an evening, whip from <hi rend="italics">Grub Street</hi> strange and
+bloody News from <hi rend="italics">Flanders</hi>; Votes from the House
+of Commons ; Buns, rare Buns; Old Silver Lace,
+Cloaks, Sutes or Coats; Old Shoes, Boots or Hats.</quote>
+Gay, too, who, in his microscopic lyric of the streets,
+<hi rend="italics">Trivia</hi>, omitted little, thus sings of various street
+cries :--
+<lb/>Now Industry awakes her busy sons;
+<lb/>Full charged with News the breathless hawker runs;
+<lb/>Shops open, coaches roll, carts slake the ground,
+<lb/>And all the streets with passing cries resound.
+
+
+
+<pb n="27" id="p.27"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00015"><head>
+"Buy a Doll, Miss?"</head></figure>
+
+
+<pb n="28" id="p.28"/>
+
+<lb/>When all the Mall in leafy ruin lies,
+<lb/>And damsels first renew their Oyster cries.
+<lb/>When small coal murmurs in the hoarser throat,
+<lb/>From smutty dangers guard thy threatn'd coat.
+<lb/>What though the gathering mire thy feet besmear,
+<lb/>The voice of Industry is always near.
+<lb/>Hark ! the boy calls thee to his destined stand,
+<lb/>And the shoe shines beneath his oily hand.</p>
+<p>Sadly he tells the tale of a poor Apple girl who lost
+her life on the frozen Thames :-
+<lb/>Doll every day had walk'd these treacherous roads;
+<lb/>Her neck grew warpt beneath autumnal loads
+<lb/>Of various fruit: she now a basket bore;
+<lb/>That head, alas ! shall basket bear no more.
+<lb/>Each booth she frequent past, in quest of gain,
+<lb/>And boys with pleasure heard her shrilling strain.
+<lb/>Ah, Doll! all mortals must resign their breath,
+<lb/>And industry itself submit to death !
+<lb/>The cracking crystal yields; she sinks, she dies,
+<lb/>Her head chopt off from her lost shoulders flies;
+<lb/><hi rend="italics">Pippins</hi> she cry'd; but death her voice confounds;
+<lb/>And <hi rend="italics">pip, pip, pip</hi>, along the ice resounds.</p>
+<p>Street cries have, before now, been made the vehicle
+
+
+
+<pb n="29" id="p.29"/>
+
+for Political Caricature, notably in <hi rend="italics">The Pedlars, or
+Scotch Merchants of London</hi> (<date value="1763">1763</date>), attributed to
+the Marquis Townshend, which has particular reference to Lord Bute. Eliminating the political satire,
+we get a long list of street cries. The pedlars march
+two and two, carrying, of course, their wares with
+them. The vendors of food are numerous. One calls
+out <quote>Dumplings, ho !</quote> another, who carries a large
+can, wishes to know <quote>Who'l have a dip and a wallop
+for a bawbee ?</quote><note n="7" place="foot">See page 125.</note> Then come <quote>Hogs Puddings ;</quote>
+<quote>Wall Fleet Oysters ;</quote> <quote>New Mackrel ;</quote> <quote>Sevil
+Oranges and Lemons ;</quote>    <quote>Barcelona Philberts ;</quote>
+ <quote>Spanish Chestnuts ;</quote> <quote>Ripe Turkey Figs;</quote> <quote>Heart
+Cakes ;</quote> <quote>Fine Potatoes ;</quote> <quote>New-born Eggs, 8 a
+groat;</quote> <quote>Bolognia Sausages.</quote> Miscellaneous wants
+are met with <quote>Weather Cocks for little Scotch Courtiers ;</quote> <quote>Bonnets for to fit English heads ;</quote> <quote>Laces all a halfpenny a piece;</quote> <quote>Ribbons a groat a yard;</quote>
+<quote>Fine Pomatum ;</quote> <quote>Buy my Wash Balls, Gemmen
+and Ladies;</quote> <quote>Fine Black Balls</quote> (Blacking); <quote>Buy
+a Flesh Brush ;</quote> <quote>Buy my Brooms ;</quote> <quote>Buy any Save-all or Oeconomy Pans, Ladies ;</quote>  <quote>Water for the
+Buggs ;</quote> <note n="8" place="foot">See page 125.</note>  <quote>Buy my pack-thread ;</quote> <quote>Hair or Combings </quote> (for the manufacture of Wigs); <quote>Any Kitchen
+Stuff;</quote>  <quote>Buy my Matches.</quote></p>
+
+
+
+<pb n="p30" id="p.30"/>
+
+<p>Addison accuses the London street criers of cultivating the accomplishment of crying their wares so as
+not to be understood; and in that curious medley of
+<hi rend="italics">bons-mots</hi> and biographical sketches, <quote>The Olio,</quote> by
+Francis Grose,-dated <date value="1796">1796</date>, but written probably
+some twenty years earlier,-the author says, <quote>The
+variety of cries uttered by the retailers of different
+articles in the streets of London make no inconsiderable part in its novelty to strangers and foreigners.
+An endeavour to guess at the goods they deal in
+through the medium of language would be a vain attempt, as few of them convey any articulate sound. It
+is by their tune and the time of day that the modern
+cries of London are to be discriminated.</quote></p>
+<p>J. T. Smith says that the no longer heard cry of
+<quote>Holloway Cheese Cakes</quote>  was pronounced <quote>All my
+Teeth Ache;</quote> and an old woman who sold mutton
+dumplings in the neighbourhood of Gravel Lane called,
+<quote>Hot Mutton Trumpery;</quote> while a third crier, an old
+man who dealt in brick-dust, used to shout something
+that sounded exactly like <quote>Do you want a lick on the
+head?</quote> Another man-a vendor of chickweed-brayed
+like an ass; while a stentorian bawler, who was described as a great nuisance, shouted <quote>Cat's Meat,</quote>
+though he sold cabbages.</p>
+<p>Indeed, some of the cries in our own day would
+
+
+
+<pb n="31" id="p.31"/>
+
+appear to be just as difficult to distinguish. A lady
+tells me that in a poor district she regularly visits, the
+coal-cart man cries: <quote>I'm on the woolsack !</quote> but
+what he means is, <quote>Fine Wallsend Coal!</quote> The
+philologist will find the pronunciation of the peripatetic
+Cockney vendor of useful and amusing trifles-almost
+invariably penn'orths, by the way-worthy of careful
+study. Here are a couple of phonetically rendered
+examples: <quote>Bettnooks, a penny fer two, two frer
+penny.</quote> [Button hooks, a penny for two, two for a
+penny.]  <quote>En endy shoo-awn frer penny.</quote> [A handy
+shoe-horn for a penny.]</p>
+<p>Amongst the twelve etched London Cries <quote>done
+from the life</quote> by Paul Sandby, in <date value="1766">1766</date>, and now
+scarce, are the following curious examples:-
+<list type="cries"><item>
+My pretty little gimy [smart] tarter for a halfpenny
+stick, or a penny stick, or a stick to beat your Wives
+or Dust your cloths !</item>
+<item>Memorandum books a penny a-piece of the poor
+blind. God bless you. Pity the blind!</item>
+<item>Do you want any spoons - hard metal spoons?</item>
+<item>Have you any old brass or pewter to sell or change ?</item>
+<item>All fire and no smoke. A very good flint or a very
+good steel. Do you want a good flint or steel ?</item>
+<item>Any tripe, or neat's foot or calfs-foot, or trotters,
+ho ! Hearts, Liver or Lights !</item></list>
+</p>
+
+
+<pb n="32" id="p.32"/>
+
+<p>The simplers, or herb-gatherers, who were at one
+time numerous, supplied the herb-shops in <placeName key="Covent
+Garden Market">Covent
+Garden</placeName>
+, <placeName key="Fleet Market">Fleet</placeName>
+, and <placeName key="NEwgate Market">Newgate Markets</placeName>
+. They culled
+from the hedges and brooks not only watercresses, of
+which London now annually consumes about &#x00A3;5,000
+worth, but dandelions, scurvy grass, nettles, bittersweet, red valerian, cough-grass, feverfew, hedge mustard, and a variety of other simples. Notwithstanding
+the greater pungency of the wild variety, preferred on
+that account, of late years watercress-growing has
+been profitably followed as a branch of market gardening.  In third-rate <soCalled>genteel</soCalled> neighbourhoods,
+where the family purse is seldom too well filled,
+<quote>Creeses, young watercreeses,</quote> varied by shrimps
+or an occasional bloater, would appear to form the
+chief afternoon solace. Towards the end of the last
+century scurvy-grass was highly esteemed; and the
+best scurvy-grass ale is said to have been sold in
+<placeName key="Covent Garden">Covent Garden</placeName>
+ at the public-house at the corner of
+<placeName key="Henrietta Street">Henrietta Street</placeName>.</p>
+
+<p>The modern dealer in simples, who for a few pence
+supplies pills and potions of a more or less harmless
+character, calculated for the cure of every bodily ailment that afflicts humanity, flourishes in the poorer
+districts of London, and calls himself a herbalist.
+During the progress of an all too short acquaintanceship
+
+
+<pb n="33" id="p.33"/>
+
+struck up with a simpler in an Essex country lane
+through the medium of a particularly fragrant and
+soothing herb, the conversation happened on depression of spirits, and dandelion tea was declared to
+be an unfailing specific. <quote>You know, sir, bad spirits
+means that the liver is out of order. The doctors gives
+you a deadly mineral pizen, which they calls blue pill,
+and it certainly do pizen 'em, but then you run the
+chance of being pizened yerself.</quote> A look of astonishment caused him to continue. <quote>You've noticed the
+'oles in a sheep's liver after it's cut up, 'aven't you ?
+Well, them 'oles is caused by slugs, and 'uman bein's
+is infested just the same. So is awsiz (horses), but they
+don't never take no blue pill. Catch 'em ! The doctors
+knows all about it, bless yer, but they don't talk so plain
+as me. <hi rend="italics">I</hi> calls out-of-sort-ishness <soCalled>slugs in the liver,</soCalled>
+and pizens 'em with three penn'rth of dandelion tea,
+for which I charges thrippence. They calls it <soCalled>sluggishness of the liver,</soCalled> and pizens 'em  with  a
+penn'rth of blue pill, for which they charges a guinea,
+and as often as not they pizens the patient too.</quote> What
+a mine of <soCalled>copy</soCalled> that simple simpler would have
+proved to a James Payn or a Walter Besant !</p>
+<p>The following at one time popular and often reprinted lines, to the tune of  <quote>The Merry Christ Church
+Bells,</quote> are from the Roxburgh Collection of Ballads:
+
+
+
+<pb n="34" id="p.34"/>
+
+<lb/>Here's fine rosemary, sage and thyme.
+<lb/>Come buy my ground ivy.
+<lb/>Here's fetherfew, gilliflowers, and rue.
+<lb/>Come buy my knotted marjorum ho !
+<lb/>Come buy my mint, my fine green mint.
+<lb/>Here's lavender for your cloaths,
+<lb/>Here's parsley and winter savory,
+<lb/>And heartsease which all do choose.
+<lb/>Here's balm and hissop and cinquefoil,
+<lb/>All fine herbs, it is well known.
+<lb/>Let none despise the merry, merry wives
+<lb/>Of famous London town.
+
+<lb/>Here's pennyroyal and marygolds,
+<lb/>Come buy my nettle-tops.
+<lb/>Here's watercresses and scurvy grass.
+<lb/>Come buy my sage of virtue, ho !
+<lb/>Come buy my wormwood and mugwort.
+<lb/>Here's all fine herbs of every sort,
+<lb/>And southernwood that's very good,
+<lb/>Dandelion and horseleek.
+<lb/>Here's dragon's tongue and horehound.
+<lb/>Let none despise the merry, merry wives
+<lb/>Of famous London town.</p>
+<p>Less characteristic is an old undated penny ballad
+fom which we cull the following lines:-
+
+
+<pb n="35" id="p.35"/>
+
+<lb/>Wood, three bundles a penny, all dried deal;
+<lb/>Now, who'll buy a good flint or steel?
+<lb/>Buy a walking stick, a good ash stump;
+<lb/>Hearthstone, pretty maids, a penny a lump.
+<lb/>Fine mackrel; penny a plateful sprats;
+<lb/>Dog's meat, marm, to feed your cats.</p>
+<p>The cry of Saloop, a favourite drink of the young
+bloods of a hundred and fifty years back, conveys no
+meaning to the present generation. Considered as a
+sovereign cure for drunkenness, and pleasant withal,
+saloop, first sold at street corners, where it was consumed principally about the hour of midnight, eventually found its way into the coffee houses. The
+ingredients used in the preparation of this beverage
+were of several kinds-sassafras, and plants of the
+genus known by the simplers as cuckoo-flowers, being
+the principal among them. Saloop finally disappeared
+some five and twenty years ago.</p>
+<p>The watchman cried the time every half hour.
+In addition to a lantern and rattle, he was armed with
+a stout stick. T. L. Busby, who in <date value="1819">1819</date> illustrated
+<quote>The Costumes of the Lower Orders of London,</quote> tells
+us that in March the watchman began his rounds at
+eight in the evening, and finished them at six in the
+morning. From April to September his hours were
+
+
+<pb n="36" id="p.36"/>
+
+from ten till five; and from November to the end
+of February, twelve till seven. During the darkest
+months there was an extra watch from six to twelve,
+and extra patrols or sergeants walked over the beats
+at intervals.</p>
+<p>One of London's best known characters, the Waterman, does not appear to have adopted a cry; or,
+if he did, no mention of it can be found.  But a
+correspondent of <hi rend="italics">Notes and Queries</hi> (5th S. I. May 2,
+<date value="1874">1874</date>) says:  <quote>I heard this verse of a very old (waterman's) song from a very old gentleman on the occasion
+of the last overflow of the Thames :-
+<lb/><quote>Twopence to London Bridge, threepence to the
+Strand,
+<lb/>Fourpence, Sir, to Whitehall Stairs,or else you'll go
+by land.</quote></quote></p>
+<p>The point of departure, however, is not given.</p>
+<p><quote>Fine Tie or a fine Bob, Sir !</quote> According to Hone,
+this was the cry in vogue at a time when everybody,
+old and young, wore wigs.<note n="9" place="foot"><quote>The best wigs are those made in Great Britain: they beat
+the French and German ones all to sticks.</quote>  <hi rend="italics">The Book of
+Aphorisms</hi>, by a modern Pythagorean, <date value="1834">1834</date>.</note> The price of a common
+one was a guinea, and every journeyman had a new
+
+
+
+<pb n="37" id="p.37"/> <figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00016"><head>
+<quote>Past one o'clock, an' a fine morning!</quote></head></figure>
+
+
+<pb n="38" id="p.38"/>
+
+one every year; each apprentice's indenture stipulating, in the language of the officials who are still wig-wearers, that his master should find him in <quote>one good
+and sufficient wig, yearly, and every year, for, and
+during, and unto, the expiration of the full end and
+term of his apprenticeship.</quote> A verse of the time tells
+us :-
+<lb/>Full many a year in Middle Row has this old barber
+been,
+<lb/>Which those who often that way go have full as often
+seen;
+<lb/>Bucks, jemmies, coxcombs, bloods and beaux, the
+lawyer, the divine,
+<lb/>Each to this reverend tonsor goes to purchase wigs so
+fine.</p>
+<p><quote>Buy my rumps and burrs !</quote> is a cry requiring a
+word of explanation. Before the skins of the newly
+flayed oxen were consigned to the tanner, the inside of
+the ear, called the burr, and the fleshy part of the tail
+were removed, and when seasoned and baked are said
+to have formed a cheap and appetising dish.</p>
+<p>Ned Ward, the author of that curious work, <quote>The
+London Spy</quote> (<date value="1703">1703</date>), alludes to the melancholy ditty
+of <quote>Hot baked Wardens [pears], and Pippins;</quote> and,
+in describing the amusements of Bartholomew Fair,
+
+
+
+<pb n="39" id="p.39"/>
+
+states that in leaving a booth he was assailed with
+<quote>Will you buy a Mouse Trap or a Rat Trap ? Will
+you buy a Cloath Brush, or Hat Brush, or a Comb
+Brush?</quote>  The writer possesses a very curious old
+scenic aquatint print in the form of a fan mount,
+representing Bartholomew Fair in <date value="1721">1721</date>. The following descriptive matter is printed in the semicircular
+space under the fan:-</p>
+<p>
+<quote>BARTHOLOMEW FAIR, <date value="1721">1721</date>.
+This fair was granted by Henry the Ist, to one
+Rahere, a witty and pleasant gentleman of his Court,
+in aid and for the support of an Hospital, Priory, and
+Church, dedicated to St. Bartholomew, which he built
+in repentance of his former profligacy and folly. The
+succeeding Priors claimed, by certain Charters, to have
+a Fair every year, during three days, viz.: on the Eve,
+the Day, and on the Morrow of St. Bartholomew. At
+this period the Clothiers of England, and drapers of
+London, kept their Booths and Standings there, and a
+Court of Piepouder was held daily for the settlement
+of all Debts and Contracts. About the year <date value="1721">1721</date>,
+when the present interesting View of this popular Fair
+was taken, the Drama was considered of some importance, and a series of minor although regular Pieces
+were acted in its various Booths. At Lee and Harper's
+
+
+
+<pb n="40" id="p.40"/>
+
+the Siege of Berthulia is performing, in which is introduced the Tragedy of Holifernis. Persons of Rank
+were also its occasional visitors, and the figure on the
+right is supposed to be that of Sir Robert Walpole,
+then Prime Minister. Fawkes, the famous conjuror,
+forms a conspicuous feature, and is the only portrait
+of him known to exist. The remaining amusements
+are not unlike those of our day, except in the articles
+of Hollands and Gin, with which the lower orders
+were then accustomed to indulge, unfettered by licence
+or excise.</quote></p>
+<p>Amongst the numerous figures represented on the
+fan mount, but not mentioned by its publisher, Mr.
+Setchel, is that of the crier of apples, whose basket is
+piled high with tempting fruit. Another woman has
+charge of a barrow laden with pears as big as pumpkins; and a couple of oyster-women, whose wares are
+on the same gigantic scale, are evidently engaged in a
+hot wrangle. Although foreign to our subject, it may
+be mentioned that the statement as to the portrait of
+Fawkes the conjuror being the only one known, is
+incorrect.
+<lb/>Let not the ballad singer's shrilling strain
+<lb/>Amid the swarm thy listening ear detain:
+<lb/>Guard well thy pocket, for these syrens stand
+<lb/>To aid the labours of the diving hand;
+
+
+<pb/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00017"><head><quote>Ye maidens and men, come for what you lack,
+<lb/>And buy the fair Ballads I have in my pack.</quote>
+<lb/>-Pedlar's Lamentation.</head></figure>
+
+
+<pb n="42" id="p.42"/>
+
+<lb/>Confederate in the cheat, they draw the throng,
+<lb/>And Cambric handkerchiefs reward the song.</p>
+<p>A state of things very graphically delineated in another
+print of "Barthelemew Fair" (<date value="1739">1739</date>), where a ballad
+singer is roaring out a caveat against cut nursess whilst
+a pick-pocket is operating on one of his audience.</p>
+<p>The old cry of" Marking Irons " has died out. The
+letters were cast in iron, and sets of initials were made
+up and securely fixed in long-handled iron boxes. The
+marking irons were heated and impressed as a proof
+of ownership.
+<lb/>Hence ladders, bellows, tubs, and pails,
+<lb/>Brooms, benches, and what not,
+<lb/>Just as the owner's taste prevails,
+<lb/>Have his initials got.</p>
+<p><quote>My name and your name, your father's name and
+mother's name.</quote></p>
+<p>Hone says: <quote>I well remember to have heard this
+cry when a boy. The type-seller composed my own
+name for me, which I was thereby enabled to imprint
+on paper with common writing ink. I think it has become wholly extinct within the last ten years.</quote></p>
+<p>Amongst later prints of the London Cries, none are
+at present so highly prized as the folio set engraved in
+the
+
+
+<pb n="43" id="p.43"/>
+
+the early part of this century by Schiavonetti and
+others after Wheatley. Treated in the sentimentally
+pretty style of the period, they make, when framed,
+wall decorations which accord well with the prevailing
+old-fashioned furniture. If in good condition, the set
+of twelve will now readily fetch &#x00A3;20 at Christie's; and
+if coloured, &#x00A3; 30 would not be considered too high a
+price, though five-and-twenty years ago they might
+easily have been picked up for as many shillings.
+Their titles are as follows:-
+<list type="cries">
+<item>Knives, scissors, and razors to grind!</item>
+<item>Old chairs to mend!</item>
+<item>Milk below, maids!</item>
+<item>Strawberrys, scarlet strawberrys!</item>
+<item>Two bundles a penny, primroses, two bundles a
+penny!</item>
+<item>Do you want any matches?</item>
+<item>Round and sound, fivepence a pound, Duke cherries!</item>
+<item>Sweet China oranges!</item>
+<item>Hot spiced gingerbread, smoking hot!</item>
+<item>Fresh gathered peas, young Hastings!</item>
+<item>A new love song, only a halfpenny apiece!</item>
+<item>Turnips and carrots, oh!</item></list></p>
+<p>In connection with the last cry, here is Dr. Johnson's
+humorous reference thereto:-
+
+
+<pb n="44" id="p.44"/>
+
+<lb/>If the man who turnips cries,
+<lb/>Cry not when his father dies,
+<lb/>'Tis a proof that he had rather
+<lb/>Have a turnip than a father !</p>
+<p>The modern bootblack with his <quote>Clean yer boots,
+shine 'em, sir ?</quote> is the successor of the obsolete shoeblack, whose stock-in-trade consisted of liquid blacking, an old wig for removing dust or wet, a knife for
+use on very muddy days, and brushes. Towards the
+end of the last century, Finsbury Square-then an
+open field-was a favourite place for shoeblacks, who
+intercepted the city merchants and their clerks in their
+daily walks to and from their residences in the villages
+of Islington and Hoxton. At that time tight breeches
+and shoes were worn; and the shoeblack was careful
+not to smear the buckles or soil the fine white stockings of his patrons. In a print of this period the cry
+is <quote>Japan your shoes, your honour ?</quote> Cake blacking,
+introduced by that famous, but, as regards the last
+mentioned, somewhat antagonistic trio, Day, Martin,
+and Warren, <quote>the most poetical of blacking makers
+and most transparent of poets,</quote> which was quickly
+taken into general use, snuffed out the shoeblack; and
+from about <date value="1820">1820</date> until the time of the first Exhibition
+in <date value="1851">1851</date>, when the shoeblack brigade in connection
+
+
+
+<pb n="45" id="p.45"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00018"><head><quote>Fresh and sweet!</quote></head></figure>
+
+
+<pb n="46" id="p.46"/>
+
+with ragged schools was started, London may be said
+to have blacked its own boots.</p>
+<p>Bill Sykes the costermonger, or <soCalled>costard</soCalled>-monger, as he was
+originally called from
+his trade of selling
+apples, now flourishes
+under difficulties.
+What with the envious
+complaints of the small
+shopkeepers whom he
+undersells,  and  the
+supercilious rebuffs of
+the policeman who
+keeps him dodging
+about and always <quote>on
+the move,</quote> Bill has a
+hard time of it indeed.
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00019"><head>"Fresh Cabbidge!"</head></figure>     Yet he is distinctly
+a benefactor to the
+poorer portion of humanity. He changes his cry with
+the stock on his barrow. He will invest one day in
+pine-apples, when there is a glut of them-perhaps a
+little over-ripe-in Pudding Lane; and in stentorian
+voice will then make known his willingness to exchange
+
+
+
+<pb n="47" id="p.47"/>
+
+slices for a halfpenny each, or a whole one for
+sixpence. On other days it may be apples, or oranges,
+fish, vegetables, photographs, or even tortoises; the
+latter being popularly supposed to earn a free, if un-
+comfortable, passage to this country in homeward-
+bound ships as wedges to keep the cargo from shifting
+in the hold. It is not often that goods intended for
+the thriving shopkeeper find their way to the barrow
+of the costermonger. Some time ago amber-tipped
+cherry or briar-wood pipes were freely offered and as
+freely bought in the streets at a penny each. Suddenly
+the supply stopped; for the unfortunate wholesale
+dealer in Houndsditch, who might have known better,
+had mistaken <quote>dozen</quote> for <quote>gross</quote> in his advice; and
+at 6s. 6d. per gross the pipes could readily be retailed
+for a penny each; whereas at the cost price of 6s. 6d.
+a dozen, one shilling ought to have been asked. It
+seems that not only did the importer imagine that the
+amber mouthpieces were imitation, but Bill Sykes also
+thought he was <soCalled>doing</soCalled> the public when he announced
+them as real.</p>
+<p>In the present race of street criers there are trick-
+sters in a small way; as, for instance, the well known
+character who picks up a living by selling a bulky-
+looking volume of songs. His long-drawn and never
+varied cry of <quote>Three un-derd an' fif-ty songs for a
+
+
+
+<pb n="p.48" id="p.48"/>
+
+penny!</quote> is really <quote>Three under fifty songs for a
+penny.</quote> The book is purposely folded very loosely so
+as to bulk well; but a little squeezing reduces it to the
+thickness of an ordinary tract. Street criers are honest
+enough, however, in the main.  If vegetables are
+sometimes a little stale, or fruit is suspiciously overripe, they do not perhaps feel absolutely called upon
+to mention these facts; but they give bouncing penn'orths, and their clients are generally shrewd enough to
+take good care of themselves. Petty thieves of the
+area-sneak type use well-known cries as a blind while
+pursuing their real calling,-match-selling often serving as an opportunity for pilfering. Blacker sheep
+than these there are; but fortunately one does not
+often come across them. Walking one foggy afternoon towards dusk along the Bayswater Road, I was
+accosted by a shivering and coatless vagabond who
+offered a tract. Wishing to shake off so unsavoury a
+companion, I attempted to cross the road, but a few
+yards from the kerb he barred further progress.</p>
+<p><quote>Sixpence, Sir, only sixpence, I <hi rend="italics">must</hi> have sixpence!</quote>
+and as he spoke he bared a huge arm knotted like a
+blacksmith's. Raising a fist to match, he more than
+once shot it out unpleasantly near, exhibiting every
+time he did so an eruption of biceps perfectly appalling in its magnitude. That tract is at home somewhere.
+
+
+<pb n="49" id="p.49"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00020"><head>"Antique Ballads, sung to crowds of old,
+<lb/>Now cheaply bought at thrice their weight in gold."</head></figure></p>
+
+
+<pb n="50" id="p.50"/>
+
+<p>There are persons in London who get their living
+by manufacturing amusing or useful penny articles,
+with which they supply the wholesale houses in
+Houndsditch, who in turn find their customers in the
+hawkers and street criers. The principal supply, however, is imported from the Continent at prices against
+which English labour cannot compete.  Soon forgotten, each novelty has its day, and is cried in a
+different manner. Until the law stepped in and put
+a stop to the sale, the greatest favourite on public
+holidays was the flexible metal tube containing scented
+water, which was squirted into the faces of passers-by
+with strict impartiality and sometimes with blinding
+effect.</p>
+<p><quote>All the fun of the fair,</quote>-a wooden toy which,
+when drawn smartly down the back or across the
+shoulders, emits a sound as if the garment were being
+rent-ranks, perhaps, second in the estimation of
+'Arry and Emma Ann-she generally gets called
+Emma Ran-when out for a holiday. <quote>The Fun of
+the Fair</quote> is always about on public holidays, illuminations, Lord Mayor's day, and in fact whenever
+people are drawn out of doors in such multitudes that
+the pathways are insufficient to hold the slowly moving
+and densely packed human stream which perforce
+slops over and amicably disputes possession of the
+
+
+
+<pb n="51" id="p.51"/>
+
+road with the confused and struggling mass of vehicles
+composed of everything that goes on wheels. A real
+Malacca cane, the smallest Bible in the world, a
+Punch and Judy squeaker, a bird warbler, a gold watch
+and chain, and Scotch bagpipes, are, with numerous
+others, at present popular and tempting penn'orths;
+while the cry of <quote>A penny for a shillin' 'lusterated
+magazine </quote>-the epitaph on countless unsuccessful
+literary ventures-seems to many an irresistible attraction.</p>
+<p>In connection with 'Arry, the chief producer of
+street noises, it may be questioned whether London is
+now much better off than it was before the passing
+of the Elizabethan Statutes of the Streets, by which
+citizens were forbidden, under pain of imprisonment,
+to blow a horn in the night, or to whistle after the
+hour of nine o'clock p.m. Sudden outcries in the still
+of the night, and the making of any affray, or the
+beating of one's wife-the noise rather than the
+brutality appears to have been objected to-were also
+specially forbidden. If this old Act is still on the
+Statute-book, it is none the less a dead letter. Our
+streets are now paraded by companies of boys or
+half-grown men who delight in punishing us by means
+of that blatant and horribly noisy instrument of dissonant, unchangeable chords, the German concertina.</p>
+
+
+<pb n="52" id="p.52"/>
+
+<p>In many neighbourhoods sleep is rendered, until the
+early hours, impossible by men and women who find
+their principal and unmolested amusement in the
+shouting of music-hall songs, with an intermittent
+accompaniment of shriekings.  Professional street
+music of all kinds requires more stringent regulation;
+and that produced by perambulating amateurs might
+with advantage be well-nigh prohibited altogether.
+The ringing of Church bells in the grey of the morning, and the early habits of the chanticleer, are often
+among the disadvantages of a closely populated
+neighbourhood. Nor are these street noises the only
+nuisances of the kind. London walls and partitions
+are nearly all thin, and a person whose neighbour's
+child is in the habit of practising scale exercises or
+<soCalled>pieces,</soCalled> should clearly have the right to require the
+removal of the piano a foot or so from the wall, which
+would make all the difference between dull annoyance
+and distracting torment.</p>
+<p>But we are wandering, and wandering into a dismal
+bye-way. Returning to our subject, it is impossible
+to be melancholy in the presence of the facetious
+salesman of the streets, with his unfailing native wit.
+Hone tells us of a mildly humorous character, one
+<soCalled>Doctor Randal,</soCalled> an orange-seller, who varied the
+description of his fruit as circumstances and occasions
+
+
+<pb n="53" id="p.53"/>
+ demanded; as <soCalled>Oratorio oranges,</soCalled> and so on.
+A jovial rogue whose beat extends to numerous courts
+and alleys on either side
+of Fleet Street,regularly
+and unblushingly cries,
+<quote>Stinking  Shrimps,</quote>
+and by way of addenda,
+<quote>Lor, 'ow they do stink
+to-day, to be sure!</quote>
+His little joke is almost
+as much relished as his
+shrimps and bloaters,
+and they appear to be
+always of the freshest.
+Were it not that insufficient clothing and an
+empty  stomach   are
+hardly conducive thereto, the winter cry so
+generally heard after a    <figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00021"><head><quote>Stinking Fish!</quote></head></figure>
+fall of snow, <quote>Sweep
+yer door away, mum ?</quote> might fairly be credited to
+an attempt at facetiousness under difficulties, while
+the grave earnestness of the mirth-provoking cry of
+the Cockney boot-lace man, <quote>Lice, lice, penny a
+pair boot-lice!</quote> is strong evidence that he has no
+
+
+
+<pb n="54" id="p.54"/>
+
+thought beyond turning the largest possible number
+of honest pennies in the shortest possible space of
+time.</p>
+<p>A search in our collection of books and ballads for
+London Cries, humorous in themselves, discovers but
+two,-
+<lb/><quote>Jaw-work, up and under jaw-work, a whole pot for
+a halfpenny, hazel-nuts !</quote>
+and-
+<lb/><quote>New laid eggs, eight a groat-crack 'em and try
+'em  </quote></p>
+<p>A somewhat ghastly form of facetiousness was a
+favourite one with a curious City character, now
+defunct. He was a Jew who sold a nameless toy-a
+dried pea loose in a pill box, which was fastened to a
+horse-hair, and on being violently twirled, emitted a
+vibratory hum that could be heard for some distance. Unless his unvarying cry, <quote>On'y a 'a'penny,</quote>
+brought buyers to the fore, he gave vent to frequent
+explosions of strange and impious language, which
+never failed to provoke the merriment of the
+passer-by.</p>
+<p>Among the many living City characters is the man
+--from his burr evidently a Northumbrian-who sells
+boot laces. His cry is, <quote>Boot laces-AND the boot
+laces.</quote> This man also has a temper. If sales are
+
+
+<pb n="55" id="p.55"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00022"><head><quote>New laid eggs, eight a groat-crack em and try 'em !</quote></head></figure>
+
+
+<pb n="56" id="p.56"/>
+
+slow, as they not uncommonly are, his cry culminates
+in a storm of muttered abuse; after which mental
+refreshment he calmly proceeds as before, <quote>The boot
+laces-AND the boot laces.</quote>  Most of us know by
+sight the penny Jack-in-the-box seller, whose cry, as
+Jack pops up, on the spring of the lid being released,
+is a peculiar double squeak, emitted without movement of the lips. The cry is supposed to belong to
+the internal economy of the toy, and to be a part of
+the penn'orth; but, alas ! Jack, once out of the hands
+of his music-master, is voiceless.. The numerous
+street sellers of pipe and cigar lights must have a
+hard time of it. Following the lucifer match, with its
+attendant choking sulphurous fumes, came the evil-smelling, thick, red-tipped, brown paper slip charged
+with saltpetre, so that it should smoulder without
+flaming. These slips, in shape something like a row
+of papered pins, were divided half through and torn
+off as required.  Like the brimstone match which
+preceded, and the Vesuvian which followed, these
+lights (which were sold in the shops at a penny a box,
+but in the streets at two and sometimes three boxes
+for the same sum) utterly spoilt the-flavour of a cigar;
+hence the superiority of the now dominant wax vestas,
+The matches of a still earlier period were long slips
+of dry wood smeared at either end with brimstone.
+
+
+<pb n="57" id="p.57"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00023"><head><quote>Letters for post?</quote></head></figure>
+
+
+
+<pb n="58" id="p.58"/>
+
+They would neither <quote>light only on the box,</quote> nor off
+it, unless aided by the uncertain and always trouble-
+some flint, steel, and tinder, or the direct application
+of flame. <quote>Clean yer pipe; pipe-cleaner, a penny for
+two !</quote> is a cry seldom absent from the streets. The
+pipe-cleaner is a thin flexible, double-twisted wire
+about a foot long, with short bristles interwoven at
+one end, and now, <quote>when everybody smokes who
+doesn't,</quote> the seller is sure of a more or less constant
+trade.</p>
+<p>The buyers of the so-called penny ices sold in the
+London streets during the summer months are charged
+only a halfpenny; and the numerous vendors, usually
+Italians, need no cry; for the street gamins and
+errand boys buzz around their barrows like flies about
+a sugar barrel. For obvious reasons, spoons are not
+lent. The soft and half-frozen delicacy is consumed
+by the combined aid of tongue and fingers. Parti-coloured Neapolitan ices, vended by unmistakable
+natives of Whitechapel or the New Cut, whose curious
+cry of <quote>'Okey Pokey</quote> originated no one knows how,
+have lately appeared in the streets. Hokey Pokey is
+of a firmer make and probably stiffer material than
+the penny ice of the Italians, which it rivals in public
+favour; and it is built up of variously flavoured layers.
+Sold in halfpenny and also penny paper-covered
+
+
+
+<pb n="59" id="p.59"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00024"><head><quote>Knives and Scissors to Grind ?</quote></head></figure>
+
+
+<pb n="60" id="p.60"/>
+
+squares, kept until wanted in a circular metal refrigerating pot surrounded by broken ice, Hokey Pokey has
+the advantage over its rival eaten from glasses, inasmuch as it can be carried away by the purchaser
+and consumed at leisure.  Besides being variously
+flavoured, Hokey Pokey is dreadfully sweet, dreadfully cold, and hard as a brick. It is whispered that
+the not unwholesome Swede turnip, crushed into
+pulp, has been known to form its base, in lieu of more
+expensive supplies from the cow, whose complex
+elaboration of cream from turnips is thus unceremoniously abridged.</p>
+<p>Another summer cry recalls to memory a species .of
+house decoration, which we may hope is rapidly
+becoming a thing of the past. <quote>Ornaments for yer
+fire stoves,</quote> are usually either cream-tinted willow
+shavings, brightened by the interspersion of a few
+gold threads, or mats thickly covered with rose-shaped
+bows and streamers of gaily-coloured tissue papers.
+Something more ornate, and not always in better
+taste, is now the fashion; the trade therefore has
+found its way from the streets to the shops, and the
+old cry, <quote>Ornaments for yer fire stoves,</quote> is likely to
+be seldomer heard.
+Many of the old cries, dying out elsewhere, may
+still be familiar, however, in the back streets of second
+
+
+<pb n="61" id="p.61"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00025"><head><quote>O' Clo !</quote></head></figure>
+
+
+<pb n="62" id="p.62"/>
+
+and third rate neighbourhoods. The noisy bell <note n="10" place="foot">Francis Grose tells us, in 1796, that some trades have from
+time immemorial invoked musical assistance,-such as those of
+pie, post, and dust men, who ring a bell.<lb/>My bell I keep ringing
+<lb/>And walk about merrily singing
+<lb/>My muffins.</note> of
+the privileged muffin-man can
+hardly be counted; but <quote>dust, O,</quote>
+-the dustman's bell is almost a
+thing of the past-<quote>knives and
+scissors,</quote> - pronounced  sitthers <quote>to grind,</quote> <quote>chairs to mend,</quote>
+<quote>cat's and  dawg's meat,</quote> the
+snapped-off short <quote>o' clo</quote> of the
+Jewish dealer in left-off garments,
+<quote>fine warnuts, penny for ten, all
+cracked,</quote> <quote>chestnuts all 'ot,</quote> <quote>fine
+ripe strawberries,</quote> <quote>rabbit or 'air
+skins,</quote> <quote>fine biggaroon cherries,</quote>
+<quote> fine oranges, a penny for three,</quote>
+and many others, are still shouted
+in due season by leathern-lunged
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00026"><head><quote>Dust, O</quote></head></figure>    itinerant traders. The "O' clo"
+man is nearly always historically
+represented, as in the Catnach illustration, wearing
+
+
+
+
+<pb n="63" id="p.63"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00027"><head><quote>Cat's and Dog's Meat!</quote></head></figure>
+
+
+<pb n="64" id="p.64"/>
+
+several hats; but, though he may often be met with
+more than one in his possession, he is now seldom
+seen with more than one on his head. Calling the
+price before the quantity, though quite a recent innovation, or more probably the revival of an old style,
+is almost universal. The cry of <quote>Fine warnuts, ten
+a penny,</quote> is now <quote>A penny for ten, fine warnuts,</quote> or
+<quote>A penny for 'arf a score, fine warnuts.</quote>
+The cat's meat man has never, like some of his
+colleagues, aspired to music, but apparently confines
+himself to the one strident monosyllable. It has
+been stated, by the way, that the London cats, of
+which it seems there are at present some 350,000,
+annually consume &#x00A3;1oo,ooo worth of boiled horse.
+Daintily presented on a skewer, pussy's meat is eaten
+without salt; but, being impossible of verification, the
+statistics presented in the preceding sentence may be
+taken with a grain.</p>
+<p><quote>Soot</quote> or <quote>Sweep, ho !</quote> The sweep, accompanied
+by two or three thinly-clad, half-starved, and generally
+badly-treated apprentices, who ascended the chimneys
+and acted as human brushes, turned out in old
+times long before daylight. It was owing to the exertions of the philanthropist, Mr. Jonas Hanway, and
+before the invention of the jointed chimney sweeping
+machine, that an Act was passed at the beginning of
+
+
+
+<pb/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00028"></figure>
+BY
+ROYAL APPOINTMENT
+J. W. EVANS
+SHORT'S GARDENS -- DRURY LANE
+
+Fresh Boiled Paunfhes once a fortnite
+
+Famleys owning Cats   &#x0026;   Dogs Waited on daily and regler.
+
+Tripe and   Tate                          Cart        kept
+NO CREDDIT
+
+<pb n="67" id="p.67"/>
+
+this century, providing that every chimney-sweeper's apprentice should wear a
+brass plate in front
+of his cap, with the
+name and abode of
+his master engraved
+thereon. The boys
+were accustomed to
+beg for food and
+money in the streets;
+but by means of the
+badges, the masters
+were traced, and an
+improvement in the
+general condition of
+the apprentices followed. <figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00029"><head><quote>Sw-e-e-p !</quote></head></figure>
+ But the early
+morning is still disturbed by the long-drawn cry,
+<quote>Sw-e-e-p.</quote> This, and the not unmusical <quote>ow-oo,</quote>
+of the jodeling milkman-all that is left of <quote>milk
+below maids,</quote>-the London milk-maids are usually
+strongly-built Irish or Welsh girls-and the tardier
+and rather too infrequent <quote>dust-o</quote> are amongst the
+few unsuppressed Cries of London-town. They are
+
+
+
+<pb n="68" id="p.68"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00030"><head><quote>Ow-oo!</quote></head></figure>
+tolerated and continued because they are convenient,
+and from a vague sense of
+prescriptive right dear to the
+heart of an Englishman.
+Until quite recently, the
+flower girls at the Royal
+Exchange-decent and well-behaved Irishwomen who
+work hard for an honest
+living-were badgered and
+driven about by the police.
+They are now allowed to
+collect and pursue their calling in peace by -the Wellington statue, where their
+cry, <quote>Buy a flower, sir,</quote> is
+heard, whatever the weather, all the year round.
+<quote>Speshill 'dishun, 'orrible railway haccident,</quote> the outcome of an advanced civilization, is a cry that was unknown to our forefathers. Our forebears had often to
+pay a shilling for a newspaper, and the newsman made
+known his progress through the streets by sound of
+tin trumpet: as shown in Rowlandson's graphic illustration, a copy of the newspaper was carried in the hatband.
+
+
+<pb n="69" id="p.69"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00031"><head><quote>Great News</quote></head></figure>
+
+
+<pb n="70" id="p.70"/>
+
+band. <quote>C'gar lights, 'ere y'ar, sir; 'apenny a box,</quote>
+and <quote> Taters all 'ot,</quote> also belong to the modern school
+of London Cries; while the piano-organ is a fresh
+infliction in connection with the new order of street
+noises. And although a sort of portable penthouse
+was used in remote times for screening from heat and
+rain, the ribbed and collapsible descendant thereof did
+not come into general use much before the opening of
+the present century; hence the cry, <quote>Any umbrellas-
+termend,</quote> may properly be classed as a modern
+one.</p>
+<p>In the crowded streets of modern London the
+loudest and most persistent cry is that of the omnibus
+conductor-<quote>Benk,</quote> <quote>Chairin' Krauss,</quote> <quote>Pic'dilly</quote>
+or it may be, <quote>Full inside,</quote> or <quote>'Igher up</quote> ; to which
+the cabman's low-pitched and persuasive <quote>Keb, sir ?</quote>
+-he is afraid to ply too openly for hire-plays an in-different second. Judging from Rowlandson's illustration, his predecessor the hackney coachman shared
+cabby's sometimes too pointedly worded objection to a
+strictly legal fare.</p>
+<p>The <soCalled>under-street</soCalled> Cries heard in our own time at
+the various stations on the railway enveloping London,
+in what by courtesy is termed a circle-the true shape
+would puzzle a mathematician to define-form an
+interesting study. While a good many of the porters
+
+
+<pb n="71" id="p.71"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00032"><head><quote>Wot d'yer call that ?</quote></head></figure>
+
+
+<pb n="72" id="p.72"/>
+
+are recruited from the country, it is a curious fact
+that in calling the names of the various <soCalled>styshuns</soCalled> they mostly settle down-perhaps from force
+of association <quote>downt-tcher-now</quote> -into one dead level
+of Cockney pronunciation.</p>
+<p>As one seldom realizes that there is anything wrong
+with one's own way of speaking, pure-bred Cockneys
+may be expected to quarrel with the phonetic rendering
+given; however, as Dr. James Cantlie, in his interesting and recently published <quote>Degeneration amongst
+Londoners,</quote><note n="11" place="foot"> <quote>Degeneration amongst Londoners.</quote> By James Cantlie,
+M.A., M.B., F.R.C.S. One Shilling. The Leadenhall Press,
+E.C.</note>  tells us that a pure-bred Cockney is a
+<hi rend="italics"><foreign lang="LA">rara avis</foreign></hi> indeed, the quarrelsomely inclined may not
+be numerous, and they may be reminded that the
+writer is not alone in his ideas as to Cockney pro.
+nunciation. Appended to Du Maurier's wonderfully
+powerful picture of <quote>The Steam Launch in Venice</quote>
+(Punch's Almanac, <date value="1882">1882</date>), is the following wording:-
+<hi rend="italics">'Andsome 'Arriet</hi>:  <quote>Ow my ! if it 'yn't that bloomin' old Temple Bar, as they did aw'y with out o' Fleet
+Street !</quote>
+<hi rend="italics">Mr Belleville (referring to Guide-book)</hi>: <quote>No, it
+'yn't! It's the fymous Bridge o' SIGHS, as BYRON
+
+
+
+<pb n="73" id="p.73"/>
+
+went and stood on; 'im as wrote OUR BOYS, yer
+know!</quote>
+<hi rend="italics">'Andsome 'Arriet</hi>: <quote>Well, I NEVER ! It 'yn't much
+of a SIZE, any'ow !</quote>
+<hi rend="italics">Mr. Belleville</hi>: <quote>'Ear ! 'ear ! Fustryte !</quote></p>
+<p>This paragraph is from the London <hi rend="italics">Globe</hi> of <date value="1885-01-26">January
+26th, 1885</date>: <quote>Spelling reformers take notice. The English alphabet-diphthongs and all-does not contain
+any letters which, singly or in combination, can convey
+with accuracy the pronunciation given by the newsboys to the cry, <quote>A-blowin' up of the 'Ouses of Parliament !</quote> that rent the air on Saturday. The word
+'blowin" is pronounced as if the chief vowel sound
+were something like 'ough' in 'bough'; and, even
+then an 'e' and a 'y' ought to be got in somewhere.</quote></p>
+<p>There are twenty-seven stations on the London
+Inner Circle Railway-owned by two companies, the
+Metropolitan and District-and the name of one only
+-Gower Street-is usually pronounced by <soCalled>thet
+tchung men</soCalled>, the railway porter, as other people pronounce it. [<soCalled>Emma Smith</soCalled>, <note n="12" place="foot">Hammersmith.</note> while not a main line
+station, may be cited here simply as a good example
+
+
+
+<pb n="74" id="p.74"/>
+
+of Cockney, for 'Arry and 'Arriet are quite incapable
+of any other verbal rendering.] They are cried as
+follows:- <list>
+<item>"South Kenzint'nn."</item>
+<item>"Glawster Rowd." (owd as in " loud.")</item>
+<item>"I Street, Kenzint'nn."</item>
+<item><placeName key="Notting Hill Gate">"Nottin' Ill Gite."</placeName>
+ (ite as in "flight.")</item>
+<item><placeName key="Queen's Road, Bayswater">"Queen's Rowd, Bizewater."</placeName>
+ (ize as in "size.")</item>
+<item>"Kennun Street."
+
+(ize as in "size.") "Pride Street, Peddinten."
+
+(ize as in "size.") "Edge-wer Rowd."(by common consent the Cockney refrains from saying "Hedge-wer.")
+</item><item>"Biker Street."</item>
+<item><placeName key="Portland Road">"Portland Rowd."</placeName>
+</item>
+<item>"Gower Street."</item>
+<item><name type="place" key="King's Cross">"King's Krauss."</name>
+
+(Often abbreviated to "'ng's Krauss.")</item>
+<item>"Ferrinden Street."</item>
+<item>"Oldersgit Street."
+(no preliminary " H.")</item>
+<item>"Mawgit Street."</item>
+<item>"Bish-er-git.</item>
+<item>" Ol'it."</item>
+<item>"Mark Line."</item>
+<item><name type="place" key="Monument">" Monneym'nt."</name></item>
+<item>Menshun Ouse."</item>
+<item><name type="place" key="Blackfriars">" Bleckfriars."</name></item>
+
+<item>"Tempull."
+( pull-pull-Tempull.")</item>
+<item>Chairin Krauss."</item>
+<item>"Wes'minster."
+(One sometimes hears " Wes'minister ": a provincialism.</item>
+<item>"S'n' Jimes-iz Pawk."(ime as in " time.")</item>
+<item>"Victaw-ia."</item>
+ <item>"Slown Square." (own as in " town.")</item></list></p>
+<p>Country  cousins may be reminded that the
+
+
+
+<pb n="75" id="p.75"/>
+
+guiding letters I or O so boldly marked on the tickets<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00033"><head>Tickets Marked I This Way</head></figure>
+issued on the London underground
+railway, and, in the brightest vermilion, as conspicuously painted up
+in the various stations, do not mean
+<soCalled>Inner</soCalled> or <soCalled>Outer</soCalled> Circle, but the
+inner and outer lines of rails ofthe
+Inner Circle Railway. Though sanctioned by Parliament more than
+twenty years ago, the so-called
+Outer Circle Railway is still incomplete, its present form being that of a horse-shoe, with
+termini at Broad Street and Mansion House, and
+some of its principal stations at Dalston, Willesden,
+and Addison Road, Kensington.<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00034"><head>Tickets Marked O This Way</head></figure></p>
+<p>It has before been said that everything that could be carried has, at
+some time or other, been sold in the
+streets; and it follows that an
+approximately  complete  list  of
+London Cries would reach a very
+large total. From its mere length
+and sameness such a list would
+moreover be apt to weary the reader;
+for not all cries have the interest of a traditional
+phrase or intonation which gives notice of the nature
+
+
+
+<pb n="76" id="p.76"/>
+
+of the wares, even when the words are rendered
+unintelligible by the necessity of vociferation. But
+a few of the most constant and curious cries may be
+interesting to note. </p>
+<p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00035"><head><quote>Hot Spice Gingerbread!</quote></head> </figure></p>
+<p>
+<lb/><quote>Hot Spice Gingerbread!</quote>
+<lb/><quote>'Tis all hot, nice smoaking hot!</quote>
+<lb/>You'll hear his daily cry;
+<lb/>But if you won't believe, you fot,
+<lb/>You need but taste and try.</p>
+
+
+
+<pb n="77" id="p.77"/>
+<p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00036"><head><quote>Old Cloaths</quote></head> </figure></p><p>
+
+<lb/><quote>Old Cloaths</quote>
+<lb/>Coats or preeches do you vant?
+<lb/>Or puckles for your shoes?
+<lb/>Vatches too me can supply:-
+<lb/>Me monies von't refuse.
+
+
+</p>
+<pb n="78" id="p.78"/>
+<p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00037"><head><quote>Knives to Grind!</quote></head></figure> </p><p>
+<lb/><quote>Knives to Grind!</quote>
+<lb/>Young gentlemen attend my cry,
+<lb/>And bring forth all your Knives;
+<lb/>The barbers Razors too I grind;
+<lb/>Bring out your Sciffars, wives.
+
+
+
+<pb n="79" id="p.79"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00038"><head><quote>Cabbages O! Turnips!</quote></head></figure>
+
+<lb/>With mutton we nice turnips eat;
+<lb/>Beef and carrots never cloy;
+<lb/>Cabbage comes up with Summer meat,
+<lb/>With winter nice favoy.
+
+
+
+<pb n="80" id="p.80"/>
+
+<lb/>Holloway cheese cakes !
+<lb/>Large silver eels, a groat a pound, live eels !
+<lb/>Any New River water, water here?
+<lb/>Buy a rope of onions, oh ?
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00039"><head><quote>Sand 'O!</quote></head></figure>
+
+<lb/>Buy a goose?
+<lb/>Any bellows to mend ?
+<lb/>Who's for a mutton pie, or an eel pie ?
+<lb/>Who buys my roasting jacks ?
+<lb/>Sand, ho ! buy my nice white sand, ho !
+
+
+
+<pb n="81" id="p.81"/>
+
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00040"><head><quote>Buy a Live Goose ?</quote></head></figure>
+
+
+<pb n="82" id="p.82"/>
+
+<lb/>Buy my firestone?
+<lb/>Roasted pippins, piping hot !
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00041"><head><quote>Cherries, O ! ripe cherries, O</quote></head></figure>
+
+<lb/>A whole market hand for a halfpenny-young radishes, ho !
+<lb/>Sw-e-e-p !
+
+
+
+<pb n="83" id="p.83"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00042"><head>
+COVENT GARDEN. <quote>Fine Strawberries !</quote></head></figure>
+
+
+
+<pb n="84" id="p.84"/>
+
+<lb/>Brick dust, to-day ?
+<lb/>Door mats, want?
+<lb/>Hot rolls!
+<lb/>Rhubarb!
+<lb/>Buy any clove-water ?
+<lb/>Buy a horn-book ?
+<lb/>Quick (living) periwinkles !
+<lb/>Sheep's trotters, hot !
+<lb/>Songs, three yards a penny !
+<lb/>Southernwood that's very good !
+<lb/>Cherries O ! ripe cherries O !
+<lb/>Cat's and dog's meat !
+<lb/>Samphire !
+<lb/>All a-growin', all a-blowin'.
+<lb/>Lilly white mussels, penny a quart!
+<lb/>New Yorkshire muffins!
+<lb/>Oysters, twelvepence a peck !
+<lb/>Rue, sage, and mint, farthing a bunch !
+<lb/>Tuppence a hundred, cockles !
+<lb/>Sweet violets, a penny a bunch !
+<lb/>Brave Windsor beans !
+<lb/>Buy my mops, my good wool mops!
+<lb/>Buy a linnet or a goldfinch?
+<lb/>Knives, combs, and inkhornes !
+<lb/>Six bunches a penny, sweet lavender !
+<lb/>New-laid eggs, eight a groat!
+
+
+
+<pb n="85" id="p.85"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00043"><head><quote> Sweet Lavender !</quote></head></figure>
+
+
+<pb n="86" id="p.86"/>
+
+<lb/>Any wood ?
+<lb/>Hot peas !
+<lb/>Hot cross buns !
+<lb/>Buy a broom?
+<lb/>Old chairs to mend !
+<lb/>Young lambs to sell!
+<lb/>Tiddy diddy doll!
+<lb/>Hearth-stone !
+<lb/>Buy my nice drops, twenty a penny, peppermint
+drops!
+<lb/>Any earthen ware, plates, dishes, or jugs, to-day,-
+any clothes to exchange, Madam ?
+<lb/>Holly O, Mistletoe !
+<lb/>Buy my windmills for a ha'penny a piece ! [a child's
+toy.]
+<lb/>Nice Yorkshire cakes !
+<lb/>Buy my matches, maids, my nice small pointed
+matches !
+<lb/>Come, buy my fine myrtles and roses !
+<lb/>Buy a mop or a broom?
+<lb/>Hot rolls!
+<lb/>Will you buy a Beau-pot ?
+Probably of Norman-French origin, the term  <soCalled>beau-
+pot</soCalled> is still in use in out-of-the-way country districts,
+to signify a posy or nosegay, in which sweet-smelling
+herbs and flowers, as rosemary, sweet-briar, balm,
+
+
+
+<pb n="87" id="p.87"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00044"><head><quote>Chairs to mend!</quote></head></figure>
+
+
+<pb n="88" id="p.88"/>
+
+roses, carnations, violets, wall-flowers, mignonette,
+sweet-William, and others that we are now pleased to
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00045"><head><quote>All a blowin !</quote></head></figure>
+designate <soCalled>old fashioned,</soCalled> would naturally predominate.
+<lb/>Come buy my sweet-briar !
+
+
+
+<pb n="89" id="p.89"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00046"><head><quote>Any Earthen Ware; buy a jug or a tea pot?</quote></head></figure>
+
+
+<pb n="90" id="p.90"/>
+
+<lb/>Any old flint glass or broken bottles for a poor woman to-day
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00047"><head><quote>"Fresh Oysters! penny a lot'</quote></head></figure>
+
+<lb/>Sweet primroses, four bunches a penny, primroses !
+<lb/>Black and white heart cherries, twopence a pound,
+full weight, all round and sound !
+
+
+
+<pb n="91" id="p.91"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00049"><head><quote>Buy my Sweet Roses ?</quote></head></figure>
+
+
+<pb n="92" id="p.92"/>
+
+<lb/>Fine ripe duke cherries, a ha'penny a stick and a
+penny a stick, ripe duke cherries !
+<lb/>Shrimps like prawns, a ha'penny a pot!
+<lb/>Green hastings !
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00049"><head><quote>Fine large Cucumbers !</quote></head></figure>
+
+<lb/>Hot pudding !
+<lb/>Pots and kettles to mend !
+<lb/>'Ere's yer toys for girls an' boys !</p>
+<p>Brick-dust was carried on the backs of asses and
+sold for knife-cleaning purposes at a penny a quart.</p>
+
+
+
+<pb n="93" id="p.93"/>
+<p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00050"><head><quote>'Ere's yer toys for girls an' boys!</quote></head></figure></p>
+
+
+<pb n="94" id="p.94"/>
+
+<p>The bellows-mender, who sometimes also followed
+the trade of a tinker, carried his tools and apparatus
+buckled in a leathern bag at his back, and practised
+his profession in any convenient corner of the street.
+Door-mats of all shapes were made of rushes or
+rope, and were sold at from sixpence to several shillings each.</p>
+<p>The earliest green pea brought to the London
+market-a dwarf variety-was distinguished by the
+name of Hasteds, Hastens, Hastins, or Hastings, and
+was succeeded by the Hotspur. The name of Hastings was, however, indiscriminately given to all peas
+sold in the streets, and the cry of "green Hastings"
+was heard in every street and alley until peas went
+out of season.</p>
+<p>The crier of hair brooms, who usually travelled with
+a cart, carried a supply of brushes, sieves, clothes-
+horses, lines, and general turnery.
+<lb/>All cleanly folk must like my ware,
+<lb/>For wood is sweet and clean;
+<lb/>Time was when platters served Lord Mayor
+<lb/>And, as I've heard, a Queen.</p>
+<p>His cry took the form of the traditional tune <quote>Buy
+a broom,</quote> which may even now be occasionally heard
+-perhaps the last survival of a street-trade tune-
+
+
+
+<pb n="95" id="p.95"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00051"><head>Curds and Whey !</head></figure>
+
+
+<pb n="96" id="p.96"/>
+
+taken up separately or in fitful chorus by the men and
+women of a travelling store. The Flemish <soCalled>Buy a
+Broom</soCalled>  criers, whose trade is gone, generally went in
+couples or threes.  Their figures are described by
+Hone as exactly miniatured in the unpainted wooden
+doll, shaped the same before and behind, and sold in
+the toy shops for the amusement of the little ones. In
+the comedy of <quote>The Three Ladies of London,</quote> printed
+in quarto in Queen Elizabeth's reign (A.D. <date value="1584">1584</date>), is
+this passage :-
+<quote>Enter Conscience with brooms at her back, singing as follows:-
+<lb/>New brooms, green brooms, will you buy any?
+<lb/>Maydens come quickly, let me take a penny.</quote></p>
+<p>Hot rolls, which were sold at one and two a penny,
+were carried during the summer months between the
+hours of 8 and 9 in the morning, and from 4 to 6 in
+the afternoon.
+<lb/>Let Fame puff her trumpet, for muffin and crumpet,
+<lb/>They cannot compare with my dainty hot rolls;
+<lb/>'When mornings are chilly, sweet Fanny, young Billy,
+<lb/>Your hearts they will comfort, my gay little souls.</p>
+
+<p>Muffins and crumpets were then, as now, principally
+cried during the winter months.</p>
+
+
+
+<pb n="97" id="p.97"/>
+
+<p>Hot pudding, sweet, heavy and indigestible, was
+sold in halfpenny slabs.
+<lb/>Who wants some pudding nice and hot!
+<lb/>'Tis now the time to try it;
+<lb/>Just taken from the smoking pot,
+<lb/>And taste before you buy it.</p>
+
+<p>The cry <quote>One-a-penny, two-a-penny, hot CROSS
+BUNS !</quote> which,-now never heard from the sellers
+on Good Friday,-is still part of a child's game, remains as one of the best instances of English quantitative metre, being repeated in measured time, and
+not merely by the ordinary accent. The rhubarb-selling Turk, who appeared in turban, trousers, and
+-what was then almost unknown amongst civilians
+-moustaches, was, fifty years ago or more, a well-known character in the metropolis.</p>
+<p>Sand was generally used in London, not only for
+cleaning kitchen utensils, but for sprinkling over uncarpeted floors as a protection against dirty footsteps.
+It was sold by measure-red sand, twopence half-penny, and white a penny farthing per peck. The
+very melodious catch, <quote>White Sand and Grey Sand,
+Who'll buy my White] Sand !</quote> was evidently harmonized on the sand-seller's traditional tune.
+<quote>Buy a bill of the play !</quote> In the time of our great
+
+
+
+<pb n="98" id="p.98"/>
+
+grandfathers, there were no scented programmes, and
+the peculiar odour of the play-bills was not due to the
+skill of a Rimmel. Vilely printed with the stickiest of
+ink, on the commonest of paper, they were disposed of
+both in and outside the theatre by orange-women,
+who would give one to a purchaser of half a dozen
+oranges or so. In Hogarth's inimitably amusing and
+characteristic print of <hi rend="italics">The Laughing Audience</hi>, a
+couple of robustly built orange-women are contending,
+with well-filled baskets, for the favour of a bewigged
+beau of the period, who appears likely to become an
+easy victim to their persuasions.</p>
+<p><quote>Knives to Grind</quote> is still occasionally heard, and
+the grinder's barrow (<hi rend="italics">vide</hi> that depicted in Rowlandson's illustration on p. 59), is much the same as it was
+a hundred years ago. At the beginning of the century
+the charge for grinding and setting scissors was a
+penny or twopence a pair; penknives a penny a blade,
+and table-knives one and sixpence and two shillings a
+dozen.</p>
+<p>Rabbits were carried about the streets suspended
+at either end of a pole which rested on the shoulder.</p>
+<p>The edible marine herb samphire, immortalized in
+connection with <quote>Shakespeare's Cliff</quote> at Dover, was
+at one time regularly culled and as regularly eaten.
+The once familiar cry of <quote>Green rushes O !</quote> is preserved
+
+
+<pb n="99" id="p.99"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00052"><head><quote>Cherries, fourpence a pound</quote></head></figure>
+
+
+<pb n="100" id="p.100"/>
+
+only in verse. In Queen Elizabeth's time the
+floors of churches as well as private houses were carpeted with rushes, and in Shakespeare's day the stage
+was strewn with them.   Rush-bearing, a festival
+having its origin in connection with the annual renewal of rushes in churches, was kept up until quite
+recently, and may even still be practised in out-of-the
+way villages.</p>
+<p>The stock of the <soCalled>'arthstone</soCalled> woman, who is not
+above doing a stroke of business in bones, bottles, and
+kitchen stuff, is usually on a barrow, drawn by a
+meek-eyed and habitually slow-paced donkey.</p>
+<p>The London Barrow Woman (<quote>Ripe Cherries</quote>), as
+preserved in the cut from the inimitable pencil of
+George Cruikshank, has long since disappeared. In
+<date value="1830">1830</date>, when this sketch was made, the artist had to
+rely on his memory, for she then no longer plied her
+trade in the streets. Her wares changed with the
+seasons; but here a small schoolboy is being tempted
+by ripe cherries tied on a stick. There being no importation of foreign fruit, the cherries were of prime
+quality. May dukes, White heart, Black heart, and
+the Kentish cherry, succeeded each other-and, when
+sold by weight, and not tied on sticks, fetched sixpence,
+fourpence, or threepence per lb., which was at least
+twopence or threepence less than charged at the shops.
+
+
+
+<pb n="101" id="p.101"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00053"><head><quote>Ripe Cherries!</quote></head></figure>
+
+
+<pb n="102" id="p.102"/>
+
+The poor Barrow Woman appears to have been treated
+very much in the same manner as the modern costermonger; but was without his bulldog power of resistance. If she stopped to rest or solicit custom,
+street keepers, <quote>authorized by orders unauthorized by
+law,</quote> drove her off, or beadles overthrew her fruit
+into the road.  Nevertheless, if Cruikshank has not
+idealized his memories, she was more wholesomely and
+stoutly clad than any street seller of her sex-with the
+one exception of the milkmaid-who is to be seen in
+our day, when the poor London woman has lost, the
+instinct of neatness and finish in attire.</p>
+<p><soCalled>Hot spiced gingerbread,</soCalled> still to be found in a
+cold state at village fairs and junketings, used to be
+sold in winter time in the form of flat oblong cakes at
+a halfpenny each, but it has long since disappeared
+from our streets.</p>
+<p><quote>Tiddy Diddy Doll, lol, lol, lol</quote> was a celebrated
+vendor of gingerbread, and, according to Hone, was
+always hailed as the king of itinerant tradesmen. It
+must be more than a century since this dandified
+character ceased to amuse the populace. He dressed
+as a person of rank-ruffled shirt, white silk stockings,
+and fashionable laced suit of clothes surmounted by a
+wig and cocked hat decorated with a feather. He was
+sure to be found plying his trade on Lord Mayor's
+
+
+
+<pb n="103" id="p.103"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00054"><head><quote>Tiddy Diddy Doll.</quote></head></figure>
+
+
+<pb n="104" id="p.104"/>
+
+day, at open-air shows, and on all public occasions.
+He amused the crowd to his own profit; and some
+of his humorous nonsense has been preserved.</p>
+<p><quote>Mary, Mary, where are you now, Mary ?</quote></p>
+<p><quote>I live two steps underground, with a wiscom riscom, and why not. Walk in, ladies and gentlemen.
+My shop is on the second floor backwards, with a
+brass knocker at the door. Here's your nice gingerbread, your spiced gingerbread, which will melt in
+your mouth like a red-hot brickbat, and rumble in
+your inside like Punch in his wheelbarrow !</quote> He
+always finished up by singing the fag end of a song-
+<quote>Tiddy Diddy Doll, lol, lol, lol;</quote> hence his nickname
+of Tiddy Doll. Hogarth has introduced this character
+in his Execution scene of the Idle Apprentice at
+Tyburn. Tiddy Doll had many feeble imitators; and
+the woman described in the lines that follow, taken
+from a child's book of the period, must have been
+one of them.
+<lb/>Tiddy Diddy Doll, lol, lol, lol,
+<lb/>Tiddy Diddy Doll, dumplings, oh !
+<lb/>Her tub she carries on her head,
+<lb/>Tho' of'ener under arm.
+<lb/>In merry song she cries her trade,
+<lb/>Her customers to charm.
+
+
+<pb n="105" id="p.105"/>
+
+<lb/>A halfpenny a plain can buy,
+<lb/>The plum ones cost a penny,
+<lb/>And all the naughty boys will cry
+<lb/>Because they can't get any.
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00055"><head><quote>Large silver eels!</quote></head></figure></p>
+
+<p>Fifty years ago <quote>Young Lambs to Sell, two for a
+penny,</quote> which still lingers, was a well known cry.
+They were children's toys, the fleece made of white
+cotton-wool, attractively but perhaps a trifle too unnaturally
+
+
+<pb n="106" id="p.106"/>
+spangled with Dutch gilt. The head was
+of composition, the cheeks were painted red, there
+were two black spots to do duty for eyes, and the
+horns and legs were of tin, which latter adornment,
+my younger readers may suggest, foreshadowed the
+insufficiently appreciated tinned mutton of a later
+period. The addition of a bit of pink tape tied
+round the neck by way of a collar made a graceful
+finish, and might be accepted as a proof that the baby
+sheep was perfectly tame.
+<lb/>Young lambs to sell, young lambs to sell.
+<lb/>Two for a penny, young lambs to sell.
+<lb/>If I'd as much money as I could tell,
+<lb/>I wouldn't cry young lambs to sell.
+<lb/>Dolly and Molly, Richard and Nell,
+<lb/>Buy my Young Lambs and I'll use you well!</p>
+
+<p>The later song-
+<lb/>Old chairs to mend, old chairs to mend.
+<lb/>If I'd as much money as Icould spend,
+<lb/>I'd leave off crying old chairs to mend-
+-is obviously copied from the original cry of <quote>Young
+Lambs to Sell.</quote> In addition to a few tools, the stock-
+in-trade of the travelling chair-mender principally
+consisted of rushes which in later days gave place to
+cane split into strips of uniform width-a return to more
+
+
+
+<pb n="107" id="p.107"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00056"><head><quote>Young lambs to sell.</quote></head></figure>
+
+
+<pb n="108" id="p.108"/>
+
+ancient practice. The use of rush-bottomed chairs,
+which are again coming into aesthetic fashion, cannot
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00057"><head><quote>Buy my fine Myrtles and Roses!</quote></head></figure>
+be traced back quite a century and a half. The chairs
+in Queen Anne's time were seated and backed with
+cane; and in the days of Elizabeth the seats were
+
+
+
+<pb n="109" id="p.109"/>
+
+cushioned and the backs stuffed. Many years ago an
+old chair-mender occupied a position by a stone fixed
+in the wall of one of the houses in Panyer Alley, on
+which is cut the following inscription:-
+ <figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00058"><head>When Y Have Sought...</head></figure></p>
+
+<pb n="110" id="p.110"/>
+
+<p>Being entirely unprotected and close to the ground,
+this curious relic of bygone times, which is surmounted
+by a boldly carved figure of a nude boy seated on a
+panyer pressing a bunch of grapes between his hand
+and foot, is naturally much defaced; and that it has
+not been carried away piecemeal by iconoclastic
+curiosity-hunters, is probably due to its out-of-the-way
+position.  Panyer Alley, the most eastern turning
+leading from Paternoster Row to Newgate Street,
+slightly rises towards the middle; but is not, according to Mr. Loftie, an undoubted authority on all matters pertaining to old London, the highest point in the
+city, there being higher ground both in Cornhill and
+Cannon Street. In describing Panyer Alley, Stow indirectly alludes to a  <soCalled>signe</soCalled> therein, and it is Hone's
+opinion that this stone may have been the ancient
+sign let into the wall of a tavern. While the upper is
+in fair preservation, the lower part of the inscription
+can hardly be read. When last examined, a street
+urchin was renovating the figure by a heartily-laid-on
+surface decoration of white chalk; and unless one of
+the numerous antiquarian or other learned societies
+interested in old London relics will spare a few pounds
+for the purchase of a protective grating, there will
+shortly be nothing left worth preserving.</p>
+<p><quote>New-laid eggs, eight a groat,</quote> takes us back to a
+
+
+
+<pb n="111" id="p.111"/>
+
+time when the best joints and fresh country butter
+were both sixpence a pound.</p>
+<p>Years ago the tin oven of the peripatetic penny pieman was found to be too small to meet the constant
+and ever-increasing strain made upon its resources;
+and the owner thereof has now risen to the dignity of
+a shop, where, in addition to stewed eels, he dispenses
+what Albert Smith happily termed <soCalled>covered uncertainties,</soCalled> containing messes of mutton, beef, or seasonable
+fruit. Contained in a strong wicker basket with legs,
+or in a sort of tin oven, the pieman's wares were formerly kept hot by means of a small charcoal fire. A
+sip of a warm stomachic liquid of unknown but apparently acceptable constituents was sometimes offered
+gratuitously by way of inducement to purchase. The
+cry of <quote>Hot Pies</quote> still accompanies one of the first
+and most elementary games of the modern baby learning to speak, who is taught by his nurse to raise his
+hand to imitate a call now never heard.</p>
+<p>The specimens of versification that follow are
+culled from various books of London Cries, written
+for the amusement of children, towards the end of the
+last century, and now in the collection of the writer:
+<lb/>Large silver eels-a groat a pound, live eels !
+<lb/>Not the Severn's famed stream
+<lb/>Could produce better fish,
+
+
+
+<pb n="112" id="p.112"/>
+<lb/>Sweet and fresh as new cream,
+<lb/>And what more could you wish ?
+<lb/>Pots and Kettles to mend ?
+<lb/>Your coppers, kettles, pots, and stew pans,
+<lb/>Tho' old, shall serve instead of new pans.
+<lb/>I'm very moderate in my charge,
+<lb/>For mending small as well as large.
+<lb/>Buy a Mop or a Broom !
+<lb/>My mop is so big, it might serve as a wig
+<lb/>For a judge if he had no objection,
+<lb/>And as to my brooms, they'll sweep dirty rooms,
+<lb/>And make the dust fly to perfection.
+<lb/>Nice Yorkshire Cakes!
+<lb/>Nice Yorkshire cakes, come buy of me,
+<lb/>I have them crisp and brown;
+<lb/>They are very good to eat with tea,
+<lb/>And fit for lord or clown.
+<lb/>Buy my fine Myrtles and Roses !
+<lb/>Come buy my fine roses, my myrtles and stocks,
+<lb/>My sweet-smelling balsams and close-growing box.
+<lb/>Buy my nice Drops-twenty a penny, Peppermint
+drops !
+
+
+
+<pb n="113" id="p.113"/>
+
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00059"><head><quote>Pots and Kettles to Mend!</quote></head></figure>
+
+
+<pb n="114" id="p.114"/>
+
+<lb/>If money is plenty you may sure spare a penny,
+<lb/>It will purchase you twenty-and that's a great many.
+<lb/>Six bunches a penny, sweet blooming Lavender !
+<lb/>Just put one bundle to your nose,
+<lb/>What rose can this excel ?
+<lb/>Throw it among your finest clothes,
+<lb/>And grateful they will smell.
+<lb/>Buy a live Chicken or a young Fowl ?
+<lb/>Buy a young Chicken fat and plump,
+<lb/>Or take two for a shilling ?-
+<lb/>Is this poor honest tradesman's cry;
+<lb/>Come buy if you are willing.
+<lb/>Rabbit! Rabbit!
+<lb/>Rabbit! a Rabbit! who will buy ?
+<lb/>Is all you hear from him;
+<lb/>The rabbit you may roast or fry,
+<lb/>The fur your cloak will trim.
+<lb/>My good Sir, will you buy a Bowl ?
+<lb/>My honest friend, will you buy a Bowl,
+<lb/>A Skimmer or a Platter ?
+<lb/>Come buy of me a Rolling Pin
+<lb/>Or Spoon to beat your batter.
+
+
+
+<pb n="115" id="p.115"/>
+<figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00060"><head><quote>Six lunches a penny, sweet blooming Lavender !</quote></head></figure>
+
+
+<pb n="116" id="p.116"/>
+
+<lb/>Come buy my fine Writing Ink !
+<lb/>Through many a street and many a town
+<lb/>The Ink-man shapes his way:
+<lb/>The trusty Ass keeps plodding on,
+<lb/>His master to obey.
+<lb/>Dainty Sweet-Briar !
+<lb/>Sweet-Briar this Girl on one side holds,
+<lb/>And Flowers in the other basket;
+<lb/>And for the price, she that unfolds
+<lb/>To any one who'll ask it.
+<lb/>Any Earthen Ware, Plates, Dishes, or Jugs to-day,-
+<lb/>any Clothes to exchange, Madam ?
+<lb/>Come buy my Earthen Ware
+<lb/>Your dresser to bedeck;
+<lb/>Examine it with care,
+<lb/>There's not a single speck.
+<lb/>See white with edges brown,
+<lb/>Others with edges blue;
+<lb/>Have you a left-off gown,
+<lb/>Old bonnet, hat, or shoe ?
+<lb/>Do look me up some clothes
+<lb/>For this fire China jar;
+
+
+<pb n="117" id="p.117"/>
+
+<lb/>If but a pair of shoes,
+<lb/>For I have travelled far.
+<lb/>This flowered bowl of green
+<lb/>Is worth a gown at least;
+<lb/>I am sure it might be seen
+<lb/>At any christening feast.
+<lb/>Do, Madam, look about
+<lb/>And see what you can find;
+<lb/>Whatever you bring out
+<lb/>I will not be behind.</p>
+</div1>
+
+<div1 type="chapter" n="The Illustrations" id="c2"><head>The Illustrations.</head>
+<p>Ten of the illustrations by that great master of the
+art of caricature, Thomas Rowlandson, are copied in
+<hi rend="italics">facsimile</hi> from a scarce set, fifty-four in all, published
+in <date value="1820">1820</date>, entitled <quote>Characteristic Sketches of the
+Lower Orders,</quote> to which there is a powerful preface,
+as follows:-</p>
+<p><quote>The British public must be already acquainted
+with numerous productions from the inimitable pencil
+of MR. ROWLANDSON, who has particularly distinguished himself in this department.
+There is so much truth and genuine feeling in his
+
+
+
+<pb n="118" id="p.118"/>
+
+delineations of human character, that no one can
+inspect the present collection without admiring his
+masterly style of drawing and admitting his just claim
+to originality. The great variety of countenance, expression, and situation, evince an active and lively
+feeling, which he has so happily infused into the
+drawings as to divest them of that broad caricature
+which is too conspicuous in the works of those artists
+who have followed his manner. Indeed, we may venture to assert that, since the time of Hogarth, no artist
+has appeared in this country who could be considered
+his superior or even his equal.</quote></p>
+<p>The two illustrations- <quote>Lavender,</quote> with a background representing Temple Bar, and <quote>Fine Strawberries,</quote> with a view of Covent Garden-are from
+<quote>Plates Representing the Itinerant Traders of London
+in their ordinary Costume.  Printed in 1805 as a
+supplement to <quote>Modern London</quote> (London: printed
+for Charles Phillips, 71, St. Paul's Churchyard).</quote>
+The set is chiefly interesting as representing London
+scenes of the period; many parts of which are now
+no longer recognisable.</p>
+<p>The crudely drawn, but picturesquely treated <soCalled>Catnach</soCalled> cuts, from the celebrated Catnach press in
+Seven Dials, now owned by Mr. W. S. Fortey, hardly
+require separately indicating.</p>
+
+
+
+<pb n="119" id="p.119"/>
+
+<p>The four oval cuts, squared by the addition of perpendicular lines, <quote>Hot spice gingerbread!</quote> <quote>O' Clo !</quote>
+ <quote>Knives to Grind !</quote> and  <quote>Cabbages O ! Turnips !</quote>
+are facsimiled from a little twopenny book, entitled,
+<quote>The Moving Market; or, Cries of London, for the
+amusement of good children,</quote> published in <date value="1815">1815</date> by
+J. Lumsden and Son, of Glasgow. It has a frontispiece representing a curious little four-in-hand carriage
+with dogs in place of horses, underneath which is
+printed this triplet:-
+<lb/>See, girls and boys who learning prize,
+<lb/>Round London drive to hear the cries,
+<lb/>Then learn your Book and ride likewise.</p>
+<p>The quaint cuts, <quote>Ere's yer toys for girls an' boys !</quote>
+<quote>New-laid eggs, eight a groat,-crack 'em and try
+'em ! </quote> <quote> Flowers, penny a bunch !</quote> (frontispiece), and
+the three ballad singers, apparently taken from one of
+the earliest chap-books, are really but of yesterday.
+For these the writer is indebted to his friend, Mr.
+Joseph Crawhall, of Newcastle-on-Tyne, who uses his
+cutting tools direct on the wood without any copy. Mr.
+Crawhall's  <quote>Chap-book Chaplets,</quote> and  <quote>Olde ffrendes
+wyth newe Faces,</quote> quaint quartos each with many
+hundreds of hand-coloured cuts in his own peculiar
+and inimitable style, and <quote>Izaak Walton, his Wallet
+Booke,</quote> are fair examples of his skill in this direction.
+
+
+
+<pb n="120" id="p.120"/>
+
+Two plates unenclosed with borders- <quote>Old Chairs
+to mend !</quote> and <quote>Buy a Live Goose?</quote> are from that
+once common and now excessively scarce child's
+book, <hi rend="italics">The Cries of London as they are Daily Practised</hi>, published in <date value="1804">1804</date> by J. Harris, the successor of
+<soCalled>honest John Newbery</soCalled>, the well-known St. Paul's
+Churchyard bookseller and publisher.</p>
+<p>George Cruikshank's London Barrow-woman ( <quote>Ripe
+Cherries</quote>), <quote>Tiddy Diddy Doll,</quote> and other cuts, are
+from the original illustrations to Hone's delightful
+<quote>Every-Day Book,</quote> recently republished by Messrs.
+Ward, Lock &#x0026;  Co.</p>
+<p>The cuts illustrating modern cries- <quote>Sw-e-e-p !</quote>;
+<quote>Dust, 0 !</quote> ; <quote>Ow-oo !</quote>;   <quote>Fresh Cabbidge!</quote>;
+and <quote>Stinking Fish !</quote> are from the facile pencil of
+Mr. D. McEgan.</p>
+<p>Finally, in regard to the business card of pussy's
+butcher, the veracious chronicler is inclined to think
+that an antiquarian might hesitate in pronouncing it to
+be quite so genuine as it looks. This opinion coincides
+with his own. In fact he made it himself. As a set-off,
+however, to the confession, let it be said that this is
+the sole <foreign lang="FR">fantaisie d'occasion</foreign> set down herein.</p></div1>
+
+
+<pb n="121" id="p.121"/>
+</body>
+
+<back>
+<div1 type="appendix" n="Appendix" id="back001"><head>Appendix.</head>
+<p><hi rend="italics">From "Notes and Queries."</hi></p>
+<p>LONDON STREET CRY.-What is the meaning of
+the old London cry, <quote>Buy a fine mousetrap, or a tor-
+mentor for your fleas</quote> ?  Mention of it is found in
+one of the Roxburghe ballads dated 1662, and,
+amongst others, in a work dated about fifty years
+earlier. The cry torments me, and only its elucidation
+will bring ease.</p>
+<p>ANDREW W. TUER.</p>
+<p>The Leadenhall Press, E.C.</p>
+<p>LONDON STREET CRY (6th S. viii. 348).-Was not
+this really a <quote>tormentor for your <hi rend="italics">flies</hi></quote> ? The mouse-
+trap man would probably also sell little bunches of
+butcher's broom (<hi rend="italics">Ruscus</hi>, the mouse-thorn of the
+Germans), a very effective and destructive weapon in
+the hands of an active butchers boy, when employed
+to guard his master's meat from the attacks of flies.</p>
+<p>EDWARD SOLLY.</p>
+
+
+<pb n="122" id="p.122"/>
+
+<p>LONDON STREET CRY (6th S. viii. 348, 393).-The
+following quotations from Taylor, the Water Poet,
+may be of interest to Mr. TUER:-
+<lb/><quote>I could name more, if so my Muse did please,
+<lb/>Of Mowse Traps, and tormentors to kill Fleas.</quote>
+<hi rend="italics">The Travels of Twelve-pence.</hi>
+<lb/><quote>Yet shall my begg'ry no strange Suites devise,
+<lb/>As monopolies to catch Fleas and Flyes.</quote>
+<hi rend="italics">The Beggar.</hi></p>
+<p>Faringdon.                 WALTER HAINES.</p>
+
+<p>I notice a query from you in <hi rend="italics">N. and Q.</hi> about
+a London Street Cry which troubles you. Many of
+the curious adjuncts to Street Cries proper have, I
+apprehend, originally no meaning beyond drawing
+attention to the Crier by their whimsicality. I will
+give you an instance. Soon after the union between
+England and Ireland, a man with a sack on his back
+went regularly about the larger streets of Dublin.
+His cry was:
+<quote><lb/>Bits of Brass,
+<lb/>Broken Glass,
+<lb/>Old Iron,
+<lb/>Bad luck to you Castlereagh.</quote>
+
+
+
+<pb n="123" id="p.123"/>
+
+Party feeling against Lord Castlereagh ran very
+high at the time, I believe, and the political adjunct.
+to his cry probably brought the man more shillings
+than he got by his regular calling.</p>
+<p>H. G.W.</p>
+<p>P.S.-I find I have unconsciously made a low pun.
+The cry alluded to above would probably be understood and appreciated in the streets of Dublin at the
+present with reference to the Repeal of the Union.</p>
+<p>LONDON STREET CRY.</p>
+<p>88, FRIARGATE, DERBY.</p>
+<p>DEAR SIR,-</p>
+<p>The <soCalled>Tormentor,</soCalled> concerning which you inquire
+in <hi rend="italics">Notes and Queries</hi> of this date, was also known as
+a <soCalled>Scratch-back,</soCalled> and specimens are occasionally to
+be seen in the country. I recollect seeing one, of
+superior make, many years ago. An ivory hand, the
+fingers like those of <soCalled>Jasper Packlemerton of atrocious
+memory,</soCalled> were <quote>curled as in the act of</quote> scratching,
+a finely carved wrist-band of lace was the appropriate
+ornament, and the whole was attached to a slender
+ivory rod of say eighteen inches in length. The finger
+nails were sharpened, and the instrument was thus
+available for discomfiting <soCalled>back-biters,</soCalled> even when
+
+
+
+<pb n="124" id="p.124"/>
+
+engaged upon the most inaccessible portions of the
+human superficies.  I have also seen a less costly
+article of the same sort carved out of pear-wood (or
+some similar material). It is probable that museums
+might furnish examples of the <soCalled>back scratcher,</soCalled>
+ <soCalled>scratch back,</soCalled> or  <soCalled>tormentor for your fleas.</soCalled></p>
+<p>Very truly yours,</p>
+<p>ALFRED WALLIS.</p>
+<p>JUNIOR ATHENAUM CLUB,</p>
+<p>PICCADILLY, W.</p>
+<p>DEAR SIR,-</p>
+<p>On turning over the leaves of <hi rend="italics">Notes and Queries</hi>,
+I happened on your enquiry <hi rend="italics">re</hi> <quote>Tormentor for your
+fleas.</quote> May I ask, have you succeeded in getting at
+the meaning or origin of this curious street cry? I
+have tried to trace it, but in vain. It occurs to me
+as just possible that the following circumstance may
+bear on it:-</p>
+<p>The Japanese are annoyed a good deal with fleas.
+They make little cages of bamboo-such I suppose
+as a small bird cage or mouse-trap-containing plenty
+of bars and perches inside. These bars they smear
+over with bird-lime, and then take the cage to bed
+with them. Is it not, as I say, just possible, that one
+
+
+
+<pb n="125" id="p.125"/>
+
+of our ancient mariners brought the idea home with
+him and started it in London? If so, a maker of
+bird cages or mouse-traps is likely to have put the idea
+into execution, and cried his mouse-traps and <soCalled>flea
+tormentors</soCalled>  in one breath.</p>
+<p>Faithfully yours,</p>
+<p>DOUGLAS OWEN.</p>
+<p>From <hi rend="italics">"Notes and Queries,"</hi> <date value="1885-04-18">April 18th, 1885.</date></p>
+<p>LONDON CRIES.-A cheap and extended edition of
+my <hi rend="italics">London Street Cries</hi> being on the eve of publication, I shall be glad of early information as to the
+meaning of  <quote>A dip and a wallop for a bawbee</quote><note n="1" place="foot">See p. 29.</note> and
+<quote>Water for the buggs.</quote> I recollect many years ago
+reading an explanation of the former, but am doubtful as to its correctness.</p>
+<p>ANDREW W. TUER.</p>
+<p>The Leadenhall Press, E.C.</p>
+<p>One who was an Edinburgh student towards the end
+of last century told me that a man carrying a leg of
+mutton by the shank would traverse the streets crying
+ <quote>Twa dips and a wallop for a bawbee.</quote> This brought
+
+
+
+<pb n="126" id="p.126"/>
+
+the gude-wives to their doors with pails of boiling
+water, which was in this manner converted into
+ <soCalled>broth.</soCalled></p>
+<p>NORMAN CHEVERS, M.D.</p>
+<p>32, Tavistock Road, W.</p>
+<p><hi rend="italics">April 18th,</hi> 1885.</p>
+<p>COCKNEY PRONUNCIATION.</p>
+<p>25, ARGYLL ROAD, KENSINGTON, W.,</p>
+<p><date value="1885-04-24">24th April, 1885.</date></p>
+<p>DEAR MR. TUER,-</p>
+<p>The Cockney sound of long a which is confused
+with received <hi rend="italics">i</hi>, is very different from it, and where it
+approaches that sound, the long <hi rend="italics">i</hi> is very broad, so
+that there is no possibility of confusing them in a
+Cockney's ear. But is the sound Cockney ? Granted
+it is very prevalent in E. and N. London, yet it is
+rarely found in W. and S.W. My belief is that it is
+especially an Essex variety. There is no doubt about
+its prevalence in Essex, so that [very roughly indeed]
+<quote>I say</quote> there becomes <quote>oy sy.</quote> Then as regards
+the <hi rend="italics">o</hi> and <hi rend="italics">ou</hi>. These are never pronounced alike.
+The <hi rend="italics">o</hi> certainly often imitates received <hi rend="italics">ow</hi>, though it
+has more distinctly an <hi rend="italics">o</hi> commencement; but when
+
+
+
+<pb n="127" id="p.127"/>
+
+that is the case, <hi rend="italics">ou</hi> has a totally different sound, which
+dialect-writers usually mark as <hi rend="italics">aow</hi>, having a broad a
+commencement, almost <hi rend="italics">a</hi> in <hi rend="italics">bad</hi>. Finer speakers-
+shopmen and clerks-will use a finer a. The sound
+of short <hi rend="italics">u</hi> in <hi rend="italics">nut</hi>, does not sound to me at all like <hi rend="italics">e</hi> in
+<hi rend="italics">net</hi>. There are great varieties of this " natural vowel,"
+as some people call it, and our received <hi rend="italics">nut</hi> is much
+finer than the general southern provincial and northern
+Scotch sounds, between which lie the mid and north
+England sounds rhyming to <hi rend="italics">foot</hi> nearly, and various
+transitional forms. Certainly the sounds of <hi rend="italics">nut</hi>, <hi rend="italics">gnat</hi>
+are quite different, and are never confused by speakers;
+yet you would write both as <hi rend="italics">net</hi>.</p>
+<p>The pronunciation of the Metropolitan area is extremely mixed; no one form prevails. We may put
+aside educated or received English as entirely artificial. The N., N.E., and E. districts all partake of
+an East Anglian character; but whether that is recent,
+or belongs to the Middle Anglian character of Middlesex, is difficult to say.  I was born in the N.
+district, within the sound of Bow Bells (the Cockney
+limits), over seventy years ago, and I do not recall the
+<hi rend="italics">i</hi> pronunciation of <hi rend="italics">a</hi> in my boyish days, nor do I
+recollect having seen it used by the older humourists.
+Nor do I find it in <quote>Errors of Pronunciation and Improper Expressions, Used Frequently and Chiefly by the
+
+
+
+<pb n="128" id="p.128"/>
+Inhabitants of London,</quote> 1817, which likewise does not
+note any pronunciation of <hi rend="italics">o</hi> like <hi rend="italics">ow</hi>. Hence I am
+inclined to believe that both are modernisms, due to
+the growing of London into the adjacent provinces.
+They do not seem to me yet prevalent in the W.
+districts, though the N.W. is transitional. South of
+the Thames, in the S.W. districts, I think they are
+practically unknown. In the S.E. districts, which dip
+into N. Kent, the finer form of <hi rend="italics">aow</hi> for <hi rend="italics">ou</hi> is prevalent.
+The uneducated of course form a mode of speech
+among themselves.  But I am sorry to find even
+school teachers much infected with the <hi rend="italics">i</hi>, <hi rend="italics">ow</hi>, <hi rend="italics">aow</hi>,
+pronunciations of <hi rend="italics">a</hi>, <hi rend="italics">o</hi>, <hi rend="italics">ou</hi>, in N. districts.</p>
+<p>Of course your Cockney orthography goes upon very
+broad lines, and you are quite justified in raising a
+laugh by apparent confusions, where no confusions are
+made by the speakers themselves, as Hans Breitmann
+did with the German. The confusion is only in our
+ears. They speak a language we do not use. To
+write the varieties of sounds, especially ot diphthongs,
+with anything like correctness, requires a phonetic
+alphabet which cannot even be read, much less written,
+without great study, such as you cannot look for in
+readers who want only to be amused. But another
+question arises, Should we lay down a pronunciation ?
+There never has been any authority capable of doing
+so
+
+
+<pb n="129" id="p.129"/>
+so. Orthoepists may protest, but the fashion of pronunciation will again change, as it has changed so
+often and so markedly during the last six hundred
+years; see the proofs in my <hi rend="italics">Early English Pronunciation</hi>. Why should we not pronounce <hi rend="italics">a</hi> as we do <hi rend="italics">i</hi>,
+pronouncing <hi rend="italics">i</hi> as we do <hi rend="italics">oy</hi> ? Why should we not call
+<hi rend="italics">o</hi> as we now call <hi rend="italics">ow</hi>, pronouncing that as <hi rend="italics">aow</hi> ? Is not
+our <hi rend="italics">a</hi> a change from <hi rend="italics">i</hi> (the German
+<hi rend="italics">ei</hi>, <hi rend="italics">ai</hi>) in <hi rend="italics">say, away,
+pain</hi>, etc. ? Is not our <hi rend="italics">ou</hi> a change from our sound of
+<hi rend="italics">oo</hi> in <hi rend="italics">cow</hi>, etc. ? Again, our <hi rend="italics">oo</hi> replaces an old <hi rend="italics">oh</hi> sound.
+There is nothing but fashion which rules this. But
+when sounds are changed in one set of vowels, a compensating change takes places in another set, and so
+no confusion results. In one part of Cheshire I met
+with four sounds of <hi rend="italics">y</hi> in <hi rend="italics">my</hi>, never confused by natives,
+although a received speaker hears only one, and all
+arose from different sources. Why is one pronunciation <hi rend="italics">horrid</hi> (or aw-ud), and another not?  Simply
+because they mark social grades. Of course I prefer
+my own pronunciation, it's been my companion for so
+many years. But others, just as much of course,
+prefer theirs. When I brought out the <hi rend="italics">Phonetic News</hi>,
+in phonetic spelling, many years ago, a newsvendor
+asked me, <quote>Why write <hi rend="italics">neewz</hi> ? We always say <hi rend="italics">nooze</hi>.</quote></p>
+<p>Very truly yours,</p>
+<p>ALEXANDER J. ELLIS.</p>
+
+
+<pb n="130" id="p.130"/>
+<p><figure n="tufts:central:dca:MS004:MS004.002.016.DO01.00061"></figure></p>
+</div1>
+
+<pb/>
+
+<div1 type="appendix" n="Advertisements" id="back002"><head>Advertisements.</head>
+<p><hi rend="italics">Size, large quarto: nearly out of print.</hi></p>
+<p>"The interest of the volume is inexhaustible."-<hi rend="italics">The Times.</hi></p>
+<p>London Cries: With Six Charming Children printed direct from stippled plates
+engraved in the Bartolozzi style.  The text by
+ANDREW W. TUER, Author of "Bartolozzi and
+his Works," &#x0026; c. LONDON: Field and Tuer,
+The Leadenhall Press, E.C.</p>
+<p><hi rend="italics">One Guinea. Large Paper Signed Proofs (250
+only) Two Guineas. Large Paper Signed
+Proofs on Satin (50 only), Four Guineas.</hi></p>
+<p>The twelve quaintly old fashioned and beautiful
+whole-page illustrations are eminently adapted
+for separate framing.</p>
+<p>CONTAINS an account of London cries from the
+earliest period. The "Six Charming Children "
+-highly finished engravings of the Bartolozzi School
+-are duplicated in red and brown. There are in
+addition about forty other illustrations-many of them
+in colours-including ten of Rowlandson's humorous
+subjects in facsimile, examples by George Cruikshank,
+Joseph Crawhall, &#x0026; c.</p>
+
+
+<pb/>
+<p><list><head>Field &#x0026;/amp; Tuer's List
+THE LEADENHALL PRESS,
+50, LEADENHALL STREET, E.O.</head>
+<item>Degeneration amongst Londoners.                    By
+JAMES CANTLIE, M.A., M.B., F.R.C.S.      LONDON:
+Field &#x0026;  Tuer, The Leadenhall Press, E.C.  [One Shilling.
+"A Book that every resident in London should read."</item>
+<item>Amongst the Shans: By A. R. Colqu-
+HOUN, Author of "Across Chryse," "The Truth about
+Tonquin," "The Opening of China," "Burma and the
+Burmans," &#x0026; c. With upwards of Fifty Illustrations, and
+an Historical Sketch of the Shans by HOLT S. HALLETT,
+preceded by an Introduction on the " Cradle of the Shan
+Race," by TERRIEN DE LACOUPERIE. LONDON: Field
+&#x0026;' Tuer.                        [Twenty-one Shillings;
+"Should be read by every English merchant on the look-out for new
+markets."-<hi rend="italics">Globe</hi>.</item>
+
+
+<pb/>
+<item>Tree     Gossip.         By    Francis G/eorge
+HEATH.    LONDON: Field &#x0026; Tuer, The Leadenhall
+Press.                          Three-and-Sixpence.
+"Full of racy bits of gossip interspersed with valuable information,
+amusing anecdotes, and graceful descriptions." - <hi rend="italics">The Paper and
+Printing Trades Journal</hi>.</item>
+<item>Socialism     of To-day.           By Emile de
+LAVELEYE. Translated from the French by GODDARD H.
+ORPEN. Including " Socialism in England," by the Trans-
+lator. LONDON: Field &#x0026; Tuer, The Leadenhall Press,
+E.C.                                   [Six Shillings.
+MR. ORPEN has largely added to the importance of this
+work by giving the first comprehensive account ever
+published of socialism in England.</item>
+
+<item>Our Grandmothers' Gowns. By Mrs.
+ALFRED W. HUNT. With Twenty-four hand-coloured
+Illustrations, drawn by G. R. HALKETT. LONDON:
+Field &#x0026; Tuer.                  [Seven-and-Sixpence.
+RS. HUNT gives a short history of the dress of the period,
+in which she carefully preserves the original descriptions
+of the plates as given in contemporary fashion-books.</item>
+
+<item>Tennis Cuts and Quips, in Prose and
+VERSE, with Rules and Wrinkles. Edited by JULIAN
+MARSHALL, Author of " The Annals of Tennis," Hon. Sec.
+All England Lawn Tennis Club, Wimbledon. LONDON:
+Field &#x0026; Tuer.                    [Two-and-Sixpence.
+With the <hi rend="italics">latest</hi> (1885) Alterations in Lawn Tennis Laws and
+Regulations.</item>
+
+
+<pb/>
+<item>The True Story of Mazeppa:/ The Son
+OF PETER THE GREAT: A CHANGE OF REIGN. By
+Viscount E. MELCHIOR DE VOGUE. Translated from the
+French by JAMES MILLINGTON. LONDON: Field &#x0026;
+Tuer, The Leadenhall Press, E.C.       [Six Shillings.
+THE weird story herein related possesses an equal interest
+for the lover of the romantic and the historical.</item>
+
+<item>Monsieur at Home. By Albert Rhodes.
+LONDON: Field &#x0026; Tuer, The Leadenhall Press, E.C.
+[Two-and-Sixpence; Cloth, Three-and-Sixpence.
+"The typical Frenchman described by a shrewd and keen-witted
+critic."
+"A <hi rend="italics">very</hi> good book indeed."--<hi rend="italics">Max O'Rell, Author of " John Bull
+and his Island," "John Bull's Womankind," &#x0026; c.</hi></item>
+
+<item>Bartolozzi and his Works: Biographical,
+Anecdotal, and Descriptive.  By ANDREW   W. TUER,
+LONDON: Field &#x0026; Tuer, The Leadenhall Press, E.C.
+[Twelve-and-Sixpence.
+A COMPLETE guide to the study of old-fashioned prints.
+Revised with new and interesting matter: in one thick
+handsome vellum-bound volume, gold lettered, broad silken
+bands and strings. <hi rend="italics">Limited to 500 signed and numbered copies.</hi></item>
+
+<item>Life of Colonel Fred. Burnaby: By
+R. K. MANN and J. REDDING WARE.         From MSS.
+left by the Colonel just before he started for Egypt. Em-
+bellished with a Portrait in Monochrome from the only
+Photograph taken of Colonel Burnaby in recent years.
+LONDON: Field &#x0026; Tuer, The Leadenhall Press, E.C.
+[Seven-and-Sixpence.</item>
+
+
+<pb/>
+<item>Izaak Walton: his Wallet B/ooke, being
+the Songs in "THE COMPLEAT ANGLER " newly set forth
+and Illustrated by JOSEPH CRAWHALL. Hand-made paper;
+vellum bound, with inside humorously lettered silk-sewn
+pockets.  <hi rend="italics">Edition-de-luxe</hi>, limited and numbered.  The
+numerous illustrations all separately hand-coloured. LON-
+DON: Field &#x0026; Tuer, The Leadenhall Press, E.C.
+[One Guinea (500 Copies only); Large Paper, Two
+Guineas (100 copies only). Prices will be raised
+after publication.
+ONE of Mr. Crawhall's engraved blocks-that is the boxwood
+block itself-will be attached as pendant to a silk book-
+marker to <hi rend="italics">each copy of the large paper edition only.</hi></item>
+
+<item>Songs of the North, gathered together
+from the Highlands and Lowlands of Scotland. Edited by
+A. C. MACLEOD and HAROLD BOULTON. The Music
+arranged by MALCOLM LAWSON. LONDON: Field &#x0026;
+Tuer, The Leadenhall Press, E.C.       [One Guinea.</item>
+
+
+<item>Why not eat Insects ? By Vincent M.
+HOLT. LONDON: Field &#x0026; Tuer, The Leadenhall Press,
+E.C.                                   [One Shilling.
+" THEM    insects eats up every blessed green thing that do
+grow, and us farmers starves." "Well, eat <hi rend="italics">them</hi> and
+grow fat !"</item>
+
+<item>On the Stage--and Off: the Brief
+Career of a Would-be Actor. By JEROME K. JEROME.
+LONDON: Field &#x0026; Tuer, The Leadenhall Press.
+[One Shilling.</item>
+
+
+<pb/>
+<item>Aspects of Fiction.             By R/. S. de C.
+LAFFAN.   LONDON: Field &#x0026; Tuer, The Leadenhall
+Press, E.C.                           [Half-a-Crown.
+"Well written, sprightly, and eminently readable. Mr. Laffan's
+arguments are logical and even brilliant."-<hi rend="italics">Notes and Queries</hi>.</item>
+
+<item>"A quaint specimen of the literature of a bygone age."
+Old Aunt Elspa's A B C. Imagined
+and Adorned byJOSEPH CRAWHALL. LONDON: Field
+&#x0026; Tuer.
+[One Shilling, or Coloured throughout Two-and-Sixpence.
+AN outrageously quaint book, full of illustrations.</item>
+
+<item>" A volume to delight in."-<hi rend="italics">Pall Mall Gazette</hi>.
+Olde ffrendes wyth newe Faces: Adorn'd
+with suitable Sculptures by JOSEPH CRAWHALL.    <hi rend="italics">The
+many hundreds of cuts being all hand-coloured, the issue is
+necessarily limited</hi>.  LONDON : Field &#x0026; Tuer, The
+Leadenhall Press, E.C.
+[In one thick 4to Volume, Twenty-five Shillings.
+) EPRODUCTIONS in facsimile of a large selection of the
+crudely printed and humorously illustrated pamphlets that
+were hawked about the country by the chapmen of a bygone
+age. The illustrations will provoke smiles from the gravest.</item>
+
+
+<item>Amateur Tommy Atkins: A Volunteer's
+experiences related in the Letters of PRIVATE SAML BAGSHAW to his Mother. Illustrated with many clever silhou-
+ettes. LONDON: Field &#x0026; Tuer, The Leadenhall Press,
+E.C.                                   [One Shilling.
+AN amusing relation of the experiences of a volunteer recruit
+at drill, in camp, and on the march.</item>
+
+
+<pb/>
+<item>"Is the only practical and common sense book on the subject we
+know of."-<hi rend="italics">The</hi> (American) <hi rend="italics">Book Buyer</hi>.
+John Oldcastle's Guide for Literary Beginners. LONDON: Field &#x0026; Tuer, The Leadenhall
+Press, E.C.                              [One Shilling.</item>
+
+<item>Bartolozzi       Prints.        Descriptive        Pro-
+spectus on application. LONDON: Field&#x0026;     Tuer, The
+Leadenhall Press, E.C.
+" From Messrs. Field&#x0026; Tuer we have received some interesting
+specimens, in red and brown, from the original copper-plates engraved
+by Bartolozzi. Some of the ' Cupids' are perfect gems. The variety
+is extensive, and well worth the attention of collectors. The beautiful
+examples. mostly of a fanciful character, are direct impressions from
+plates-all in fine condition-that have been gradually accumulated by
+a well-known collector during the past twenty years. Although engraved nearly a century ago, some of the copper-plates have never
+before been published, and are therefore in proof condition. These
+engravings are not to be confounded with the faded reprints from worn-
+out plates which for years past have disgusted the collector."--<hi rend="italics">Whitehall Review</hi>.</item>
+
+<item>" With Bad Paper, one's best is impossible."
+The Author's Paper Pad (Issued by the
+Proprietors of The Leadenhall Press). Contains, in block
+form, fifty sheets of paper, fibrous and difficult to tear as a
+piece of linen, over which-being of unusual but not painful
+smoothness-the pen slips with perfect freedom. Easily
+detachable, the size of the sheets is about 71 x 82 in., and
+the price is only that usually charged for common scribbling
+paper. THE AUTHOR'S PAPER PAD may be comfortably
+used, whether at the desk, held in the hand, or resting on
+the knee. As being most convenient for both author and
+compositor, the paper is ruled the narrow way, and of
+course on one side only.-<hi rend="italics">Sixpence each, 5/- per dozen, ruled
+or plain</hi>.</item></list>
+</p></div1>
+</back></text>
+</TEI.2>

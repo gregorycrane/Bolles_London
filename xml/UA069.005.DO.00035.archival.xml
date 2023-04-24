@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+<TEI.2>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>
+			College Acquires the English Collection of Late Professor Edwin C. Bolles</title>
+			<author>Boston Evening Transcript</author>
+			<funder>IMLS</funder>
+		</titleStmt>
+
+		<editionStmt>
+			<edition><date>2002-01-01</date></edition>
+		</editionStmt>
+
+		<extent>10554 bytes</extent>
+
+		<publicationStmt>
+			<distributor>Tufts University Digital Collections and Archives</distributor>
+			<address>
+				<addrLine>Tufts University</addrLine>
+				<addrLine>35 Professors Row</addrLine>
+				<addrLine>Tisch Library Medford, MA 02155</addrLine>
+			</address>
+			<idno>tufts:central:dca:UA069:UA069.005.DO.00035</idno>
+			<availability status="free"><p>This publication is freely available for scholarly or
+educational use.</p></availability>
+		</publicationStmt>
+
+  		<notesStmt>
+			<note>This document was created from a 1921 article in the Boston Evening Transcript.</note>
+		</notesStmt>
+    		<sourceDesc>
+			<biblStruct>
+			<monogr>
+			<title>
+			College Acquires the English Collection of Late Professor Edwin C. Bolles</title>
+			<imprint>
+			<pubPlace>Boston</pubPlace>
+			<publisher>Boston Evening Transcript</publisher>
+			<date>January 19, 1921</date>
+			</imprint>
+			</monogr>
+			</biblStruct>
+		</sourceDesc>
+	</fileDesc>
+
+	<encodingDesc>
+		<editorialDecl>
+			<stdVals><p>Standard date values are given in ISO form: yyyy-mm-dd.</p></stdVals>
+			<interpretation><p>Page breaks are marked.</p>
+			</interpretation>
+			<hyphenation eol="none"><p>End of line hyphens have been
+removed.</p></hyphenation>
+		</editorialDecl>
+
+		<refsDecl n="TOC">
+			<state unit="chapter"/>
+		</refsDecl>
+      	
+		<classDecl>
+		<taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+		<taxonomy id="LC"><bibl><title>Library of Congress</title></bibl></taxonomy>
+		</classDecl>
+	</encodingDesc>
+
+	<profileDesc>
+		<creation><date>2000-01-01</date></creation>
+		<langUsage><language id="EN" usage="99">English.</language>
+		<language id="FR" usage="1">French.</language>
+					</langUsage>
+
+		<textClass>
+			<keywords scheme="LCSH">
+			<list>
+			<item>Edwin C. Bolles Collection.</item>
+			</list>
+			</keywords>
+		</textClass>
+	</profileDesc>
+
+	<revisionDesc>
+		<change><date>2004-08-19</date><respStmt><name>Cynthia Mackey</name><resp>admin.</resp></respStmt><item>Updated text to TEI P4 XML. Added Tufts Digital Library object identifiers for figures.</item></change>
+	</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<pb n="1" id="p.1"/>
+<div1 type="chapter" n="Rare Gift Made to Tufts Library" id="c1"><head>Rare Gift Made to Tufts Library</head>
+
+
+     <p>Trustees of <orgName key="Tufts College">Tufts College</orgName> have purchased the English collection of the late
+Professor <persName key="Edwin C. Bolles"> Edwin Courtlandt Bolles</persName>, which has been declared by experts to be one of
+the best in the country.  The collection will be placed in the college library as
+a personal gift from the trustees in memory of the late <persName key="Edwin C. Bolles">Dr. Bolles.</persName>  It includes
+many rare books, maps and prints, these of the city of London numbering more than
+<num value="6000">six thousand.</num>  The gift is one of the most elaborate that the <placeName key="Eaton Hall">Eaton Memorial Library</placeName>
+has received in recent years. Amongst the books in the Collection are <num value="650">650</num> volumes on
+England, more than half of which are on historic London. Dr. Bolles made the library while living in London near the <placeName key="cruch,British Museum">British Museum</placeName> over thirty years age, while preparing a series of lectures which he later gave at the <orgName key="Lowell Institue">Lowell Institute</orgName> in this
+city in <dateRange from="1881-01-" to="1881-02-">January and February, 1881.</dateRange> The pamphlets alone number <num value="915">915</num> on England and
+<num value="343">343</num> on Old London.</p>
+
+     <p>Dr. Bolles spent many years on extra-illustration of his books. The most
+elaborate of these is his "Old and New London" in six volumes. Instead of cutting
+the volumes, a process which would have increased their number, the collector devised an original plan of underlining the passage to be illustrated, made marginal
+notes numbering the illustration, and filed the prints volume by volume accordingly
+to chapter and rages, in smaller cabinet and filing cases. These include some fine
+prints in <placeName key="bart,Trafalgar Square">Trafalgar Square</placeName>  and the Tower, <placeName key="cruch,Westminster">Westminster</placeName> and the Fleet, and other subjects which form a rich treasure to the student of English history. There are two
+sets of  the extra-illustrated works.  Much of this fine work was done during the
+last decade after Dr. Bolles had lost the use of his sight.  During this time he
+persevered and, with the aid of his assistants, completed the work before his death
+a year ago.<name type="company" key="Philip Morris">Philip Morris</name> <name type="person" key="Louis Napoleon">Louis Napoleon</name></p>
+
+     <p>Among the other treasures of the works is the <date value="1808">1808</date> edition of "James by C. J.
+Fox, extra-illustrated by the Reverend Dr. Chapin of New York. It contains rare
+engravings of Oliver Cromwell, Charles II, and the Earl of Southampton with his
+autograph beautifully inlaid. Other features are engravings and autographs of
+William III, Trumbull, Gedelphin, Montague, and Titus Oates.  There are also two
+miniatures on ivory of James II and the Queen of James I from the Cotton collection.
+In this work, too, are found autographs, one of Samuel Pepys, one of Richard Baxter,
+one of Queensbury, and two of <persName key="Charles Stuart">Charles II</persName> one of which is an vellum.
+</p>
+     <p>The two-volume 'History of His Own Time" by Burnett has been expanded with
+extra-illustrations to six volumes. "Memoirs of Brass Crosby, Lord Mayor of London
+1770-1771" is also rich in extra-illustrations, documents, and autographs of Lord
+Mayors on vellum.
+</p>
+<pb n="2" id="p.2"/>
+</div1>
+<div1 type="chapter" n="The Great Seal of England" id="c2"><head>The Great Seal of England</head><p>
+<figure n="tufts:central:dca:MS004:MS004.002.011.DO01.00001"><head> Front Side of Great Seal of England</head></figure>
+</p>
+     <p>The Great Seal of England bearing the signature of <persName key="James Stuart">James I</persName> and the official
+signature of <persName>Lord Bacon</persName> is perfectly preserved, as clearly readable as a modern
+document. It is made of pure beeswax, a circumstance which account for its perfect
+condition. It is as large   as a teaplate and is attached to a "pardon of sale." <figure n="tufts:central:dca:MS004:MS004.002.011.DO01.00003"><head> Pardon of Sale</head></figure>
+Dr. Bolles often recounted to his classes in English History the circumstances under
+which this treasure came into his possession. "While in London he visited the shop
+of a queer old bookseller named Salkill, who ... professed to hate all clergymen.
+Not recognizing Dr. Bolles as a member of the cloth, the old character received him
+cordially and gave him <foreign lang="FR">carte blanche </foreign>to his shop.  He showed Dr, Bolles an interesting old chest containing seals of many periods which he had bought at the <placeName id="Temple">Temple</placeName>,
+and he bade Dr. Bolles pick out any one which he might want. The latter hesitated
+a long time over his selection, having in mind the choice of a seal of <persName key="Elizabeth I">Elizabeth</persName>.
+He chose the seal of <persName key="James Stuart">James</persName>, however, because it was the most perfect of the lot.
+On the reverse of the parchment to which the seal is attached is a signature  "Bacon"
+in a different hand from that on the face.   Dr. Bolles traced the difference and
+finally accounted for it as being the private signature of the great Englishman.
+Further investigation revealed, however, that it was the writing of the scribe who
+drew up the pardon of sale.
+</p>
+     <p>One of the five extant copies of Pennet's "London", which are  printed on Whitman
+drawing paper, is also included in the collection.   Of the other four, one is now
+in the <placeName key="cruch,British Museum">British Museum</placeName>, one of [sic]  the Sir John Sloane Museum, one in a nobleman's
+private library, and one has disappeared from the shelves of booklovers without
+binding, but the original covers are with it and otherwise it is in good condition.
+</p>
+     <p>One of the rarest books of all, according to the estimate of experts, is "Tom
+Brown's Schooldays." Two others of note are <persName key="Dickens, Charles">Charles Dickens'</persName> "London and Londoners,
+or a Second Judgment of Babylon the Great," and Manners and Customs of Modern
+London".  These books have their special value in that they were personal possessions of the great English author.  On the inside cover is a book-plate bearing a
+star and twisted rope; below "Charles Dickens" is written in bold letters.  There
+are also with them two works of William Winter, autographed.
+</p>
+     <p>A rare collection of hundreds of old coins are included in the treasure, many
+bookbinding tools, tiles from the Norman church of St. Clement at Sandwich, a piece
+of brick from <placeName key="Battle Abbey">Battle Abbey</placeName>, a fragment from an old Roman wall, and other touches
+on the ancient landmarks of England.</p>
+
+     <p>The full value of the treasure which has come to the library through the generosity of the trustees cannot at present be estimated. It will require many months of
+expert appraisal before its extent can be realized.</p>
+
+     <p>It was  Dr. Bolles's often expressed wish that the collection might eventually
+be placed in the college library and the trustees in taking this action paid a
+superlative tribute to the memory of the great man who for so many years  served the
+college so faithfully and so effectively in his various capacities  as lecturer,
+professor, trustee, and finally chaplain.  <figure n="tufts:central:dca:MS004:MS004.002.011.DO01.00002"><head>Memorial Book-plate</head></figure></p><p>A book-plate bearing the Bolles coat-of-arms and the seal will be  engraved and placed in each volume, with the inscription
+indicating that it stands as a memorial to the memory of one of the most influential
+men who ever served Tufts College as an officer of the institution.
+
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,2033 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+
+<TEI.2>
+
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Temple Bar: The City Golgatha.</title>
+			<title> A narrative of the historical occurances of a criminal character associated with the present bar.</title>
+			<author> James Holbert Wilson</author>
+			<funder>Institute for Museum and Library Services</funder>
+		</titleStmt>
+
+		<editionStmt>
+			<edition><date>2002-01-01</date></edition>
+		</editionStmt>
+
+		<extent>120320 bytes</extent>
+
+		<publicationStmt>
+			<distributor>Tufts University Digital Collections and Archives</distributor>
+			<address>
+				<addrLine>Tufts University</addrLine>
+				<addrLine>35 Professors Row</addrLine>
+				<addrLine>Tisch Library Medford, MA 02155</addrLine>
+			</address>
+			<idno>tufts:central:dca:UA069:UA069.005.DO.00033</idno>
+			<availability status="free"><p>This publication is freely available for scholarly or
+
+educational use.</p></availability>
+		</publicationStmt>
+
+  		<notesStmt>
+			<note>This document was created from the 1853 printing of James Holbert Wilson's Temple Bar: The City Golgatha.</note>
+		</notesStmt>
+
+    		<sourceDesc>
+			<biblStruct>
+				<monogr>
+				<title>Temple Bar: The City Golgatha.</title>
+				<title> A narrative of the historical occurances of a criminal character associated with the present bar.</title>
+				<author>Wilson, James Holbert</author>
+				<imprint>
+				<pubPlace>London: 86 Fleet Street</pubPlace>
+				<publisher>David Bogue</publisher>
+				<date>1853</date>
+				</imprint>
+				</monogr>
+			</biblStruct>
+		</sourceDesc>
+	</fileDesc>
+
+	<encodingDesc>
+		<editorialDecl>
+			<stdVals><p>Standard date values are given in ISO form:
+
+yyyy-mm-dd.</p></stdVals>
+			<interpretation><p>Page breaks are marked.</p>
+			<p>Dates are marked.</p>
+			<p>Personal names are marked.</p>
+			<p>Place names are marked.</p>
+			</interpretation>
+			<hyphenation eol="none"><p>End of line hyphens have been
+removed.</p></hyphenation>
+<normalization method="tags">
+<p>Footnotes originally numbered by page but for electronic version, footnotes are sequential throughout each section.</p>
+</normalization>
+		</editorialDecl>
+
+		
+		<refsDecl n="TOC">
+			<state unit="chapter"/>
+		</refsDecl>
+
+		<classDecl>
+		<taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+
+Headings</title></bibl></taxonomy>
+		<taxonomy id="LC"><bibl><title>Library of Congress</title></bibl></taxonomy>
+		</classDecl>
+	</encodingDesc>
+
+	<profileDesc>
+		<creation><date>2000-01-01</date></creation>
+		<langUsage><language id="EN" usage="99">English.</language>
+		<language id="FR" usage="1">French.</language>
+		<language id="LA" usage="1">Latin.</language>
+					</langUsage>
+
+			<textClass>
+			<keywords scheme="LCSH">
+			<list>
+			<item>Temple Bar (London, England).</item>
+			<item>Conspiracies--England--London.</item>
+			<item>London (England)--History--17th century.</item>
+			<item>London (England)--History--18th century.</item>
+			</list>
+			</keywords>
+			<classCode scheme='LC'>DA 687.T19 </classCode>
+		</textClass>
+	</profileDesc>
+
+	<revisionDesc>
+		<change><date>2004-12-09</date><respStmt><name>Cynthia Mackey</name><resp>admin.</resp></respStmt><item>Updated text to TEI P4 XML. Added Tufts Digital Library object identifiers for figures.</item></change>
+	</revisionDesc>
+
+
+</teiHeader>
+
+   <text>
+<front>
+	<titlePage>
+		<pb id="p.i"  n="i"/>
+		<figure id="fig.1" n="tufts:central:dca:MS004:MS004.002.009.DO01.00001"><head>Temple Bar as it appeared at the commencement of the 18th Century.</head></figure>
+		<docTitle>
+			<titlePart type="main">TEMPLE BAR</titlePart>
+			<titlePart type="sub">The City Golgotha</titlePart>
+			<titlePart type="desc">A NARRATIVE OF THE HISTORICAL OCCURRENCES OF A CRIMINAL
+			<lb/>CHARACTER ASSOCIATED WITH THE PRESENT BAR.</titlePart>
+		</docTitle>
+			<byline>BY<docAuthor>A MEMBER OF THE INNER TEMPLE.</docAuthor></byline>
+		<epigraph><cit><q>I would we were all of one mind, and one mind good.-O! there were desolation
+         of gaolers and gallowses!-</q><bibl>Cymbeline, Act V. Scene 4.</bibl></cit></epigraph>
+         <docImprint>
+   		<pubPlace>LONDON:</pubPlace><publisher>DAVID BOGUE,</publisher> <address><addrLine>86 FLEET STREET.</addrLine></address>
+                      <docDate>MDCCCLIII</docDate>
+          </docImprint>
+<pb id="p.ii"  n="ii"/>
+<figure id="fig.3" n="tufts:central:dca:MS004:MS004.002.009.DO01.00002"><head>Temple Bar in a scarce print in the possesion of the Author.</head></figure>
+                  <docImprint>
+                  	<pubPlace>LONDON:</pubPlace>
+                  	PRINTED BY <publisher>G BARCLAY</publisher>, <address><addrLine>CASTLE ST. LEICESTER SQ.</addrLine></address>
+                  </docImprint>
+           </titlePage>
+  </front>
+<body>
+<pb id="p.1"  n="1"/>
+
+                <div1 type="chapter" n="PART I: From the Restoration of Charles II, 1660, to the Death of Queen Anne, 1714" id="c1">           <head type="main">PART I.</head>
+    <head type="sub">FROM THE RESTORATION OF <persName key="Charles II.">CHARLES II.</persName>, <date value="1660">1660</date>, TO THE
+                 DEATH OF <persName key="Anne I.">QUEEN ANNE</persName>, <date value="1714">1714</date>.</head>
+<p><placeName key="TEMPLE BAR">TEMPLE BAR</placeName>,
+the only survivor of the City bars and gates, has, on
+many occasions, obtained no inconsiderable share of public attention.</p>
+   <p>Placed between the liberties of the cities of London and
+Westminster, it sets to each a limit.</p>
+   <p>It stands alone-a monument of bygone days, an enduring record
+of the power of the Crown, and of the passions of the people - a
+memorial of a period when, to insure the security of the throne, the
+terrors of the law were alone relied upon, and humanity and
+compassion for human imperfections constituted no part of the criminal
+jurisprudence of the country.</p>
+   <p>Replete as this every-day scene is with reminiscences of the
+past, we have considered that half an hour might not be
+unprofitably employed in recalling some of those historical occurrences
+with which it has been associated.</p>
+
+<pb id="p.2"  n="2"/>
+
+
+
+   <p>We have, however, no intention of indulging our readers with
+antiquarian lore, of dwelling for one moment on its architectural
+proportions.  Neither do we propose accompanying the herald in
+those gorgeous processions to which, at the sound of his trumpet, its
+gates have opened to admit the Sovereign, encircled by the chivalry
+of the Court, within the most loyal of all cities, the good city of
+London! <note place="foot" n="1">A work, we believe, is in the course of preparation by a gentleman
+fully qualified for the task he has undertaken, which will embrace both these
+subjects.</note>  <quote>"May peace be within her walls."</quote></p>
+   <p>The historical occurrences to which our attention will be limited
+are of a much less attractive character.  We have to contemplate
+the frown, not the smile of royalty; to direct our attention from the
+crowded thoroughfare to the gloomy summit of the arch, to behold
+there in the vividness of mental vision what our forefathers, in the
+distinct reality of form, were forced to regard-those livid heads
+and dismembered limbs which, as terrible examples of hostile
+resistance to the power of the throne, have from time to time been
+affixed upon it. A practical commentary, illustrating in characters
+of blood the words of Solomon,-<quote>" Curse not the king, no not
+in thy thoughts; and curse not the rich in thy bedchamber: for
+a bird of the air shall carry the voice, and that which hath wings
+shall tell the matter."</quote></p>
+
+
+<pb id="p.3"  n="3"/>
+
+
+   <p>If, from the contemplation of this mournful subject, any
+suggestions should arise having a tendency yet further to ameliorate
+the criminal institutions of our country, to render them still more
+in accordance with the improved feelings of the great community
+in which we are living, we shall reflect with much pleasure on
+the time we have passed near the City Bar.</p>
+   <p>Old London Bridge, the southern entrance to the metropolis,
+had for many centuries been considered a locality advantageously
+adapted, from its public position, for striking terror into the hearts
+of the rebellious, by the display of the lifeless heads of those who
+had fallen under the severity of the laws-laws ruthlessly
+administered, and carried into execution with a barbarity the conception
+of which it is difficult at the present day to realise.<note place="foot" n="2">In the reign of Edward IV. Thomas Burdet, Esq., of Arrowe, in
+Warwickshire, was beheaded for having used a coarse expression, the application
+of which had been erroneously applied to the person of the king. In the same
+reign, a tradesman, who kept a shop at the sign of the Crown, having said he
+would make his son heir to the Crown, this harmless pleasantry was
+interpreted to be spoken in derision of Edward's assumed title, and he was
+condemned and executed for the offence.
+   In the reign of <persName key="Henry VIII.">Henry VIII.</persName>, April 5, <date value="1531">1531</date>, Richard Rose, a cook, was
+boiled to death in Smithfield, for poisoning several persons in the family of the
+Bishop of Rochester ; an <foreign lang="LA">ex post facto</foreign> act had been passed for this express
+purpose. Margaret Davy subsequently, on March 17, <date value="1541">1541</date>, suffered a similar death in Smithfield, <quote>"for poisoning three households that she had
+dwelled in."</quote>
+   This Act was repealed in the following reign. Burning females to death,
+however, continued, within the memory of the present generation, to be
+inflicted by the law for the crimes of high and petty treason. For the latter
+crime, the last to suffer in London was Catherine Hayes, burnt to death at
+<placeName key="Tyburn">Tyburn</placeName>, May 9, <date value="1726">1726</date>, for the murder of her husband; for the former,
+Catherine Murphy, for colouring a piece of metal to resemble a
+shilling made high treason by the 15th and 16th <persName key="George II.">George II.</persName> c. 28-was burnt in the
+Old Bailey, on the 18th March, <date value="1789">1789</date> ; by the humanity of the sheriff, she
+was, however, first strangled. By the 30th Geo. III. c. 48, this barbarous
+mode of punishment was abolished, and hanging substituted.</note></p>
+   <p>The head of the Scottish patriot, <persName key="Wallace, William">Wallace</persName>, and, subsequently,
+
+
+<pb id="p.4"  n="4"/>
+
+
+
+the heads of Sir <persName key="More, Thomas">Thomas More</persName> and <persName key="Fisher, John">Fisher</persName>, bishop of Rochester,
+had, amidst many others of scarcely inferior note, graced, not
+disgraced, the stern battlements of the Drawbridge Tower.</p>
+    <p>The restoration of <persName key="Charles II.">Charles II.</persName> to the throne-in whose reign
+our narrative commences-had been accompanied by little
+amendment either in the criminal law or practice of the country; with
+few exceptions, the same severe enactments continued on the statute
+book; the same means as those adopted in the days of the
+Plantagenets and Tudors were still deemed essential to punish treason,
+or to deter from its commission.</p>
+    <p>It was the misfortune of <persName key="Charles II.">the king</persName>, on his arrival in England,
+to receive from all classes of his subjects the most servile adulation.
+Endeared to them by the recollection of his past adversities, no
+
+<pb id="p.5"  n="5"/>
+
+
+measures, however humiliating, were neglected to convince him
+of their sincere contrition for their former rebellious conduct. The
+clergy hastened to place his dethroned and beheaded father in the
+martyrology of the saints; the legislature, to decree that the day on
+which the <quote>"Sons of Belial"</quote> had imbrued their hands in his blood
+should ever after be observed as a day of solemn fasting and
+humiliation; and the lower orders, frantic with loyalty and the
+wine running from the conduits, <quote>"to throw up their caps, and cry
+<quote>' God save his Majesty.'</quote>"</quote></p>
+   <p>In this excited state of feeling an Act was passed, by which
+the judges who condemned the deceased monarch, and some
+others who had taken a leading part in the civil commotions of
+the last reign, were excluded from an indemnity which exempted
+from punishment many who had been less actively engaged in
+the stirring events of that period.</p>
+   <p>For this exception the nation were indebted more to the
+clemency of the Crown than to the merciful disposition of the
+Parliament.</p>
+   <p>By the operation of this Act, several of the persons we have
+mentioned were soon afterwards tried, condemned, and executed,
+and their heads affixed, in terrorem, on London Bridge.</p>
+   <p>That the sword of justice should descend on those alone
+whose lives had been prolonged to this period, was, however,
+<pb id="p.6"  n="6"/>
+
+
+
+deemed an insufficient expiation for the crimes that had been
+committed.</p>
+   <p>Death had kindly removed three of the principal actors from
+the scene--<persName key="Cromwell, Oliver">Cromwell</persName>, <persName key="Bradshaw, John">Bradshaw</persName>, and <persName key="Ireton, Henry">Ireton</persName>.
+The graves were now searched for their dead bodies, and upon their discovery,
+fast passing into decay, they were torn from the tomb, and,
+amidst the jeers and scoffs of the rabble, borne to the gallows
+at <placeName key="Tyburn">Tyburn</placeName>.    On the evening of the same day their bodies were
+decapitated and buried in a deep hole under the gallows, and
+their heads placed aloft on <placeName key="Westminster Hall">Westminster Hall</placeName>.<note place="foot" n="3"><quote>" The bodies of the three usurpers, viz. <persName key="Cromwell, Oliver">Cromwell</persName>, <persName key="Bradshaw, John">Bradshaw</persName>, and <persName key="Ireton, Henry">Ireton</persName>,
+after an industrious search, were found on Sunday last. Thereupon they
+(except <persName key="Bradshaw, John">Bradshaw</persName>, who, on account of the offensive state of his body, could
+not be immediately removed) were taken out of the graves. On the evening
+of the 23d January, <dateRange from="1660" to="1661">1660-1</dateRange>, all of them were brought out into a public-house
+in Holborn, and shown to any one who desired to see them; and in the
+course of the following Wednesday, being the 30th January, on which his
+majesty's father, of excellent and blessed memory, was murdered, the
+abovementioned bodies were conveyed in their open coffins to <placeName key="Tyburn">Tyburn</placeName> (a place where
+the worst criminals and thieves are hanged); the bodies were then taken out
+of the coffins, and hanged on the gallows. <persName key="Cromwell, Oliver">Cromwell</persName> was wrapped in a green
+shroud, <persName key="Bradshaw, John">Bradshaw</persName> in a coloured, and <persName key="Ireton, Henry">Ireton</persName> in a white cloth; it was a fine
+day, and the sun shone as warm as in summer, and made <persName key="Cromwell, Oliver">Cromwell</persName>'s fat so
+scorched that no one could stand by on account of the offensive smell. They
+were again in the evening removed, their heads cut off, and the bodies buried
+under the gallows. Subsequently their heads were placed on
+<placeName key="Westminster Hall">Westminster Hall</placeName>."</quote>-News from London of the 4th February, <date value="1661">1661</date>. Translated from the
+scarce original in Dutch.</note></p>
+   <p>These acts of vindictive justice had scarcely terminated, when
+the office of the executioner was again called into requisition, to
+mete out condign punishment on a band of insane adventurers,
+who sought to overthrow the  government of <persName key="Charles II.">Charles</persName>, and to
+
+   <pb id="p.7"  n="7"/>
+
+
+establish in its place one of a most wild and visionary
+character.</p>
+    <p>We allude to the Millenarians, or Fifth Monarchy men. These
+enthusiasts, led on by Venner, who believed himself commissioned
+by Heaven to proclaim the advent of the Prince of Peace, committed
+the most frightful excesses.</p>
+    <p>The truth of the assertions they had boldly made, that <quote>"no
+weapons formed against them should prosper,"</quote> <quote>"no hair of their
+heads be touched,"</quote> was shortly to be tested in the most
+satisfactory manner, by the execution, in different parts of the City
+of London, of the leader and his misguided associates. Venner
+was executed in Coleman Street, at the commencement of the
+year <date value="1661">1661</date>.    Their heads were placed along with those of the
+regicides on London Bridge.<note place="foot" n="4">Thomas Venner was a wine-cooper, and acquired a competent estate
+by his trade. He was so strongly possessed of the notions of the
+Millenarians, or Fifth Monarchy men, that he expected Christ was coming to reign
+upon earth, and that all human government, except that of the saints, was
+presently to cease.
+   He looked upon <persName key="Cromwell, Oliver">Cromwell</persName> and <persName key="Charles II.">Charles the Second</persName> as usurpers upon Christ's
+dominion, and persuaded his weak brethren that it was their duty to rise
+and seize upon the kingdom in his name. Accordingly a rabble of them,
+with Venner at their head, assembled in the streets, and proclaimed King
+Jesus. They were attacked by a party of the militia, whom they resolutely
+engaged, as many believed themselves invulnerable. They were at length
+overpowered by numbers, and Venner and Roger Hodgkin, a button-seller
+in St. Clement's Lane, Lombard Street (another fanatic), were executed before
+their meeting-house in Swan Alley, Coleman Street, in the City, on the 19th
+January, <date value="1661">1661</date>. On Monday the 21st nine more were executed, at five several
+places, by one executioner; two at the west end of St. Paul's, two at the
+Bull and Mouth, two at Beech Lane, two at the Royal Exchange, and a notable
+fellow, the last, by name Leonard Gowler, at Bishopsgate. Their heads were
+placed upon London Bridge.</note></p>
+
+
+
+<pb id="p.8"  n="8"/>
+
+
+
+   <p>These were the last destined to be placed there.  On future
+occasions, when the right to dispose of the quartered remains of
+the subject devolved on the Crown, that right, as regards those
+who had suffered for high-treason in London, was, with few
+exceptions, wholly or partially exercised in favour of
+<placeName key="Temple Bar">Temple Bar</placeName>.</p>
+   <p>Thus the City Bar became the City Golgotha.<note place="foot" n="5">The erection of the present bar commenced in the year <date value="1670">1670</date>, and was
+completed in <date value="1672">1672</date>. The design is stated to be by Sir <persName key="Wren, Christopher">Christopher Wren</persName>.</note></p>
+   <p>Afflictive as was the criminal jurisprudence of the country at
+this period, it was rendered still more so by the irregular manner
+
+
+<pb id="p.9"  n="9"/>
+
+
+
+
+in which it was administered.  <soCalled>" Reasons of state,"</soCalled> rather than
+the acknowledged principles of law, influenced the decisions of the
+courts. Judges dependent for the duration of their office on the
+pleasure of the Crown, made it their pleasure, by slavishly obeying
+its mandates, to prolong their tenure of office, and thus degrade
+the character of the judicial bench-a bench over which the
+inhuman <persName key="Jeffreys, George">Jefferies</persName> presided, whose natural element seemed to be amidst
+death and destruction: his most joyous moments those in which
+he sent a patriot to the block, or rejected, with a coarse, unfeeling
+jest, the last heartbroken supplication for mercy or justice.</p>
+   <p>Suspicion, conviction, and execution, ever constituted an unholy
+trinity in the mind of this judge.</p>
+   <p>We are convinced, that no language we can employ can
+adequately depict the character of one who has left so foul a blot
+on the judicial records of the country; we shall, therefore, abandon
+the attempt, and proceed at once with our narrative to those
+occurrences of the year <date value="1683">1683</date>, in which he took so prominent and so
+atrocious a part.</p>
+   <p>In the summer of the year we have named, the discovery of
+a real or pretended conspiracy to assassinate <persName key="Charles II.">the King</persName> on his return
+from the races at <placeName key="Newmarket">Newmarket</placeName>, and to alter the form of Government,
+commonly known as the Rye-House Plot, evinced the most
+unscrupulous determination on the part of the Crown and of the
+<pb id="p.10"  n="10"/>
+
+
+Chief Justice to proceed against those upon whom scarcely a shadow
+of implication could rest, with a relentless severity of purpose,
+and a total disregard of the principles of law or of justice.</p>
+   <p>The sole object of the Government being the conviction of
+the accused, the law was to be made, by strained interpretation, the
+instrument to effect that end. The mockery of a trial might have
+been, in all instances, and actually was in one, dispensed with.
+This unconstitutional course, while it inflicted an indelible stigma
+on the Government, greatly elevated the character of its victims.</p>
+   <p><persName key="Russell, William">William Lord Russell</persName>, eldest son of the noble house of Bedford,
+had displayed the heroic character of a patriot on the scaffold in
+<placeName key="Lincoln's Inn Fields">Lincoln's Inn Fields</placeName> - <persName key="Sidney, Algernon">Algernon Sidney</persName> had prayed for his
+murderers on Tower Hill--Holloway had been hurried from the West
+Indies to the triple tree at <placeName key="Tyburn">Tyburn</placeName>-- when the last remaining
+victim, Sir <persName key="Armstrong, William">William Armstrong</persName>, was delivered up to the English
+Government by the payment of a large bribe, and transferred from
+a foreign soil to the common gaol of <placeName key="Newgate">Newgate</placeName>. His history-being
+the first associated with the criminal records of <placeName key="Temple Bar">Temple Bar</placeName>
+-we
+shall, in accordance with the plan we have formed, proceed to give
+more at length.</p>
+   <p>Sir <persName key="Armstrong, Thomas">Thomas Armstrong</persName>, descended from an ancient and loyal
+family, was born at Nimeguen, in Holland.  As he advanced in
+years, he discovered a vigorous, martial disposition, and possessed
+<pb id="p.11"  n="11"/>
+
+
+
+
+a warm heart and a good head. During the exile of <persName key="Charles II.">Charles II.</persName>,
+his strong royalist predilections rendered him  obnoxious to the
+Protector, <persName key="Cromwell, Oliver">Cromwell</persName>, who confined him a whole year in Lambeth
+House,<note place="foot" n="6">This palace of the Archbishops of Canterbury was during the
+Commonwealth converted into a prison.</note> at that time a prison. Fortunately, however, he recovered
+his liberty, and the usage he had received not having abated his
+loyalty, he undertook the hazardous service of conveying to his
+majesty, at Brussels, bills of exchange and other papers of great
+importance.  This he executed so much to the satisfaction of the
+King, that he conferred upon him the honour of knighthood.  On
+his return, however, <persName key="Cromwell, Oliver">Cromwell</persName>, who had received intelligence of
+this journey, seized and sent him to the Gatehouse, <note place="foot" n="7">Gatehouse: Tothill Street; Westminster, is so called from two gates
+erected there in the reign of <persName key="Edward III.">Edward III.</persName> Here is a prison for debtors and
+criminals.--<hi rend="italics">London and its Environs, by Dodsley.</hi></note> where he
+again suffered a lengthened imprisonment.  Subsequently he was
+confined in <placeName key="the Tower of London">the Tower</placeName>, and regained his liberty only on the death
+of the Protector. <persName key="Charles II.">Charles II.</persName>, on his return, received him into great
+favour, promoted him to the rank of lieutenant in one of the troops
+of Horse Guards, and conferred upon him the honourable post of
+Gentleman of the Horse to his Majesty.  An unfortunate quarrel
+at the theatre, in which a person of some importance, of the name
+
+
+<pb id="p.12"  n="12"/>
+
+
+
+
+of Scroop, was killed, rendered it expedient for him to leave the
+kingdom. This he was enabled to do as an attendant on <persName key="Charles II.">the king</persName>'s
+natural son, the Duke of Monmouth.  He served with him in
+Flanders, and acquired a high military reputation, and was held
+in much esteem by the friends of the Duke. On the termination
+of the war he returned to England, and, to all appearance, was as
+high in favour and credit with the court as ever.</p>
+   <p>This prosperity was of short duration; for, owing to the unsettled
+state of the country, and the violent factions which agitated society,
+he had the misfortune to countenance such measures as at first
+occasioned his removal from office, and, ultimately, his dismissal
+from the court.  We may trace the ruin of <persName key="Armstrong, Thomas">Sir Thomas</persName> to his
+long and friendly intercourse with the Duke of Monmouth. The
+known vigour of his mind, and the constancy of his attachment
+to the person of the Duke, caused him invariably to be regarded
+as his principal adviser.  In connexion, however, with the Rye
+House Plot,-to which period we have now brought his
+history,no other positive proof could be adduced than the solitary one of his
+having been present at a meeting, at a Mr. Sheppard's, towards the
+latter end of October, <date value="1682">1682</date>, when, in conversation, a design of a
+<soCalled>"rising "</soCalled> in Dorsetshire had been mentioned. This was considered
+sufficient evidence to complete the ruin of the fallen favourite; and
+every imaginable pains were taken to secure his person. For a
+<pb id="p.13"  n="13"/>
+
+
+
+time, however, from having received notice of the intention of the
+Government, he was enabled to elude their vigilance, and after
+having been concealed for some time in England, he withdrew to
+Holland, where, under the assumed name of Henry Lawrence, he
+trusted to continue safe from the pursuit of his enemies.</p>
+   <p>The King's minister, Mr. Chudleigh, in the mean time, having
+obtained a warrant from the States for apprehending such of the
+conspirators as had fled from  England, Sir William was taken
+at Leyden, and, for a present of 5000 guilders (about 5001.) to
+the schout, or sheriff of the place, delivered to the King's minister,
+who placed him on board a royal yacht, and sent him to England.
+He neglected, probably owing to his confusion, to plead being a
+native of Holland; which, had he done, there is little doubt,
+would have ensured his safety.</p>
+   <p>During his absence, an indictment had been preferred against
+him, in London, for high treason, upon which he had been outlawed.
+On his arrival, the Government resolved to proceed against him
+upon this outlawry, without allowing him the benefit of a trial.
+On the 10th of June, therefore, the day on which he reached
+London, he was committed to <placeName key="Newgate">Newgate</placeName> under a warrant from the
+Secretary of State, and on the 14th of the same month was carried
+to the King's Bench at Westminster, when the Attorney General,
+Sir Robert Sawyer, moved the Court for an award of execution
+<pb id="p.14"  n="14"/>
+
+
+upon the outlawry. The scene that followed between the prisoner
+and the Chief Justice (the inhuman <persName key="Jeffreys, George">Jefferies</persName>) is of a character too
+remarkable to be slightly passed over.  The Clerk of the Crown
+having arraigned him upon the outlawry, Sir <persName key="Armstrong, Thomas">Thomas Armstrong</persName>
+addressed the Chief Justice:
+   <quote>"My lord, I was beyond seas at the time of the outlawry,
+and beg I may be tried.</quote>
+   <quote>" <hi rend="italics">Lord Chief Justice.</hi> That is not material at all to us; we have
+here a record of an outlawry against you, <persName key="Armstrong, Thomas">Sir Thomas</persName>.</quote>
+   <quote>"<hi rend="italics">Sir <persName key="Armstrong, Thomas">Thomas Armstrong</persName>.</hi> I desire to be put upon my trial,
+my lord.</quote>
+   <quote>"<hi rend="italics">Lord Chief Justice.</hi> We cannot allow any such thing; we have
+nothing to do upon this record before us but to award execution.
+Captain Richardson, which are your usual days of execution?</quote>
+    <quote>"<hi rend="italics">Captain Richardson.</hi> Wednesdays and Fridays, my lord."</quote></p>
+    <p>Sir <persName key="Armstrong, Thomas">Thomas Armstrong</persName> having afterwards called the attention
+of the Chief Justice to an Act made in the sixth year of Edward VI.,
+which allowed a party a twelvemonth to surrender to an
+outlawry, contended that that period had not expired. In doing
+this he was repeatedly interrupted by the Chief Justice, who
+manifested the greatest impatience to pronounce sentence upon him;
+and <persName key="Armstrong, Thomas">Sir Thomas</persName> having finally urged that he should have the
+benefit of the law, <quote>"That you shall have,"</quote> jeeringly exclaimed
+<pb id="p.15"  n="15"/>
+
+
+
+
+the Chief Justice, <quote>"by the grace of God; see that execution be
+done on Friday next, according to law: you shall have the full
+benefit of the law."</quote></p>
+   <p>Thus terminated a proceeding, alike disgraceful to the judge
+that pronounced and to the sovereign that could permit such a
+sentence to be carried into effect.</p>
+   <p>We now approach the closing scene of his varied life.  On
+the 20th of June, about nine in the morning, he was placed on
+a sledge, and, attended by the sheriffs and a numerous guard,
+conducted from <placeName key="Newgate">Newgate</placeName> to <placeName key="Tyburn">Tyburn</placeName>.   On his way, he employed
+his time in reading the <quote>" Whole Duty of Man,"</quote> and having reached
+the appointed place, he laid aside the book, and requested that
+Dr. Tennison might be permitted to come near him, to whom he
+delivered a paper for the sheriff, and knelt down with him for a
+few minutes. He then resigned himself, with perfect composure of
+mind, into the hands of the executioner.  After hanging about
+half-an-hour, he was cut down, and, pursuant to his sentence, his
+heart and bowels were taken out and committed to the flames, his
+body divided into four parts, which, with his head, were conveyed
+back to <placeName key="Newgate">Newgate</placeName>, to be disposed of according to his majesty's
+pleasure, and were afterwards publicly exposed. His head being
+set up upon <placeName key="Westminster Hall">Westminster Hall</placeName>, between those of <persName key="Cromwell, Oliver">Cromwell</persName> and
+<persName key="Bradshaw, John">Bradshaw</persName> (note, p. 6), one of the quarters upon <placeName key="Temple Bar">Temple Bar</placeName>,
+
+<pb id="p.16" n="16"/>
+
+two others on Alsdersgate and Aldgate, and the fourth was sent
+down to Stafford, which Borough he had represented in
+parliament.</p>
+	<p>Shortly after this event, when <persName key="Jeffreys, George">Jefferies</persName> had an interview with
+the King at Windsor, <persName key="Charles II.">Charles</persName> took from his finger a diamond
+ring of great value, and gave it to him; this ring was ever after
+called the <soCalled>"bloodstone."</soCalled>  His majesty prudently added this advice,
+to be careful not to grink too much wine on credit.  The attention
+the Chief Justice paid to this recommendation, let the <soCalled>"Bloody
+Assizes"</soCalled> testify.<note place="foot" n="8">The assizes held by the Chief Justice <persName key="Jeffreys, George">Jefferies</persName> in the West of England in
+the year <date value="1685">1685</date>, after the defeat of Monmouth, which for cruelty and infamy
+are unparalleled in the criminal records of the country, and which  obtained
+for them the epithet of <soCalled>"bloody."</soCalled>  The historian Hume thus describes
+them:--<quote>"The juries were so struck with his (Jeffries) menaces, that they
+gave their verdict with precipitation; and many innocent persons, it is said,
+were involved with the guilty.  And on the whole, besides those who were
+butchered by the military commanders, 251 are computed to have fallen by
+the hand of justive.  The whole country was strewed with the heads and
+limbs of traitors.  Every village almost beheld the dead carcase of a wretched
+inhabitant.  And all the rigours of justice, unabated by the appearance of
+clemency, were fully displayed to the people by the inhuman Jeffries."</quote>--
+<hi rend="italic">History of England</hi>, 8vo. vol.viii.p.233.</note></p>
+	<p><persName key="Charles II.">Charles the Second</persName> was of an indolent and selfish disposition,
+but was, when uninfluenced by others, neither vindicative nor ungenerous.
+
+<pb id="p.17" n="17"/>
+The following anecdote, forming an agreeable contrast
+to the cruel, repulsive character of the Chief Justice, will show
+that, unlike the judge, he occasionally possessed some sense of
+moral right and justice.</p>
+	<p>A report of the condemned malefactors being once made to
+him, one mobleman interceded for one, another for another, until
+they were all pardoned excepting one.  The <persName key="Charles II.">King</persName>, looking round
+upon the council, asked of them if nobody would speak in behalf
+of this man?  They all keeping silence, his majesty said, <q type="spoken">"Cod's
+fish, My lords!  this is some poor devil who has, I suppose, neither
+money nor friends: come, I'll be his friend myself!"</q> by which
+they were all saved.  And it turned out afterwards, to his majesty's
+great consolation, that the man whom he had pardoned by his
+own royal motive proved an object more worthy of compassion
+than any of the others.</p>
+	<p>They who have hitherto believed, with the witty Rochester,
+that <persName key="Charles II.">Charles</persName> never did a wise act, may, perhaps, be now
+inclined to modify that opinion; so far, at least, as to allow him the credit
+of wisdom in the one instance we have just narrated.</p>
+	<p>Twelve years elapsed before the Bar had another occupant.</p>
+	<p>In that interval great events had taken place--the House of Stuart
+had ceased to reign.  The brutal <persName key="Jeffreys, George">Jefferies</persName> having with difficulty
+escaped the fury of of the mob at Wapping, had sought the
+
+
+<pb id="p.18"  n="18"/>
+
+
+protection afforded in <placeName key="the Tower of London">the Tower of London</placeName>; there disease and
+drunkenness speedily terminated a life of vice and infamy.
+<persName key="William III.">William the Third</persName> had ascended the throne, not as a conqueror, but
+by express compact with the nation.  Reciprocity of ties were
+claimed and admitted as existing between the Crown and the
+people. Constitutional liberty, trampled upon by the Tudors and
+the Stuarts, revived with the House of Orange, and
+henceforward became the acknowledged imperishable right of every
+Englishman.</p>
+   <p>Amidst this improved position of affairs there were, however,
+some who, from interest or affection, maintained their attachment
+to the fallen house. By the treaty of Limerick, in <date value="1691">1691</date>, <persName key="James II.">James</persName>
+had lost all footing in the British dominions, and hope alone
+remained to him-the equal privilege of majesty and misery. On
+his return, however, to the Continent, intrigues were, both in
+England and Scotland, carried on in his favour. These intrigues
+received encouragement from the French ministry, who, although
+they had suspended all open attempts in his favour, scrupled not
+to employ the most atrocious means to promote his cause.
+Assassination was resorted to. Chevalier de Granvale, taken in the
+confederate camp in Flanders, in <date value="1692">1692</date>, having confessed the charge,
+was speedily hanged; 2000 livres, and the Cross of St. Lazare,
+were to have been the reward of his villany.</p>
+<pb id="p.19"  n="19"/>
+
+
+
+
+   <p>Notwithstanding this discouragement, three years afterwards,
+in the year <date value="1695">1695</date>, a new plot was discovered at London; the
+object being to carry off the King (as it was expressed) on his
+return from Richmond, where he usually hunted on Saturdays.
+<note place="foot" n="9">The place selected was a marshy bottom
+between Brentford and Turnham Green, by which road the king used
+to return to <placeName key="Kensington">Kensington</placeName> from Richmond, very slightly guarded.</note>
+Sir George Barclay, a warm adherent to the house of Stuart,
+had the chief direction of this conspiracy, in which about forty
+were engaged. Fortunately, however, the hope of reward, or the
+timidity of some of the subordinate actors, frustrated their
+diabolical purpose. On the 14th February, <date value="1695">1695</date>, Thomas
+Pendergrast revealed the whole scheme to the Earl of Portland; and
+La Rue, on the same day, did the like to Brigadier Leveson.
+The Government adopted the most vigorous measures to secure
+the conspirators.  Several, however, suspecting their plans had
+failed, had already withdrawn from danger.  In this number was
+Sir George Barclay; others, less fortunate, were captured. Robert
+Charnock, a Fellow of Magdalen College, was the first to suffer;
+and, shortly afterwards, Sir <persName key="Friend, John">John Friend</persName> and Sir <persName key="Parkins, William">William Parkins</persName>
+were placed on their trials before Chief Justice Holt, at the Sessions
+House in the Old Bailey. This took place on the 23d and 24th
+of March, <date value="1696">1696</date>.</p>
+
+
+<pb id="p.20"  n="20"/>
+
+
+     <p>We must, however, pause for a few  moments, in order to
+ take some notice of the two last-named parties, who, as they
+conspired together in life, in death were not to be far separated;
+ the head and limbs of one, and the headless trunk of the other,
+ being the next ornaments <placeName key="Temple Bar">Temple Bar</placeName>
+ received.</p>
+    <p>Sir <persName key="Friend, John">John Friend</persName>, from an humble position, had, by industry
+and perseverance, arisen to considerable wealth and credit, and
+had enjoyed, during the last reign, a lucrative situation in the
+Excise.   He was, at the time of his death, the proprietor of a
+large brewery near Tower Hill.<note place="foot" n="10">The brewery, after the death of Sir Thomas Friend, was taken by the
+notorious swindler Joseph Crook, alias Sir Peter Stranger, Bart. He was the
+last person tried and convicted under the statute of the 5th Elizabeth, c. 14,
+entitled <quote>"An Act against Forgers of false Deeds and Writings."</quote> The instrument
+he had forged was the will of a Mr. Thomas Hawkins, and having been found
+guilty, the sentence provided by the statute was carried into effect.  On
+June 10, <date value="1731">1731</date>, he stood in the pillory at Charing Cross, and the common
+hangman cut off his ears and slit up his nostrils and seared them. He was
+then in his 70th year. The 2d George II. c. 25, recently passed, made this
+offence felony; and Richard Cooper, a victualler at Stepney, was the first
+person (in London) to suffer the new penalty, for the forgery of a bond of 25&#x00A3;.
+in the name of Holme, a grocer in the neighbourhood of Hanover Square.
+This execution took place at <placeName key="Tyburn">Tyburn</placeName>, on Wednesday, June 16, <date value="1731">1731</date>.</note>  He had always remained
+faithful to the interest of <persName key="James II.">James</persName>, and his purse was ever at his
+service.  To his wealth, however, rather than to his abilities,
+
+<pb id="p.21"  n="21"/>
+
+
+
+he was indebted for the consideration he received.   He readily
+entered into the proposed plans of invasion; and so soon as <persName key="James II.">James</persName>
+should have effected a landing, with a force sufficient to give a
+probability of success, had engaged to join him with 2000 horse.
+This appears to have been the extent of his criminality: he
+repudiated all idea of assassination, nor, in fact, was this aggravation
+of his offence alleged against him, no count in the indictment
+charging him with it.</p>
+    <p>Sir <persName key="Parkins, William">William Parkins</persName> was also a gentleman of property, and
+had warmly espoused the interests of the Stuarts. He had been
+educated to the profession of the law, and, during the last reign,
+had received the valuable appointment of one of the Six Clerks
+in Chancery; rather than lose which he had, on the accession of
+<persName key="William III.">William</persName>, taken all the oaths to the Government.  <note place="foot" n="11">As regards the moral obligation of an oath, Sir William would appear to
+coincide with Sir Hudibras:-
+               <quote rend="blockquote">"He that made and forced it broke it,
+                 Not he that for convenience took it."</quote>
+                                   <hi rend="italics">Hudibras</hi>, Part II. Canto 2, p. 275.</note>He was not
+only a consenting party to the design of assassination, but had
+promised to bring five men to assist in it.</p>
+   <p>The names of these parties, to the last moment of his life, he
+firmly refused to reveal to the Government, declining to save his
+
+<pb id="p.22"  n="22"/>
+
+
+
+
+own life by the sacrifice of his associates: a redeeming trait in a
+character otherwise darkened by many vices.</p>
+   <p>The jury at once found them guilty, and the usual sentence
+was passed upon them as traitors.</p>
+   <p>The following account of their execution is extracted from the
+newspaper of the day:-</p>
+   <p><quote>"Yesterday being the 3d of April, Sir <persName key="Parkins, William">William Parkins</persName> and
+Sir <persName key="Friend, John">John Friend</persName> were drawn in a sledge from <placeName key="Newgate">Newgate</placeName> to <placeName key="Tyburn">Tyburn</placeName>,
+where they were hanged and quartered. They had books in
+their hands the whole way, and <persName key="Friend, John">Sir John</persName> seemed more penitent
+than <persName key="Parkins, William">Sir William</persName>. They prayed very heartily, being assisted by
+three non-jurant ministers, Mr. Cook, Mr. Collier, and Mr. Snatt:
+they both confessed a knowledge of the plot.  Sir <persName key="Parkins, William">William Parkins</persName>
+was observed several times to smile in the sledge, and seemed to
+take much notice of the spectators.  Sir <persName key="Friend, John">John Friend</persName> confessed
+having heard of the assassination, but that he abhorred it.</quote></p>
+   <p><quote>"When they came to the press-yard, <persName key="Friend, John">Sir John</persName> said to Sir
+William, <quote>' We shall soon be in a glorious state.'</quote> At the gallows,
+before the cart was drawn away, they kneeled down, and the
+three ministers<note place="foot" n="12"><quote>" Collier, Snatt, and Cook, three non-jurant clergymen, waited on them at
+<placeName key="Tyburn">Tyburn</placeName>, and the three at the place of execution joined to give them public
+absolution, with an imposition of hands, in the view of all the populace,
+though they died avowing the evil doings in which they had been engaged,
+and expressing no sort of repentance for them.
+   "For this offence Cook and Snatt were committed to <placeName key="Newgate">Newgate</placeName>, Collier
+absconded. The dispute lasted some time, but they were ultimately released."</quote>
+--History of the Reign of <persName key="William III.">William</persName>.</note> laid their hands on their heads, and so they
+went off."</quote></p>
+
+
+
+<pb id="p.23"  n="23"/>
+
+
+
+   <p>The quarters of Sir <persName key="Parkins, William">William Parkins</persName> and Sir <persName key="Friend, John">John Friend</persName>,
+together with the head of the former, were placed on <placeName key="Temple Bar">Temple Bar</placeName>.</p>
+   <p><persName key="Evelyn, John">Evelyn</persName>, in his <quote rend="blockquote">"Diary,"</quote> referring to this melancholy scene,
+remarks,-<quote>" A dismal sight, which many pitied.  I think there
+never was such a <placeName key="Temple Bar">Temple Bar</placeName>
+ till now, except once in the time
+of King <persName key="Charles II.">Charles the Second</persName>, viz. Sir <persName key="Armstrong, Thomas">Thomas Armstrong</persName>."</quote></p>
+   <p>The head of Sir <persName key="Friend, John">John Friend</persName> was set up on Aldgate; on
+account, it is presumed, of that gate being in the proximity of
+his brewery.</p>
+   <p>Pendergrast, the principal discoverer of the plot, received from
+<persName key="William III.">the King</persName> a present of 3000&#x00A3;. in money; an annuity of 500&#x00A3;. was
+likewise settled upon him and his heirs, and he had also conferred
+upon him a colonel's commission in the army.</p>
+   <p>Nearly the last person to suffer on account of this conspiracy
+was Sir <persName key="Fenwick, John">John Fenwick</persName>, of Fenwick Castle, in the county of
+Northumberland, a man of considerable talent but of a restless
+disposition, and who, twenty years previously, had commanded a
+
+<pb id="p.24"  n="24"/>
+
+
+
+
+regiment in the service of <persName key="William III.">William the Third</persName>, when Prince of
+Orange.  His history, excepting that he was a participator in
+the crime of those whose limbs were then exposed, is not
+associated with <placeName key="Temple Bar">Temple Bar</placeName>;
+as, after his decapitation on Tower
+Hill, on January 23, <date value="1697">1697</date>, his remains were removed to the
+Church of St. Martin-in-the-Fields, and there deposited in the
+family vault. We merely take notice of him, as, by a
+remarkable coincidence, the death of <persName key="William III.">William</persName> was not altogether
+unassociated with the execution of this northern baronet.</p>
+   <p>The partiality of <persName key="William III.">the King</persName> for his palace at Hampton Court
+is well known; and in the improvement of the gardens he had
+projected a new canal, near that which is at present in existence.
+On the morning of February 21, <date value="1702">1702</date>, he rode into the Home
+Park to inspect the progress of the work, and was mounted on
+a sorrel pony, which had formerly been the property of the
+unfortunate Sir <persName key="Fenwick, John">John Fenwick</persName>.</p>
+   <p>His Majesty having reached the spot where the operations
+were being carried on, the pony accidentally placed his foot in
+a mole-hill, and fell.  <persName key="William III.">the King</persName>'s collar-bone was fractured by
+the fall, and having been removed first to Hampton Court Palace,
+and subsequently by his desire to <placeName key="Kensington">Kensington</placeName>, he expired after
+much suffering, on the morning of Sunday, the 8th day of March,
+<date value="1702">1702</date>, in the fifty-second year of his age, and the thirteenth of
+<pb id="p.25"  n="25"/>
+
+
+
+
+his reign. The adherents of <persName key="James II.">James</persName> eulogised their beloved
+<soCalled>"Sorrel ;"</soCalled> and the wit of Pope was shown in the following <foreign lang="FR">jeu d'esprit</foreign>,
+contrasting the safety of <persName key="Charles II.">Charles</persName> in the oak at Boscobel, with the
+accident to <persName key="William III.">William</persName> in the gardens at Hampton:-
+
+            <quote rend="blockquote">"Angels, who watched the guardian oak so well,
+            How chanced ye slept when luckless Sorrel fell ?"</quote></p>
+
+   <p>In breathless haste-the historian informs us-the courtiers
+hastened from the palace to announce to <persName key="Anne I.">Anne</persName> her exaltation to
+the throne.</p>
+   <p>We must now resume our narrative. With the peace of
+Ryswick, in <date value="1697">1697</date>, ended all attempts in favour of the exiled
+<persName key="James II.">king</persName>, who, from ambition, turned his attention to religion, trusting
+to secure a heavenly crown as a recompense for the loss of his
+earthly one; and in the practice of the austerities of an ascetic
+course of life, he died of a lethargy, at St. Germains, July 6, <date value="1701">1701</date>,
+at the age of sixty-eight, and was buried in the English Benedictine
+monastery at Paris. As we have seen, a few months subsequent to
+this event, <persName key="William III.">William the Third</persName> had expired at <placeName key="Kensington">Kensington</placeName>. <persName key="Anne I.">Anne</persName>,
+the second daughter of <persName key="James II.">James</persName> by his first wife, the daughter of the
+great Lord Clarendon, by virtue of the Act of Settlement ascended
+the throne, and was speedily engaged in continental wars to check
+the power of France; Louis the Fourteenth having, by a family
+
+<pb id="p.26"  n="26"/>
+
+
+
+marriage, connected the crown of Spain with the House of Bourbon.
+The Peace of Utrecht, in <date value="1713">1713</date>, effected this object, and, moreover,
+compelled Louis to send James Francis Edward, the son of the
+late exiled <persName key="James II.">monarch</persName> (who had been openly acknowledged by him by
+the title of James the Third), out of his dominions. If we except
+an abortive effort to land troops in Scotland, the reign of Queen
+<persName key="Anne I.">Anne</persName> passed over without any open attempt to disturb her throne,
+and she had the good fortune not to be called upon to execute the
+rigour of the laws on any of the supporters of her family.</p>
+  <p> After a reign of nearly thirteen years, made glorious by the
+victories of Marlborough, the <persName key="Anne I.">Queen</persName> breathed her last at
+<placeName key="Kensington">Kensington</placeName>, on the 1st day of August, <date value="1714">1714</date>, and was, on the 24th
+of the same month, buried in <persName key="Henry VII.">Henry the Seventh</persName>'s chapel in
+Westminster Abbey.</p>
+   <p>The herald proclaimed over her tomb her earthly titles; to
+which the nation, in affection for her memory, added another, by
+which she has been generally distinguished-that of the good
+<persName key="Anne I.">Queen Anne</persName>.</p></div1>
+<pb id="p.27"  n="27"/>
+
+
+
+<div1 type="chapter" n="PART II: From the Accession of the House of Hanover, 1714, to the Thirteenth Year of the Reign of George III, 1772" id="c2">
+
+                          <head type="main">PART II.</head>
+ <head type="sub">FROM THE ACCESSION OF THE HOUSE OF HANOVER, <date value="1714">1714</date>, TO THE
+     THIRTEENTH YEAR OF THE REIGN OF GEORGE III., <date value="1772">1772</date>.</head>
+<p><hi rend="cl"><persName key="George I.">GEORGE THE FIRST</persName></hi> had no sooner ascended the throne than the
+slumbering embers of loyalty to the exiled family burst again into a
+flame, and many of the Scotch, as also of the English nobility,
+openly declared for <persName key="Stuart, James Francis Edward">the Pretender</persName>; by which name the heir of that
+family was now called. His standard was raised in Scotland; but
+divided councils and hesitation at the moment when the greatest
+unanimity and decision were requisite, combined with other causes,
+for which we must refer the reader to the historians of that period,
+rendered all their attempts abortive. A very considerable force,
+however, penetrated as far as Preston in Lancashire, which town
+surrendered to them without offering any resistance.
+Notwithstanding this success, the leaders of <persName key="Stuart, James Francis Edward">the Pretender</persName>'s forces,
+satisfied of the inutility of continuing longer the contest, (the <persName key="George I.">King</persName>'s
+<pb id="p.28"  n="28"/>
+
+
+
+troops having been reinforced in the night), resolved at once to
+capitulate, without having further recourse to arms-a resolution the
+brave Highlanders resented as cowardly-and declared themselves
+ready to make a sally, sword in hand, and either cut their way
+through the <persName key="George I.">King</persName>'s troops or perish in the attempt.  This was
+overruled, and <persName key="Stuart, James Francis Edward">the Pretender</persName>'s force surrendered at discretion. All
+the noblemen and leaders were secured. Some were immediately
+tried by a court-martial, and executed; whilst others, among them
+Lords Derwentwater, Kenmuir, and other officers of distinction,
+were sent to London, marched through the streets, pinioned like
+malefactors, and committed to <placeName key="the Tower of London">the Tower</placeName> and other metropolitan
+prisons.  It may be interesting to have from an eye-witness-a
+prisoner at the time in <placeName key="Newgate">Newgate</placeName>-some account of this mournful
+procession.</p>
+   <p><quote>"The day now was come,"</quote> he observes, <quote>"when those
+unfortunate noblemen and gentlemen who, by a surrender at discretion,
+had entertained vain notions of saving life and estate, were to be
+led in triumph, as an example to deter other incautious and rash
+persons from the like attempt, through crowds of spectators to
+their respective prisons, which the Government had appointed to
+be <placeName key="the Tower of London">the Tower of London</placeName>, the Marshalsea Southwark, <placeName key="Newgate">Newgate</placeName>,
+and the Fleet.  Wherefore all things being prepared for them,
+especially in that mansion-house where my ill stars obliged me
+<pb id="p.29"  n="29"/>
+
+
+
+to take up my abode, I got leave of the Governor thereof to take
+a view of them as they came through the gate, from a room over it
+on the master's side. And here it may not be from the purpose
+of an historian to say, that the respective prisoners, in their journey
+from Preston to London, having been used with the utmost civility
+and decency, according to their qualities, on their arrival at
+Highgate were to know what they were to expect; which, indeed, was
+no more than the laws of our own, and the common practice of
+other nations, in like cases authorised and allowed.</quote></p>
+   <p><quote>"Accordingly, Major-general Tatton, with two battalions of
+the Royal Foot Guards, completely armed, attended their coming
+to the place just mentioned; and having brought cords sufficient
+to pinion each of them, after the fashion of condemned criminals,
+and to lead their horses with (since, from the lord to the footman,
+they were to have every one a grenadier for that end), they were
+ordered to proceed on their march in four divisions from the Hill,
+under safe conduct, to their several places of confinement.</quote></p>
+   <p><quote>"The Major-general led the way (being preceded by several
+citizens of more loyalty than compassion, who made repeated huzzas
+to excite the mob to do the like), at the head of a company of
+the First Regiment of Guards, who made a very fine appearance;
+after which came the divisions that were appointed to take up
+their abode in <placeName key="the Tower of London">the Tower</placeName>, two by two. The Earl of Derwentwater
+<pb id="p.30"  n="30"/>
+
+
+and Lord Widdrington in the first rank, and the other lords and
+noblemen following, with haltered horses, and their riders, like
+common malefactors, reviled and hooted."</quote></p>
+   <p>Robert Dalziel, earl of Carnwath, and William Gordon lord
+Kenmuir, upon the same authority, occupied the third rank. The
+gates of the gloomy fortress had scarcely been closed on these
+unfortunate noblemen, than they were to be again opened to deliver
+over to the sheriffs the youthful Earl of Derwentwater and the
+more aged Lord Kenmuir, who, having been impeached by the
+House of Commons, had pleaded guilty to the articles exhibited
+against them, and on the 24th of February, <date value="1716">1716</date>, were, by the
+forfeiture of their lives, to pay the penalty of their misplaced
+zeal and loyalty to the son of their former sovereign. The loss
+of these noblemen was deeply felt in the north, where their estates
+were situated. By their bounty the poor and needy had been fed,
+and to them the widow and the fatherless had never appealed in
+vain for protection.  In expressing commiseration, however, for
+their fate, let us not forget the admonition contained in the words
+of one of the greatest ornaments of the judicial bench, Judge Hale,
+who was accustomed to remark, <quote>" When I find myself inclined to
+pity a criminal, let me remember there is likewise a pity due to
+the country."</quote></p>
+   <p>Forming a part of the melancholy procession we have described
+<pb id="p.31"  n="31"/>
+
+
+
+were those destined to be confined in the prison of <placeName key="Newgate">Newgate</placeName>. In
+this number were Colonel Henry Oxburg and Richard Gascoign.
+Of the former we have to take some notice, as his head was shortly
+to be placed on the top of <placeName key="Temple Bar">Temple Bar</placeName>
+.</p>
+   <p>Colonel Henry Oxburg, previous to the year <date value="1715">1715</date>, had resided
+on his property in Lancashire, and from his attachment to the
+cause of <persName key="Stuart, James Francis Edward">the Pretender</persName> had, immediately on the breaking out of
+the rebellion, joined his forces in the north.   Whilst serving in
+the French army some years prior to this event, he had acquired
+a distinguished character for his gallant conduct, and was by
+General Forster,<note place="foot" n="1"> General Forster had been confined in <placeName key="Newgate">Newgate</placeName>, with several of the
+prisoners taken at the surrender of Preston. The following account of the
+manner in which he effected his escape is taken from the diary of a prisoner
+confined in the same prison with him:-
+   <quote>"April 10, <date value="1716">1716</date>.-Mr. Forster abused the liberty which was allowed him
+by Governor Pitt,<note place="foot" n="2">Mr. Forster and Mr. Anderton, another prisoner for the same offence, paid 5&#x00A3;.
+a-week each for their lodging and diet in the Governor's house.</note> and made his escape as follows :-His servant had taken an
+impression in wax of the key of the outer door, and got one made accordingly.
+While Forster and Anderton were drinking French wine with Mr. Pitt, Forster
+sent his own man for a bottle of his own wine to make up the treat, and on
+pretence of going to the vault, he went out of the room. The fellow, according
+to order, had locked up Mr. Pitt's black in the cellar, as he went down with
+him to bring up the bottle, and then stayed at Mr. Pitt's outer door until
+Forster came, and both went out together, having locked the door on the
+outside, and left the false key in the lock to prevent them being suddenly
+pursued. They got to Prettlewell, in Essex, next morning by four o'clock,
+with two more horsemen that were ready to attend them, and having a vessel
+provided at Leigh went over to France."</quote>-<hi rend="italics">Secret History of the Rebels in
+<placeName key="Newgate">Newgate</placeName></hi>, <date value="1716">1716</date>.</note> who held the chief command in <persName key="Stuart, James Francis Edward">the Pretender</persName>'s
+army, immediately made a colonel. To him had been consigned
+the humiliating task of proposing the capitulation of Preston.
+
+
+
+<pb id="p.32"  n="32"/>
+
+
+
+We have already recounted the brief, and to them disastrous, issue
+of this campaign. On the 9th of May he was placed on his trial
+at Westminster, before Chief Justice Parker, on the charge of
+high treason; and the jury, considering the evidence produced
+conclusive of his guilt, returned a verdict to that effect. Pursuant
+to his sentence, he was, on the 14th of the same month, executed at
+<placeName key="Tyburn">Tyburn</placeName>; his body was buried in the churchyard of St. Giles-
+inthe-Fields, and his head placed upon <placeName key="Temple Bar">Temple Bar</placeName>. This was on
+the 16th of May, <quote>"which is a circumstance,"</quote> remarks a writer
+of the day, <quote>"which we chose to mention, that the rebels may
+place it among their other saints' days."</quote> He met death without
+the slightest trepidation, and had attained such a remarkable serenity
+and temper of mind during his imprisonment, that when, in the
+language of one who had frequent opportunities of conversing with
+him, <quote>"he declared his sentiments, they seemed to glide in upon
+
+<pb id="p.33"  n="33"/>
+
+
+
+you like a gleam from the true God: you received comfort from
+the man you came to comfort."</quote></p>
+   <p>Richard Gascoigne shortly followed his friend and companion
+to the grave, having been executed at <placeName key="Tyburn">Tyburn</placeName> the 25th day of
+May, <date value="1716">1716</date>.  He was likewise buried in the churchyard of St.
+Giles-in-the-Fields.</p>
+   <p>It forms no part of the plan of this narrative to trace, step
+by step, the history of these troubled times, except so far as may
+be sufficient to elucidate either the history of the Bar or the
+biographical notices of those connected with it.  We shall, therefore,
+not enlarge on the fate of many consigned to an ignominious death,
+whose youth, and consequent inexperience of the world, might
+justly have pleaded for a mitigation of the capital punishment;
+<note place="foot" n="3">James Shepperd, executed for high treason at <placeName key="Tyburn">Tyburn</placeName>, the 17th March,
+<date value="1718">1718</date>, at the age of eighteen.
+   John Matthews, a printer, for printing and publishing a seditious libel,
+executed at the age of nineteen, at <placeName key="Tyburn">Tyburn</placeName>, November 6, <date value="1719">1719</date>.</note>
+but <persName key="George I.">George the First</persName> knew little of the English people, and
+clemency formed no part of the policy of his ministers. They
+sought to govern by the fear, and not by the affection, of the
+nation.  Tower Hill and <placeName key="Tyburn">Tyburn</placeName> had already witnessed the closing
+scenes of many of the supporters of the former family, and yet
+the same disaffection to the existing Government remained,-still
+
+<pb id="p.34"  n="34"/>
+
+
+more victims were to be offered up as peace-offerings; and it was
+only at length by the extinction of the House of Stuart, in the
+direct line, that the Crown was quietly to rest with the House of
+Hanover.</p>
+   <p>Such poor supporters of a cause are the axe and the rope!</p>
+   <p>To a young and enthusiastic mind, an enterprise fraught with
+danger, difficult of accomplishment, and having a chivalrous issue,
+will always prove a powerful attraction, successfully to resist which
+will not only demand that the duty and obedience which every
+citizen owes to the laws of his country should be ever present in
+his mind, but that these obligations should be enforced by the
+principles derived from religion and reason.</p>
+   <p>Of such a character was the cause of <persName key="Stuart, James Francis Edward">the Pretender</persName>: an exile
+from his infancy from the kingdom over which his ancestors had
+ruled-dispossessed of that throne which, for nearly a hundred
+years, <note place="foot" n="4"><persName key="James I.">James the First</persName> of England, and the Sixth of Scotland, ascended the
+throne of England March 24, <date value="1603">1603</date>. <persName key="James II.">James</persName> the Second abdicated that same
+throne, by leaving the country, December 23, <date value="1588">1588</date>.
+   If, however, we include in our calculation the period of their occupation of
+the throne of Scotland, we should extend the sovereignty of the House of
+Stuart to upwards of three hundred years.</note>they had occupied-for no fault committed by him, for
+no crime that could be alleged against him.</p>
+
+<pb id="p.35"  n="35"/>
+
+
+   <p>The nation, by the Act of Settlement, had visited the sins of
+the father upon the children.  That they had a clear right to do
+so, will always be maintained by those who hold that the sentiments
+of the majority must in all cases be binding and conclusive on the
+rest of the community.  To reason otherwise would, in this instance,
+be to revive the doctrine of the <quote>"right divine of kings to govern
+wrong,"</quote> which has long since been consigned to that <soCalled>"Limbo"</soCalled>
+described by <persName key="Milton, John">Milton</persName>, to serve as an amusement to <quote>"the eremites
+and friars, white, black, and grey,"</quote> who, according to the same
+authority, are to be found there.<note place="foot" n="5">
+<quote rend="blockquote"> "Eremites, and friars
+           White, black, and grey, with all their trumpery.
+           All these, upwhirl'd aloft,
+           Fly o'er the backside of the world far off,
+           Into a Limbo large and broad, since called
+           The Paradise of Fools."</quote>- <persName key="Milton, John">Milton</persName>'S <hi rend="italics">Paradise Lost</hi>, book iii.</note></p>
+   <p>Strongly imbued with feelings of the enthusiastic character we
+have described, was <persName key="Layer, Christopher">Christopher Layer</persName>, who trusted alone to effect
+that change which, as we have seen, armies in the field had failed
+to accomplish. We shall proceed to give our readers some
+information relative to this individual, whose head frowned from the
+summit of the arch for a longer period than any other occupant.</p>
+   <quote><persName key="Layer, Christopher">Christopher Layer</persName> was descended from an honourable family,
+and after having completed his education at the University of
+
+
+<pb id="p.36"  n="36"/>
+
+
+Cambridge, was admitted a student of the Inner Temple. Having
+kept the requisite number of terms, he was called to the Bar,
+and from the large practice he speedily obtained, and his high
+reputation and abilities, would have risen to fame and fortune,
+had not the political tendency of his principles, and his
+intercourse with females of disreputable character, entirely blasted
+these prospects, and consigned him shortly to ruin and a
+dishonourable grave.</quote>
+   <quote>In the early part of the year <date value="1722">1722</date>, Francis Atterbury, the
+witty Bishop of Rochester, had been arrested on suspicion of
+treasonable practices and confined to <placeName key="the Tower of London">the Tower</placeName>, and upon his
+trial, shortly afterwards, before the House of Commons, on a Bill
+of Pains and Penalties, had been found guilty by a large majority,
+and banished the kingdom for life, and at the same time disabled
+from holding his preferments in the Church.</quote>
+   <quote>The example given by this eminent divine was closely
+followed by <persName key="Layer, Christopher">Layer</persName>, who proceeded to Rome, then the residence of
+<persName key="Stuart, James Francis Edward">the Pretender</persName>, and had several conferences with him, in which
+he engaged, on his return to England, to effect a revolution in
+so secret a manner that no one in authority should be apprised
+of the scheme until its actual accomplishment.</quote>
+   <quote>Full of these chimerical notions, lie returned to England, and
+formed the dastardly plan of hiring an assassin to murder the
+<pb id="p.37"  n="37"/>
+
+
+
+
+King as he returned from <placeName key="Kensington">Kensington</placeName>.   This being effected, the
+guards were to be seized, and, during the confusion that this
+event would naturally produce, the   chief officers of state and
+the royal children were to be secured.</quote>
+   <quote>It is difficult to conceive how any person of the penetration
+and abilities of <persName key="Layer, Christopher">Layer</persName> could, for one moment, believe in the
+practicability of a scheme so wild and dangerous. He had, however,
+induced Lord Grey, an aged nobleman of the Roman Catholic
+faith, to give his concurrence to it.  Fortunately, the death of
+this nobleman in confinement, before the necessary legal
+proceedings could take place, obviated, in all probability, the sad spectacle
+of a public execution on Tower Hill.</quote>
+   <quote><persName key="Layer, Christopher">Layer</persName> now entered into a correspondence with several Roman
+Catholics, Non-jurors, and other persons disaffected to the
+Government; and likewise engaged the assistance of a few disbanded
+soldiers, who were to be the chief instruments in carrying the
+plot into execution.  These soldiers he met at a public-house at
+Stratford, in Essex, when he finally gave them their instructions
+for seizing the King on his return from <placeName key="Kensington">Kensington</placeName>, and the day
+was even fixed for carrying their plan into execution.</quote>
+   <quote>Secret as may have been the concoction of this scheme, it
+was not sufficiently so to ensure its accomplishment.  The
+treasonable conversation had been overheard by some persons connected
+<pb id="p.38"  n="38"/>
+
+
+
+with the house, who had spoken of it publicly in the
+neighbourhood. Suspicion immediately fell upon <persName key="Layer, Christopher">Layer</persName>. His known
+predilection to the cause of <persName key="Stuart, James Francis Edward">the Pretender</persName>, combined with other
+circumstances, induced the Secretary of State at once to issue a
+warrant, by virtue of which he was taken into custody. Mention
+has been made of his attachment to women: at the time of his
+apprehension he had two mistresses, to both of whom   he had
+given intimation of the proposed scheme. On searching their
+apartments, many papers of a treasonable character were found. On
+this being communicated to the Counsellor, and also that the women
+were bound over to give evidence against him, he sent to the
+Secretary of State, expressing his readiness to disclose all the
+particulars of the conspiracy, if he were indulged with the
+requisite materials for writing.</quote>
+   <p>No time was lost in complying with this requisition, and had
+he fulfilled the promise he had made, he would, in all
+probability, have been admitted as evidence against his accomplices.
+At that moment, however, his mind was engaged on a very
+different project. The back-yard of the house in which he was
+confined communicated with the yard of the adjoining
+publichouse; and it occurred to the fertile brain of Mr. <persName key="Layer, Christopher">Layer</persName>, that
+if he could descend from  his room into this yard, he should
+find it a very easy matter to escape through the tap-room,
+<pb id="p.39"  n="39"/>
+
+
+
+where there was very little probability of his being
+recognised.</p>
+   <p>This plan he determined to carry, if possible, into execution;
+he cut, therefore, the blankets of his bed into long pieces, and
+fastened them together, and in the dusk of the evening descended
+from his window; unfortunately, however, he fell upon a bottle-rack
+in the yard, and upset it, and the noise occasioned by the breaking
+of the bottles was such that it alarmed the family. <persName key="Layer, Christopher">Layer</persName>,
+however, amidst the confusion which ensued, effected his escape. An
+active search was instantly commenced by the almost distracted
+messenger, who, tracking him to the Horseferry at Westminster,
+where he had taken a boat, crossed the water after him, pursued
+him through St. George's Fields, and ultimately succeeded in
+recapturing him at <placeName key="Newington">Newington</placeName>. <persName key="Layer, Christopher">Layer</persName> was now again lodged in
+the messenger's house, and securely guarded for the night. The
+next day he underwent an examination by the Secretary of State,
+and was committed to <placeName key="Newgate">Newgate</placeName>. The Government having decided
+that no delay should take place in bringing him to trial, a grand
+jury was at once empannelled at Romford, in Essex, by a warrant
+from  the Sheriff, who found a true bill against him for high
+treason; which bill was made returnable into the Court of King's
+Bench.</p>
+   <p>Wednesday, the 21st of November, was the day appointed
+<pb id="p.40"  n="40"/>
+
+
+
+for the trial of <persName key="Layer, Christopher">Layer</persName>.  The Lieutenant of <placeName key="the Tower of London">the Tower</placeName> brought
+him  up to the bar of the Court, and upon a motion made by
+Mr. Hungerford (who, together with Mr. Ketilby, had been
+appointed his counsel), the Lord Chief Justice, Sir John Pratt,
+ordered his irons to be removed. Every point that could be urged
+in favour of the prisoner was, with much talent and pertinacity,
+pressed on the attention of the Court, and on the termination of
+a trial which lasted upwards of sixteen hours, the jury, after a
+short consultation, returned a verdict of guilty.</p>
+   <p>In order that he might have time to arrange his own affairs,
+as also the affairs of his clients, his execution was postponed for
+many months after his condemnation; doubtless it was also expected
+that disclosures would be made by him relative to his
+accomplices, and to this we may partly attribute the numerous reprieves
+he received. At length, on the 17th of May, nearly seven months
+after his trial at Westminster, he was conducted from <placeName key="the Tower of London">the Tower</placeName>
+to <placeName key="Tyburn">Tyburn</placeName>, seated in a sledge, habited in a full-dress suit, and a
+tie-wig. On taking leave of Colonel Williamson, the
+Deputygovernor of <placeName key="the Tower of London">the Tower</placeName>, he told him he intended to die like a
+man: to which the Colonel replied, <quote>"And, he hoped, like a
+Christian."</quote>  At the place of execution he openly declared his
+adherence to King James (as he called <persName key="Stuart, James Francis Edward">the Pretender</persName>), and
+advised the people to take up arms on his behalf; he professed
+<pb id="p.41"  n="41"/>
+
+
+
+
+ himself willing to die for the cause, and expressed his confidence
+ that Providence would effectually support the right heir to the
+ throne on some future occasion, though he had failed of being
+ the happy instrument of placing him upon the throne.</p>
+    <p>The streets were never more crowded than on this occasion,
+ and many fatal accidents occurred from  the breaking down of
+ the stands erected to accommodate the spectators anxious to
+witness the last moments of Counsellor <persName key="Layer, Christopher">Layer</persName>, as he was familiarly
+ named.</p>
+    <p>The day subsequent to his execution, his head was placed on
+ <placeName key="Temple Bar">Temple Bar</placeName>
+; there it remained, blackened and weatherbeaten
+ with the storms of many successive years, until, as we have
+remarked, it became its oldest occupant.  Infancy had advanced
+ into matured manhood, and still that head repulsively looked
+ down from   the summit of the arch.   It seemed part of the
+ arch itself.</p>
+   <p>It was not, however, alone during the latter part of its
+occupancy. Battles had again been fought for that cause for which
+<persName key="Layer, Christopher">Layer</persName>, on dying, had expressed so warm an attachment; defeats
+had again been sustained by its friends. Once more the axe and
+the rope, the fire and the fagot, had been busy, and two
+additional heads had been borne from  Kennington Common to the
+City Bar, there to convey, by their cold, apathetic gaze, to the
+<pb id="p.42"  n="42"/>
+
+
+
+passers along that great thoroughfare, a lesson more powerfully
+instructive on the vanity and hollowness of all human
+expectations, than could fall from the lips of the most eloquent
+preacher.</p>
+   <p>We, however, must not anticipate the <quote>" Rising of '45,"</quote> but must
+proceed, in order not to interrupt hereafter the thread of this
+narrative, at once to give some further account of the head of
+the unfortunate Counsellor.</p>
+   <p>For upwards of thirty years it had remained fixed on the
+summit of the arch: at the close of that period, the elements
+accomplished what the improving taste of the public had in vain
+demanded.</p>
+   <p>On one stormy night, a summary ejectment was served, and
+the head of <persName key="Layer, Christopher">Layer</persName> left its long resting-place, and descended from
+the arch into the Strand. We shall extract from Mr. Nicholl's
+<quote>"Literary Anecdotes of the Eighteenth Century,"</quote> the sequel of
+this curious history.  <quote>"When the head of <persName key="Layer, Christopher">Layer</persName> was blown
+from <placeName key="Temple Bar">Temple Bar</placeName>,
+it was picked up by a gentleman in the
+neighbourhood (Mr. John Pearce, an attorney), who showed it to some
+persons at a public-house, under the floor of which, I have been
+assured, it was buried. Dr. Rawlinson, meanwhile, having made
+inquiries after the head, with a wish to purchase it, was imposed
+upon with another instead of <persName key="Layer, Christopher">Layer</persName>'s, which he preserved as a
+<pb id="p.43"  n="43"/>
+
+
+
+valuable relique, and directed it to be buried in his right hand."</quote>
+<note place="foot" n="6"><quote>"On April 5, <date value="1755">1755</date>, died Richard Rawlinson, LL.D. and F.R.S., and one of
+the first promoters of the Antiquarian Society. He was the third son of Sir
+Thomas Rawlinson, lord mayor of London, <date value="1706">1706</date>. By his will he ordered his
+body to be buried in a vault in St. Giles's Churchyard, Oxford, and his heart
+in St. John's College, as a mark of his affection.
+   A few days subsequently died Mr. Benjamin Bourn, author of <quote>'The Sure
+Guide to Hell ;'</quote> a young man of the most promising expectations."</quote>-<hi rend="italics">Gent.
+Mag</hi>. vol. xxvi.</note>We learn from another source that this request was complied
+with.</p>
+   <p>We shall have now to pass over several years, during which
+the supporters of the doctrine of indefeasible hereditary right made
+no open attempts to promote the cause of the exiled house; and
+it is to some extent gratifying to remark, that it was owing alone
+to the result of these misguided principles that, with the solitary
+exception in the reign of <persName key="Charles II.">Charles the Second</persName>, we have any
+criminal associations with the Bar to which this history relates.</p>
+   <p>Scotland had suffered deeply from the effects of the Rebellion of
+<date value="1715">1715</date>, and from   its disastrous issue it might have been presumed
+that any renewed attempt would have found no encouragement
+there. Pandora's box had been opened, and its contents poured
+over the length and breadth of that devoted country; fire and
+sword had wasted her hills, and in many parts her valleys wanted
+
+
+<pb id="p.44"  n="44"/>
+
+
+
+
+the labourer to cultivate them.  Still hope remained, and this was
+shortly to reillumine the torch of civil war, to obliterate the
+recollections of past sufferings, and to lead on the devoted adherents
+of <persName key="Edward, Charles">Charles Edward</persName>, from their victory at Carlisle to their defeat
+at Culloden.</p>
+    <p>We must, however, be very brief in our relation of these events
+<quote>-"the Rising of '45,"</quote> as it has been usually designated; we are
+chiefly interested in its results, and those results of a very restricted
+character.  After the reduction of Carlisle, on November 15, <date value="1745">1745</date>,
+<persName key="Edward, Charles">Charles Edward</persName>, with his little army, advanced towards the south.
+<placeName key="Lancaster">Lancaster</placeName> was taken, Preston surrendered, Manchester was
+occupied, Derby opened its gates to him; and, previous to his effecting
+that retreat to the north which, for talent and abilities, will bear
+favourable comparison with any recorded in ancient or modern
+history, he had advanced within one hundred miles of the
+metropolis. When the news of this success reached London,
+consternation was seen in every face. In hot haste the citizens left their
+homes, to form   armed associations; the Warder stood on the
+Tower wall with his match lighted, ready to give the appointed
+signal of the approach of the enemy; a solemn fast was proclaimed,
+and, like Israel of old, the nation, in humiliation and sorrow, bowed
+down to Israel's God.</p>
+    <p>The Battle of Culloden was fought.  A great victory was
+<pb id="p.45"  n="45"/>
+
+
+achieved, the enemy was prostrate, the vanquished were suppliants
+for mercy. We shall presently see how a Christian nation, who,
+on every Sunday in their churches, had besought the God of
+mercy <quote>"to show pity on all prisoners and captives,"</quote> applied this
+divine petition to those who, by the fortune of war, were now
+placed in their power.  The plea of mercy--so far at least as to the
+sparing of their lives-should never have been urged with greater
+success than in the case before us. <note place="foot" n="7"><quote>"The benefit which is hoped from terror, for the future, appertains not
+to the giving of a right to kill. For a more obstinate affection to one's own
+side, if the cause is not altogether dishonourable, deserves not punishment;
+or if there is any punishment thereof, it ought not to amount to death, for an
+equal judge would not so determine."</quote>-GROTIUS, <hi rend="italics">Law of Peace and War,</hi>
+Part III. c. xlvii.</note> Here were misguided
+men--rebels, if you please--whose crime (and a very grave one we will
+allow it to be) was their maintaining their fidelity intact to a line
+of kings to whom their ancestors had sworn fealty and obedience,
+but whom the nation, in its wisdom, had excluded from the
+succession to the throne.   May the tear of the Recording Angel
+obliterate many of the dark pages in the history of our country!</p>
+   <p>Mention has been made of the Battle of Culloden. This
+decisive engagement was fought on the 16th of April, <date value="1746">1746</date>.  The
+King's forces were commanded by William, duke of Cumberland,
+
+<pb id="p.46"  n="46"/>
+
+
+son of the reigning monarch.  The carnage was terrific; no
+quarter was given, none expected.<note place="foot" n="8">It is stated that his royal highness, on viewing the field of battle on the
+following day, was heard to exclaim, <q type="spoken">"Lord, what am I that I am spared,
+when so many men lie dead on the spot !"</q> The severities practised
+afterwards acquired for him, in Scotland, the appellation of <quote>" Billy the Butcher."</quote></note></p>
+   <p>In one decisive hour the young Chevalier beheld his hopes
+blasted, his family doomed to perpetual exile, and himself a fugitive
+and a wanderer.<note place="foot" n="9"><quote>"The young Chevalier, after moving from place to place for nearly five
+months, at the commencement of September, <date value="1746">1746</date>, escaped on board the
+Heureux privateer of St. Malo, with several of his adherents, and landed on
+the 29th at Roscart, near Morlaix, in Brittany, from whence he set out for the
+Court of France."</quote>--<hi rend="italics">History of the Rebellion</hi>, <date value="1745">1745</date>.</note></p>
+   <p>The unhappy Earl of Kilmarnock and Lord Balmerino were
+among the prisoners whom this victory delivered over to the
+Government, and were beheaded on Tower Hill, on the 18th
+day of August, <date value="1746">1746</date>.</p>
+   <p>The execution, however, of a few noblemen, the attainder of
+others and confiscation of their property, were alone considered
+inadequate to ensure the safety of the throne. The blood of a
+whole hecatomb of victims was requisite to cement a fabric which
+had been so rudely assailed. The King of Terrors, therefore, was
+to hold his high court of justice; and before him were placed, in
+
+
+<pb id="p.47"  n="47"/>
+
+
+
+grim array, the only acknowledged reformers of this period-the
+axe and the rope.  Had any one suggested milder measures, if
+he escaped a prison for his presumption, he would have been
+consigned to a lunatic asylum for his folly.</p>
+   <p>The nation, in acquiring greatness, had omitted the lesson of
+generosity.</p>
+   <p>Special commissions for the trial of the unfortunate prisoners
+were shortly opened in various parts of the country; and on the
+23d of June, at a Sessions held for this purpose at St. Margaret's
+Hill, in the borough of Southwark, <persName key="Townley, Francis">Townley</persName>, colonel of
+the Manchester Regiment, and <persName key="Fletcher, George">George Fletcher</persName>, holding a captain's
+commission in the same force, were, with several others, placed
+on their trials, and convicted of high treason.  The awful sentence
+awarded by the law was passed upon them.</p>
+   <p>Before we proceed to the last sad scene of their lives, we must
+give our readers some account of these brave and gallant men,
+who, as they had stood undaunted amidst the blaze of battle,
+blanched not at the fearful preparatives of death on the scaffold.</p>
+   <p><persName key="Townley, Francis">Francis Townley</persName> was of an old and honourable family, who
+had long resided in Lancashire, and whose descent may be traced
+from the earliest periods of English history.</p>
+   <p>His grandfather, an able cavalier, had fought and died for
+King <persName key="Charles II.">Charles</persName> at the fatal battle of Marston Moor; his brother,
+<pb id="p.48"  n="48"/>
+
+
+
+John Townley, Knight of St. Louis, was tutor to the son of
+<persName key="James II.">James</persName> the Second, the Chevalier St. George, and was known as
+the translator of <hi rend="italic">Hudibras</hi> into French.<note place="foot" n="10"> We have taken the account of the family of Colonel Townley from a very
+meritorious work, recently published by Peter Burke, Esq., of the Inner
+Temple, called <quote>"The Romance of the Forum."</quote> From the near relationship
+subsisting between that gentleman and the talented editor of the <quote>" Peerage,"</quote>
+Mr. Bernard Burke, there is no doubt of its strict accuracy.</note></p>
+    <p>His uncle, Mr. Townley, of Townley Hall, had been, to some
+extent, implicated in the former rebellion (<date value="1715">1715</date>); and although
+on his trial acquitted by a jury, was not thereby fully exculpated
+in the opinion of the public.<note place="foot" n="11"><quote>"May 10, <date value="1717">1717</date>. Townley of Townley paid them (the rebels in <placeName key="Newgate">Newgate</placeName>)
+a visit, with great pomp and splendour, after his discharge from the
+Marshalsea, but he could not well expect that all of them should have the like
+good fortune for the like causes, because he knew they had not so much
+money.
+   " May 23, <date value="1717">1717</date>. Mr. Townley came again to visit in great pomp."</quote>-<hi rend="italics">Secret
+History of the Rebels</hi>, p. 38.</note></p>
+   <p><persName key="Townley, Francis">Francis Townley</persName>, the subject of the present notice, entered
+early in life into the service of France, and displayed, at the
+siege of Phillipsburg, in <date value="1734">1734</date>, whilst serving under the command
+of the Duke of Berwick, <note place="foot" n="12">The Duke of Berwick was the natural son of <persName key="James II.">James</persName> the Second by
+Arabella Churchill.</note> a bravery and courage under the fire
+
+
+
+<pb id="p.49"  n="49"/>
+
+
+
+
+of the enemy, and an acquaintance so extensive with military
+tactics, as raised him  at once in the esteem  of all those with
+whom he was associated.</p>
+   <p>It was at this siege, whilst visiting the trenches, that the
+Duke of Berwick, of whom mention has been made, one of the
+most experienced generals in the French service, was killed by
+a cannon-ball.  <persName key="Townley, Francis">Townley</persName> was near him at the moment.</p>
+   <p>For nearly sixteen years he remained abroad, serving with zeal
+and fidelity in the armies of France, and acquiring for himself
+increasing honour and military reputation.  Desirous, however,
+of once more visiting a country which, amidst all the changes of
+his life, was still first in his thoughts and affections, he returned,
+about the year <date value="1740">1740</date>, to England, and quietly resided with his
+family in Lancashire.  This tranquillity, however, was to be of
+short duration.  The year '45 arrived; the son of him whom he
+considered as his lawful sovereign had advanced to <placeName key="Lancaster">Lancaster</placeName>,
+his banner waved over Preston.   <persName key="Townley, Francis">Townley</persName> was not one ever to
+permit the probability of personal danger to interfere with the
+discharge of what he considered a positive duty.  He, therefore,
+immediately offered his services to the young Chevalier, which
+offer was at once accepted, and a colonel's commission conferred
+upon him. He quickly placed himself at the head of 200 men,
+and entered Derby with the victorious army.  On the retreat to
+<pb id="p.50"  n="50"/>
+
+
+
+Scotland, lie was invested with the important post of Governor
+of the town of Carlisle; and upon that place capitulating to the
+Duke of Cumberland, on the 30th December, <date value="1745">1745</date>, he, and about
+114 other Englishmen, were made prisoners of war, and confined
+in the various prisons of the country.</p>
+    <p>We must now take some notice of his faithful companion in
+arms and misfortune, <persName key="Fletcher, George">George Fletcher</persName>, who had been brought
+up at Salford, near Manchester, where his parents had resided, and
+were substantial people. His father had been for some time dead;
+but his mother, whose business he managed, was still living. So
+enthusiastically was he attached to the cause of <persName key="Stuart, James Francis Edward">the Pretender</persName>,
+that all her entreaties were fruitlessly exerted to induce him not
+to join an enterprise, in her opinion, of so desperate a character:
+with the affection of a parent, she even offered him <date value="1000">1000</date>&#x00A3;. to
+follow her advice. So far from doing this, he gave Mr. Murray,
+the Prince's Secretary, 50&#x00A3;. for a Captain's commission. He might,
+with much truth, remark at a subsequent period, that to his own
+obstinacy he could alone attribute the misfortunes that had befallen
+him.</p>
+   <p>At two o'clock in the afternoon of the 29th July, the fatal
+warrant was forwarded from the Secretary of State's office for
+the execution, on the following day, of these unfortunate men:
+it found them chained to the floor of their cells. The communication
+<pb id="p.51"  n="51"/>
+
+
+
+
+was received with cheerfulness and resignation.  The only
+expression that escaped their lips was, <quote>"God's will be done!"</quote>
+That night they went to bed and slept soundly.</p>
+   <p>The next morning, at ten o'clock, the sledges being in
+readiness, each drawn by three horses, the mournful procession was
+formed in the following order: first, a party of dragoons; next,
+a party of foot-guards; the three sledges then followed, in the
+first of which was placed Colonel <persName key="Townley, Francis">Townley</persName> and two others.  In
+the front seat sat the executioner, with a drawn scimitar; and in
+this manner they proceeded to Kennington Common.</p>
+   <p>In the rear of the procession, in a street coach, followed one
+who mourned in earnest; that one was a woman.     Her whole
+feelings were concentrated in the fate of a being, the occupant
+of one of those sledges,-young James Dawson.       His life was
+hers: in agony she had watched his trial, had listened to his
+condemnation, and in the dark frenzy of despair was now resolved
+to witness his death.  Through the vast multitudes of human
+beings which the event had collected, the procession moved on
+to the Common-that coach followed: it drew up near to the
+fatal spot--her head was extended from the window-she gazed
+as those who see not. The rude hand of the executioner tore from
+its bosom the heart which she fondly imagined had beat only for her,
+and round which all her warm, womanly feelings were entwined.
+<pb id="p.52"  n="52"/>
+
+
+
+A  moment's consciousness returned: she beheld him throw that
+heart into the fire.  One wild, hysteric shriek-one piercing,
+agonising cry-and her gentle spirit ascended with his to the
+Throne of Mercy.</p>
+   <p>We trust we shall be excused for inserting this short but
+mournful episode.  We must now proceed with our narrative.
+<persName key="Townley, Francis">Townley</persName> was the first to suffer. The executioner performed his
+mournful office, the knife was applied to the yet breathing body,
+the head was severed from it, and, with the warm blood still gushing
+from its unclosed veins, held up to the vulgar gaze of the
+populace, and the God of Mercy was invoked to save King George!
+A  murmur of approbation ran through that great assembly-a
+shout of exultation rose to the skies-the crowd was chanting
+its <hi rend="cl"><foreign lang="LA">TE DEUM</foreign></hi> for the victory of Culloden!</p>
+   <p>We must draw a veil over a scene so replete with painful
+associations, at which the heart sickens whilst the pen describes
+-a scene we should have considered suited only to afford
+gratification to the worshippers of Moloch, when <quote>"alienated Judah"</quote>
+passed her offspring through the fire to his grim altar,
+                               <quote rend="blockquote">"Besmeared with blood
+               Of human sacrifice ;"</quote>
+
+or to the Manicheans of Central America, in the hideous worship
+of their devil god.</p>
+<pb id="p.53"  n="53"/>
+
+
+
+
+    <p>It is scarcely requisite to add, that towards the other sufferers
+the same revolting ceremony was repeated.</p>
+    <p>The heads of <persName key="Townley, Francis">Townley</persName> and <persName key="Fletcher, George">Fletcher</persName> were removed, as already
+stated, to <placeName key="Temple Bar">Temple Bar</placeName>,
+and there placed in the positions indicated
+in the print at the commencement of this chapter. For several
+weeks, curiosity induced numbers to gather about the arch, to
+gaze on those livid features which life and health had so recently
+animated; glasses were let on hire, that the morbid feelings of
+the masses might be indulged by a closer examination.       There
+were many whose very souls, brutalised by these revolting
+exhibitions, seemed to derive a savage pleasure from the contemplation.
+One elderly person expressed his loyalty and humour in the
+following impromptu:--
+                  <quote rend="blockquote">"Three heads here I spy,
+                  Which the glass did draw nigh,
+                     The better to have a good sight;
+                   Triangle they are placed,
+                   Are bald and barefaced,-
+                     Not one of them e'er was upright."</quote></p>
+   <p>Of a character far more refined and intellectual is the
+following anecdote, related by <persName key="Johnson, Samuel">Dr. Johnson</persName>, in reference to this
+subject.  <quote>" I remember,"</quote> said the great lexicographer, <quote>"being, on
+<pb id="p.54"  n="54"/>
+
+
+
+one occasion, with Goldsmith in Westminster Abbey; while we
+surveyed the Poet's Corner, I said to him, from Ovid,-
+
+              <quote>'<foreign lang="LA">Forsitan et nostrum nomen miscebitur istis</foreign>.'</quote>
+
+When he got to <placeName key="Temple Bar">Temple Bar</placeName>
+, he stopped me, pointed to the heads
+upon it, and slily whispered me,-
+
+             <quote>' <foreign lang="LA">Forsitan et nostrum nomen miscebitur <hi rend="italic">istis</hi>.</foreign></quote>"</quote></p>
+   <p><persName key="Johnson, Samuel">Johnson</persName>, we may remark, was strongly imbued with
+Jacobite prejudices.</p>
+   <p>These were the last fractions of humanity that <placeName key="Temple Bar">Temple Bar</placeName>
+ was
+destined to receive.  Before other treasonable attempts had subjected
+their promoters to well-merited punishment, society had undergone
+a great change.  The feelings of the nation had become more
+refined-the Government more enlightened-the idea had gradually
+acquired the force of conviction, that in order to elevate the moral
+condition of the people, it was not essential to commence by
+degrading it; and a belief existed, that exhibitions of the disgusting
+character we have described might tend to that effect.<note place="foot" n="13">In the <quote>" London Post"</quote> of August 29th, <date value="1746">1746</date>, is the following horrible
+account :-<quote>" Last Saturday, a chairman who plies in Great Ormond Street,
+Queen's Square, having got from the fire made at the late execution on
+Kennington Common, the liver of one of the unhappy sufferers, broiled and
+eat it, whether out of derision, or to imitate a cannibal, is not known; but
+the inhabitants are much displeased both at his banquet and taste."</quote> The
+unhappy sufferers referred to were Donald M'Donald, James Nicholson, and
+Walter Ogilvie, who were executed on Kennington Common on the 17th of
+August, <date value="1746">1746</date>, for rebellion, a fortnight subsequent to the execution of
+<persName key="Townley, Francis">Townley</persName> and <persName key="Fletcher, George">Fletcher</persName>.</note> The twilight
+
+<pb id="p.55"  n="55"/>
+
+
+
+
+of moral improvement had dawned on the world -the advent of a
+brighter day was to follow. We have not yet arrived at its meridian
+splendour.  We have yet to wait, wait patiently, but not
+despairingly, until the world shall have realised the fulness of the idea;
+it will then act with a faith that would remove mountains.</p>
+   <p>Little more remains to be told of the Bar and its ghastly
+occupants.  We find, however, the following notice in the <quote>"Annual
+Register"</quote> for January <date value="1766">1766</date>.</p>
+   <p><quote>"This morning (Jan. 20th), between two and three o'clock, a
+person was observed to watch his opportunity of discharging
+musket-balls, from a steel cross-bow, at the two remaining heads
+upon <placeName key="Temple Bar">Temple Bar</placeName>.
+On his examination he affected a disorder of
+his senses, and said his reason for his so doing was his strong
+attachment to the present Government, and that he thought it was not
+sufficient that a traitor should only suffer death, and that this
+provoked his indignation; and that it had been his constant practice,
+for three nights past, to amuse himself in the same manner: but
+
+
+<pb id="p.56"  n="56"/>
+
+
+
+it is much to be feared that he is a near relation to one of the
+unhappy sufferers." </quote> The account given in the <quote>" Gentleman's
+Magazine"</quote> further states, <quote>" Upon searching him, above fifty musket-balls
+were found wrapped in a paper, with this motto, <foreign lang="LA">Eripuit ille
+vitam.</foreign>"</quote></p>
+   <p>No further efforts appear to have been made, either by the
+friends or enemies of the reigning family, either by the sane or
+the insane, to dislodge these grim tenants of the Bar; there they
+remained until the 31st of March, <date value="1772">1772</date>, when one of them fell
+down, and we believe, very shortly afterwards, during a high wind,
+the remaining head was swept from its lofty position, and Temple
+Bar remained untenanted.</p>
+   <p>Here, in strictness, terminates our task.  We have
+endeavoured--feebly, we are aware--to narrate, in their chronological
+order, those events of a criminal character with which <placeName key="Temple Bar">Temple Bar</placeName>
+
+has been, more or less, directly associated. In so doing, we have
+not been influenced by any morbid desire to re-open to public view
+scenes over which an impenetrable curtain should be drawn, if,
+from the contemplation of them no instruction could be
+derived--if, in short, no higher object could be attained than the mere
+gratification of curiosity.</p>
+   <p>We, however, believe that, in tracing the errors as they are
+now allowed to be, connected with the former enactments of our
+<pb id="p.57"  n="57"/>
+
+
+
+penal code, some thoughts may suggest themselves which, if acted
+upon, would tend still further to humanize our criminal proceedings,
+and thus, in better adapting them to the spirit of the times, render
+them far more conducive to the great end of all legislation,-the
+repression of crime, and the reformation of the criminal.</p>
+   <p>The experience of many centuries had fully demonstrated to
+the world the complete fallacy of the idea, that any moral benefit
+could arise from  the public exposure of portions of the lifeless
+clay of those who had fallen under the vindictive justice of
+the law.</p>
+ <p>  One result, and one only, had been hitherto attained by these
+sanguinary exhibitions - moral degradation, not moral
+improvement.</p>
+   <p>Still, however, an idea continued to prevail--and a very
+obstinate one it was--that, on the commission of any crime of more
+than ordinary magnitude, the rigour of the law being carried out
+on the spot on which such crime had been perpetrated, would prove
+a more powerfully impressive lesson to evil-doers than allowing the
+usual course of justice to take place. It did not occur to the minds
+of the public, that if any impression were produced, it would
+probably be on the feelings of the unfortunate criminal, and not on his
+unreflecting associates in crime.  As soon as the world closed to
+the one, the public-houses, or haunts of dissipation and vice, opened
+<pb id="p.58"  n="58"/>
+
+
+
+to the other.   A  life of crime must necessarily be one of
+excitement.<note place="foot" n="14"> In the metropolis, at the present day, this excitement is chiefly sought
+after in those fruitful nurseries for vice and crime, the penny theatres, saloons,
+and concert-rooms. In the first, the most attractive pieces are those in which
+a blood-stained career of vice and infamy is most vividly portrayed.
+Consequently, such dramas as <quote>"Jack Sheppard,"</quote> <quote>"Claude Duval,"</quote> the ladies'
+highwayman, <quote>" Sixteen-String Jack,"</quote> and <quote>" Oliver Twist,"</quote> invariably draw the largest
+houses. The Artful Dodger, in the last-named piece, always proves, in
+theatrical phraseology, powerfully attractive. From the mischievous results,
+however, that have arisen from the representation of <quote>"Jack Sheppard,"</quote> we may
+fairly claim for it the pre-eminence over all others of its class in its direct
+tendency to fascinate the young and inexperienced with a life of crime.
+Within the space of a few weeks, nearly sixty prisoners, committed to the
+House of Correction at Westminster, attributed their initiation into criminal
+courses to the habit of frequenting such places. From a great number of
+letters addressed by the prisoners to one of the excellent chaplains of that
+prison, we make the following extracts, corroborative of the correctness of our
+remarks :-<quote>"We got our minds tainted by the pieces we see performed at
+these low theatres. I have even known lads to swear, coming home after
+seeing such pieces as <quote>" Jack Sheppard,"</quote> and <quote>" Oliver Twist,"</quote> that they would
+not work any more, but be a thief, and lead a jolly life, like Jack Sheppard
+did, and like the Artful Dodger in <quote>" Oliver Twist,"</quote> as the pieces represented
+to us. I can say as to myself, that after witnessing such plays, I felt as if it
+would <hi rend="italic">be a glory to be a thief; I never went a-thieving till after</hi>."</quote>
+   Another thus writes:-<quote>" I used to go to the --- Saloon nearly every
+night in the week, where I saw the play of <quote>'Jack Sheppard,'</quote> <quote>'Dick Turpin,'</quote>
+<quote>'Oliver Twist,'</quote> and such-like; and when I and my mates came home of a
+night, we admired what a jolly life it must be to be a thief, and we agreed
+together to be a gang. I soon after left my work,"</quote> &amp;c.
+   All further comment on our part would be superfluous.
+   A system productive of the most pernicious consequences, and naturally
+becoming more and more gigantic,-but which our space will only permit us to
+mention,-is the establishment of <soCalled>" Betting Shops,"</soCalled> daily taking place in every
+part of London. Should not the legislature speedily pass some measure to
+close these seductive temples of vice, the plundered shopkeepers will be
+called upon to contribute fresh rates for the enlargement of the metropolitan
+and county prisons.</note></p>
+
+    <p>To carry out, therefore, this reformatory principle, the gibbet
+was erected in  the streets, in the squares, and other  public
+thoroughfares of the metropolis; and had there been any soundness
+in the system, from the frequency of its application, rapine and
+violence would soon have become unknown: on the contrary,
+however, they continued most fearfully to increase.</p>
+
+<pb id="p.59"  n="59"/>
+
+
+
+    <p>So inflexible was the Government in carrying out this scheme
+of reformation, that nothing was ever permitted to interfere with
+its execution.</p>
+    <p>Notwithstanding that death had entered the palace, and the
+inanimate form of majesty lay cold and extended on the royal
+couch,-
+                      <quote rend="blockquote">"The shroud its robe of state ;"</quote>
+
+notwithstanding that the hand which signed the warrant was
+<pb id="p.60"  n="60"/>
+
+
+
+motionless, and that the crown had descended to another sovereign,
+still, on the very day of the death of <persName key="George II.">George the Second</persName>, at the
+corner of <placeName key="Russell Street">Russell Street</placeName>, <placeName key="Covent Garden">Covent Garden</placeName>, an unfortunate
+fellow-creature, convicted of murder, was compelled to utter his last sigh,
+and offer up his last prayer, to the throne of Him to whom even
+kings are subject.<note place="foot" n="15"> Patrick M'Carty was executed at the corner of <placeName key="Russell Street">Russell Street</placeName>,
+<placeName key="Covent Garden">Covent Garden</placeName>, on Saturday, October the 25th, <date value="1760">1760</date>, for the murder of William
+Talbot.  <persName key="George II.">George the Second</persName> had expired early in the morning of that day.</note></p>
+    <p>The number of murders, however, did not diminish.</p>
+    <p>The riots of <date value="1780">1780</date> took place; and, chiefly owing to the
+imbecility of the chief magistrate of the City, attained to a most alarming
+height.  On their ultimate suppression, the executioner and the
+gibbet again perambulated the streets; and more numerous were
+the moral examples supplied to the public on this occasion than
+on any previous one.</p>
+    <p>Nevertheless, riotous conduct was far from being extinct.</p>
+    <p>It would be useless to trace further these unsuccessful attempts
+to deter from the commission of crime by investing its punishment
+with more than ordinary severity.  The last time, we believe, the
+gibbet was seen away from  its usual locality, was on the 12th of
+March, <date value="1817">1817</date> ; and a most melancholy sight it was.  In Skinner
+Street, in the City, a person, evidently insane, was, on that day,
+
+<pb id="p.61"  n="61"/>
+
+
+
+executed for riotous conduct.   Those who were present and
+witnessed it are not likely to forget the horrors of that moment<note place="foot" n="16"><quote>"The executioner having quitted the platform, the unfortunate wretch
+addressed the crowd nearest him, and exclaimed, <quote>'Now, you -- , give me
+three cheers when I trip.'</quote> And then, calling to the executioner, he cried out,
+<quote>' Come Jack, you -- , let go the jib-boom.'</quote> He was cheering at the instant
+the fatal board fell."</quote>-<hi rend="italics">Gent. Magazine</hi>, year <date value="1817">1817</date>, p. 270.</note></p>
+   <p>The period, however, had now arrived when the public mind
+had become impressed that another great error had been committed;
+that no improvement in the moral condition of the people could be
+expected to arise by habituating them  to the horrors of executions
+conducted in the manner we have described.     This lesson,
+therefore, which had erroneously been calculated to produce such great
+moral results, was discontinued. The gibbets were removed from our
+commons; the dry bones suspended from them consigned to what,
+years previously, should have been their destination - the grave;
+and the nation advanced another step in the path of truth and
+social improvement. <note place="foot" n="17">We, of course, imply that the practice was discontinued about this period.
+It was not until the 4th and 5th Will. IV. c. 26, [<date value="1834">1834</date>,] that the hanging of
+the bodies of criminals in chains was made illegal.</note> We must advance also a few years, when
+another doubt arose, when another question agitated the public
+mind, a satisfactory reply to which was imperatively demanded.</p>
+    <p>Were the community benefited by placing the same value on
+
+<pb id="p.62"  n="62"/>
+
+
+
+
+life and property? Whether, in short, it was an offence of equal
+enormity to pick a man's pocket, as to take his life ?  The public,
+usually in advance of the Government, had long since solved this
+doubt, had returned a decided negative to the question.  In many
+cases, the plundered refused to prosecute -juries to convict; and
+from the inequality of the punishment to the offence, too frequently
+a total impunity for crime followed its detection.  At length, he
+whose untimely death is still felt as a great national loss, and
+whose judgment had long acquiesced in the decision given by the
+public, the late Sir Robert Peel,<note place="foot" n="18">7th and 8th Geo. IV. c. 28. Bill brought in by the late Sir Robert Peel,
+Feb. 23d, <date value="1827">1827</date>. How would the late Sir S. Romilly have rejoiced to see
+that day!</note> in the year <date value="1827">1827</date>, by a series
+of wise measures, placed our criminal code on a more rational
+footing, and in rendering it more in accordance with the unalterable
+principles of moral rule and justice, adapted it better to promote
+the true ends, as we have stated, of all legislation,-the repression
+of crime, and the reformation of the criminal.</p>
+   <p>Once more, therefore, the nation acknowledged former errors;
+and in abandoning them, a further step was gained towards the
+elevation of the moral character of the people.</p>
+   <p>The year <date value="1848">1848</date> came, big with the fate of empires, agitated with
+those political convulsions which shook to their foundations many
+
+
+<pb id="p.63"  n="63"/>
+
+
+
+
+of the dynasties of Europe; and, greatly to the credit of the
+Republic of France, with her prisons filled with political offenders,
+she at once passed a law erasing from  her code the infliction of
+death for political offences.  There was a moral dignity in this
+course which, amidst much that was reprehensible, reflected honour
+on the Provisional Government of that period.  Could England,
+then, longer retain in her political code her coercive and
+sanguinary enactments?  Was the blood of <persName key="Russell, William">William Lord Russell</persName> longer
+to remain unavenged?  And what retribution for the wrongs he
+had suffered, could, we ask, be more soothing to his gentle spirit,
+than the removal from the statute-book of his country of those
+vindictive laws, by the strained interpretation of which he had
+been made to suffer an unmerited and painful death?</p>
+   <p>To Lord John Russell, his honoured descendant, was entrusted
+this retributive justice; and the national character received no
+slight addition  to its moral grandeur, by the passing of that
+Act by which the punishment of death was interdicted for offences
+of a political character.<note place="foot" n="19">The 11th and 12th Vic. c. 12. <quote>"An Act for the better security of the
+Crown and Government of the United Kingdom."</quote> Brought in by Sir George
+Grey, Secretary for the Home Department, and strongly supported in every
+stage by the Premier, Lord John Russell.</note></p>
+   <p>By this, and the previous measures of which mention has been
+
+<pb id="p.64"  n="64"/>
+
+
+
+
+made, death, the greatest evil that man can inflict on his
+fellowman, was reserved, with few exceptions, to guard that treasure
+which if once taken can never be restored--the treasure of life.
+But do we imagine, that with all these great and manifest
+improvements in our criminal jurisprudence, we have at length arrived at
+the last act of this tragedy of errors?  If so, we shall be much
+mistaken.  We are still very distant from it. Let us take, however,
+encouragement from the success of past efforts; let us still proceed
+onwards in the path of improvement; let us not grow weary in
+well doing.  We live in days of mighty progress, and the minds of
+men were never better prepared than at present for the
+perception of truth, and the consequent uprooting of long-cherished
+errors.</p>
+   <p>It may not be in our power to accomplish, at once, all that
+is required, but much may immediately be done.  And one
+suggestion which most powerfully arises from the perusal of the events
+recorded in this chapter, we would, in all humility, but in all
+earnestness, proceed to press on the attention of our readers,-the
+baneful effects produced on the morals of the people by the <hi rend="italic">public</hi>
+exhibition of the last moments of a criminal.</p>
+   <p>Had the lesson intended to be conveyed been attended with
+practical benefit, would it not, long since, have evinced itself
+in the lives of those who have been placed in positions most
+<pb id="p.65"  n="65"/>
+
+
+
+to benefit by the example?   On the contrary, we find several
+of these gloomy ministers of the law, who so frequently had
+performed the last sad office to others, themselves consigned, for
+crimes of no inconsiderable magnitude, to a like ignominious death.
+Let us be convinced of this truth, that no process in this world is
+more calculated to harden the heart and brutalize the feelings of
+the public than exhibitions of the character we have mentioned;
+whilst, in a country professing to regulate its actions by the
+principles derived from Christianity, the compelling an unfortunate being
+to offer up his last prayer to the Throne of Mercy amidst the jeers
+and scoffs of a degraded rabble, to usher a soul into eternity with
+blasphemies and obscenities sounding in his ears, appears to us so
+diametrically opposed to all moral consistency, that, were it not
+for the knowledge that the roots of error strike deep into the
+mind, it would be difficult to comprehend how, for one moment
+longer, it could be defended by any reflecting being. What, then,
+do we propose as an alteration of a system believed to be
+repugnant alike to moral and religious feeling?  We would offer then,
+in all seriousness, for the consideration of the public, the propriety
+of substituting for the publicity and noise of the open street, the
+privacy and stillness of the prison court, or of some other suitable
+locality set apart for the purpose.  We propose to invest the solemn
+scene with every safeguard calculated to insure the humane and
+
+<pb id="p.66"  n="66"/>
+
+
+proper discharge of the mournful duty. Let the Sheriffs, men of
+honour and probity, be present; let the Reporters for the press,
+surpassed by none for intelligence and judicious discernment, be
+admitted also; and we shall possess the strongest and most
+undeniable assurance, that every obligation that justice and humanity could
+impose will be observed.<note place="foot" n="20">It may be urged that the above suggestions are chiefly applicable to
+executions in the metropolis. We are, however, convinced, that little
+difficulty would arise in maturing some plan, at once so comprehensive in its
+character as to apply to every part of the kingdom, and at the same time so
+certain in its operation as to leave the most sceptical without a rational
+doubt that the dread sentence of the law had been fully and impartially
+carried out. We would, with pleasure, refer our readers to two letters which
+appeared in the<quote> "Times,"</quote> immediately after the execution of the Mannings,
+from the pen of the most graphic and philanthropic writer of the day, Mr.
+Charles Dickens; the first bearing date the 15th of Nov. <date value="1849">1849</date>, and the second,
+the 19th of the same month. From the latter we make the following extract,
+coinciding fully with the views therein expressed :-<quote>" From the moment of a
+murderer's being sentenced to death I would dismiss him to the dread
+obscurity which the wisest judge upon the bench consigned the murderer
+Rush. I would allow no curious visitors to hold any communication with
+him. I would place every obstacle in the way of his sayings and doings being
+served up in print on Sunday mornings for the perusal of families. His
+execution, within the walls of a prison, should be conducted with every terrible
+solemnity that careful consideration could devise. Mr. Calcraft the hangman
+-of whom I have some information in reference to the last occasion-should
+be restrained in his unseemly briskness, in his jokes, his oaths, and his brandy.
+To attend the execution I would summon a jury of twenty-four, to be called
+the witness jury, eight to be summoned on a low qualification, eight on a
+higher, and eight on a higher still; so that it might fairly represent all
+classes of society. There should be present, likewise, the governor of the
+gaol, the chaplain, the surgeon, and other officers, the sheriffs of the county
+or city, and two inspectors of prisons. All these should sign a grave and
+solemn form of certificate-the same in every case-that on such a day, at
+such an hour, in such a gaol, for such a crime, such a murderer was hanged in
+their sight. There should be another certificate from the officer of the prison,
+that the person hanged was that person and no other; a third, that that
+person was buried. These should be posted on the prison gate for
+twentyone days, printed in the <quote>'Gazette,'</quote> ard exhibited on other public places;
+and during the hour of the body's hanging I would have the bells of all the
+churches in the town or city tolled, and all the shops shut up, that all might
+be reminded of what was being done."</quote></note></p>
+    <p>Should any one be disposed to intimate that the infliction of
+death itself should be at once discontinued; we reply, Not until a
+
+
+<pb id="p.67"  n="67"/>
+
+
+
+secondary punishment shall be introduced, adequate to meet the
+offences for which the capital punishment is at present awarded.</p>
+    <p>Life and property must never again be considered of the same
+relative value.  The law should distinctly mark the several
+gradations of crime, lest an inducement should be offered to the criminal
+to venture on the commission of offences of a deeper dye by a
+similarity of punishment awaiting the detection of those of lower
+turpitude.</p>
+
+<pb id="p.68"  n="68"/>
+
+
+   <p>The day, we trust, may not, however, be distant, when man,
+with safety to society, may relinquish his right over the life of his
+fellow-man.  When that shall arrive, another great step will be
+taken in social and moral improvement, until at length, in the
+fulness of time, the sublime wish, expressed in the words of the Bard
+of Avon, may find its accomplishment:-</p>
+   <p><quote>"I would we were all of one mind, and one mind good. -O
+there were desolation of gaolers and gallowses."</quote></p>
+
+                             <p>THE END.</p>
+
+                             <p>LONDON:
+                 Printed by G. BARCLAY, Castle St. Leicester Sq,</p>
+                 </div1>
+                 </body>
+                </text>
+
+
+</TEI.2>

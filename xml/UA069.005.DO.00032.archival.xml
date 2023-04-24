@@ -1,0 +1,3121 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+
+<TEI.2>
+
+<teiHeader>
+	<fileDesc>
+	<titleStmt>
+		<title>The Joyous Neighbourhood of Covent Garden</title>
+		<title>A Literary Souvenir of the Tavistock Hotel, Done in Celebration of its Hundredth
+Anniversary</title>
+		<author>Charles Eyre Pascoe</author>
+		
+		<funder>Institute for Museum and Library Services</funder>
+	</titleStmt>
+
+		<editionStmt>
+			<edition><date>2002-01-01</date></edition>
+		</editionStmt>
+
+		<extent>139842 bytes</extent>
+
+		<publicationStmt>
+			<distributor>Tufts University Digital Collections and Archives</distributor>
+			<address>
+				<addrLine>Tufts University</addrLine>
+				<addrLine>35 Professors Row</addrLine>
+				<addrLine>Tisch Library Medford, MA 02155</addrLine>
+			</address>
+			<idno>tufts:central:dca:UA069:UA069.005.DO.00032</idno>
+			<availability status="free"><p>This publication is freely available for scholarly or
+
+educational use.</p></availability>
+		</publicationStmt>
+
+  		<notesStmt>
+			<note>This doucument was created from the 1887 printing of Charles Eyre Pascoe's The Joyous Neighborhood of Covent Garden.</note>
+		</notesStmt>
+
+    		<sourceDesc>
+			<biblStruct>
+				<monogr>
+				<author>Charles Eyre Pascoe</author>
+				<title>The Joyous Neighbourhood of Covent Garden</title>
+				<title>A Literary Souvenir of the Tavistock Hotel, Done in Celebration of its Hundredth
+Anniversary</title>
+				<imprint>
+				<pubPlace>London: Tooks Court, Chancery Lane.</pubPlace>
+				<publisher>The Chiswick Press</publisher>
+				<date>1887</date>
+				</imprint>
+				</monogr>
+			</biblStruct>
+		</sourceDesc>
+	</fileDesc>
+
+	<encodingDesc>
+		<editorialDecl>
+			<stdVals><p>Standard date values are given in ISO form:
+yyyy-mm-dd.</p></stdVals>
+			<interpretation><p>Page breaks are marked.</p>
+			<p>Dates are marked.</p>
+			<p>Place names are marked.</p>
+			<p>Personal names are marked.</p>
+			</interpretation>
+			<hyphenation eol="none"><p>End of line hyphens have been
+removed.</p></hyphenation>
+		</editorialDecl>
+
+		
+		<refsDecl n="TOC">
+			<state unit="preface"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="chapter"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="appendix"/>
+		</refsDecl>
+
+		<classDecl>
+		<taxonomy id="LCSH"><bibl><title>Library of Congress Subject
+Headings</title></bibl></taxonomy>
+		<taxonomy id="LC"><bibl><title>Library of Congress</title></bibl></taxonomy>
+		</classDecl>
+	</encodingDesc>
+
+	<profileDesc>
+		<creation><date>2000-01-01</date></creation>
+		<langUsage><language id="EN" usage="99">English.</language>
+		<language id="LA" usage="1">Latin.</language>
+					</langUsage>
+
+		<textClass>
+			<keywords scheme="LCSH">
+			<list>
+			<item>Covent Garden (London, England).</item>
+			</list>
+			</keywords>
+			<classCode scheme='LC'>DA 685.C7</classCode>
+		</textClass>
+	</profileDesc>
+
+	<revisionDesc>
+		<change><date>2004-08-18</date><respStmt><name>Cynthia Mackey</name><resp>admin.</resp></respStmt><item>Updated text to TEI P4 XML. Added Tufts Digital Library object identifiers for figures.</item></change>
+	</revisionDesc>
+
+
+</teiHeader>
+
+<text>
+<front>
+	<titlePage>
+		<docTitle>
+			<titlePart type="main">"THE JOYOUS NEIGHBOURHOOD OF COVENT GARDEN:"</titlePart>
+			<titlePart type="sub">A Literary Souvenir
+			<lb/>OF THE
+			<lb/>TAVISTOCK HOTEL,
+			<lb/>DONE IN CELEBRATION OF ITS HUNDREDTH
+			<lb/>ANNIVERSARY,</titlePart>
+		</docTitle>
+		<byline>BY<docAuthor>CHARLES EYRE PASCOE.</docAuthor></byline>
+		<docTitle>
+			<titlePart type="desc">The Illustrations contributed by JOHN JELLICOE.</titlePart>
+		</docTitle>
+		<docImprint>
+			<pubPlace>LONDON:</pubPlace>
+			PRINTED AT THE <publisher>CHISWICK PRESS,</publisher>
+			<address><addrLine>TOOKS COURT, CHANCERY LANE.</addrLine></address>
+			<docDate>1887.</docDate>
+		</docImprint>
+	</titlePage>
+
+<div1 type="preface" n="Preface" id="front001">
+<pb n="i"/>
+<p><figure id="fig.1" n="tufts:central:dca:MS004:MS004.002.008.DO01.00001"><head>The Tavistock Breakfast Rooms in 1787 from the eastern Piazza</head></figure></p>
+<pb n="ii"/>
+<p><hi rend="italic">Addison.</hi> We could talk more freely, you know,
+at the tavern. There we have dined together some
+hundred times.<hi rend="italic">Steele.</hi> Most days, for many years.
+LANDOR'S <title>Imaginary Conversations</title>.</p>
+</div1>
+</front>
+
+<body>
+<pb n="11" id="p.11"/>
+<div1 type="chapter" n="Chapter I: COVENT GARDEN" id="c1"><head>Chapter I:<placeName key="COVENT GARDEN">COVENT GARDEN</placeName>.</head><p><figure id="fig.5" n="tufts:central:dca:MS004:MS004.002.008.DO01.00002"><head></head></figure>
+</p>
+<p>THE man who first made the fame of
+<placeName key="Covent Garden">Covent Garden</placeName> was <persName key="Inigo Jones">Inigo Jones</persName>. Except
+among writers of text-books and
+professors and students of architecture he is
+of little account now.  Yet his name alone, said
+Horace Walpole, would save England from the
+disgrace of not having her representative among the
+arts.  "She adopted <persName key="Holbein">Holbein</persName> and <persName key="Vandyke">Vandyke</persName>, she
+borrowed Rubens, she produced Inigo Jones.
+Vitruvius drew up his grammar, Palladio showed him his
+practice, Rome displayed a theatre worthy of his
+
+<pb n="12" id="p.12"/>
+emulation, and King Charles was ready to encourage,
+employ, and reward his talents." "Words of learned
+<figure id="fig.6" n="tufts:central:dca:MS004:MS004.002.008.DO01.00003"><head>The Tavistock Hotel</head></figure>
+length and
+thund'ring  import "
+in truth; but to
+look at <placeName key="Covent Garden">Covent
+Garden</placeName> now one
+would hardly
+credit it that
+<persName key="Jones, Inigo">Inigo Jones</persName> was
+so great a man.
+It was he who
+built the arcade
+once known as
+the <placeName key="Portico
+Walk">Portico
+Walk</placeName>, and in
+later time as the
+Great and Little
+Piazzas. He also built the adjoining <placeName key="Church of St. Paul">Church of St. Paul</placeName>.
+Walpole himself "lacked taste," he says, "to see the
+beauties of these two structures." Others equally gifted
+with the critical faculty, have probably never thought it
+worth while to question his opinion that "the pilasters
+
+               <pb n="13" id="p.13"/>
+of the arcade are as errant and homely stripes as any
+plaisterer would make."  To-day they engage the
+attention of no one, except, perhaps, in protest of the
+fetid filth which accumulates about them in summer
+time, and their occasional dangerous proximity to the
+big wheels of a " rolling" Hansom cab, fighting its
+way to the Tavistock Hotel. But in Inigo Jones's
+day the Portico Walk was one of the show-places of
+London. As planned by him it was never completed.
+It was originally intended to continue it along the
+whole square.  The north and eastern sides were
+built, and there the design was left. The Old and
+New Hummums hotels (now pulled down), took the
+place of the south-eastern piazza which was destroyed
+by fire shortly after its erection. For the rest, those
+who care to examine what remains of Inigo Jones's
+famous structure will find it in the arcade extending
+from the Tavistock Hotel to the fruiterers' shops that
+have now taken the place of the old Bedford and the
+adjoining tavern.</p>
+<p>It will scarce interest the reader to trace the origin
+of the market. Like many another market elsewhere,
+it sprung up no one knows how. For some years
+
+<pb n="14" id="p.14"/>
+before Inigo Jones took it in hand, the open space
+afforded a lean pasturage for a few cattle. After he
+had completed the church of St. Paul and the Piazza,
+it was still an unsightly plot of scrubby, ill-kept
+ground, such as we often see disfiguring newly-planned
+neighbourhoods in the suburbs. The " furies of the
+football war" used to wage upon this plot in the
+closing years of the seventeenth century.  Stray
+vendors of fruit and vegetables, from the outlying
+villages of Marylebone and Islington, gathered upon
+it and sold to passers-by. At the outset, probably,
+they had as much right to "make their pitch there"
+as the costermongers of St. Luke's in the streets of
+Hackney. But the ducal owner, nothing loth to see
+his land utilized that way, encouraged their traffic and
+applied to the king for letters patent for establishing
+a market. A hundred years at least passed before it
+became of any significance; and even then it was but
+a collection of rude wooden sheds and railed in spaces,
+familiar to many of us who have strolled into the
+market-place of old French towns. The sturdy granite
+edifice of to-day dates only from the third decade of
+the present century. It is neither very imposing nor
+
+              <pb n="15" id="p.15"/>
+very convenient, but it is a palace compared with the
+scanty hovels that dotted the square and formed the
+market in the closing years of the seventeenth and
+opening years of the eighteenth centuries. It was
+then that Covent Garden began to be recognized as a
+fashionable neighbourhood. Its history may be said
+to date from that period.<figure id="fig.7" n="tufts:central:dca:MS004:MS004.002.008.DO01.00004"><head></head></figure></p></div1>
+<div1 type="chapter" n="Chapter II: THE PAINTERS OF THE PIAZZA" id="c2"><head>Chapter II: THE PAINTERS OF THE PIAZZA.</head>
+<p><figure id="fig.8" n="tufts:central:dca:MS004:MS004.002.008.DO01.00005"><head></head></figure></p>
+
+<p>SIR PETER LELY first brought it in
+repute. In the angle of the Piazza which
+now forms a part of the Tavistock Hotel,
+lived this successorof Vandyck in England,
+" the most capital painter " of the reign of Charles II.
+He, too, came from across the seas-from the Hague,
+where his father, one Vander Vaas, a captain of foot,
+was born in a perfumer's shop, " at the sign of
+the Lily." He received the appellation of Captain du
+Lys (Anglicised) Lely, which later became the proper
+name of the son.   Those who would become
+acquainted with the works of Lely will find his most
+famous examples hanging in the State Bed-room of
+William III. at Hampton Court Palace. The
+collection of pictures known as the Beauties of Charles II.'s
+Court is by him. He was the ladies' painter, and not
+all of his sitters showed the self-abasement of Crom-
+
+               <pb n="17" id="p.17"/>
+well. " Mr. Lely," said he (so at least the story runs),
+"I desire you will use all your skill to paint my
+picture truly like me, and not flatter me at all; but
+remark all these roughnesses, pimples, warts, and
+everything as you see; otherwise I never will pay a
+farthing for it." Lely was somewhat prone to gratify
+the vanity of the ladies who sat to him. To this
+failing, by the way, Bernard Lens (the engraver, who
+also lived in Covent Garden,) showed the stouter front.
+He was drawing a lady's picture in the dress of the
+Queen of Scots.  " But, Mr. Lens," said the lady,
+"you have not made me like the Queen of Scots."
+" No, madam," replied Lens: "if God Almighty had
+made your ladyship like her, I would." The reader
+must go to the palace at Hampton Court to study the
+best of Lely's portraits. His pictures of Lady Bellasys;
+Frances Stewart, Duchess of Richmond; Anne Hyde,
+Duchess of York; Louise, Duchess of Portsmouth;
+Barbara, Duchess of Cleveland; the Countess of
+Grammont and the other ladies of Charles II.'s court, are
+accounted to-day among the art-treasures of the nation.<note place="foot" n="1">
+"No more appropriate place could have been selected. It
+is a real delight to sit in the window-sill here, before the tramping crowds have invaded the quiet, and contemplate these
+charming portraits with  Pepy's 'Diary' or Grammont's
+' Memoirs' in one's hand ; or, better still, Mrs. Jameson's
+'Beauties of Charles II.' One can imagine one's self for a
+moment transported into that mixed society of frail, but lovely
+and interesting women-' the professional beauties ' of the time.'La Duchesse d'York,' says Hamilton in his ' Memoires de
+Grammont,' 'voulut avoir les portraits des plus belles
+personnes de la Cour. Lely les peignit; il emploia tout son art
+dans l'execution. Il ne pouvait travailler a de plus beaux sujets.
+Chaque portrait parut etre un chef-d'ceuvre.'
+"It must be confessed that he has succeeded in giving that
+voluptuous expression of blended drowsiness and sweetness, and
+that air of tender languishment which are so much in harmony
+with the characters of these beautiful and charming creatures.
+Their 'night-gowns fastened with a single pin,' and the
+' sleepy eye that spoke the melting soul,' would have sufficiently
+told us their history if the memoir writers had failed to supply
+it."---Hampton Court Palace, ERNEST LAW.</note></p>
+
+
+<pb n="18" id="p.18"/>
+<p>At the corner house in the Great Piazza Sir Peter
+Lely lived, and   there kept up somewhat of the<figure id="fig.9" n="tufts:central:dca:MS004:MS004.002.008.DO01.00006"><head></head></figure>
+luxurious
+style and
+habits of
+Vandyck, whose
+manner,    by
+the  way, he
+copied in
+more     ways
+than one. "To see,"
+exclaims the
+inquisitive and
+thrifty Pepys, "in what pomp his table is laid for
+himself to go to dinner!      He showed    me Lady
+Castlemaine's portrait, which is a most blessed
+picture, and one that I must have a copy of."        We
+
+
+                   <pb n="19" id="p.19"/>
+wonder whether the curious little gentleman ever
+secured that copy? </p>
+<p>In the house in the north-east angle, next to
+what was till lately "The Bedford" ("with a garden
+going  back   to  Bow   Street :"  the  cultivation  of
+flowers was his hobby) another painter of portraits,
+Sir Godfrey Kneller, resided for many years; one of
+the vainest of men, of whom many stories are related.
+Pope, who used to visit him     here, was accustomed
+to say that there was no flattery so gross but he
+would swallow it.     " Sir Godfrey, I believe if the
+Almighty had had your assistance," said Mr. Pope
+one day, " the world would have been formed more
+
+
+<pb n="20" id="p.20"/>
+perfect." "'Fore God, sir," replied Kneller, laying his
+hand upon the poet's deformed shoulder; " I believe
+so "-an answer which was less impious perhaps than
+the question that gave rise to it. " Where he [Sir
+Godfrey Kneller] offered one picture to fame," says
+Horace Walpole, " he sacrificed twenty to lucre; and
+he met with customers of so little judgment, that they
+were fond of being painted by a man who would
+gladly have disowned his works the moment they
+were paid for." Indeed, so hasty and rapacious was
+Kneller that he used to send away the ladies who
+sate to him, as soon as he had sketched their faces,
+and to paint the figure and hands from his housemaid.
+He left (it is said) 500 portraits unfinished, for his
+customers proved less ready to pay than to sit.
+Several of his works are at Hampton Court, the best
+known being the pictures in the King's Presence
+Chamber, the Beauties of the Court of William and
+Mary, known as the " Hampton Court Beauties."
+This name was given them from their being placed
+in this Palace by Queen Mary, and also in order to
+distinguish them from Lely's Beauties of Charles I.'s
+Court, formerly at Windsor, and thence called " The
+Windsor Beauties."</p>
+
+              <pb n="21" id="p.21"/>
+<p>Another painter of note, "the successor of Verrio,
+and the rival of Laguerre in the decoration of our
+palaces and public buildings," Sir James Thornhill,
+was resident for some years in the Great Piazza.
+The house where he lived subsequently became part
+of the Tavistock Breakfast Rooms.  In this house,
+after the refusal of the government to entertain his
+proposal for building a Royal Academy at back of
+the King's Mews at Charing Cross (the place which
+was later its home for many years), he opened an
+academy for the instruction of pupils in drawing. From
+the Piazza studios, indeed, the first practical schemes
+for a national academy emanated: in the original
+instance with Sir Godfrey Kneller, and a few years
+later, with Sir James Thornhill.  The best known
+works of this painter are the decoration of the Inner
+Dome of St. Paul's Cathedral; that of the Great Hall
+of the Royal Naval College (formerly the Royal
+Hospital) at Greenwich; and of the King's Rooms at
+Hampton Court Palace.</p>
+<p>That great and original genius, Hogarth (he married
+Sir James Thornhill's daughter), was another frequenter
+of the Piazza studios. His famous series of pictures,
+
+<pb n="22" id="p.22"/>
+" Marriage a la Mode," were first exhibited in the house
+where his father-in-law had lived, and which, as we
+have mentioned, later became part of the present
+Tavistock Hotel. It was in 1750 the "Marriage a
+la Mode " series were disposed of by auction. There
+were only two competitors for this work, now in the
+National Gallery.  A bid of &#x00A3; 110 (which the
+purchaser, Mr. Lane, of Hillingdon, near Uxbridge,
+generously made guineas), secured possession of the
+six, the frames enclosing which, it was stated, with
+delicious irony, were valued at four guineas each!
+These six chef-d'oeuvres of Hogarth's pencil were,
+therefore, valued by the public of little more than a
+century ago at exactly one hundred times less than
+the sum which was given a few years ago for a single
+portrait by one of his most eminent contemporaries.
+In 1797, Mr. Angerstein bought the "Marriage a la
+Mode" for &#x00A3; 1,000. We wonder what it would fetch
+now, if offered to the public at Christie's? In the
+rooms where these pictures were exhibited Richard
+Wilson afterwards lived; poor Wilson, who painted
+his grandest landscapes in vain.  There is a letter
+extant written by Wilson to West (subsequently President
+
+             <pb n="23" id="p.23"/>
+ of the Royal Academy), requesting him to
+purchase some of his painting tools, and a large press or
+case for oils and colours (together with a representation
+of the Piazza), which had been the property of Sir
+James Thornhill. Wilson was unthrifty, and fond of
+the bottle. The circumstances of his later life were
+painful enough. With extreme difficulty paying the
+rent of a single room, and finding it hard case to
+provide the cost of his painting materials, he died,
+neglected and forgotten, at a little village in
+Denbighshire. His fame is now so secure that the sale in
+London of a good example from his pencil would
+attract purchasers from all parts of the kingdom.
+With the death of Wilson, the art associations of the
+Piazza came to an end. Henceforth the spot,
+memorable as the birthplace and nursery of the English
+School of Painting, became dedicated to the fun and
+frolic of tavern life.<figure id="fig.10" n="tufts:central:dca:MS004:MS004.002.008.DO01.00007"><head></head></figure></p></div1>
+<div1 type="chapter" n="Chapter III: THE MART OF NEWS, POLITICS, AND SCANDAL" id="c3"><head>Chapter III: THE MART OF NEWS, POLITICS,
+AND SCANDAL.</head><p>
+<figure id="fig.12" n="tufts:central:dca:MS004:MS004.002.008.DO01.00008"><head></head></figure></p>
+
+<p>THACKERAY, who knew London better
+than most men, somewhere speaks of
+Covent Garden as "the joyous
+neighbourhood of Covent Garden." No part
+of the town has been more famous for its coffee-houses,
+taverns, and inns. From the end of the seventeenth
+to the middle of the nineteenth century it was the
+best known rendezvous of gentlemen visiting London.
+Russell Street, now given over chiefly to vegetable
+vendors and fruiterers, was once the social Exchange
+of the English capital, the Pall Mall of its day, the
+mart, that is to say, of news, politics, and scandal.
+In this little street stood the most noted of the
+coffeehouses of the reigns of William III. and Queen Anne,
+familiar to all who are conversant with the best parts
+of our literature. " Will's," " Button's," and " Tom's,"
+
+            <pb n="25" id="p.25"/>
+the coffee-houses " sacred to polite letters," were the
+chief places of general resort in London. The locality
+was fashionable. In Bow Street not a few persons of
+distinction lived. That worthy representative of the
+old English country gentleman of Addison's creation,
+Sir Roger de Coverley, was accustomed to make it
+his London address toward the latter part of his
+career. In earlier time gossips Pepys and Evelyn,
+the historians of the Restoration, visited and lodged
+there. In the closing years of the seventeenth century
+Drury Lane and its neighbourhood was a part of
+great respectability. The national theatre (as in our
+time) drew all the town to its performances. Wych
+Street, Great and Little Queen Street, Lincoln's Inn
+Fields, Portugal Street, Long Acre, and the streets
+adjacent, exhibited some of the best residences of the
+well-to-do classes. York, Bedford, Tavistock, Henrietta,
+King, and what are now known as Garrick, Catherine,
+and Wellington Streets, were equally well represented
+by the houses of the gentry. Foreign princes were
+taken to see Bloomsbury Square as one of the wonders
+of England; and the district of Soho was the " Mayfair"
+of the town. The dedication to Lord North in the
+
+<pb n="26" id="p.26"/>
+original edition of "Earl Chesterfield's Letters to his
+Son " is dated from Golden Square, showing it to have
+been at that period (1774) what some of us would call
+a highly-desirable neighbourhood.  The Great and
+Little Piazzas were once the daily lounging-place of the
+beaux and belles of the fashionable quarter, who thither
+came to shop, gossip, and flirt, much as they do in this
+our time in the less confined area of the West End.</p>
+<p>At the west corner of Bow and north side of
+Russell Street stood ' Will's," the oldest and most
+honourable of the coffee-houses of the Queen Anne
+period. "Coffee-houses" (we take leave to explain
+to him to whom the " Spectator " and " Tatler " are as
+yet unopened books) from the time of their
+commencement in 1652 down to 1740, or thereabout,
+when the tavern began to assert its pre-eminence, were
+the clubs of London. They differed in this respect
+only from the modern club, namely, that whereas the
+latter avails itself of the privilege of the black-ball, and
+exacts an entrance fee and subscription as a condition
+precedent of membership, the former admitted any
+decently-attired idler who presented himself, and paid
+his penny at the bar, and who could shoulder his way
+
+             <pb n="27" id="p.27"/>
+through the crowd of beaux who fluttered around the
+attractive bar-maid at the entrance. Though the
+times have changed, we still cling to the old fashion of
+paying our respects to beauty at the tavern. A
+century hence, perhaps, some chronicler of London
+life will relate to his contemporaries the traditional
+delights of the "Gaiety" and "Criterion," and the
+attractions of the "Lous" and "Tinys " who ruled
+there as Gay and his friends have bespoken our
+sympathy for charming Molly Mogg of " the Rose."
+The "Rose" (next which stood the barber's shop
+where the gay Templar had his shoes polished
+and his periwig powdered) was in Addison's day a
+much-frequented tavern at the end of a passage in
+Russell Street, adjoining the national theatre, which
+fronted upon Drury Lane.</p>
+<p>"Will's " was the rendezvous of the wits and poets.
+Dryden's patronage and frequent appearance there
+made the reputation of the house. After the play, all
+who knew London and whom London knew, gathered
+at " Will's" for a pipe, a gossip, and a cup of coffee.
+To quote an oft-quoted passage of Macaulay: " Under
+no roof was a greater variety of figures to be seen;
+
+<pb n="28" id="p.28"/>
+earls in stars and garters, clergymen in cassocks and
+bands, pert Templars, sheepish lads from the
+universities, translators and index-makers in ragged coats of
+frieze. The great push was to get near the chair where
+John Dryden sat. In winter that chair was always in
+the warmest nook by the fire; in summer it stood in
+the balcony. To bow to him and hear his opinion of
+Racine's last tragedy, or of Bossu's treatise on epic
+poetry, was thought a privilege. A pinch from his
+snuff-box was an honour sufficient to turn the head
+of an enthusiast."</p>
+<p>A new generation of wits and authors assembled at
+"Button's" in the same street. " Button's" was on
+the south side, about two doors from where, at a
+later period, stood the old "Hummums," most
+comfortable of old London hostelries, sacred to the
+memory of the college " Don" and country parson.
+It was to " Button's " the gifted and eloquent Addison
+frequently withdrew from his vexatious after-dinner
+tete-a-tetes with the shrewish countess, his wife. That
+lady was never particularly fond of the wit that smells
+of wine, and Addison was debarred the company of
+many of his convivial friends at her table. "We
+
+               <pb n="29" id="p.29"/>
+could talk more freely at the tavern," are words that
+Landor (" Imaginary Conversations ") puts in the
+mouth of Addison addressing Steele: " there we
+have dined together some hundred times." " Aye,"
+answers Steele, " most days for many years."
+* * * * *"Why cannot I see him   again in his
+arm-chair, his right hand upon his breast under
+the fawn-coloured waistcoat, his brow erect and clear
+as his conscience, his wit even and composed as his
+temper, with measurely curls and antithetical top-knots,
+like his style; the calmest poet, the most quiet
+patriot: dear Addison! drunk, deliberate, moral,
+sentimental, foaming over with truth and virtue,
+with tenderness and friendship, and only worse in one
+ruffle for the wine."</p>
+<p>Addison and Steele are the most brilliant of
+the company to which "Button's" gave hospitality.
+Occasionally, Swift was numbered of it, and Gay
+Gay, to whom we owe our first ballad opera (the
+"Beggar's Opera"), suggested, it is said, by Swift,
+and first " performed at I)rury Lane" in the early
+years of the last century--and Prior and Pope.
+The lesser of their contemporaries to whom " But-
+
+<pb n="30" id="p.30"/>
+ton's " was familiar, would include the names of all the
+writers of that day to whom the works of these six
+were familiar. To catch a glimpse of the ingenious
+Mr. Addison in friendly converse with Sir Richard
+Steele was a bait to the literary lounger too alluring to
+be withstood.</p>
+<p>" Tom's" at the corner of the Piazza, on the north
+side over against "Button's," was its most
+enterprising rival.  "Tom's" was started in 1764 by a
+general subscription among nearly seven hundred of
+the nobility, foreign ministers, and gentry of that day.
+Its principal room occupied the whole of the upper
+floor extending back to the Bedford Tavern. It was
+frequented (among others) by Dr. Johnson, Garrick,
+Murphy, Dr. Dodd, Goldsmith, Sir J. Reynolds,
+Moody, Foote, Sir Philip Francis; and "dukes, lords,
+and actors of note " mingled in the daily crowd. We
+have seen a little account for refreshments supplied by
+Tom (originally a waiter at "Will's) to the vestry of
+St. Paul's, Covent Garden, in 1770.  It would
+appear that "a dish of chocolate" cost no more
+then than it does now-6d. The vestry consumed
+34 jellys at the same price, and 2s. 3d. worth of
+
+               <pb n="31" id="p.31"/>
+biscuits-not a costly entertainment in comparison of
+that which guardians or vestrymen occasionally indulge
+in now at the expense of the ratepayers.</p>
+<p>Not many yards eastward from Tom's (at No. 8,
+Russell Street,) was, in later years, the house of Tom
+Davies, the bookseller, in whose little back-parlour
+Boswell first met Johnson. The latter, who had just
+been refused a favour by Garrick, was in surliest
+humour. " He knows the house [i. e., Drury Lane]
+will be full, and an order would be worth three
+shillings," growled the Doctor to Davies, "and he
+refuses me an order for the play for Miss Williams."
+" O, Sir !" interpolates the adventurous Bozzy, " I
+cannot think Mr. Garrick would refuse such a trifle to
+you." " Sir," Johnson sternly replies, " I have known
+David Garrick longer than you; and I know no right
+you have to talk to me on the subject." Boswell took
+the unpleasant snub without flinching, and to that
+admirable quality of his of never knowing when he
+had been rebuffed, we are, perhaps, indebted for
+the best biography ever written.  "Boswell's Life
+of Johnson," still maintains its place as the most
+instructive and entertaining book of its class in the
+
+<pb n="32" id="p.32"/>
+English language. Its first lines may be said to have
+been jotted down in the shop of worthy Tom Davies
+of Russell Street, actor and bookseller.<figure id="fig.13" n="tufts:central:dca:MS004:MS004.002.008.DO01.00009"><head></head></figure></p>
+<p>Covent
+Garden,
+indeed, was a
+favourite
+resort of the
+great Doctor.
+His first
+lodging, when he
+came to
+Lond on from
+Lichfield, was
+in Exeter
+Street, not far
+away. At the
+"Pine Apple"
+in New Street
+he took his
+frugal cut of meat for 6d., adding a penny for
+bread, and a penny for the waiter: "so that I was
+quite well served," he wrote, "nay, better than the
+
+             <pb n="33" id="p.33"/>
+rest" (who paid a shilling for their dinner), "for they
+gave the waiter nothing." That " tipping " the waiter
+appears to be a custom of an honourable antiquity,
+though, we may parenthetically remark, we find
+nowhere any authority for the waiter paying his master
+for his place, as some do now in London, to the
+obvious disadvantage of poorer customers to whom the
+fee, or rather tribute, is an exaction. It was into the
+"Market" Dr. Johnson shuffled with those lively
+young companions of his middle-age, Beauclerk and
+Langton, who on one occasion roused him from his bed
+for a frolic at three in the morning. " What, is it you,
+you dogs," he roared, wigless and coatless, poker in
+hand at his chamber-door in the Temple: " What, is it
+you, you dogs ? then I'll have a frisk with you." And
+off went the good-natured doctor in rusty-brown coat,
+baggy small-clothes, and frouzy wig for a morning's
+"frisk" among the Covent Garden porters, whose
+courtesy was none of the sweetest. By-and-by the
+trio adjourned to a tavern and breakfasted on a bowl
+of Bishop-a liquor which in Johnson's day, as he
+tells us, was composed of wine, oranges, and sugar.</p>
+<p>Savage, Sterne, Hogarth, Smollett, Fielding, and
+
+
+<pb n="34" id="p.34"/>
+Goldsmith are all more or less connected with Covent
+Garden history. It was from the "Bedford Arms"
+Hogarth and his friends set forth on that holiday jaunt
+to Gravesend, Rochester, and Sheerness, which reminds
+us of a similar jaunt into Kent made a hundred years
+later by one Mr. Pickwick and his friends. At
+Billingsgate Hogarth and his party took boat, and "with straw
+to lie upon, and a tilt over their heads," made the
+journey at night, occasionally sleeping, but more often
+eating, drinking, and singing jolly choruses. One
+of Hogarth's most familiar works, by the way, the
+third print of the " Rake's Progress " (published
+in 1735), shows the chief room at the " Rose" in
+Russell Street, Covent Garden--the " Rose " which
+we have already mentioned. Leathercoat, the fellow
+with a bright pewter dish and candle, is a portrait.
+He had been for many years porter attached to the
+house. Smollett took one of his best known characters,
+Hugh Strap ("Life and Adventures of Roderick
+Random "), from a hairdresser of the neighbourhood.
+Fielding, the author of "Tom Jones," was for a time
+magistrate at Bow Street.  " A predecessor of mine,"
+he wrote, "used to boast that he made &#x00A3; 1000 a year
+
+              <pb n="35" id="p.35"/>
+in his office; but how he did this (if indeed he did
+it) is to me a secret. His clerk, now mine, told me I
+had more business than he had ever known there; I
+am sure I had as much as any man could do.  By
+composing instead of inflaming the quarrels of porters
+and beggars (which I blush when I say hath not been
+universally practised), and by refusing to take a
+shilling from a man who most undoubtedly would not have
+had another left, I had reduced an income of about
+&#x00A3;500 a year of the dirtiest money upon earth to a
+little more than &#x00A3;300." The office of magistrate at
+Bow Street was paid by fees in Fielding's time.<figure id="fig.14" n="tufts:central:dca:MS004:MS004.002.008.DO01.00010"><head></head></figure></p></div1>
+<div1 type="chapter" n="Chapter IV: THE COVENT GARDEN TAVERNS" id="c4"><head>Chapter IV: THE COVENT GARDEN TAVERNS</head>
+
+<p><figure id="fig.15" n="tufts:central:dca:MS004:MS004.002.008.DO01.00011"><head></head></figure>SUCCESS to the ten acres" (ought it not
+to have been, or was; it not "the seven
+acres ? ") was originally the first toast of
+the evening at the famous
+Saturdaynight dinners of the "Sublime Society of Steaks," a
+coterie of gentlemen with whom  George, Prince
+Regent, was pleased at times to be familiar.  The
+"ten acres" represented the land on which Covent
+Garden stood, in the parish of St. Martin-in-the-
+Fields.  A survival of the designation may still be
+traced in the thoroughfare leading from St. Martin's
+to Drury Lane, known as Long Acre. Within those
+ten (or seven) acres, at the beginning of the present
+century, many of the best known and most frequented
+London taverns stood.  The "Slaughters"
+coffeehouse in St. Martin's Lane was the chief resort of
+military officers till supplanted by the United Service Club.
+
+            <pb n="37" id="p.37"/>
+In Maiden Lane was the " Bedford Head," a favourite
+retreat of journalists.  In Covent Garden itself were
+several taverns of reputation, the sole present
+representative of which, on the site of the original building, is
+the Tavistock Hotel. We have already briefly sketched
+the earlier history of that part of the Piazza where it
+stands. When the artists had forsaken it, the house
+of Thornhill, Wilson, and the others, became the
+auction-rooms of George Robins, one of the best known
+characters of his day. He was the founder of what
+may be termed the florid school of auction oratory,
+and a most successful salesman of noblemen's and
+gentlemen's estates. His auction-rooms were as famous
+in their day as " Christie's " in our own. In his little
+world he reigned supreme, and the most august
+personages deigned to honour him with their confidence.</p>
+<p>But a few days since, while traversing the intricate
+passages of the Tavistock in company of its kindly
+manager, Mr. Charles Taylor (who, by the way, is as
+much part and parcel of the hotel as any beam, staple,
+or wall within it), he took us into a low-ceilinged,
+dimly-lighted apartment, with a mantelpiece which
+our friend, the artist, said was French, of the period
+
+<pb n="38" id="p.38"/>
+of the Directorate.  In that little room  George,
+Prince of Wales, was the guest of Mr. George Robins,<figure id="fig.16" n="tufts:central:dca:MS004:MS004.002.008.DO01.00012"><head></head></figure>
+the famous London auctioneer.  John, some time
+head waiter of the establishment (he reigned there
+forty years), had it from William, his predecessor, who
+waited at table on that interesting occasion. Unfor-
+
+             <pb n="39" id="p.39"/>
+tunately, we have no existing record of the dinner then
+served, but probably we should not be far wrong if we
+set it down somewhat as follows :--A turbot, a Severn
+salmon, a haunch of venison, French beans and
+cucumbers, a green goose, an apricot tart, and green
+peas. Wines: claret, madeira, and port.  What shall
+we say, a couple or three bottles per man? As to
+what Mr. Robins and the Prince found else to discuss,
+or who was present at that little dinner besides
+themselves, we have no means of gratifying the curiosity.</p>
+<p>Such little incidents of bygone days can be well
+supported by satisfactory evidence in respect of the
+Tavistock's affairs. There was John, the waiter
+aforesaid, for forty years; Smith, his successor, for
+twentythree years; there is Lewis (still living, and hale and
+hearty as ever), hall-porter now for a period of
+thirtyfive years; there is Samuel, of the hall, his comrade,
+whose length of service extends to thirty years; George,
+chamberlain since 1855: who does not know George
+and those who share with him the duties of waiting?
+There is his colleague of the chambers, Henry,
+with a service of twenty years; and the overseers
+of the cellars have been employed among " mag-
+
+<pb n="40" id="p.40"/>
+nums" and bins of "very rare and old" for a like
+lengthy period. The man of the smoking-room has
+been dealing out cigars and materials for punch for a
+full decade to our knowledge. Will Messrs. Cassell,
+Petter, and Co., Limited, have the goodness to take
+note, for award of their biggest silver medal to each
+of these for long and faithful domestic service. Mrs.
+Arnold, the ancient housekeeper and historian of the
+hotel, who dated back-we'll not disclose the year--
+left some thousands of pounds of judicious savings to
+the Lifeboat Institution and Charing Cross Hospital.
+The head coffee-room waiter, her contemporary, died
+leaving to a relative almost as many thousands. We
+should like to know of another hotel in London that
+could show a like gratifying record of its servants.
+All the Tavistock's staff happen to be " English, you
+know, quite English, you know " (as Mr. Dixey would
+say), and this probably accounts for a good deal of the
+comfort and attention one enjoys under its roof.</p>
+<p>Mr. George Robins, who came into "the Garden"
+in 1780, a few years later leased a portion of his place
+to Mr. Harrison. This part became, in 1787, the
+Tavistock Breakfast Rooms, where, " besides the
+
+           <pb n="41" id="p.41"/>
+essential refreshments of tea and coffee, excellent
+soups of various kinds are served up with great
+neatness.' So ran Mr. Harrison's original advertisement.
+At the end of the last century and, indeed, for some
+years later, gentlemen lodged at such places as the
+"old Hummums" and "the Grand " (now the New
+Club), and took their meals out. They breakfasted at
+the coffee-house and dined at the tavern. It was not
+till long after the Breakfast-rooms had become merged
+in the Tavistock Hotel, and the adjoining famous
+Piazza Tavern (of which we shall have something to
+say presently) was also taken over by Mr. Harrison,
+that he undertook to serve dinners to his customers.
+And for many years (think of it, ye gourmets of the
+present dining-room, who look for your soup, fish,
+entree, and the joint straight from the kitchen), the
+dinner provided by " the Tavistock " was cooked at a
+neighbouring bakery ! There are those who remember
+that state of things-when the joints were carried out
+and brought back baked in a big tinned dish, like soldiers'
+dinners when we were a boy and lived in barracks at
+Plymouth. There was a table d'hote--" ordinary" is
+the English word-daily at six sharp, at which Mr.
+
+<pb n="42" id="p.42"/>
+Harrison himself presided. And in the breakfast, or
+"coffee-room," at guest who asked for a hot dish at
+breakfast had to content himself with bacon and eggs.
+That was the one staple breakfast dish of the Tavistock
+Hotel for at least thirty years. It was cooked in the
+still-room by the maids. We have heard of a trustful
+youth of that time, now an eminent solicitor of
+Edinburgh, who asked a waiter for cream. " Cream !"
+cried an irate, satin-stocked, old gentleman at his
+elbow; "Cream! I take it you're from the country,
+Sir. We know of no such luxury here."</p>
+<p>The dining-room of most London taverns originally
+differed (except as to size), very little from the common
+room of a village inn. Sometimes it was partitioned
+off into stiff-backed boxes, topped by red curtains,
+sometimes not. The seats were not too comfortable,
+though of sufficient space to accommodate four, or
+perhaps five, on each side of the table; the floor was
+uncarpeted and sprinkled with sand, for the better
+removal of dirt. In an outer apartment was the bar,
+usually shut in, save as to that central part reserved to
+the booking and filing of customers' orders, by a
+circular glass window. In the passage, where most
+
+<pb n="43" id="p.43"/>
+air was to be found, was the larder, oftener than not
+a stout iron hoop suspended from tile ceiling and
+hung round with hooks, from    which  depended
+joints of meat and poultry. Such to the last was the
+larder at " Dolly's," of ancient renown.  The cold
+cooked meats of the day were usually conveniently
+placed within view of persons passing in and out of
+the dining-room, in a glass-windowed cupboard. We
+have seen a rough sketch of the tavern coffee room to
+which poor old Sedley resorted after his downfall in
+the city, when he was beginning to dabble in coal. It
+is a low-ceilinged parlour, with four stout-legged tables
+placed at intervals, the chairs of the hard-backed
+kitchen order, the floor carpeted and dotted with
+spittoons. Many of us have become acquainted with
+such rooms in our rambles through the shires. A
+lanky, seedy-looking waiter is lolling against the door,
+and a ringleted damsel, smirking to a gentleman who
+reminds one of Tittlebat Titmouse, Esquire, waits
+without at the bar to accommodate wayfarers with
+"choice wines, spirits, and malt liquors."</p>
+<p>The better class of taverns had more spacious
+dining-rooms, well-upholstered, and displaying a good
+
+<pb n="44" id="p.44"/>
+deal of rich-coloured, well-polished mahogany. The
+ordincary dininig-hours were from noon to six o'clock,
+and at stated intervals during that time prime joints
+were sent round from table to table, as we have seen
+them sent round at ancient " Dolly's," aforesaid, in
+Queen's Head Passage, Paternoster Row, not wheeled
+round on little circular tables, as is still the custom at
+"Simpson's," but placed before each customer to
+allow of his cutting a plateful for himself. The
+coffeeroom at the Tavistock Hotel was, till the year 1854 or
+thereabouts, carpetless, and sprinkled with sand. A
+strip of matting here and there laid down, lent an
+appearance of greater warmth to the place in winter.
+Our grandfathers (and fathers too) were content with
+such primitive comforts; and we are not disposed to
+admit that a heavy carpet, receptacle of untold dirt, is
+more healthful or pleasant than the clean flooring of
+bare boards. For ourselves we prefer the flooring of
+bare boards. But this by the way.</p>
+<p>The Piazza Tavern (originally the Piazza
+Coffeehouse, where Macklin-" a strange character, an
+Irishman of rough humour, a good fives player, and a
+very promising actor"-had an academy of Belles
+
+Conent Garden.             <pb n="45" id="p.45"/>
+Lettres, and delivered public lectures on oratory),
+stood next the Tavistock. Mr. Macklin appears to
+have made a most ceremonious affair of his " ordinary,"
+bringing in the first dish himself with a napkin over
+his arm. The price of the dinner was three shillings
+(including wine), and when the repast was concluded
+he and the company adjourned to the "School of
+Oratory."  Leigh Hunt says he embroiled himself
+with a variety of his acquaintance, and once in a
+sudden quarrel poked out a man's eye with his stick,
+and killed him, for which he narrowly escaped
+hanging. The Piazza Tavern was subsequently taken over
+by Mr. Harrison and incorporated with the Tavistock.
+In the early years of this century " the Piazza
+Coffeehouse and Tavern " (such was its later designation),
+was one of the most splendid establishments of the
+kind in town, providing " dinners for large and small
+parties in the most consummate style of elegance."
+So runs a contemporary advertisement. It attracted
+to its table a good many of the customers of " The
+Shakespear under the Piazza," where, by the way, was
+set up for a time the famous Lion's Head letter-box,
+originally at " Button's." "The Shakespear " was the
+
+<pb n="46" id="p.46"/>
+first tavern started in Covent Garden. We believe
+we are correct in saying that it stood at the corner
+of the Piazza, nearest Russell Street. The sign (painted
+by Wale and said to have cost nearly &#x00A3;200) projected
+at the corner over the street. Three clubs were held
+there in the palmy days of John Company, the Madras,
+Bengal, and Bombay; the gentlemen who composed
+the last being reputed the highest livers. One Twigg
+(who had lived in " the Garden " for forty years, 1775-
+1815,) was cook to this tavern, and remembered in his
+day that " they had as many as fifty turtle at a time,
+and that upon an average from ten to fifteen were
+dressed per week; and that it was no unusual thing
+to send forty quarts of turtle soup a week into the
+country, even as far as Yorkshire."  Doubtless Mr.
+Jos. Sedley, of Bogglywollah, heard of the repute
+of the house when later he sucked up his soup at the
+Piazza.  The largest dinner ever dressed at the
+Shakespear Tavern in Twigg's time was of " 108
+made dishes besides hams, &amp;c., and vegetables."
+This was served on the occasion of Lord Keppell being
+made First Lord of the Admiralty.</p>
+<p>As the "Shakespear's" fame began to wane, the
+
+<pb n="47" id="p.47"/>
+Piazza's " appeared in the ascendant. This became
+the most popular tavern in London. Of all the public
+men of his time, Richard Brinsley Sheridan probably
+knew most of the merits<figure id="fig.17" n="tufts:central:dca:MS004:MS004.002.008.DO01.00013"><head></head></figure>
+-of a well-roasted
+"haunch" and a good
+glass of wine. He was
+a very constant
+customer of the " Piazza,"
+as were many of his
+friends, as well those of
+wit and dramatic talent,
+as those of rank.  It
+was by an improvisation
+at the " Piazza" that
+Theodore Hook, when
+little more than a lad,
+made that favourable
+impression on Sheridan which led to his
+introduction to the society of the west end of the town
+(it had been better for Hook, perhaps, if he had
+not been at the tavern that night), where for
+many years he reigned supreme as a humourist and
+
+<pb n="48" id="p.48"/>
+amateur singer, but without much credit to himself.
+The " Piazza " till long after it passed into possession
+of Mr. Harrison (the portrait in oils of that
+gentleman still hangs in the coffee-room of the Tavistock)
+was a famous London rendevous of " men of light
+and leading" in every walk of life. The glories of
+" the Phoenix dining-room " are yet a tradition among
+the servants of the present hotel. We have before us
+"A Catalogue of the whole of the excellent
+Furniture and appendages of the Piazza Hotel in Covent
+Garden . . including the Furniture of the Noble
+Phoenix Room," &amp;c., &amp;c., offered for sale by the
+Messrs. Robins on the 12th August, 1857, and five
+following days, "by direction of the Proprietors, in
+consequence of the unlooked for demand of the
+premises for the new Royal Italian Opera."  "The
+excellent horse-shoe Spanish mahogany table, 114 feet
+in length" had borne many a good old English
+dinner in its time. One can picture to oneself the
+number of stout-looking " elegant cut globular-shaped
+quart decanters" filled with the ruby wine of Oporto
+that graced those leaves from the mahogany tree.</p>
+<p>A little bill which falls under our eye reminds us of
+
+<pb n="49" id="p.49"/>
+the truth of a great philosopher's lament, " my days
+are swifter than a weaver's shuttle." This little bill
+is addressed from  the Tavistock to a distinguished
+and popular personage who ruled the adjoining Royal
+Italian Opera house before (and after) that fatal night
+when Anderson, the Wizard of the North, was
+temporarily in occupation of it.  The items are pleasant to
+the fancy :-" 4 cold fowls; 3 pheasants; 2 tongues;
+piece of rolled beef; 2 jellies and tarts; bread and
+butter, &amp;c.; 4 bottles of Clicquot (at 12S. 6d. the
+bottle), 1 of sherry at 6s."  A very appetizing little
+supper.  O courteous shade of Mario the superb !
+tell us who were of the party that night ? Are they all
+with you in the land of shadows, or do any linger
+with us still?   When that feast was served     thy
+name was in every man's mouth, and thy song stayed
+upon the ear.  And now-where's thy renown ?</p>
+<quote rend="blockquote">" The noise
+Of worldly fame is but a blast of wind,
+That blows from diverse points, and shifts its name
+Shifting the point it blows from. Shalt thou more
+Live in the mouths of mankind, if thy flesh
+Part shrivell'd from thee, than if thou hadst died
+Before the coral and the pap were left?"</quote>
+
+
+<pb n="50" id="p.50"/>
+<p>Who were "the Astronomicals" that held such
+famous feasts in "the noble Phoenix Room," who
+there dined together once a month, and took each
+his bottle like a man?  Were they legendary
+"astronomicals," gentlemen who studied the stars at
+midnight in the neighbourhood of the Haymarket,
+having well polished their wits with wine, or were
+they real " astronomicals," professors of the science
+who loved to discuss the flight of comets over
+a bottle laid down in a comet year? But sherry
+appears to have been the favourite tipple of these
+worthies, though port makes a fair show in the bill.
+Thirty bottles of wine among twenty gentlemen is not
+so bad! Then there were "the Auctioneers "
+great diners in their day; "our esteemed and
+distinguished" Mr. Edward Robins in the chair. "The
+Auctioneers" also took their bottle per man; and
+what's more, something in the nature of cooling
+beverages afterwards.  Their little  account for
+" eleven dinners " includes six bottles of sherry,
+two of port, three of very special ditto, two
+Clicquot's champagne, a bottle of brandy, and (Lud!
+what stomachs these gentlemen must have enjoyed)
+
+<pb n="51" id="p.51"/>
+ten pints of ale and sundry "ale cups" to wind up
+with!</p>
+<p>Between the " Shakespear" and " Piazza " taverns
+stood the "Bedford Coffee-house," later tavern and
+hotel. We are inclined to think that the
+"Shakespear" ultimately became part of it, for the Lion's
+Head (its mouth still open for the reception of
+such intelligence as shall be thrown into it) passed
+into possession of the proprietor of the " Bedford," by
+whom it was sold to Richardson, who leased the hotel
+which subsequently became Evans's. From
+Richardson's it went to Woburn Abbey, being bought by the
+Duke of Bedford. Few modern chroniclers of London
+make mention of the "Shakespear," but it was a
+place of great repute in its day. The waiters there
+dressed smartly in ruffles and knee breeches, and it
+was thought a bad week if each man had not made his
+pound a day. The Beefsteak Club, driven out of
+Covent Garden Theatre, took refuge for a time at
+the "Shakespear " and later at the " Bedford."  The
+history of that club is well known. Among its
+members were the Prince of Wales, the Duke of Norfolk,
+the Duke of Sussex, Lord Grantley, Sir J. Scott, Mr.
+
+<pb n="52" id="p.52"/>
+Ellis, J. Kemble ("expelled for his mode of conduct "),
+J. Scott, Captain Morris, Wilkes (the sublime),
+Munden, and Fawcett. Nothing but beefsteaks and port
+wine, onions and potatoes, were by custom allowed;
+but this rule can hardly have been rigidly enforced, for
+Twigg (the cook already named) remembered having
+served " three or four of the members with fish; and
+in April a rump of beef has been roasted and eat cold
+with salads." Tradition says that the Duke of Norfolk
+was an enormous eater, and would "put away" his
+" three or four pounds of beefsteak, and after that take
+a Spanish onion and a beet-root, chop them together
+with oil and vinegar, and eat that." Such a meal
+with (say) three bottles of port wine, and a rummer or
+two of punch must have produced, one would have
+thought, something of a head in the morning. But
+then there were giants in those days, and his Grace of
+Norfolk was not the least vigorous among them if we
+may credit the stories of his table exploits taken from
+contemporary records.</p>
+<p>That long, low, dimly lighted, and badly
+ventilated coffee-room of the old " Bedford " (now doing
+service as a fruiterer's store) has a curious history
+
+<pb n="53" id="p.53"/>
+if one did but know it. At the upper end (when
+we entered it last) there was a raised floor separated
+from the main apartment by an alcove-a kind of
+snuggery which had doubtless served as a sanctum
+sanctorum to generations of diners, from the days of
+Addison to those of Thackeray. After Addison died
+and Steele had retired into Wales, the customers of
+"Button's " in Russell Street mostly passed over to
+the "Shakespear" and "Bedford."  Looking up at
+the rows of bells in the passage of that ancient hostelry,
+the other day, we noted the " Dryden " and "Russell "
+rooms, survivals of that period now considerably more
+than a hundred years ago. The "Bedford
+Coffeehouse " was a favourite rendezvous of the actors of
+the past and beginning of the present century, of whom
+Garrick, Quin, Foote, Murphy, Macklin, Munden,
+Fawcett, Charles Kemble, John Philip Kemble,
+Cooke, Young, Liston, and Farren, are perhaps now
+best remembered. It was in a room at the " Bedford "
+Richard Brinsley Sheridan proposed to fight out the
+interrupted duel with Captain Matthews, his rival for
+the hand of beautiful Miss Linley, of Bath, whom
+Sheridan married. The master being alarmed they
+
+<pb n="54" id="p.54"/>
+went away to the Castle Tavern in Henrietta
+Street close by, where they played their little game
+out. It was never satisfactorily explained to the public
+who was the better swordsman. " Almost immediately
+on entering the room we engaged. I struck Mr.
+Matthews' point so much out of the line, that I stepped
+up and caught hold of his wrist or the hilt of his sword,
+while the point of mine was at his breast. You ran
+in and caught hold of my arm exclaiming, ' Don't kill
+him !' I struggled, and said his sword was in my
+power. Mr. Matthews' called out twice or thrice,
+'I beg my life !'-we were parted."  Finally, after an
+altercation "with much heat," Mr. Sheridan broke
+Mr. Matthews' sword and flung the hilt to the other
+end of the room. Such was Mr. Sheridan's version
+of the Henrietta Street duel. We are not much
+concerned now to know who was in the right and who
+was in the wrong, or whether Mr. Sheridan's
+potations deep had not overbalanced his memory.
+"Young Mr. Sheridan " (whose reputation dates from
+the beautiful Miss Linley affair) has lain for half a
+century past in Westminster Abbey.  <foreign lang="LA">Requiescat in
+pace</foreign>.</p>
+
+<pb n="55" id="p.55"/>
+<p>There was a famous bully at the " Bedford " in the
+time when Sheridan was in truth young Mr. Sheridan,
+called Tiger Roach. " He used to sit with a
+halfstarved look, a black patch upon his cheek, pale with
+the idea of murder, or with rank cowardice, a
+quivering look, and a downcast eye. In that manner he
+used to sit at table all alone and his soliloquy
+interrupted now and then with faint attempts to throw off
+a little saliva was to the following effect :-' Hut!
+hut ! a mercer's 'prentice with a bag-wig: d-n my
+s-l if I would not skiver a dozen of them like larks !
+Hut ! hut! I don't understand such airs ! I'd cudgel
+him, back, breast, and belly for three skips of a louse!
+How do you do, Pat ! Hut ! hut ! God's blood-
+Larry, I'm glad to see you !-'Prentices-a fine thing
+indeed ! Hut! hut! how d'ye do, Dominick ! D-n
+my s-1, what's here to do?' These were the
+meditations of this agreeable youth. From one of these
+reveries he started up one night when I was there,
+called a Mr. Bagnell out of the room, and most
+heroically stabbed him in the dark, the other having no
+weapon to defend himself with. In this career the
+'Tiger' persisted, till at length a Mr. Lennard bran-
+
+<pb n="56" id="p.56"/>
+dished a whip over his head, and stood in a menacing
+attitude, commanding him to ask pardon directly.
+The 'Tiger' shrank from the danger with a 'Hut!
+hut! what signifies it between you and me ? Well !
+well! I ask your pardon.' "  Thus Arthur Murphy
+to David Garrick.  Murphy was, in turns, player,
+barrister, and hack-writer for the booksellers, and
+ended by becoming a Commissioner of Bankrupts.
+He lived, it was said, on "potted stories," but the
+foregoing presents too amusing a likeness of a tavern
+bully of the period to be criticised too minutely. The
+present representative of the " Bedford Coffee-house,
+tavern and hotel " is the new red brick building
+standing at the corner of James Street, with an entrance
+under the north-western Piazza.</p>
+<p>The new and old Hummums hotels in the
+southwestern Piazza (both have been pulled down within
+recent times, and a new building and flower-market
+have taken their place) were quiet, old-fashioned
+places, whereat some unusual facilities appear to
+have been afforded in Dr. Johnson's time for taking
+the warm bath. The old Hummums was the first,
+and for many years, the only lodging-house within
+
+<pb n="57" id="p.57"/>
+Covent Garden. The name is but another rendering
+of the Hamman or Turkish bathing-place of our day.
+In the fourth decade of the century "Clunn's" and
+" Evans's " were added to the list of famous Covent
+Garden taverns. These are to be traced from the
+original Grand Hotel, the first of its name in London
+(Mr. Holland please take note), which was opened in
+what had formerly been the mansion of Lord Orford,
+and subsequently of Lord Archer. "Clunn's,"
+formerly " Richardson's," had a famous port wine,
+venison, and turtle reputation; and "Evans's" was best
+known for its songs and suppers, and for the genial
+spirit who presided in the supper room, Mr. John
+Green, better known as " Paddy   Green."  The
+"Savage Club" had rooms at Evans's, and later it
+became the Falstaff Club, which had its day, and ceased
+to be, giving place to the New Club still in existence.</p>
+<p>Not a few of us remember Evans's and maybe
+look back upon the evenings spent in the supper
+rooms, twenty-five years ago, with less of self-reproach
+than on some other evenings spent elsewhere. Ah
+me ! we are young but once, and when we remember
+that time of youth we are still young. We confess
+
+<pb n="58" id="p.58"/>
+to a lingering regret when we think upon the songs,
+chops, and stout of Evans's.  What a jolly old
+place it was ! The very atmosphere of the hotel itself
+was old
+English.<figure id="fig.18" n="tufts:central:dca:MS004:MS004.002.008.DO01.00014"><head></head></figure> As you
+passed up the
+flight of
+wellworn stone
+steps with the
+rickety  iron
+railings which
+had helped up
+many an
+owner of an
+equally
+rickety  pair
+of gouty old
+feet,  a
+fullflavoured puff
+of warm air
+came rushing out upon you from   the cosey old
+entrance-hall. Not an offensive puff of warm air,
+but one that suggested toothsome morsels of green fat,
+
+<pb n="59" id="p.59"/>
+simmering in the copper stewpans below, with just the
+suspicion of a smell from the well-roasted " haunch "
+or " saddle" standing before the kitchen fire, waiting
+to be called as the "six o'clock joint."  Those were
+the days when active and healthy men " tackled" the
+joint with vigour about the hour of six, afternoon.
+There was a port-wine look in the very appearance of
+the hall table (old members of the Savage Club will
+remember that table); it had a rich deep mahogany
+polish upon it, such as is seldom seen now-a-days,
+which seemed to bespeak the ease and precision with
+which a stout jolly-looking decanter of " very curious
+and old " had passed from man to man upon its shining
+surface. And Mr. John Green was not lacking the
+mellow port-winey look.  The days of three-bottle
+men had, doubtless, not been without their influence
+on Mr. John Green, who was the personification of a
+stout, cheery, open-hearted, kindly English landlord.
+We have him in our mind's eye now, standing with
+his back to a blazing coal fire, red silk pocket-
+handkerchief in one hand, snuff box in the other: a prim,
+neat-looking old gentleman of hard upon threescore
+years and ten, with an excessively red face, and a
+
+<pb n="60" id="p.60"/>
+great deal of very grey hair, dressed in a black dress
+coat, black trousers and waistcoat, and wearing a
+profusion of shirt-collar of the time-honoured Gladstonian
+pattern, encircled by an ample old-fashioned black
+satin stock. His familiar salutation, "Ah, dear boy !
+How d'ye do, dear boy?" is still remembered among
+men in the remorseful forties. It was Mr. Green's
+nature, and part of his every night duty, to be cordial
+and affable with everyone.</p>
+<p>As we remember " Evans's Supper-room," it was a
+hall capable of holding comfortably about eight
+hundred eaters of suppers. A number of ordinary
+restaurant tables, set about in rows, ran the length of the
+hall, four chairs to each. The upper portion was
+separated from the lower by a row of four Corinthian
+columns very elaborately gilded; and in this part the
+walls displayed a number of portraits of leading English
+actors and actresses, from Nell Gwynne's time
+downwards. At the extreme upper end was a small
+unadorned stage, destitute of anything in the shape of
+scenery, the only articles of furniture upon it being a
+piano and harmonium. To the right, a little above
+the stage, let into the wall so as to communicate with
+
+<pb n="61" id="p.61"/>
+the hotel, was a small screened room,-reputed to
+have been the chamber in which Fanny Kemble was
+born. This ' box," so-called, was reserved for guests
+of the hotel and others, who, by pre-arrangement, and
+on the understanding that a supper was ordered, might
+be accompanied by ladies. The floor of the hall was
+reserved solely to gentlemen-at least in Paddy
+Green's time.</p>
+<p>The refreshments served consisted of what are
+know as " grills "-chops, steaks, broiled kidneys,
+poached eggs and bacon, "devilled" bones, Welsh
+rarebits, anchovy toasts, and potatoes baked in their
+jackets. 'The entertainment provided was singing.
+Old English glees and madrigals were sung by a
+choir of men and boys, this part of the evening's
+entertainment being varied occasionally by a little tumbling
+and juggling-brass rings and balancing-rod business
+--and by the performances of Herr von Joel on the
+penny tin whistle. Herr von Joel handed about his
+cigar-box during the early part of the evening, and
+drank a good deal of what was offered him by
+convivial young gentlemen, and then went upon the stage
+and played his penny whistle. " Evans's" was the
+
+<pb n="62" id="p.62"/>
+best-conducted of the London supper-rooms (its
+reputation fell away in later times) ; and except on festival
+occasions, such as the Universities Boat-race day, and
+the eve of " the Derby," was as quiet and orderly a
+place as a gentleman might wish to eat his supper in.
+There was no vulgarity that we remember, and no
+Music-hall trash of the " La-di-da " school. Everyone
+seemed to be satisfied with his sixpence-worth of
+songs ; and if the sums levied by " John " at the door
+were not always clear and correct by the unwritten
+tariff, that little inconvenience seldom  stayed the
+hungry man on his way to the supper-rooms again.</p>
+<p>No one knew the old Covent Garden taverns better
+than Thackeray, a man who relished their snugness
+and hospitality as much as did his learned predecessor
+Dr. J ohnson, the vates sacer of taverns. Most respected
+and virtuous Reader, who loves the writings of the
+Master as we do, William  Makepeace Thackeray
+was not always the circumspect, prudent, stately,
+greyhaired gentleman of the old Court suburb and the
+clubs as we remember him. He had been merry and
+young like the most of us. He had lost his way in
+Bohemia, as many another traveller has done going
+
+<pb n="63" id="p.63"/>
+through the world. We have his own confession that
+he once knew Bohemia " very well." <note place="foot" n="1">" The Adventures of Philip."</note> "A pleasant
+land," he calls it, "not fenced with drab stucco like
+Tyburnia or Belgravia; not guarded by a large army
+of footmen; not echoing with noble chariots; not
+replete with chintz drawing-rooms and neat tea-tables:
+a land over which hangs an endless fog, occasioned
+by much tobacco; a land of chambers, billiard-rooms,
+supper-rooms, oysters; a land of song; a land where
+soda-water flows freely in the morning; a land of tin
+dish covers from taverns, and frothing porter; a land
+of lotos-eating (with lots of cayenne pepper); . . . a
+land where men call each other by their Christian
+names, where most are poor, where almost all are
+young, and where if a few oldsters do enter, it is
+because they have preserved more carefully and
+tenderly than other folks their youthful spirits, and
+the delightful capacity to be idle."  Yes, William
+Makepeace Thackeray knew the land of taverns
+and the country of Bohemia.  The characters in
+his novels are constantly hovering around and
+about them : Major Dobbin, Lieutenant Osborne,
+
+
+<pb n="64" id="p.64"/>
+
+Jos. Sedley, of the Company's service, Collector at
+Bogglywollah ; Clive Newcome, son of the excellent
+Colonel; Mr. Arthur Pendennis; the Major, his worthy
+uncle; Mr. Warrington (and his remote ancestors,
+the Virginians); rackety Captain Shandon of the
+Fleet; " honest Jack Finucane; Captain Costigan,
+and the rest.  Major Arthur Pendennis-" Major
+Arthur Pendennis, in the best blacked boots in all
+London, with a checked cravat that was never rumpled
+till dinner-time, a buff waistcoat, which bore the crown
+of his sovereign on the buttons, and linen so spotless
+that Mr. Brummel himself once asked the name of
+his laundress "-would, when not dining at his club
+or with the most noble the Marquis of Steyne, or
+Lord Hobanob, or the Duke of St. David's, betake
+himself to the famous Piazza Tavern (Mr. Thomas
+Harrison ruled there then) to partake of a good old
+English dinner, served in a richly-browned good old
+English dining-room. Of what did the " good old
+English dinner" of that period of our social history
+consist ? It was about the time of Waterloo, when
+young Osborne was bent upon thrashing " that
+infernal scoundrel Boney ;" but was more pleasantly
+
+                           <pb n="65" id="p.65"/>
+
+occupied for a time in dawdling after Mrs. Rawdon
+Crawley at Knightsbridge, and in spending old
+Osborne's money about town.</p>
+  <p>Thomas Walker ("original" Walker), the Lambeth
+police magistrate, who some twenty years after preached
+the virtue of a simple style in respect of dining, has left
+on record his ideas of English dinners. "If I might
+have my choice I should adopt the simple English
+style [of cookery] for my regular diet, diversifying it
+only occasionally with the French. I like, as a rule,
+to abstain from much variety at the same meal."
+Here are some of his examples of a wholesome, albeit
+epicurean, English dinner: No. I. Turtle, followed
+by no other fish but whitebait (with abundance of
+brown bread and butter), which is to be followed by
+no other meat but grouse, succeeded by simple apple
+fritters and jelly, an ice, a cup of coffee and one glass
+of liqueur. The wines, punch, champagne and claret.
+No. 2 (for Christmas). Crimped cod, woodcocks,
+and plum-pudding.   Wines, champagne, and, after
+dinner, mulled claret. No. 3. Spring soup, turbot,
+"with first-rate lobster sauce," cucumber, and new
+potatoes; ribs of beef, French beans, and salad; next
+
+<pb n="66" id="p.66"/>
+
+a very fine dressed crab; and lastly, some jelly. The
+wines, champagne, port, and claret.  No. 4 (at the
+Athenaeum Club). A dozen and a-half of oysters, a
+dish of fine flounders, water-zoutcheed, with plenty of
+brown bread and butter; then a brace of grouse with
+French beans. Wines, sherry, and claret.</p>
+  <p>A more recent authority has given us his views in
+respect of an English dinner-a real English dinner, in
+the simple English style. Mr. Robert, most amusing
+and instructive of City officials (everyone, of course,
+has read Mr. Robert's Diary, published by Messrs.
+Bradbury, Agnew, and Co.; if not, let everyone take
+our advice and at once buy a copy): Mr. Robert has
+given us his notions, and very pleasant notions they are,
+of an English dinner. It was served to four foreign
+gentlemen at their very particular request, Mr. Robert
+himself having carte blanche in arranging the bill
+of fare. Here it is: Real turtle soup; a lovely turbot;
+a real English rumpsteak ("such as no Frenchman
+ever seed in his own country," if the London
+correspondent of the Paris Figaro will pardon our
+presumption in transcribing Mr. Robert's own opinion), with
+three dozen native oysters done in butter; and lots of
+
+                             <pb n="67" id="p.67"/>
+
+game to follow. These foreign gentlemen took Punch
+with the soup; Johannisberg with the fish; " a bottle of
+our oldest champagne " with the steak; Burgundy with
+the game (a couple of brace of grouse, we take it; a
+bird per man, eh, Mr. Robert?), and some '47 Port
+with their cheese.  After such a dinner, we should
+be inclined to join hands and dance "Here we go
+round the mulberry bush " with even the most
+hypercritical of French critics.</p>
+  <p>The " simple English style " was, beyond question,
+an uncommonly good style, and we may take it that
+Major Arthur Pendennis, who was a grand master of
+the mode, practised it whenever he condescended to
+favour Mr. Harrison, of the Piazza Tavern, with his
+commands.</p>
+  <p>It was to the Tavistock Hotel Mr. Harry Foker was
+accustomed to go whenever he came to London, which
+was pretty frequently. Mr. Harry Foker, of St.
+Boniface College, Oxbridge, the lively son of Mr. Foker
+(Foker's Entire) and Lady Agnes Foker.  Thither
+also went, in the days preceding the finding of
+Warrington in the Temple, and the founding of that
+wellknown journal written for gentlemen by gentlemen,
+
+<pb n="68" id="p.68"/>
+
+"The Pall Mall Gazette," young Mr. Pendennis, and
+his friend Mr. Bloundell, who had a tick at "The
+Tavistock."  This was, of course, before those little
+cards came into vogue at the hotel, on which is stated
+the sum total of a customer's daily or weekly liability,
+the exactness of which may be ascertained by
+consultation of the clerk at the desk. From " The
+Tavistock" these young gentlemen sallied forth of nights,
+and partook pretty freely of the pleasures of the town,
+which have been equally "freely" enjoyed from the
+same quarter by subsequent generations of young men
+from the Universities who patronize " The Tavistock "
+on the festival occasions of their alma mater.
+Whenever Mr. Hobnell came to town, " Squire Hobnell, of
+the Warren," near to Mr. Pendennis's paternal home
+of Fairoaks; whenever he came to London for a lark,
+and this was commonly once a year, "when Mrs.
+Hobnell could not leave the increasing duties of the
+nursery," he also had rooms there. When he was in
+London (he was accustomed to say) he liked to do as
+London does, "and go it a bit."  He attended all the
+theatres, music-halls, casinos, and convivial taverns of
+the day; and when he returned to the west, carried
+<pb n="69" id="p.69"/>
+  <figure id="fig.19" n="tufts:central:dca:MS004:MS004.002.008.DO01.00015"><head>" Mr. Charles Taylor, who after twenty-five years' service
+became managing-director."-P. 80.</head></figure>
+                                <pb n="71" id="p.71"/>
+
+along with him a beautiful new bonnet and shawl for
+Mrs. Hobnell, by way, we surmise, of frustrating that
+worthy woman's too-inquisitive inquiry as to the
+expenses of his trip. How many of us have brought
+similar peace offerings to the domestic altar, after
+going it a bit in London ?</p>
+  <p>What used to take the gay young students of the
+Universities, and the more sedate old bucks of the
+clubs, and the Squire Hobnells of " the Warren,"
+and the Mr. Sam Huxters, their rollicking friends, and
+the notable men of the Press, and the dramatists and
+artists, their confreres, and the leading men from
+Sheffield, Glasgow, Manchester, and the like : what used to
+take all these excellent fellows to the joyous
+neighbourhood of Covent Garden, and the welcome shelter of
+" the old Tavistock"? We think we may find a
+satisfactory answer. " The Tavistock " has been for many
+a long year to numberless travellers the most "
+clubable" hotel in London. The phrase is Johnsonian
+and signifies, as applied to man, sociableness and good
+comradeship. It has far more of the essential part of
+a good club than the considerable majority of modern
+London clubs, and possesses all their comforts without
+half their restrictions.</p>
+<pb n="72" id="p.72"/>
+
+  <p>A few years ago, a barrister died who had occupied
+the same bedroom in the hotel for twenty-eight years.
+He had come in casually one night and stayed on till
+his death. Another old gentleman who, later, became
+his most intimate friend, " happened in " (as the
+Americans say) in the same casual way (having journeyed
+per "Ramchunder," East Indiaman, Captain Bragg,
+from Madras), and he occupied his bedroom, taken for
+one night, for fifteen years. The sympathy between
+these two old gentlemen grew to be such that the one
+was never at his ease without the other. If one did not
+appear at the proper hour in the coffee-room at
+breakfast, the other fidgetted about till he had ascertained
+the cause. If one was ill, the other was at his wit's
+end to make him well. By-and-by they quarrelled.
+They quarrelled and avoided each other's society
+for a fortnight. The two were thoroughly miserable.
+At length the offender growing weary of his offence,
+went to his room  and wrote a letter of penance,
+which was duly delivered to the offendee, silently
+sipping his tea at breakfast. He hurried out of the
+coffee-room and, on its threshold, ran into the arms of
+his friend bent on a similar errand of instant reconciliation.
+
+                                <pb n="73" id="p.73"/>
+
+ The two-well, we do not know that there is
+anything we need be ashamed to disclose. The sacred
+source of sympathetic tears overflowed, and the two
+grasped hands of affectionate reconciliation.  This
+friendship became of such sturdy strength long after
+the period when lasting friendships are usually made,
+and it grew up at the Tavistock.</p>
+  <p>One day one of these old gentlemen did not come
+down to his customary breakfast in the coffee-room.
+" An hour or two passed and we grew concerned about
+him," said Mr. Taylor, relating this incident to us.
+"We finally opened his door; and when I went into
+his room I had a feeling that I was intruding. He
+was seated in his armchair. He had wound up his
+watch, the end of his cigar lay upon the edge of the
+table, and 'The Newcomes' had fallen from his hand
+upon the floor. He was as if in sleep, peaceful, and
+resting." Death had stolen in quietly to that chamber
+and beckoned him away. This old guest of "The
+Tavistock" had come from the land where Colonel
+Newcome spent the best years of his life; and of him
+he was no unworthy counterpart in respect of
+cherishing a high sense of honour and a punctilious observance
+
+<pb n="74" id="p.74"/>
+
+ of the conduct of a gentleman. His memory is
+still held in affectionate remembrance at the old hotel
+in Covent Garden where he lived so many years.</p>
+  <p>The domestic history of " The Tavistock " might furnish <figure id="fig.20" n="tufts:central:dca:MS004:MS004.002.008.DO01.00016"><head></head></figure>
+ a readable contribution to the popular literature of
+the day. Like every other old London hotel it could
+a tale (a series of tales) unfold, though no love stories
+mingle with its record. But here we speak without
+authority, never having been admitted within the
+                                  <pb n="75" id="p.75"/>
+
+peaceful precincts of the room dedicated to the ladies
+of the bar. It still rigidly adheres to the old-
+established rule of the house, to receive none but
+gentlemen as guests. Only the other day we saw a
+comfortable-looking couple, evidently on a visit to London
+from the country, drive up to the hotel with a view,
+no doubt, to sojourning there.  But the hall-porter
+civilly waved them away, with a recommendation to try
+"The Bedford." The only skirts one sees fluttering
+about "The Tavistock" corridors are the pink and
+white skirts of the housemaids.  And of these the
+slyest rogue can catch but a hasty glimpse; though
+we have heard it said that the wearers can show some
+of the prettiest faces in London. For ourselves, we
+have never had the privilege of the sight of one, and
+can only repeat what has been told us by those who
+have.</p>
+  <p>The duties of the chamber are mostly done by
+chamberlains-personages of the sterner sex. Was it
+not a Judge of the Supreme Court, sitting on the Bench
+in open court, who not a great while ago asked leading
+counsel learned in the law to describe the functions
+of an hotel "chamberlain," thinking it but a pompous
+
+<pb n="76" id="p.76"/>
+
+application of a courtly word. But here stands the
+precise meaning in the dictionary: " Chamberlain-An
+attendant who has charge of the chambers, as in a
+large house or hotel."  The chamberlains of " The
+Tavistock," as becomes the retainers of an hotel so
+long established and eminently reputable, are staid,
+middle-aged, attentive, and trustworthy-retainers, in
+fact, of the good old stamp common enough fifty years
+ago. Talking of servants of that class, we remember
+many years ago that an old gentleman told us how he
+had once dined with an eccentric, but rich citizen of
+Bath, who was shabby enough to keep his good wine in
+the cellars till his guests had well drunk of the bad. The
+old butler who waited at table being requested to pass
+the wine to the guest aforesaid, leant over and filled his
+glass, and at the same time whispered in his ear, " Don't
+drink it; I'm going down to bring up some better."
+There was a touch of courtesy in that act which must
+have been grateful to the guest, and not altogether
+displeasing to the host, if ever he came to learn of it,
+for it showed that master and man understood and
+humoured each other's peculiarities.</p>
+  <p>Many an eccentric old gentleman has partaken of
+                               <pb n="77" id="p.77"/>
+
+the hospitality of " The Tavistock." We knew of one
+who had such a horror of being in debt, that he never
+went to his breakfast in the coffee-room but he laid
+down half-a-sovereign forthwith on the table to pay
+for his bed and breakfast. When he arrived, he
+invariably handed, without remark, a sixpence to the
+chamberlain at the top of the stairs, which that
+functionary, knowing his taste, forthwith exchanged for a
+glass of whiskey. He prided himself on never being
+without a L's worth of silver for " tips," and when he lay
+a-dying requested to be accommodated with change for
+a sovereign. It is interesting to know that he died
+worth L6o,ooo, and left &#x00A3;20 to be divided among so
+many of "The Tavistock's " servants as had attended
+upon him for twenty-five years ! There was another old
+customer whose name appeared on the hotel's books for
+a period of sixty years. Whenever he came he brought
+with him a stout oak chest (a sort of muniment chest)
+which required the united efforts of three lusty porters
+to carry it from the hall to his bedroom. He was a
+Renter of Drury Lane Theatre, and religiously
+attended the performances at that theatre to "have his
+money's worth." He stood, so to say, upon his rights,
+<pb n="78" id="p.78"/>
+
+and paid a fairish hotel bill in order that he might
+duly assert them. The tradition of the smoking-room
+is that he would sit upon the steps of the portico of
+the theatre in order to be the first in.</p>
+  <p>How long have we now known this old English
+home in the joyous neighbourhood of Covent Garden ?
+We took our first cut of mutton there with a kindly
+Australian who had made his " pile " at Ballarat, in the
+month of October, 1854, being at that period of our
+history a lad of the Grey Friars' Monastery by Newgate:
+so that our experience of its comforts is not solely of
+to-day. We have said that in our opinion the popularity
+of " The Tavistock " is largely due to the fact that it is
+as much club as hotel. The black-ball has no force,
+and does not exclude; but if you go there, it is taken
+on trust that you are a gentleman. Each guest seems
+to be on terms of acquaintance with the other guests;
+a man meets his fellow there as if he were an honest
+fellow, and not a knave; and there gentlemen talk
+to each other without fear of being hurt or
+contaminated by the act of letting the mouth speak.
+If you should happen to ask of a stranger the way to
+the Dining-room, he does not turn his head over a
+
+                  Covent Garden.                <pb n="79" id="p.79"/>
+
+throat-cutting collar, and lisp like an idiot, "I dawnt
+knaw." If you should venture a remark with your
+neighbour in the writing-room, he does not lift his
+eyes with amazement, and examine you from head to
+foot with the calm insolence of the British snob. If
+you should slip into an unoccupied chair in a crowded
+room, your fellow-guest does not resent your coming
+as if you had been a poor, uneducated, fustian-
+smelling costermonger of "the Garden." In short, if to
+"The Tavistock " you go, your presence there shows
+you to be a reasonable man. You need not hold your
+card-case in your hand, nor are you obliged to begin
+a conversation by first nominating (as Americans say)
+committee on credentials.
+</p>
+  <p>When an hotel can boast of a record of unbroken
+prosperity for a hundred years, we may be very sure
+that the management has been personal, active, and
+painstaking. The original Mr. Thomas Harrison in
+due time gave place to his son, Mr. Frederick Burgoyne
+Harrison, whose tall, handsome presence and
+courteous bearing are still remembered at "The Tavistock."
+We have heard it said that it was reluctantly he took to
+the business of hotel-keeping. In America, to " run a
+<pb id="p.80" n="80"/>
+
+hotel " is the height of many a " live " man's ambition.
+We were acquainted with a prominent hotel-keeper of
+Boston, U.S.A., who was also a litterateur of some
+distinction, and editor of a daily paper. Mr. Frederick
+Harrison was originally an engineer student in the
+workshops of Messrs. Penn.  He was a man of
+considerable ability, and when he succeeded his
+father, even though the business was distasteful to
+him, did what he had to do with his might. "The
+Tavistock" became the most popular hotel in London
+under his direction. It remained under control of
+the Harrison family till I886, the responsible
+management for the later part of the time devolving upon Mr.
+Charles Taylor, who, after twenty-five years' service,
+ultimately became managing director, when the hotel
+was purchased by a company. Mr. Taylor wisely
+made no changes in the domestic arrangements of the
+place. The services of all the old servants were
+retained. The time-honoured traditions of " The
+Tavistock " were scrupulously preserved. The bowl
+without handles, a survival of the dish-of-tea period of
+Johnson, still made its appearance in the coffee-room.
+Everyone took his turn in stirring the Christmas pud-
+
+                  Covent Garden.                 <pb n="81" id="p.81"/>
+
+ding as of yore. The guests were invited to that
+interesting ceremony as usual. The big bowl of punch
+was brewed as carefully on New Year's Eve, and
+placed as joyously in the holly-decked coffee-room, as
+had been the custom every New Year's Eve for many
+a year; and the mingled materials, hot and steaming,
+were ladled out generously to all comers. Manager,
+manager's friends and neighbours, customers, guests,
+cook, chamberlains, housemaids, waiters, porters, and
+all other the grand array of retainers came to the
+Christmas feast at Christmas-tide, and sat together as
+our ancestors used to sit, in good old English fashion,
+in the grand old hall of the grand old mansion, the
+distinction of " the salt " being abolished for the occasion.
+The Boxing-night festivities were kept up with all the
+old frolic and fun-the dance, the supper (supper
+"with champagne " and the rest, after the fashion of
+ball suppers of people of degree), with an occasional
+dramatic entertainment " by the company " to play the
+guests in.</p>
+ <p> But if " The Tavistock " management is wise in
+respecting the traditions of the hotel (there is one
+thing about those traditions which is noteworthy:
+
+<pb n="82" id="p.82"/>
+
+they are more kindly than costly, and are
+profitable in showing the servants that their zeal and
+trustworthiness are appreciated): if those traditions
+are still kept up, it must not be supposed that
+the hotel has not advanced with the times.  You
+will find the work of Inigo Jones still supporting the
+house (go down in the wine cellars and examine it),
+but other architects have from time to time extended
+and improved the original structure. In I86I a new
+wing was added, giving additional accommodation to
+the extent of sixty-five rooms, exclusive of the present
+dining-room. This improvement cost upwards of
+LI3,000. The ground which was cleared for this
+new building formed part of the ground belonging
+to the original convent. We need hardly inform the
+reader that " Covent Garden " is a corruption of
+Convent Garden, which was the burying-place belonging
+to the Abbots of Westminster in the early part of the
+thirteenth century.</p>
+  <p>In making the necessary excavations for the new
+wing the workmen came upon large quantities of
+human bones; and some very interesting ancient
+earthen jars and water-vessels. There was a law suit,
+                 C               <pb n="83" id="p.83"/>
+
+we believe, between Mr. F. Gye and Mr. Harrison,
+touching the rightful ownership of this plot. A man
+"in possession" for one of the parties is stated to
+have held it for three years-till, in fact, the law suit
+was ended-who from his primitive mode of life and
+rough habitation became known in the neighbourhood
+as Robinson Crusoe.   In 1867, the old red-brick
+frontage of the hotel overlooking the market was
+stuccoed, and other alterations were carried out on
+the upper floor, where the bedrooms (till quite recent
+time called dormitories) looked out upon the leads.
+The late Sir Michael Bass had always a preference for
+one of those old bedrooms, as it was convenient for
+getting out of the window on to the leads in summer
+time, to smoke. " No. 123" became known as " Mr.
+Bass's Room," just as other rooms in "The
+Tavistock" are connected with the names of other old
+customers. The stairway leading to that room (from
+which the Surrey hills might be seen on a clear day)
+was an interesting relic of the original dwelling-house
+of Charles II.'s reign. With the exception of part
+of the existing cellarage, it was probably the last of
+the original architect's work.</p>
+
+<pb n="84" id="p.84"/>
+
+<p>These improvements were carried further (the Duke
+<figure id="fig.21" n="tufts:central:dca:MS004:MS004.002.008.DO01.00017"><head></head></figure>
+of Bedford having granted an extension of lease), by
+the addition, in 1875, of the James Street wing, comprising
+                                 <pb n="85" id="p.85"/>
+
+ additional accommodation, which included the
+present Smoking-room, and two Billiard-rooms below.
+In the course of fifteen years, the proprietors had
+added 132 rooms, and effected other considerable
+improvements in the Tavistock Hotel at a cost of
+&#x00A3;35,ooo. An excellent example of the present
+architect's work may be seen in the Smoking-room, which is
+unquestionably one of the most comfortable and best
+ventilated in London. We have seen the right
+honourable and distinguished member for Central
+Birmingham, with Mr. Jacob Bright, in a snug corner of that
+room; in another corner a well-known dramatist and
+man of letters; and in yet another, the most popular
+English actor of the day discussing affairs with other
+popular English actors of the day. We have not
+sufficient space (nor yet the inclination) to tell the
+names of those above the rank of men of means, and
+mere "swells," of which all first-class hotels can show
+a plethora, who have sojourned at "The Tavistock."
+We asked Mr. Taylor to name a distinguished
+person or two of his day, and he led off with Dr.
+Livingstone, the African Traveller. Charles Sumner,
+the American statesman; Sir Wm. Rae, M. D.,
+<pb n="86" id="p.86"/>
+
+of Arctic fame; Captain (now Admiral) Inglefield,
+commander in three Arctic expeditions; M. Edmond
+About, editor of the Radical "Le XIX&#x00B0; Siecle," and
+formerly of the " Gaulois " and "Soir " newspapers;
+<figure id="fig.22" n="tufts:central:dca:MS004:MS004.002.008.DO01.00018"><head></head></figure>
+Grant and Speke, African explorers; Dr. Kirke, of
+Zanzibar; Forrest and Booth, American tragedians;
+W. H. Wills, the dramatist, and a host of others
+might be named among constant customers of the old
+Tavistock. We say nothing of Provosts and Bailies,
+<pb n="87" id="p.87"/><figure id="fig.23" n="tufts:central:dca:MS004:MS004.002.008.DO01.00019"><head>The Reading Room</head></figure>
+                            <pb n="89" id="p.89"/>
+
+and Mayors, aye, and Lord Mayors, and men with big
+schemes " to shove through Parliament," and builders
+of bridges and aqueducts, and great ironmasters, your
+Crawshays, Armstrongs, Whitworths, and the like; and
+merchants and shipowners of Sheffield, Birmingham,
+Manchester, and Liverpool, and rich people like
+Allsopp and Bass: we say nothing of all these, for if we did
+begin to call every man by his name, why we had better
+sit down at once and compile a dictionary of mercantile
+Men of the Time. The Harvard crew put up at " The
+Tavistock" when they came over to whip the Britishers
+on their own water (they showed rare pluck, and we
+for one cheered them at starting); and the Australian
+cricketers know no other home in London. "Harris,
+of Dublin, John Knowles, of Manchester, and Chute,
+of Bristol" (a query in the " Era" will tell you who
+they are), knew " The Tavistock " as well as most men;
+and possibly Toole, and Mark Twain, sometime of
+New Orleans and the Mississippi River, leadsman,
+pilot, and author, might relate a joke or two told in its
+Smoking-room. But we must pull together the threads
+of our discourse.</p>
+   <p>Of all the good old London taverns of bygone days
+<pb n="90" id="p.90"/>
+
+the Tavistock is the one which best retains its English
+flavour. " The new directorate," says " Atlas " in the
+" World," "wisely adhere to the severely Saxon traditions
+<figure id="fig.24" n="tufts:central:dca:MS004:MS004.002.008.DO01.00020"><head></head></figure>
+of the ancient inn; as of yore, you can peep at your
+dinner through a glass window before you eat it, and
+the sturdy 'saddle'-loving souls who kick against
+'kickshaws' will find much solid satisfaction in the
+comforting excellence of the unpretentious cookery.
+Moreover, port patrons will find solace in various
+vintages dating from the famous 'thirties."' It is
+<pb n="91" id="p.91"/><figure id="fig.25" n="tufts:central:dca:MS004:MS004.002.008.DO01.00021"><head>"The dining-room, ample and richly browned."-P. 93.</head></figure>
+                              <pb n="93" id="p.93"/>
+
+essentially, what we might term, a winter house-a
+house in which the fires are big and come-at-able,
+the chairs broad and comfortable, the bedrooms warm
+and cosy, the dining-room ample and "richly browned,"
+the port wine mild and matured, the dishes
+satisfying and English. The taste for venison appears
+to be dying out; but this was a famous venison house.
+Thirty years ago, when venison was the epicure's dish,
+a haunch and neck were, in the season, dressed every
+day for dinner at the reasonable charge of 3s. 6d.
+Though this fashion has departed, the other happily
+remains, of serving " the joint " as the joint ought to
+be served, of primest quality, and cooked to perfection
+none of your slim after-pieces of " roast," as in dinners
+wherein the roast plays second fiddle to the entree; but
+inviting substantial cuts sufficient for a reasonable man's
+dinner, placed before you on a hot plate with due
+accompaniment of well-cooked vegetables. Why does not the
+confirmed London diner-out-the man of the old-time
+"Albion," and " Simpson's," and " Blanchard's,"-give
+a little more attention to the daily fare provided in the
+dining-room of " The Tavistock," which now, as in
+every other hotel managed by a man of sense, is open
+
+<pb n="94" id="p.94"/>
+
+to the casual customer. Certainly it deserves to be
+better known to non-residents.  Nor are the daily
+"exhibits" of its coffee-room table to be despised.
+The pigeon-pie, the cold pressed beef, the cold saddle,
+the ham, the birds, and the soused salmon, always
+seem to us more appetizing than those dishes shown
+on the side-tables of some other hotels of our
+acquaintance.  If a man has no appetite for cold
+meats, let him consult with Green, head-waiter of the
+establishment (most discriminating and attentive of
+head-waiters), who doubtless will recommend, what
+we have often eaten in perfection under his advice, a
+grilled fillet of beef with mushrooms.</p>
+ <p> Though Liberal in all other respects, we confess to
+a rigid, unbending conservatism in the matter of
+dining-places and dinners, tempered, however, to this
+extent, namely, that we prefer a comfortable,
+wellventilated, well-furnished dining-room, to a stuffy,
+uncomfortable and ill-kept one. To our thinking there
+were few pleasanter taverns than the old "Albion " in
+Russell Street, Covent Garden, as it was twenty-five
+years ago, when Ponsford ruled, and Taylor (with a
+staff of most civil and attentive waiters), was his aid. It
+
+                               <pb n="95" id="p.95"/>
+
+was admirably conducted, and the dinners and suppers
+were of their kind-plain roast, and boiled, grills, and
+stews--excellent. The smoking-room was cosy, and
+frequented-by many well-known literary men, actors, and
+good fellows generally. " Simpson's " was at its.best (as
+we venture to think) about the same period; so was
+the "Rainbow" in Fleet Street when Mr. Hale managed
+it. The " George," next Twining's bank in the Strand,
+then gave a first-rate fish dinner daily at five, such as
+we never see nowadays in London. If this should
+meet the eye of the genial lessee of the little theatre
+in King William Street, we are sure he will bear us
+out that old Mr. Griffiths (the last of the old school
+of gentlemen landlords, with the manners and courtesy
+of a prince) supplied one of the best dinners at is. 6d.
+to be had in London. When the said genial lessee
+was acting "Brutus Toupet, the Terror of Kings,"
+" Augustus de Rosherville," and "Bob Cratchit," at
+the Adelphi, under Webster's regime, we often had
+the pleasure of sitting next him at the " George."
+Griffiths gave three or four kinds of fish, and a couple
+of joints, and the company all sat down to dine at the
+same table. After dinner there were pipes and punch,
+<pb n="96" id="p.96"/>
+
+and each man chatted with his neighbour.   The
+" Scotch Stores " and "American Stores," in Oxford
+Street, were good taverns of their class. By no means
+a bad dinner was then to be had at the " Shades " (now
+covered by the Empire Theatre) in Leicester Square.
+"The Green Dragon " in Bishopsgate Street, too, was
+an excellent tavern of ancient respectability. "
+Blanchard's," in Beak Street, was more comfortable, we
+think, when it was less crowded. All these good
+English taverns served " the joint" in perfection.</p>
+ <p> A correspondent has lately written to a London
+newspaper <note place="foot" n="2"> <title>The Daily News</title>, <date value="1886-09-07">Sept. 7, 1886</date>.</note>-a little intolerantly, perhaps, but evidently
+after cogitating his own experiences-suggesting to
+hotel and restaurant proprietors to advertise if they
+employ English or foreign waiters, and as to whether
+their cuisine be English or foreign. " I am convinced,"
+he writes, "the result would be in favour of those
+who adhere to the old English ways. A large company
+assembled here [at a Zurich hotel], unanimously
+expressed their dislike to foreign waiters and foreign
+food as compared with the food and waiters we used
+to have in England. I am convinced all-including
+                         <pb n="97" id="p.97"/>
+
+foreigners-even at higher charges, would prefer purely
+English waiters and English food. The imitation French
+food now in vogue in London is neither wholesome
+nor palatable, and if the writer who alludes to Italian
+restaurants knew of what the food sold in them really
+consists, he would not risk his health by patronising
+them." The "imitation French food" may be good
+or it may be bad in those restaurants; that point we
+do not care to discuss. We, however, are at one with
+the writer, whoever he may be, who pleads for a return
+to English waiters and English cookery in London.
+An " Ex-M.P.," in the columns of another London
+daily,<note place="foot" n="3"><title>The Daily Telegraph</title>, <date value="1886-09-13">Sept. 13, 1886</date>.</note> gives some pleasant reminiscences of
+"Bellamy's,' the House of Commons kitchen of days gone
+by. Bellamy and Kew were housekeepers of that
+august assembly at the beginning of the century. They
+supplied members with luncheons, dinners, and wine.
+Their's was "a plain room, of which a large portion
+surrounding the immense fire-place was lined with
+red bricks painted a bright vermilion. A lot of tables,
+separated by screens (like the dining-room of the
+'Cock,' in Fleet Street), were crowded by members
+
+
+<pb n="98" id="p.98"/>
+
+whose loud talk and jovial hilarity come back at this
+moment to my ears .... 'Bellamy's' was famous for
+its Yorkshire ham-the first Bellamy that ever flourished
+upon that or some adjacent spot, came to London,
+I have been told, from Hull ... The room was
+what we should now call a grill-room, and was
+modelled upon the pattern of the Beefsteak Club,
+of which the gridiron, with ' Beef and Liberty'for a
+motto, was the ensign. Sydney Smith [a frequenter
+of 'Bellamy's'], then frequently addressed by his
+friends as 'Peter Plymley,' was the most fastidious
+and critical gourmet in England, and had the credit
+of suggesting the addition of a thimbleful of Veuve
+Clicquot--dry champagne had not as yet come into
+fashion-to a slice of broiled ham, which I remember
+that he considered it sacrilege to eat with mustard.</p>
+ <p> "The great majority of the guests, however, came
+to ' Bellamy's' to partake of hissing hot steaks and
+chops fresh from the gridiron. The most remarkable
+features of the place were, first, that the attendants
+and waiters were demure, soberly-clad, middle-aged
+women who never smiled; and, secondly, that the
+wines drunk were almost invariably port and Madeira.
+                              <pb n="99" id="p.99"/>
+
+In a book which is now very rare, called 'A Carouse
+in the Commons,' it is stated that-' Baronets who date
+from the Conquest, and squires of ancient degree,
+care nothing for the unassuming look of that kitchen,
+which they regard as part and parcel of the British
+Constitution, if the steak be hot and good, if it can be
+conveniently and quietly despatched, and the tinkle
+of the division bell can be heard while the dinner
+proceeds.' It was an age of taverns of which I am
+now writing, and Lord Eldon adjourned from  the
+bench at Westminster Hall every day at half-past
+one p.m. to partake of a steak and a bottle of port at
+'The Cat and Bagpipes,' which stood at the corner
+of Downing Street. 'Call England a proud nation,
+forsooth !' exclaims the author of 'A Carouse in the
+Commons,'-'Say that the House of Commons is
+aristocratic! Both the nation and its representatives
+must be patterns of Republican humility if all the
+pomp and circumstance of dining in their luxurious
+houses, surrounded by splendour, powdered livery
+servants and exquisite viands, can be forgotten in
+Bellamy's kitchen.' " </p>
+  <p>What struck the writer's boyish fancy most was
+
+<pb n="100" id="p.100"/>
+
+"the amazing amount of pale old Madeira, at a
+fabulous price, which the convives around consumed.
+There were at that time old country gentlemen in
+abundance who, instead of brewing a vat of mighty
+ale when their eldest son and heir was born, laid in a
+pipe of Madeira, to be consumed when the little
+stranger had attained his majority. The grape disease
+had not as yet invaded the districts where the famous
+wine, so dear to the more refined of our predecessors
+and so detrimental to those of them with gouty
+proclivities, was produced. There was a huge tub under
+the window at ' Bellamy's' into which water slowly
+trickled from a spout at the top, and at the bottom of
+which there was a small perforation to allow the liquid
+to escape. Into this tub a solemn-looking old waiter
+-the only male attendant in the room except the
+host himself--plunged the funnel-shaped glasses which
+required washing. Reverting to those primitive times,
+it would amaze modern legislators to think how simple
+and unpretending in their tastes were the stout squires
+and far-descended noblemen, all of them 'acred up
+to the chin,' who, instead of luxurious clubs and French
+cookery, were satisfied with ' Bellamy's.' "
+                 Covent Garden.               <pb n="101" id="p.101"/>
+
+  There will be a reaction some day from the Anglo-
+French dinner and entree business (a French
+gentleman told us the other day that he never could get a
+cut of beef out of England, nor an entree but in
+France);<figure id="fig.26" n="tufts:central:dca:MS004:MS004.002.008.DO01.00022"><head></head></figure>
+and   then,
+perhaps, we
+shall get
+back once
+again to the
+more
+wholesome
+English style.
+What
+Engi s h man
+who   loves
+his  dinner
+wants   his
+slice out of the saddle of mutton cut the thickness of
+a shilling, or his bit of turbot dipped out of the
+fishkettle, wherein it has been soddening along with other
+meagre portions for an hour and more ? Why should
+we be compelled to go to German and Italian cafes
+
+<pb n="102" id="p.102"/>
+
+for our cut of mutton? What do Germans,
+Frenchmen, or Italians know of the saddle, the haunch, or
+"the silver side of the round"? Is there any food
+more digestible and wholesomer in its way than plain
+roast and boiled ? Ask Mr. Robert, the greatest living
+authority on dinners and diners (we have taken the
+liberty of quoting him more fully elsewhere), whose
+contributions to Punch add to our merriment and
+stock of information on this most interesting subject.
+We have had too much, of recent years, of kickshaws
+and maccaroni. Let's hark back a bit to the
+wellroasted saddle and sirloin, and let us see our turbot,
+brill, or slice of salmon cut from the fish itself, and not
+served boiled to bits and flavourless, and disguised
+with sauce of capers, or tinned lobster from
+Massachusetts Bay.
+  We should like to see the management of "The
+Tavistock " take this matter in hand, and let the world
+know that the old Tavern-style is still kept up in
+Covent Garden. With its history and traditions, " The
+Tavistock " is the very place to attract the diner who is
+tired of the Continental fashion, which may be best
+studied at our fashionable hotels, or, better still, at
+
+                 Covent Garden.              <pb n="103" id="p.103"/>
+
+Paris, Brussels, or Berlin.  The present Managing
+Director, Mr. Charles Taylor, was pupil in a good
+school. He graduated under the late Mr. Harrison.
+He knows all about "richly-browned dining-rooms,"
+<figure id="fig.27" n="tufts:central:dca:MS004:MS004.002.008.DO01.00023"><head></head></figure>
+and the roast saddle, the haunch, and "the sirloin,"
+rumpsteaks, and cod's head and oysters, and grouse,
+woodcock, partridges, and venison. The cellars he
+controls contain some fine samples of old Ports and
+Burgundies, Clarets, and Champagnes. His staff of
+waiters is second to none. Let him move his co-di-
+<pb n="104" id="p.104"/>
+
+rectors to give us a reproduction in large of the old
+" Piazza Tavern," where we may taste of the foods and
+dainties of our forefathers; where, if a man's appetite
+inclines that way, he may taste a glass of Bishop or of
+Sack o' winter nights, and a good supper of grilled
+bones or oysters. This should not disturb the privacy
+of the "Old Tavistock;" and when the "Piazza
+Tavern" exists again in name and reputation, we
+shall have revived some of the pleasanter memories
+of "the joyous neighbourhood of Covent Garden."</p>
+ <p> The following verses may not inappropriately serve
+as appendix of our little book. If we have told in it
+little that is new, we have made amends in interesting
+the Reader (as we hope) in what is old. London of
+to-day is not so delightful a pleasure-ground to all of
+us, that we can afford to pass by any chance retreat
+that promises repose and somewhat of the pleasant
+hospitality of old times. Some of us are past the
+age when kicking the heels about in marble halls,
+and parading ourselves in drawing-rooms of almost
+regal magnificence, lends any charm to life. Like
+Christophero Sly, we like not all this splendour, and
+beg for a draught of small ale. If you would give us
+
+                  Covent Garden.                <pb n="105" id="p.105"/>
+
+conserves, give us conserves of beef.  We prefer the
+simple village inn of Mistress Marian Hacket of
+Wincot to the stately building with the    marble
+columns. We plead for occasional retirement and
+somewhat of the soberer fashion of our forefathers.
+We ask for an old armchair in an old-fashioned tavern
+out of the hurly-burly, where one sees and hears less
+of the bustle of the Boulevards. Alas ! that our ending
+should be in the nature of a lament. In transcribing
+these verses, we ask pardon of the anonymous writer
+whose permission we have not first obtained. He
+doubtless has knowledge of " the old Tavistock."  If
+ever he comes that way we hope he will grant us
+absolution, if not over a steaming bowl of Bishop,
+glass to glass, brimmed with ruby wine of '47, than
+which, we'll wager, he will not find a better bottle
+within sound of the boom of " Big Ben."</p>
+            <lg type="ballad"><l>A BALLAD OF OLD INNS.</l>
+
+<l>" Where shall I find them-the Inns that I dream about,</l>
+  <l>' Bushes,' ' Bell Savages,' ' Horses,' and ' Heads '?</l>
+<l>Where seek the signboard that bragged from its beam about</l>
+  <l>Commonplace comforts, good cheer, and good beds ?
+</l>
+<pb n="106" id="p.106"/>
+
+<l>"Vainly-beguiled by traditions of Thackeray,</l>
+  <l>Etchings of Crowquill, and sketches by Boz-</l>
+<l>Rove I 'mid London's new-fangled gimcrackery,</l>
+<l>  Searching 'Time is' for the haunts of 'Time was.'</l>
+<l>"Vainly, through byway, through alley and rookery,</l>
+<l>  Vainly I hunger the hostel to find</l>
+<l>Warranting hope of plain fare and plain cookery,</l>
+<l>  Rest for the body and peace for the mind.</l>
+<l>  *        *          *          *          *</l>
+
+<l>" Gone are the surly ' twin heads of the Saracens,'</l>
+<l>  Blest for a Browdie, though sacred to Squeers;</l>
+<l>Gone the ' White Hart,' where that prince of comparisons,</l>
+<l>  Weller, blacked boots in the prime of his years.</l>
+<l>"Gone too the ' Slaughters,' that notable snuggery,</l>
+<l>  Where gentle Dobbin, the brave and the true,</l>
+<l>Weary of uniform, pipe-clay, and puggaree,</l>
+<l>  Slighted his supper when hasting to woo.</l>
+
+<l>"Where is ' mine hostess,' the buxom and motherly,</l>
+<l>  Warm in her welcome and apt in her jest ?</l>
+<l>Where the head-waiter, half-lordly, half-brotherly,</l>
+<l>  Patron and slave to the oft-coming guest ?</l>
+
+<l>" Where jolly Boniface, 'neath whose protectorate</l>
+<l>  Port was a proverb and Punch was a law ?</l>
+<l>Gone-to make way for a phantom Directorate,</l>
+<l>  Shadows intangible, sovereigns of straw.</l>
+                                     <pb n="107" id="p.107"/>
+
+<l>" Where are the signs, each a pun or a riddle, gone--</l>
+<l>  ' Nobody,' ' Nowhere,' the ' Mouth,' and the ' Mail'?</l>
+<l>Where, Piccadilly, have Puss and her Fiddle gone,</l>
+<l>  Mystical tribute to poor chat fidele?</l>
+
+<l>" Where are they all ?  'Mid our 'Grands ' and our ' Avenues,'</l>
+<l>  Where the blest freedom from tumult and din ?</l>
+<l>Where shall I find, in our six-storey parvenus,</l>
+<l>  Licence for taking 'mine ease in mine Inn' ?</l>
+
+<l>" Lost in the limbo of popular fallacies,</l>
+<l>  Calm and tranquillity fade like a dream;</l>
+<l>Ease yields to ornament, taverns turn palaces,</l>
+<l>Stages en route to a social paralysis-</l>
+  <l>Plutus the postboy, his Pegasus steam."</l></lg>
+
+<p>  <figure id="fig.28" n="tufts:central:dca:MS004:MS004.002.008.DO01.00024"><head></head></figure></p>
+  <pb n="108" id="p.108"/>
+  <p><figure id="fig.29" n="tufts:central:dca:MS004:MS004.002.008.DO01.00025"><head>THE GREAT PIAZZA (UNDER THE TAVISTOCK BREAKFAST-ROOMS) IN 1787.
+</head>
+</figure>
+</p>
+</div1>
+</body>
+
+<back>
+<div1 type="appendix" n="Advertisements" id="back001">
+
+<pb n="109" id="p.109"/>
+
+<p>
+<list type="simple">      <head> WHAT THE CELLARS CONTAIN AT
+"THE TAVISTOCK. "Old Wines Bottled in the Hotel"</head>
+
+
+
+<item>PORTS of 1820, 1834, 1840, 1851, and other famous Vintages.</item>
+
+<item>CLARETS of 1858, 1862, 1864, 1865, 1870, 1874, of the best
+   Shippers.</item>
+
+<item>CHAMPAGNES. All the leading Brands. Old landed.
+</item>
+<item>HOCKS. Old Cabinet.</item>
+
+<item>SHERRIES, -
+            Very Old, in Bottle.</item>
+<item>MADEIRAS,</item></list></p>
+<p>Visitors are, at any time, welcome to view the Cellars.
+
+These are very Extensive, and contain a Large and
+
+Valuable Stock.</p>
+
+<pb n="110" id="p.110"/>
+
+ <p> THE SUMMER EXHIBITION
+
+           OF HIGH-CLASS
+
+ENGLISH &#x0026; CONTINENTAL
+
+          PICTURES
+               AT
+
+ ARTHUR TOOTH AND SONS'
+
+         New Galleries,
+
+    5 &#x0026;6, H A Y M A R K E T
+      (Opposite Her Majesty's Theatre),
+
+        IS NOW OPEN.
+     ADMISSION-ONE SHILLING,
+         INCLUDING CATALOGUE.
+         <pb n="111" id="p.111"/>
+    <figure id="fig.30" n="tufts:central:dca:MS004:MS004.002.008.DO01.00026"><head></head></figure>
+							A
+                        SUGGESTION
+                              FOR A
+
+                           SATUR-
+                           DAY-TO-
+                           MONDAY
+                           TRIP.
+THE FOREST HOTEL AT EPPING FOREST.
+
+ [See next page.</p>
+<pb n="112" id="p.112"/>              
+ <p>    THE ROYAL FOREST HOTEL AT
+                  CHINGFORD.</p>
+<p>A   SUGGESTION for a Saturday-to-Monday trip will
+    be acceptable to many a reader of this little book.
+The ways of spending that brief period of rest away from
+London, and yet near London, are neither so many or
+various that one should spare himself the trouble of
+tendering a hint to a busy man. We lately made an
+excursion to Epping Forest. The forest is little known to
+west-end Londoners and visitors to London, and we
+commend it to their notice. It is easily accessible by rail
+from Liverpool Street to Chingford direct, or by road by
+way of the northern outskirts-Regent's Park, Camden
+Road, Seven Sisters Road, Tottenham High Road
+(crossing the Lea at the ferry), and so past Chingford Old
+Church to Chingford Green. In the spring, summer, and
+autumn months, the Londoner weary awhile of the
+hubbub and confusion of the town, will find in Epping Forest
+as peaceful seclusion, as picturesque scenery and pleasant
+woodland walks, and as bracing air as he will find
+anywhere round London.</p>
+  <p>Let him make note of the Forest Hotel, and he need
+be under no apprehension of not finding comfortable
+quarters. We have stayed there, and can testify of its
+comfort, quiet, and rural attractiveness.  It is remote
+from well-worn paths and the " madding crowd's ignoble
+
+                  Advertisments        <pb n="113" id="p.113"/>
+
+strife;" and, save on great festival occasions, such as
+Bank Holiday, is as peaceful a retreat as a tired
+wayfarer need wish for.  It stands on high ground
+overlooking a wide extent of country; and with its broad
+balconies, bay windows, high gables, red steep roof, and
+pretty and charmingly decorated rooms, is most
+picturesque. There is a garden reserved to the more
+contemplative visitor, where, under summer skies, all the
+joys of sense (which, by the way, according to Pope, lie
+in three words-health, peace, and competence) may be
+passively revelled in; and the most active man also will
+find ample opportunity of gratifying his hobby, whether
+it be riding, driving, or walking.</p>
+  <p>We doubt not that a comfortable room, fresh country
+food, that is to say, good butter, eggs, milk, and bread
+(which we take leave to consider the essentials at a
+country hotel), good meat well cooked, a good bottle of
+wine, and a moderate bill, will have a marked influence
+in attracting west-end Londoners and their friends to the
+Forest Hotel at Chingford for a little rest and country
+air from Saturday to Monday.</p>
+ <p> The reader will do well to consult a little book, which
+costs but sixpence, and which affords a vast amount of
+interesting and useful information respecting Epping
+Forest and the adjacent country-"Walks in Epping
+Forest," by Percy Lindley-and then to make his way to
+the Forest Hotel at Chingford, and set about turning that
+information to practical account.</p>
+                           
+
+<pb n="114" id="p.114"/>               
+     <p>   BENTLEY PRIORY.</p>
+
+<p>THIS charming Country Mansion, formerly the seat of
+     the Marquis of Abercorn, and the residence of the
+late Queen Adelaide, continues to maintain its high
+reputation as a first-class residential Hotel, affording all the
+comforts of an English nobleman's house at very
+moderate expense.</p>
+  <p>It is situated in the midst of a most beautiful demesne
+of 250 acres, facing south, and is sheltered from the north
+and east winds.</p>
+  <p>Tennis Lawns, Cricket and Football Grounds, and four
+and a half acres of Ornamental Water for Boating and
+Fishing, magnificent Conservatory or Winter Garden,
+Cedar Gardens, and Deer Park.</p>
+  <p>The Hotel Stables contain some of the finest boxes in
+England, with every accommodation. There is a frequent
+and rapid service of trains by the London and North
+Western Railway from Broad Street or Euston to Harrow.
+The Hotel Omnibus meets certain trains, and Carriages
+can be had on notice being given.</p>
+ <p> All necessary information can be obtained from the
+Secretary, Bentley Priory, Stanmore, Middlesex.</p>
+ <p> A well-appointed four-horse Coach leaves the Hotel
+Metropole daily at 11:30 a.m., calling at the "White
+Horse Cellars," due at Bentley Priory at 1:15 p.m.,
+returning at 4:30 p.m.</p>
+<pb n="115" id="p.115"/>
+   <p>THE BEST HANDBOOK TO
+ MODERN LONDON.</p>
+
+ <p>PROFUSELY ILLUSTRATED WITH ORIGINAL SKETCHES
+            BY WELL-KNOWN ARTISTS.</p>
+
+           <p> "LONDON OF TO-DAY."</p>
+
+      <p> " Our Little Village would you view,
+           And all its sights and lions do,
+           Without the least delay;
+         Or if you're anxious to divine
+         The restauants where you should dine-
+         Where best the food is and the wine--
+           The inns where you should stay;
+         If all about the Town you'd know,
+         I'd counsel you at once to go
+         Straight off to Messrs. SAMPSON Low,
+         And buy a book, by EYRE PASCOE,
+           Called London of To-day."</p>
+                       <p>Punch, or the London Charivari,
+                               April 3, 1886.</p>
+  <p>Copies of this entertaining and gossipy little volume
+for 1887 may be had, price 3s. 6d., on application to
+the Clerk at the Desk, Coffee Room, Tavistock
+Hotel.</p>
+<pb n="116" id="p.116"/>                
+
+ <p> "Sir Peter Lely first brought it in repute.     In the
+angle of the Piazza, which now forms a part of the
+Tavistock Hotel, lived this successor of Vandyck
+in England, 'the most capital painter' of the reign of
+Charles II."  See page 16.</p>
+
+  <p>Under the North Piazza, on the very spot as described above,
+is carried on the old-established business of!</p>
+             <p> G. R. MILES,
+
+   TEA AND COFFEE MERCHANT,
+
+                   ESTABLISHED 1815.</p>
+
+  <p>This firm retains its well-known reputation, and sells the
+choicest qualities and various growths of China, Assam, and
+Ceylon Teas.</p>
+<p>  Moning, Souchong, Pekoe, Darjeeling, Kaisow, Oolong,
+Assam, Green.</p>
+ <p> Long experience in tea-tasting, and unwearied attention to
+that delicate work, enables this firm to offer great advantages to
+small as well as large consumers.</p>
+  <p>Coffee of various countries-Ceylon, Mysore, East India
+Mocha, Costa Rica, &amp;c.</p>
+  <p>A well-selected stock, both of Teas and Coffees, duty paid, or
+in bond, can always be sampled.</p>
+  <p>This house has been long noted for the Navy Cocoa, which is
+held in much esteem by invalids and delicate persons.</p>
+
+     <pb n="117" id="p.117"/>
+     <p> R. DIEPPE,
+
+               BUTCHER,</p>
+
+  <p>  54 &#x0026;   54 1/2, LONG    ACRE, LONDON.
+Established upwards of Seventy Years, during which
+   period the firm has supplied the following among
+         the old Taverns of Covent Garden:</p>
+
+<p>THE TAVISTOCK, RICHARDSON'S, CLUNN'S, EVANS'S,
+      THE BEDFORD, AND THE Hummums.</p>
+
+ <p>Visitors and Country Customers can be Supplied with
+           the Primest Meat in Season.</p>
+<p>HAUNCHES OF MUTTON, BARONS, AND THE ROUND OF
+     BEEF, SADDLES OF MUTTON, VENISON, AND
+                  HOUSE LAMB.
+     ALL KINDS OF POULTRY AND GAME.</p>
+
+ <p> " No saddle can I get worth having outside ' The Tavistock.'"
+--Extract from a Letter to the Manager of the Tavistock Hotel.</p>
+
+<p>Telegraphic Address -
+       DIEPPE, LONG ACRE.</p>
+<pb n="118" id="p.118"/>          
+<figure id="fig.32" n="tufts:central:dca:MS004:MS004.002.008.DO01.00027"><head></head></figure>
+<p>Telephone No. 3753.</p>
+
+   <p>SHERSTON &#x0026; CO.,
+
+JOB AND POST MASTER TO H.R.H. THE
+           PRINCE OF WALES.
+
+  FIRST CLASS DRAGS, BRAKES, AND
+              OMNIBUSES.
+SUPERIOR JOB AND POST HORSES, LANDAUS, BROUGHAMS,
+      VICTORIAS, ETC., SET FOR ANY PERIOD,
+        Chief Office:-40, HAYMARKET.
+   68, HAYMARKET, 38, WHITCOMB STREET.
+      HORSES TAKEN IN TO STAND AT LIVERY.</p>
+
+  <pb n="119" id="p.119"/>
+<p>JAMES SHOOLBRED   &#x0026; CO.,
+
+     TOTTENHAM COURT ROAD,
+
+            LONDON,
+For CARPETS,
+      UPHOLSTERY,
+
+ CABINET FURNITURE.</p>
+<pb n="120" id="p.120"/>         
+  <p> H. J. TOWELL,
+
+ FISHMONGER, POULTERER, AND
+
+         DEALER IN GAME,
+
+             33, STRAND,</p>
+
+  <p>Next door to Charing Cross Station.
+One of the Largest        Businesses  in
+
+              London.</p>
+<p>Country Orders carefully packed and despatched
+  to any Railway Station on the shortest
+                notice.</p>
+
+         
+<p>HUDSON BROTHERS,
+
+       PROVISION MERCHANTS,
+ Have served the Tavistock Hotel for many years.
+                  Chief Depot:-
+            52, LUDGATE HILL.
+               I Wholesale Warehouse :-
+      7 AND 9, ST. BRIDE STREET, E.C.
+              LONDON BRANCHES:-
+      160, New Bond Street.
+      444, Strand.
+      Cannon Street, Railway Approach.
+      Islington, 9, High Street.
+      Liverpool Street, 45, 46, and 47.
+      Fenchurch Street, 3, Railway Place.
+      Great Eastern Railway, on the Platform.
+      Gresham Buildings, Blackfriars.
+      Victoria Station, 6, Wilton Road.
+      Dowgate Hill, opposite Walbrook.
+              COUNTRY BRANCHES:-
+       Brighton, 67, East Street.
+       Eastbourne, 62, Terminus Road.
+       Surbiton Hill, The Pavement.</p>
+<pb n="122" id="p.122"/>             
+
+   <p>DENT'S WATCHES, CLOCKS, AND CHRONOMETERS,
+
+                E. DENT &#x0026; CO.,
+
+                        61, STRAND,</p>
+
+   <p>(OPPOSITE BEDFORD STREET, AND CLOSE TO THE
+                TAVISTOCK HOTEL.)
+City House: 4, ROYAL EXCHANGE, CORNHILL.
+       Factory: 4, HANWAY PLACE, W.</p>
+
+<p>MAKERS to H. M. the Queen, H.R.H. the Prince of
+   Wales, and the principal Foreign and Colonial
+   Governments.</p>
+<p>MAKERS of the Great Clock (Big Ben) of the Houses of
+    Parliament.</p>
+<p>MAKERS of the Standard Clock of the Royal Observatory,
+   Greenwich.</p>
+<p>ALL articles of E. DENT &#x0026; Co.'s manufacture bear their
+   Trade Mark, as shown above. Without this none
+   are genuine.</p>
+
+<p>New Illustrated Catalogue of Watches and Clocks at
+        reduced prices sent free on application.</p>
+
+<p>E. DENT &#x0026; Co., 61, Strand, &#x0026; 4, Royal Exchange, London.</p>
+
+     <pb n="123" id="p.123"/>
+<p>The Estate Offices,
+       No. 28, CADOGAN PLACE,
+                     BELGRAVE SQUARE.</p>
+
+           <p> Visitors     to   the    metropoolis
+              desirous of securing Furnished or Unfurnished
+              Residences in the best positions in</p>
+                <p>BELGRAVIA,
+                       KENSINGTON,
+                               MAYFAIR,
+                                  ST. JAMES'S, &amp;c.,
+will find their labours very materially lightened by calling at the
+old-established offices of MESSRS. GODWIN AND BASLEY,
+the well-known Estate Agents, who have on their books
+particulars of all the finest Houses in the market.</p>
+  <p> Their carefully revised and explicit Index to Register of
+Town Properties is published every Month, and forwarded to
+applicants free of cost.</p>
+                  
+<p>Sales by Auction are held at the Mart,
+                    Tokenhouse Yard, E. C., twice a month.</p>
+                 
+
+       <p>GODWIN &#x0026; BASLEY,
+Auctioneers, Valuers, Estate Agents, Surveyors, Architects,
+              Assessors, aud Arbitrators,
+   SURVEYORS tO THE HOLLAND ESTATE IN CHELSEA,
+     No. 28, CADOGAN PLACE, S.W.</p>
+
+  <p>BANKERS: -THE LONDON AND COUNTY BANKING
+        COMPANY AND THE ALLIANCE BANK.</p>
+<pb n="124" id="p.124"/>             
+<p>FELIXSTOWE TIDAL DOCK,
+     WITHIN THE PORT OF HARWICH.
+
+   VESSELS ARE NOT CHARGED DOCK DUES.</p>
+
+<p>THIS OPEN I)OCK is of the most perfect character,
+    having 23 feet of water at low water ordinary spring
+tides. A branch railway enables waggons to go alongside
+the vessels, and communication is established direct from
+the water side by railway with all parts of Great Britain.</p>
+  <p>The Company undertakes to Discharge or Load Vessels
+entering the Dock; also the Warehousing, Storage and
+Delivery from Warehouse or Quay into Railway Waggons,
+or Delivery to Quay for Export.</p>
+  <p>Information as to Dues and Charges may be obtained
+from
+                J. BUCKNALL COOPER,
+                        Secretary and Manager.</p>
+   <p> Felixstowe,
+         Suffolk.</p>
+
+<p>PIER HOTEL AND RAILWAY STATION ADJOIN
+                  THE DOCK.</p>
+
+      <pb n="125" id="p.125"/>
+ <p>HOTEL DU NORD,
+
+            COLOGNE.</p>
+             <p> Directors -
+J. FRIEDRICH, ESQ.  LEWIS JEFFERIS, ESQ.
+THOMAS SHARPE, ESQ.  CHARLES T. TAYLOR, ESQ.</p>
+<p>This Hotel is one of the most important
+
+Hotels in Europe, and has been visited by
+all the Crowned Heads of Europe. The
+arrangements of the Hotel are perfect. The
+
+Rooms are Magnificently Furnished, and
+the Public Rooms are all that can be de-
+
+sired.
+
+The Hotel is close to the Railway Station.</p>
+<pb n="126" id="p.126"/>         
+<p>ROUGEMONT HOTEL,
+
+              EXETER.
+
+    DEVON AND EXETER HOTEL CO:, LIMITED.
+
+THE LARGEST AND ONLY MODERN HOTEL
+              IN EXETER.
+
+Replete with every Comfort for Families and Gentlemen.
+   MAGNIFICENT BILLIARD SALOON.
+
+          TABLE D'HOTE, 7 O'CLOCK.
+
+      NIGHT PORTER ON PATROL.
+
+                 T. W. HUSSEY,
+                              Manager.</p>
+
+                 <pb n="127" id="p.127"/>
+                    <figure id="fig.31" n="tufts:central:dca:MS004:MS004.002.008.DO01.00028"><head></head></figure>
+
+ <p>QUEEN'S HOTEL, CHELTENHAM,
+
+ It has within the last two years been entirely refurnished and
+ decorated, and is one of the best hotels in the
+                WEST OF ENGLAND.
+  Sheltered by the Cotswold Hills, Cheltenham is at all times a
+favourite place as a health resort.
+  It is a capital hunting centre, having the Cotswold, Duke of
+Beaufort's, Lord Fitzhardinge's, and other packs in the vicinity.
+  The country around is charming for riding and driving, with
+numerous places of interest.
+  The educational colleges are of the highest standard, and there
+is abundance of good society.
+
+                TERMS MODERATE.</p>
+<pb n="128" id="p.128"/>          
+               <p>   THE
+
+CLIFTONVILLE HOTEL,
+
+             MARGATE.
+
+ Situate on the High Cliffs facing and close to the
+ Sea, accommodates more than 200 Visitors.
+
+ LIBERAL TABLE.    HIGH-CLASS CUISINE.
+
+       Wines of the Finest Quality.
+
+ONE OF THE BEST AND MOST POPULAR
+         HOTELS IN ENGLAND,
+
+           GOOD STABLING.
+
+ Tariff on Application to
+             LEWIS JEFFERIS,
+                 Resident Managing Director.
+                    Advertisements.                 <pb n="129" id="p.129"/>
+           HARROGATE
+
+             AS A HEALTH RESORT.
+
+  THE QUEEN HOTEL, HARROGATE.</p>
+
+<p>THE QUEEN, Harrogate, is one of the largest first-class
+     Family Hotels in the North of England, and is as widely
+famed for its Cuisine as its Convenience.  It was established in
+1671, and has been recently considerably enlarged.</p>
+ <p> The accommodation comprises Elegant Public Drawing and
+Dining Rooms, Reading, Smoking and Billiard Rooms; twenty
+Private Sitting and Two Hundred Bedrooms, fitted up with good
+taste.</p>
+  <p>The Hotel has a South aspect, and stands in its own extensive
+and beautiful Pleasure Grounds; in which are six Lawn Tennis
+Courts for the use of the Visitors at the Hotel. The " Queen"
+being situate in the highest part of Harrogate, facing the Stray,
+commands a fine view of the surrounding country, and is only a
+few minutes' walk from the Sulphur, Chalybeate, and Kissengen
+Springs, Baths, and Public Gardens and Concert Rooms.</p>
+ <p> The "Old Sulphur" Water is supplied in a room in the
+Grounds every morning; but Visitors preferring it, are conveyed
+free of charge to and from the Old Sulphur Well, each morning,
+in private Carriages.</p>
+
+<p>THE QUEEN HOTEL, HARROGATE.
+
+                       TARIFF.
+         Board and table d'hote gs. 6d. per day.</p>
+
+<pb n="130" id="p.130"/>                
+<figure id="fig.34" n="tufts:central:dca:MS004:MS004.002.008.DO01.00029"><head></head></figure>
+<p>Royal    Mounnt      Ephraim       Hotel,
+
+         TUNBRIDGE WELLS, KENT.
+
+IF there be a place in England which may fairly lay claim to be
+described as picturesque, surely it is Tunbridge Wells. In itself
+justifiably renowned for its splendid common, with its noble
+masses of rock, its numberless walks, and its distant views, the
+district of which it is the centre is equally famous for natural
+beauties unusually attractive.  There is charming Rusthall
+Common and its "happy valley," and, close at hand,
+picturesque Speldhurst; and there is Southborough Common,
+another lovely spot, the High Rocks, the Promenade called
+the Pantiles, a quaint and striking relic of a past age, all within
+a couple of miles. Other attractions, too, abound within easy
+reach; the historic Pevensey, the very interesting old and
+perfect specimen of a moated house, near Groombridge; Eridge
+Castle and Rocks, &amp;c.
+  Tunbridge Wells can be reached from Charing Cross in little
+more than an hour.
+  At the above Hotel, under the able management of Miss
+Prouse, will be found excellent accommodation, with extreme
+cleanliness, and every home comfort.</p>
+
+            <pb n="131" id="p.131"/>
+ <p>BATT'S FAMILY HOTEL,
+
+ 41 AND 42, DOVER     STREET, PICCADILLY,
+                  LONDON, W.
+
+  This long-established, First-Class Family Hotel is near
+the Palaces, Parks, Clubs, and West End Shops.
+
+                Telegraphic Address:-
+          "BATT'S HOTEL," London.
+
+                   FREDERIC SMITH,
+       DOUGLAS-ISLE OF MAN.
+
+CASTLE MONA HOTEL,
+Situate within its own beautifully wooded and extensive
+grounds, and overlooking and within 1oo yards of the superb
+Bay of Douglas.
+The Hotel was built by the former Duke of Athole as his
+private Marine residence.
+There is magnificent Sea Bathing, Boating, and Fishing in
+the Bay.
+  Omnibus and Servants attend the arrival of the various
+Steamers from Liverpool, Barrow, Fleetwood, &amp;c.
+  For Tariff, address-
+                     The Manager.</p>
+
+<pb n="132" id="p.132"/>             
+
+<p>The  Egyptian Cigarette and French  Government
+         Tobaccos Company, Limited.
+     86-88, LEADENHALL STREET,
+               YENIDJEH AND CAIRO.
+<figure id="fig.35" n="tufts:central:dca:MS004:MS004.002.008.DO01.00030"><head></head></figure>
+     FINEST BRANDS OF EGYPTIAN CIGARETTES:
+ "EGYPTIAN     BEAUTIES," "THE MOSLEM,"
+              AND "AU SOLEIL."
+ Beware of worthless imitations of the above unrivalled Brands.
+ All Cigarettes bear the Company's Trade Marks and are to be
+                had of all Tobacconists.</p>
+                <pb n="133" id="p.133"/>
+                <figure id="fig.36" n="tufts:central:dca:MS004:MS004.002.008.DO01.00031"><head></head></figure>
+<pb n="134" id="p.134"/>           
+
+<p>"Taunus Water is all that can reasonably, or even by the
+most exacting, be expected from a Sparkling Table Water."-</p>
+<p>A. HILL HASSELL, M.D.
+  A GUARANTEED NATURAL
+  SPARKLING MINERAL WATER
+TAUN US"</p>
+
+   <p> As supplied to Her Majesty the QUEEN,
+      and H.R.H. the PRINCE OF WALES.
+The TAUNUS SPRING is at Grosskarben,
+Frankfort-on-the-Maine.
+  PROPRIETORS:-The Taunus Spring Natural Mineral
+           Water Company (Limited).
+HEAD OFFICES: 23, LIME STREET, LONDON, E.C.</p>
+
+               <pb n="135" id="p.135"/>
+<p>
+ BURROUGHES &#x0026; WATTS.-Patent Billiard Tables.
+ BURROUGHES &#x0026; WATTS.- Have Patented Inventions
+BURROUGHES &#x0026; WATTS.-Not contained in any others.
+BURROUGHES &#x0026; WATTS.-The Patent Metal Frame Cushion
+BURROUGHES &#x0026; WATTS.- -Far surpasses anything of the kind,
+BURROUGHES &#x0026; WATTS.- Being noiseless and cold-resisting.
+BURROUGHES &#x0026; WATTS.-The Patent Pockets are quite
+BURROUGHES &#x0026; WATTS.-A boon, no metal projections.
+BURROUGHES &#x0026; WATTS.-Patent Billiard Tables
+BURROUGHES &#x0026; WATTS.-Have been awarded
+BURROUGHES &#x0026; WATTS. -Highest Gold Medals
+BURROUGHES &#x0026; WATTS.-Throughout the World.
+BURROUGHES &#x0026; WATTS.-Are made of best materials,
+BURROUGHES &#x0026; WATTS.-In perfect taste
+BURROUGHES &#x0026; WATTS.- -And finish.
+BURROUGHES &#x0026; WATTS.-May be hired
+BURROUGHES &#x0026; WATTS.-For Three Years,
+BURROUGHES &#x0026; WATTS.-After which time
+BURROUGHES &#x0026; WATTS.-They become the property
+BURROUGHES &#x0026; WATTS.--Of the hirer.
+BURROUGHES &#x0026; WATTS.-Patent Convertible Tables.
+BURROUGHES &#x0026; WATTS. -Patent Billiard Markers.
+BURROUGHES &#x0026; WATTS.-Patent Universal Rest.
+BURROUGHES &#x0026; WATTS.-Patent Metal Bridge.
+BURROUGHES &#x0026; WATTS.-Patent Cigar Tray.
+BURROUGHES &#x0026; WATTS.- Patent Jointed Cue.
+BURROUGHES &#x0026; WATTS.-Patent Interchangeable Tips.
+BURROUGHES &#x0026; WATTS.--Patent Cue Hanger.
+BURROUGHES &#x0026; WATTS.-Patent Cue Tipper.
+BURROUGHES &#x0026; WATTS.-Patent Ball Adjuster.
+BURROUGHES &#x0026; WATTS.-Registered Sighting Angle.
+BURROUGHES &#x0026; WATTS.-" Billiards," 10th Thousand.
+BURROUGHES &#x0026; WATTS.-" Billiards, Simplified," 15th Thousand.
+BURROUGHES &#x0026; WATTS.- Established over 50 years at
+BURROUGHES &#x0026; WATTS.-Soho Square, London, W.</p>
+
+<pb n="136" id="p.136"/>             
+       <p> THREE GOLD MEDALS.
+
+HIGHEST AWARDS EVER OBTAINED BY ANY ARTIFICIAL
+                STONE COMPANY,
+
+METROPOLITAN FIRE BRIGADE. HER MAJESTYS WAR
+    OFFICE. METROPOLITAN BOARD OF WORKS.
+
+WILKES' METALLIC FLOORING AND EUREKA CONCRETE
+
+               COMPANY, LIMITED.
+
+ STABLE PAVIORS TO H.R.H. THE PRINCE OF WALES.
+
+ GOLD MEDAL, INTERNATIONAL HEALTH
+              EXHIBITION, 1884.
+
+    AWARDED ONLY GOLD MEDAL, 1884,
+  Being the highest award given for Superiority in Paving.
+
+  By Appointment to the International Inventions Exhibition,
+              South Kensington, 1885.
+
+ By Appointment to the Colonial and Indian Exhibition, South
+                 Kensington, 1886.
+                 CHIEF OFFICES:-
+17, DEVONSHIRE SQUARE, BISHOPSGATE, E.C.
+  Works: MIDLAND RAILWAY, WEST KENSINGTON, W.
+       Depots: ST. PANCRAS AND BISHOPSGATE.</p>
+
+             <pb n="137" id="p.137"/>
+           <p> THE NATIONAL
+
+FIRE INSURANCE CORPORATION,
+                      LIMITED.
+  HEAD OFFICE-72, KING     WILLIAM      STREET,
+                    London, E.C.
+          WEST END-I2, PALL MALL, S.W.
+                    TRUSTEES.
+SIR HENRY ARTHUR HUNT, C.B., 45, Parliament Street, and 54,
+   Eccleston Square.
+CHARLES HOARE, Esq. (Messrs. Hoare).
+                    DIRECTORS.
+SIR GABRIEL GOLDNEY, Bart., Beechfield, Chippenham, Wilts
+   (Chairman).
+FOSTER MORTIMORE, Esq. (Boutcher, Mortimore and Co.), (Deputy-
+   Chairman).
+H. W. HOARE, Esq., Oakfield, Crawley.
+HENRY LOFTS, Esq. (Messrs. Lofts and Warner), 130, Mount Street,
+   Grosvenor Square.
+ROBERT OWEN WHITE, Esq. (late of J. Bazley White and Bros.).
+THE HON. R. W. GROSVENOR, 37, Park Lane, W., and The Lodge,
+   Brackley.
+THOMAS A. H. HAMOND, Esq., 56, Lincoln's Inn Fields, W.C., and
+   Swaffham, Norfolk.
+HENRY A. HUNT, Esq., 45, Parliament Street, S.W.
+                     BANKERS.
+               MESSRS. HOARE, Fleet Street.
+                     MANAGER.
+                  WILLIAM COLLIS.
+                  SOLICITORS.
+ Messrs. COPE AND CO., Great George Street, Westminster, S.W.
+   HONORARY CONSULTING ARCHITECT.
+              CHARLES BARRY, Esq., F.S.A.
+                     AUDITORS.
+Messrs. ROBERT A. McLEAN AND CO., I, Queen Victoria Street, E.C.
+  FORMS OF PROPOSAL and all information can be obtained at
+the Head Office, at the Branch Offices, or from any of the
+Agents to the Corporation.</p>
+
+<pb n="138" id="p.138"/>            
+
+<p>ESTABLISHED IN THE REIGN OF KING GEORGE III.
+       C. HODGSON,
+
+   24, BEDFORD STREET,
+           COVENT GARDEN, W.C.,
+               MANUFACTURER OF
+
+HIGH-CLASS AERATED MINERAL WATERS,
+     SODA  WATER, POTASS, LITHIA,
+SELTZER, LEMONADE, GINGER           ALE, &amp;c.
+  As supplied to the following celebrated Hotels, &amp;c.,
+in Covent Garden :-
+      THE TAVISTOCK (upwards of 70 years),
+    The Piazza,          The Hummums,
+    Kilpack's,           Evans's,
+    Offley's,            Clunn's,
+    Ashley's,            Beef Steak Club,
+    The Royal Italian Opera, for many years,
+
+  Besides many other important Hotels, Clubs, and
+Private Families in other parts of London and the
+Country.</p>
+
+            <pb n="139" id="p.139"/>
+<figure id="fig.37" n="tufts:central:dca:MS004:MS004.002.008.DO01.00032"><head></head></figure>
+              <p>   SCOTCH     WHISKY.
+     "BONNIE DUNDEE."
+
+ A Special Blend of the finest old Scotch Whiskies, extensively
+ used in England, France, Germany, India, and the Colonies,
+and in much favour in the West End London Clubs, Hotels,
+and Private Families, as supplied by
+
+GEORGE LLOYD ALISON,
+
+    59, HAYMARKET, LONDON, AND
+       14, PANMURE STREET, DUNDEE.
+
+ N.B. "The Tavistock Hotel has used this Special Blend of
+ Whisky for now nearly a quarter of a century."
+ Extract of a letter to Mr. C. T. Taylor, Managing-Director of
+ "The Tavistock," dated 21st February, 1887:--"Will you
+ please inform me where you get your Scotch Whisky; it is the
+ best I get anywhere."</p>
+<pb n="140" id="p.140"/>         
+<p>MESSRS. BELTON &#x0026; SONS,
+
+   HOTEL AND BREWERY VALUERS AND
+             AUCTIONEERS
+
+      81, HATTON GARDEN, LONDON.
+
+ ESTABLISHED BEST PART OF A CENTURY.
+ <figure id="fig.38" n="tufts:central:dca:MS004:MS004.002.008.DO01.00033"><head></head></figure>
+ THE PERFECT EMPTY BAG.  For Continental Traelling.
+THE PERFECT FITTED BAG. WONDERFUL For its Strength.
+           CATALOGUES POST FREE.
+   S.  FISHER, 188, STRAND.</p>
+
+         <pb n="141" id="p.141"/>
+
+              <p> OPTICIAN TO
+<figure id="fig.39" n="tufts:central:dca:MS004:MS004.002.008.DO01.00034"><head></head></figure>
+    Her									The
+ Majesty's                       National Rifle
+ Government,                      Association of
+    The                           Great Britain
+ War Office,                          and
+Admiralty, &amp;c.                      America.
+                By Appointment.
+    J. H. STEWARD,
+
+        406, 66, 456, STRAND, AND
+
+           54, CORNHILL, LONDON.
+<figure id="fig.40" n="tufts:central:dca:MS004:MS004.002.008.DO01.00035"><head></head></figure>
+                    BINOCULAR, OPERA, FIELD,
+                      and MARINE GLASSES of
+                      the Finest Quality.
+                    SPECTACLES and EYE-
+                      GLASSES scientifically
+                      adapted.
+THE &#x00A3;2 2S. BINOCULAR.
+
+                Highest Awards:
+   GOLD AND SILVER MEDALS, 1884, 1885.</p>
+<pb n="142" id="p.142"/>           
+    <p> THOMAS COLE,
+
+ HAT AND CAP MANUFACTURER,
+
+          156, STRAND, W.C.
+       (Four doors City side of Somerset House).
+HATS FOR HUNTIING, SHOOTING, FISHING, BOATING, RIDING,
+              AND DRIVING, &amp;C.
+              <pb n="143" id="p.143"/>
+              <figure id="fig.41" n="tufts:central:dca:MS004:MS004.002.008.DO01.00036"><head>THE BILLIARD ROOM OF THE TAVISTOCK HOTEL.</head></figure>
+<pb n="144" id="p.144"/>
+<figure id="fig.42" n="tufts:central:dca:MS004:MS004.002.008.DO01.00037"><head></head></figure></p>
+</div1>
+</back>
+</text>
+</TEI.2>

@@ -1,0 +1,995 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+<TEI.2>
+
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Essays and Orations, Read and Delivered at the Royal College of Physicians to which is Added an Account of the Opening of the Tomb of King Charles.</title>
+			<author>Henry Halford</author>
+		</titleStmt>
+
+		<editionStmt>
+			<edition><date>2002-01-01</date></edition>
+		</editionStmt>
+
+		<extent>43880 bytes</extent>
+
+		<publicationStmt> 
+			<distributor>Tufts University Digital Collections and Archives</distributor>
+			<address>
+				<addrLine>Tufts University</addrLine>
+				<addrLine>35 Professors Row</addrLine>
+				<addrLine>Tisch Library Medford, MA 02155</addrLine>
+			</address>
+			<idno>tufts:central:dca:UA069:UA069.005.DO.00053</idno>
+			<availability status="free"><p>This publication is freely available for scholarly or educational use.</p></availability>
+		</publicationStmt>
+
+  		<notesStmt>
+			<note>This is a digital version of Henry Halford's Essays and Orations, Read and Delivered at the Royal College of Physicians originally published in 1833.
+			</note>
+		</notesStmt>
+
+    	<sourceDesc>
+		<biblStruct>
+			<monogr>
+				<title>Essays and Orations, Read and Delivered at the Royal College of Physicians to which is Added an Account of the Opening of the Tomb of King Charles.</title>
+				<author>Henry Halford</author>
+				<imprint>
+					<pubPlace>London: Albemarle Street.</pubPlace>
+					<publisher>John Murray</publisher>
+					<date>1833</date>
+				</imprint>
+			</monogr>
+		</biblStruct>
+		</sourceDesc>
+	</fileDesc>
+
+	<encodingDesc>
+			<editorialDecl>
+			<stdVals><p>Standard date values are given in ISO form: yyyy-mm-dd.</p></stdVals>
+			<interpretation><p>Prominent personal names are marked.</p>
+					<p>Place names are marked.</p>
+					<p>Dates are marked.</p>
+			</interpretation>
+		</editorialDecl>
+
+		<refsDecl n="TOC">
+			<state unit="preface"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="abstract"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="chapter"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="authentication"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="appendix"/>
+		</refsDecl>
+		<refsDecl n="TOC">
+			<state unit="Bolles Notation"/>
+		</refsDecl>
+		<classDecl>
+		<taxonomy id="LCSH"><bibl><title>Library of Congress Subject Headings</title></bibl></taxonomy>
+		<taxonomy id="LC"><bibl><title>Library of Congress</title></bibl></taxonomy>
+		</classDecl>
+	</encodingDesc>
+
+	<profileDesc>
+		<creation><date>2000-01-01</date></creation>
+		<langUsage><language id="EN" usage="100">English.</language></langUsage>
+
+		<textClass>
+			<keywords scheme="LCSH">
+			<list>
+			<item>Medicine.</item>
+			</list>
+			</keywords>
+			<classCode scheme='LC'>DA 396.A22</classCode>
+		</textClass>
+	</profileDesc>
+
+	<revisionDesc>
+		<change><date>2004-08-24</date><respStmt><name>Cynthia Mackey</name><resp>admin.</resp></respStmt><item>Updated text to TEI P4 XML. Added Tufts Digital Library object identifiers for figures.</item></change>
+	</revisionDesc>
+</teiHeader>
+
+
+<text>
+<front>
+	<titlePage>
+		<docTitle>
+			<titlePart type="main">Essays and Orations,
+			<lb/>Read and Delivered
+			<lb/>at
+			<lb/>The Royal College of Physicians;</titlePart>
+			<titlePart type="desc">to which is added
+			<lb/>An Account of the Opening of the
+			<lb/>Tomb of King Charles I.</titlePart>
+		</docTitle>
+			<byline>BY
+			<lb/><docAuthor>Sir Henry Halford, Bart., M.D., G.C.H.,</docAuthor>
+			<lb/>President of the College</byline>
+		<docEdition>Second Edition</docEdition>
+		<docImprint>
+			<pubPlace>London:</pubPlace>
+			<publisher>John Murray</publisher><address><addrLine>Albermarle Street</addrLine></address>
+			<docDate>1833</docDate>
+		</docImprint>
+		</titlePage>
+				
+<pb id="iii" n="iii"/>
+
+<div1 type="preface" n="PREFACE" id="front001">
+
+<head>PREFACE.</head>
+
+
+
+<p>OF the following small collection of Papers,
+the two first were written for a work called
+<quote>'The Transactions of the <orgName key="ROYAL COLLEGE OF PHYSICIANS">Royal College of
+Physicians</orgName>,'</quote> and were published in the fourth
+and fifth volumes of the series. The third
+was meant for the same work, but it was
+read at an evening meeting of the <orgName key="ROYAL COLLEGE OF PHYSICIANS">College</orgName>,
+which was attended by many eminent characters in the church and in the law, as well
+as a numerous body of the profession.</p>
+  <p>The subsequent ones were written expressly for a mixed audience, to whom it was
+probable that a strictly professional paper
+would be less acceptable than one on a
+
+
+<pb id="iv" n="iv"/>
+
+
+
+medical subject capable of being illustrated
+by literature, (a common bond of connexion
+of all the liberal professions,) or which admitted of a discussion of the duties and
+offices of a physician in that last scene of
+human life in which every man, sooner or
+later, must appear and bear his part. The
+conduct of a physician on whom is fixed the
+only hope of saving life, and on whom the
+dying look often rests before the eye is
+closed for ever, may fairly be thought
+interesting to every hearer.</p>
+  <p>Papers so addressed to an audience have
+something of a rhetorical character about
+them, and approach the nature of the Latin
+Orations which follow. The first of these
+was given many years ago in commemoration
+of the Benefactors and eminent Physicians
+
+<pb id="v" n="v"/>
+
+of the College; the second on occasion
+of opening the new building, in <date value="1825">1825</date>.
+The account of what appeared on opening
+the Coffin of <persName key="Charles I">King Charles I</persName>. is a reprint
+of a former paper, and the drawing which
+accompanies it is a faithful representation
+of the countenance of the King at that time,
+(<date value="1813">1813</date>.)</p>
+
+
+
+</div1>
+</front>
+<body>
+<pb id="p.i"  n="i"/>
+
+
+<div1 type="abstract" n="To the Reader" id="front002">
+
+       <head type="sub">AN ACCOUNT
+
+           OF WHAT APPEARED ON
+
+         OPENING THE COFFIN
+
+                 OF
+
+
+<persName key="Charles I.">KING CHARLES THE FIRST</persName>,
+
+     IN THE VAULT OF <persName key="Henry VIII.">King Henry VIII.</persName>
+
+                IN
+
+  <placeName key="ST. GEORGE'S CHAPEL">ST. GEORGE'S CHAPEL</placeName>, <placeName key="WINDSOR">WINDSOR</placeName>,
+
+      ON THE <date value="1813-04-01">FIRST OF APRIL, MDCCCXIII</date>.</head>
+
+
+
+
+<pb id="p.ii"  n="ii"/>
+
+
+               <p><hi rend="cl">TO THE READER</hi>.</p>
+
+<p>THE following narrative of the investigation, which
+took place at <placeName key="Windsor">Windsor</placeName>, on Thursday the <date value="1813-04-01">1st of April,
+1813</date>, in the vault of <persName key="Henry VIII.">King Henry VIII.</persName>, will probably
+be rendered more satisfactory by a comparison with
+the statements of <persName key="Hyde,Edward">Lord Clarendon</persName> and <persName key="Herbert">Mr. Herbert</persName>,
+with respect to the interment of <persName key="Charles I.">King Charles I.</persName>
+  For the convenience of the reader, therefore, those
+narratives are here reprinted, as an appendix.</p>
+
+</div1>
+<pb id="p.iii"  n="iii"/>
+
+<div1 type="chapter" n="Opening the Coffin of King Charles I" id="c1">
+
+
+
+<head type="sub">OPENING THE COFFIN OF KING CHARLES I.</head>
+
+<p><figure id="fig.01" n="tufts:central:dca:MS004:MS004.002.028.DO01.00001"><head>Sir Henry Halford, Bart. G.C.H.</head></figure><hi rend="cl">IT</hi> is stated by <persName key="Hyde,Edward">Lord Clarendon</persName>, in his History of the Rebellion, that the body of <persName key="Charles I.">King
+Charles I.</persName>, though known to be interred in
+<placeName key="St. George's Chapel">St. George's Chapel</placeName>, at <placeName key="Windsor">Windsor</placeName>, could not
+be found, when searched for there some
+years afterwards. It seems, by the historian's account, to have been the wish and
+the intention of <persName key="Charles II.">King Charles II.</persName>., after his
+restoration, to take up his father's corpse,
+and to re-inter it in <placeName key="Westminster Abbey">Westminster Abbey</placeName>,
+with those royal honours which had been
+denied it under the government of the regicides. The most careful search was made
+for the body by several people, amongst
+whom were some of those noble persons
+whose faithful attachment had led them to
+
+
+<pb id="p.iv"  n="iv"/>
+
+
+pay their last tribute of respect to their unfortunate master by attending him to the
+grave. Yet such had been the injury done
+to the chapel, such were the mutilations it
+had undergone, during the period of the
+usurpation, that no marks were left, by which
+the <hi rend="italic">exact</hi> place of burial of the king could
+be ascertained.<note place="foot" n="1"><persName key="Pope,Alexander">Pope</persName>, alluding to the doubt which was entertained in
+his day, as to the place of the King's interment, invokes the
+Muse to
+     <quote rend="blockquote">'Make sacred <persName key="Charles I.">Charles</persName>'s tomb for ever known,
+     '(Obscure the place and uninscribed the stone.')</quote>
+                       <hi rend="italics">Windsor Forest</hi>, v. 319.</note></p>
+  <p>There is some difficulty in reconciling this
+account with the information which has
+reached us since the death of Lord Clarendon, particularly with that of Mr. Ashmole,
+and more especially with that most interesting narrative of Mr. Herbert, given in the
+<quote>'Athenae Oxonienses.'</quote>  Mr. Herbert had
+been a groom of the bed-chamber, and a
+
+
+<pb id="p.v"  n="v"/>
+
+faithful companion of the king in all circumstances, from the time he left the <placeName key="Isle of Wight">Isle of Wight</placeName>,
+until his death-was employed to
+convey his body to <placeName key="Windsor">Windsor</placeName>, and to fix upon
+a proper place for his interment there; and
+was an eye-witness to that interment, in the
+vault of <persName key="Henry VIII.">King Henry VIII.</persName></p>
+  <p>Were it allowable to hazard a conjecture,
+after <persName key="Hyde,Edward">Lord Clarendon</persName>'s deprecation of all conjectures on the subject, one might suppose
+that it was deemed imprudent, by the ministers of <persName key="Charles II.">King Charles II.</persName>. that his Majesty
+should indulge his pious inclination to re-inter
+his father, at a period when those ill-judged
+effusions of loyalty which had been manifested by taking out of their graves and
+hanging up the bodies of some of the most
+active members of the court which had condemned and executed the king might, in
+the event of another triumph of the republicans, have subjected the body of the
+
+
+
+<pb id="p.vi"  n="vi"/>
+
+
+
+monarch to similar indignity.   But the fact
+is, <persName key="Charles I.">King Charles I.</persName> was buried in the vault of
+<persName key="Henry VIII.">King Henry VIII.</persName> situated precisely where
+Mr. Herbert has described it;<note place="foot" n="2">Mr. Herbert, whose account furnished the clue to our
+inquiry, retired immediately after his Majesty's death into
+<placeName key="Yorkshire">Yorkshire</placeName>, and lived to the beginning of the next century.
+His papers were not published till sometime after his death.
+</note> and an
+accident has served to elucidate a point in
+history, which the great authority of
+<persName key="Hyde,Edward">Lord Clarendon</persName> had involved in some obscurity.</p>
+   <p>On completing the mausoleum which his
+present Majesty has built in the tomb-house,
+as it is called, it was necessary to form a
+passage to it from under the choir of
+<placeName key="St. George's Chapel">St. George's Chapel</placeName>. In constructing this passage, an aperture was made accidentally in
+one of the walls of the vault of <persName key="Henry VIII.">King Henry
+VIII.</persName>, through which the workmen were enabled to see, not only the two coffins which
+were supposed to contain the bodies of <persName key="Henry VIII.">King
+Henry VIII.</persName> and <persName key="Seymour,Jane">Queen Jane Seymour</persName>, but
+
+
+
+
+<pb id="p.vii"  n="vii"/>
+
+
+
+a third also, covered with a black velvet
+pall, which, from Mr. Herbert's narrative,
+might fairly be presumed to hold the remains of <persName key="Charles I.">King Charles I.</persName></p>
+  <p>On representing the circumstance to <persName key="George IV.">the
+Prince Regent, his Royal Highness</persName> perceived at once, that a doubtful point in history might be cleared up by opening this
+vault; and accordingly <persName key="George IV.">his Royal Highness</persName>
+ordered an examination to be made on the
+first convenient opportunity. This was done
+on the first of April last, the day after the
+funeral of the Duchess of Brunswick, in the
+presence of <persName key="George IV.">his Royal Highness</persName> himself, who
+guaranteed thereby the most respectful care
+and attention to the remains of the dead
+during the inquiry. <persName key="George IV.">His Royal Highness</persName>
+was accompanied by his Royal Highness
+the Duke of Cumberland, Count Munster,
+the Dean of <placeName key="Windsor">Windsor</placeName>, Benjamin Charles
+Stevenson, Esq., and <persName key="Halford,Henry">Sir Henry Halford</persName>.</p>
+
+
+
+<pb id="p.viii"  n="viii"/>
+
+
+
+  <p>The vault is covered by an arch, half a
+brick in thickness, is seven feet two inches
+in width, nine feet six inches in length, and
+four feet ten inches in height, and is situated in the centre of the choir, opposite
+the eleventh knight's stall, on the sovereign's side.</p>
+  <p>On removing the pall, a plain leaden coffin,
+with no appearance of ever having been inclosed in wood, and bearing an inscription
+<quote>'<persName key="Charles I.">KING CHARLES</persName>, <date value="1648">1648</date>,'</quote> in large, legible
+characters, on a scroll of lead encircling it,
+immediately presented itself to the view. A
+square opening was then made in the upper
+part of the lid, of such dimensions as to admit a clear insight into its contents. These
+were, an internal wooden coffin, very much
+decayed, and the body carefully wrapped
+up in cere-cloth, into the folds of which
+a quantity of unctuous or greasy matter
+mixed with resin, as it seemed, had been
+
+<figure id="fig.02"  n="tufts:central:dca:MS004:MS004.002.028.DO01.00002"><head>His Royal Highness, George, Prince of Wales, Regent of the United Kingdom</head></figure>
+
+<pb id="p.ix"  n="ix"/>
+
+
+
+melted, so as to exclude, as effectually as
+possible, the external air. The coffin was
+completely full; and from the tenacity of
+the cere-cloth, great difficulty was experienced in detaching it successfully from
+the parts which it enveloped. Wherever
+the unctuous matter had insinuated itself,
+the separation of the cere-cloth was easy;
+and when it came off, a correct impression of
+the features to which it had been applied
+was observed in the unctuous substance. At
+length, the whole face was disengaged from
+its covering. The complexion of the skin
+of it was dark and discoloured. The forehead and temples had lost little or nothing
+of their muscular substance; the cartilage
+of the nose was gone; but the left eye, in
+the first moment of exposure, was open and
+full, though it vanished almost immediately :
+and the pointed beard, so characteristic of
+the period of the reign of <persName key="Charles I.">King Charles</persName>, was
+
+
+<pb id="p.x"  n="x"/>
+
+
+perfect. The shape of the face was a long
+oval; many of the teeth remained; and the
+left ear, in consequence of the interposition
+of the unctuous matter between it and the
+cere-cloth, was found entire.</p>
+  <p>It was difficult, at this moment, to withhold a declaration, that, notwithstanding
+its disfigurement, the countenance did bear
+a strong resemblance to the coins, the busts,
+and especially to the pictures of <persName key="Charles I.">King
+Charles I.</persName> by <persName key="Vandyke,Peter">Vandyke</persName>, by which it had
+been made familiar to us. It is true, that
+the minds of the spectators of this interesting sight were well prepared to receive this
+impression; but it is also certain, that such
+a facility of belief had been occasioned by
+the simplicity and truth of Mr. Herbert's
+Narrative, every part of which had been
+confirmed by the investigation, so far as it
+had advanced: and it will not be denied
+that the shape of the face, the forehead, and
+<figure id="fig.03"  n="tufts:central:dca:MS004:MS004.002.028.DO01.00003"><head>Charles the I King of Gr. Britain, France, &#x0026; Ireland, &#x0026;c.</head></figure>
+
+<pb id="p.xi"  n="xi"/>
+
+
+
+eye, and the beard, are the most important
+features by which resemblance is determined.</p>
+   <p>When the head had been entirely disengaged from the attachments which confined
+it, it was found to be loose, and, without
+any difficulty, was taken up and held to
+view.  It was quite wet,<note place="foot" n="3">I
+have not asserted this liquid to be blood, because I
+had not an opportunity of being sure that it was so, and I
+wished to record facts only, and not opinions: I believe it,
+however, to have been blood, in which the head rested. It
+gave to writing paper, and to a white handkerchief, such a
+colour as blood which has been kept for a length of time
+generally leaves behind it. Nobody present had a doubt of
+its being blood; and it appears from Mr. Herbert's narrative, that the King was embalmed immediately after decapitation. It is probable, therefore, that the large blood
+vessels continued to empty themselves for some time afterwards. I am aware, that some of the softer parts of the
+human body, and particularly the brain, undergo, in the
+course of time, a decomposition, and will melt. A liquid,
+therefore, might be found after long interment, where solids
+only had been buried: but the weight of the head, in this
+instance, gave no suspicion that the brain had lost its substance; and no moisture appeared in any other part of the
+coffin, as far as we could see, excepting at the back part of
+the head and neck.</note> and gave a
+
+
+
+<pb id="p.xii"  n="xii"/>
+
+greenish red tinge to paper and to linen
+which touched it. The back part of the
+scalp was entirely perfect, and had a remarkably fresh appearance; the pores of the
+skin being more distinct, as they usually are
+when soaked in moisture; and the tendons
+and ligaments of the neck were of considerable substance and firmness. The hair was
+thick at the back part of the head, and, in
+appearance, nearly black. A portion of it,
+which has since been cleaned and dried,
+is of a beautiful dark brown colour. That
+of the beard was a redder brown. On the
+back part of the head it was more than an
+inch in length, and had probably been cut
+so short for the convenience of the executioner, or perhaps by the piety of friends
+soon after death, in order to furnish memorials of the unhappy king.</p>
+  <p>On holding up the head, to examine the
+place of separation from the body, the
+
+<pb id="p.xiii"  n="xiii"/>
+
+
+
+muscles of the neck had evidently retracted
+themselves considerably; and the fourth cervical vertebra was found to be cut through
+its substance transversely, leaving the surfaces of the divided portions perfectly smooth
+and even, an appearance which could have
+been produced only by a heavy blow, inflicted
+with a very sharp instrument, and
+which furnished the last proof wanting to
+identify <persName key="Charles I">King Charles the First</persName>.</p>
+
+<p><figure id="fig.04" n="tufts:central:dca:MS004:MS004.002.028.DO01.00004"><head>Charles the First</head></figure></p>
+
+  <p>After this examination of the head, which
+served every purpose in view, and without
+examining the body below the neck, it was
+immediately restored to its situation, the
+coffin was soldered up again, and the vault
+closed.</p>
+  <p>Neither of the other coffins had any inscription upon them. The larger one, supposed on good grounds to contain the remains of <persName key="Henry VIII.">King Henry VIII.</persName> measured six
+feet ten inches in length, and had been
+
+
+<pb id="p.xiv "  n=" xiv"/>
+
+
+
+inclosed in an elm one of two inches in thickness: but this was decayed, and lay in small
+fragments near it. The leaden coffin appeared to have been beaten in by violence
+about the middle; and a considerable opening in that part of it exposed a mere skeleton of the king.  Some beard remained
+upon the chin, but there was nothing to
+discriminate the personage contained in it.</p>
+  <p>The smaller coffin, understood to be that
+of <persName key="Seymour,Jane">Queen Jane Seymour</persName>, was not touched;
+mere curiosity not being considered, by the
+<persName key="George IV.">Prince Regent</persName>, as a sufficient motive for
+disturbing these remains.</p>
+  <p>On examining the vault with some attention, it was found that the wall, at the west
+end, had, at some period or other, been partly
+pulled down and repaired again, not by regular masonry, but by fragments of stones
+and bricks, put rudely and hastily together
+without cement.</p>
+
+
+          <pb id="p.xv"  n="xv"/>
+
+  <p>From <persName key="Hyde,Edward">Lord Clarendon</persName>'s account, as well
+as from Mr. Herbert's narrative of the interment of <persName key="Charles I">King Charles</persName>, it is to be inferred,
+that the ceremony was a very hasty one,
+performed in the presence of the Governor,
+who had refused to allow the service according to the Book of Common Prayer to be
+used on the occasion; and had, probably,
+scarcely admitted the time necessary for a
+decent deposit of the body. It is not unlikely, therefore, that the coffin of
+<persName key="Henry VIII.">King Henry VIII.</persName> had been injured by a precipitate introduction of the coffin of King
+Charles; and that the Governor was not
+under the influence of feelings, in those
+times, which gave him any concern about
+Royal remains, or the vault which contained
+them.</p>
+  <p>It may be right to add, that a very small
+mahogany coffin, covered with crimson velvet, containing the body of an infant, had
+
+<pb id="p.xvi"  n="xvi "/>
+
+
+
+been laid upon the pall which covered King
+Charles.  This is known to have been a
+still-born child of Princess George of
+Denmark, afterwards Queen Anne.
+
+
+
+LONDON, APRIL 11, <date value="1813">1813</date>.</p>
+
+</div1>
+<pb id="p.xvii"  n="xviii"/>
+<div1 type="chapter" n="authentication" id="c2">
+          <head>AUTHENTICATION.</head>
+
+<p>WHEN the manuscript containing the above account was read to his late Majesty, then Prince
+Regent, by whose command it had been drawn up,
+the King was pleased to desire that He might
+authenticate it, which He did, immediately previous to its being deposited in the British Museum,
+by the accompanying autograph.</p>
+<p><figure id="fig.05"  n="tufts:central:dca:MS004:MS004.002.028.DO01.00005"><head>Authentication</head></figure></p>
+
+
+</div1>
+</body>
+<back>
+<pb id="p.xix" n="xix"/>
+<div1 type="appendix" n="APPENDIX I" id="back001">
+
+
+<head>APPENDIX I.</head>
+
+<p><figure id="fig.06" n="tufts:central:dca:MS004:MS004.002.028.DO01.00006"><head>Edward Earle of Clarendon, Lord High Chancellor of England and Chancellor of the University of Oxford</head></figure></p>
+
+<p>[Extract from <persName key="Hyde,Edward">Clarendon</persName>'s 'History of the Rebellion and
+  Civil Wars in England,' Vol. iii. Part I. p. 393, Oxford,
+  <date value="1807">1807</date>.]</p>
+
+
+<p> His body was immediately carried into a room at
+ Whitehall; where he was exposed for many days
+ to the public view, that all men might know that
+ he was not alive. And he was then embalmed,
+ and put into a coffin, and so carried to <placeName key="St. James's">St. James's</placeName>;
+ where he likewise remained several days. They
+ who were qualified to order his funeral declared,
+ <q type="spoken">that he should be buried at <placeName key="Windsor">Windsor</placeName> in a decent
+ manner, provided that the whole expense should
+ not exceed five hundred pounds.</q> The Duke of
+ Richmond, the Marquis of Hertford, the Earls of
+ Southampton and Lindsey, who had been of his
+ bed-chamber, and always very faithful to him,
+ desired those who governed, <q type="spoken">that they might
+ have leave to perform the last duty to their dead
+ master, and to wait upon him to his grave;</q> which,
+ after some pauses, they were permitted to do;
+
+
+<pb id="p.xx "  n="xx "/>
+
+
+
+
+ with this, "that they should not attend the corpse
+ out of town; since they resolved it should be
+ privately carried to <placeName key="Windsor">Windsor</placeName> without pomp or
+ noise, and then they should have timely notice,
+ that, if they pleased, they might be at his interment."  And accordingly it was committed to four
+ of those servants who had been by them appointed
+ to wait upon him during his imprisonment, that
+ they should convey the body to <placeName key="Windsor">Windsor</placeName>; which
+ they did.  And it was, that night, placed in that
+ chamber which had usually been his bed-chamber: the next morning, it was carried into the
+ great hall, where it remained till the lords came;
+ who arrived there in the afternoon, and immediately went to Colonel Whitchcot, the governor of
+ the castle, and showed the order they had from
+ the Parliament to be present at the burial, which
+ he admitted: but when they desired that his
+ Majesty might be buried according to the form of
+ the Common Prayer Book, the Bishop of London
+ being present with them to officiate, he positively
+ and roughly refused to consent to it; and said,
+ "it was not lawful, that the Common Prayer
+ Book was put down, and he would not suffer it to
+ be used in that garrison where he commanded;"
+ nor could all the reasons, persuasions, and entreaties, prevail with him to suffer it. Then they
+ went into the church, to make choice of a place
+ for burial. But when they entered into it, which
+
+
+
+<pb id="p.xxi"  n="xxi"/>
+
+
+
+ they had been so well acquainted with, they found
+ it so altered and transformed, all inscriptions, and
+ those landmarks pulled down, by which all men
+ knew every particular place in that church, and
+ such a dismal mutation over the whole, that they
+ knew not where they were: nor was there one old
+ officer that had belonged to it, or knew where our
+ princes had used to be interred. At last, there
+ was a fellow of the town who undertook to tell
+ them the place where, he said, <q type="spoken">"there was a
+ vault, in which <persName key="Henry VIII.">King Harry VIII.</persName> and
+ <persName key="Seymour,Jane">Queen Jane Seymour</persName> were interred."</q>   As near that
+ place as could conveniently be, they caused the
+ grave to be made. There the King's body was
+ laid, without any words, or other ceremonies than
+ the tears and sighs of the few beholders. Upon
+ the coffin was a plate of silver fixed, with these
+ words only, <persName key="Charles I">King Charles</persName>, <date value="1648">1648</date>.  When the
+ coffin was put in, the black velvet pall that had
+ covered it was thrown over it, and then the earth
+ thrown in; which the Governor stayed to see
+ perfectly done, and then took the keys of the
+ church.</p>
+  <p>I have been the longer and the more particular
+ in this relation, that I may from thence take
+ occasion to mention what fell out long after, and which
+ administered a subject of much discourse; in
+ which, according to the several humours and
+ fancies of men, they who were in nearest credit
+
+
+<pb id="p.xxii"  n="xxii"/>
+
+
+
+
+ and trust about the King underwent many very
+ severe censures and reproaches, not without
+ reflection upon the King himself.  Upon the return
+ of <persName key="Charles II.">King Charles II.</persName>.
+ with so much congratulation,
+ and universal joy of the people, above ten years
+ after the murder of his father, it was generally
+ expected that the body should be removed from
+ that obscure burial, and with such ceremony as
+ should be thought fit, should be solemnly deposited with his Royal ancestors in King Harry
+ the Seventh's chapel, in the collegiate church
+ at Westminster.   And the King himself intended nothing more, and spoke often of it, as
+ if it were only deferred till some circumstances
+ and ceremonies in the doing it might be adjusted.  But, by degrees, the discourse of it
+ was diminished, as if it were totally laid aside
+ upon some reason of state, the ground whereof
+ several men guessed at according to their fancies,
+ and thereupon cast those reproaches upon the
+ statesmen as they thought reasonable, when the
+ reasons which were suggested by their own imaginations did not satisfy their understanding.
+ For the satisfaction and information of all men, I
+ choose in this place to explain that matter; which,
+ it may be, is not known to many; and at that
+ time was not, for many reasons, thought fit to be
+ published. The Duke of Richmond was dead
+ before the King returned; the Marquis of Hertford
+
+
+<pb id="p.xxiii "  n=" xxiii"/>
+
+
+
+ died in a short time after, and was seldom out
+ of his lodging after his Majesty came to <placeName key="Whitehall">Whitehall</placeName>:
+ the Earl of Southampton and the Earl of
+ Lindsey went to <placeName key="Windsor">Windsor</placeName>, and took with them such
+ of their own servants as had attended them in that
+ service, and as many others as they remembered
+ had been then present, and were still alive; who all
+ amounted to a small number; there being, at the
+ time of the interment, great strictness used in
+ admitting any to be present whose names were
+ not included in the order which the lords had
+ brought. In a word, the confusion they had at
+ that time observed to be in that church, and the
+ small alterations which were begun to be made
+ towards decency, so totally perplexed their memories,
+ that they could not satisfy themselves in
+ what place or part of the church the Royal body
+ was interred: yet where any concurred upon this
+ or that place, they caused the ground to be
+ opened at a good distance, and, upon such
+ enquiries, found no cause to believe that they were
+ near the place: and, upon their giving this account
+ to the King, the thought of that remove was laid
+ aside; and the reason communicated to very few,
+ for the better discountenancing further enquiry.'</p>
+
+<pb id="p.xxiv "  n=" xxiv"/>
+<p>
+<figure id="fig.07"  n="tufts:central:dca:MS004:MS004.002.028.DO01.00007"><head>K. Charles, 1st, Martyred</head></figure></p>
+</div1>
+<pb id="p.xxv"  n="xxv"/>
+<div1 type="appendix" n="APPENDIX II" id="back002">
+
+             <head>APPENDIX II.</head>
+
+<p>[Extract from <persName key="Wood,Anthony">Wood</persName>'s 'Athenae Oxonienses,' folio edition.
+  Vol. ii. p. 703. Printed for Knaplock, Midwinter, and
+  Tonson, <date value="1721">1721</date>.</p>
+
+ <p>THERE was a passage broke through the wall
+ of the Banqueting-house, by which the King
+ passed unto the scaffold: where, after his Majesty
+ had spoken, and declared publicly that he died a
+ Christian according to the profession of the Church
+ of England (the contents of which have been
+ several times printed), the fatal stroke was given
+ by a disguised person.  Mr. Herbert during this
+ time was at the door leading to the scaffold, much
+ lamenting; and the Bishop coming from the
+ scaffold with the Royal corpse, which was
+ immediately coffined and covered with a velvet pall, he
+ and Mr. Herbert went with it to the back stairs
+ to have it embalmed. The Royal corpse being
+ embalmed and well coffined, and all afterwards
+ wrapped up in lead, and covered with a new
+ velvet pall, it was removed to <placeName key="St. James's">St. James's</placeName>. Where
+ to bury the King was the last duty remaining.
+ By some historians it is said the King spoke
+
+
+<pb id="p.xxvi"  n="xxvi"/>
+
+
+something to the bishop concerning his burial.
+Mr. Herbert, both before and after the King's
+death, was frequently in company with the bishop,
+and affirmed, that he never mentioned anything to
+him of the King's naming any place where he
+would be buried; nor did Mr. Herbert (who
+constantly attended his Majesty, and after his coming
+to Hurst Castle was the only person in his bedchamber)
+hear him at any time declare his mind
+concerning it. Nor was it in his lifetime a
+proper question for either of them  to ask,
+notwithstanding they had oftentimes the opportunity,
+especially when his Majesty was bequeathing to
+his royal children and friends what is formerly
+related. Nor did the bishop declare any thing
+concerning the place to Mr. Herbert, which
+doubtless he would upon Mr. Herbert's pious care about
+it; which being duly considered, they thought no
+place more fit to inter the corpse than in the
+chapel of <persName key="Henry VII.">King Henry VII.</persName>, at the end of the
+church of <placeName key="Westminster Abbey">Westminster Abbey</placeName>, out of whose loins
+<persName key="Charles I.">King Charles I.</persName> was lineally extracted, &#x0026;c.
+Whereupon Mr. Herbert made his application to
+such as were then in power for leave to bury the
+King's body in the said chapel, among his ancestors; but his request was denied, for this reason, that his burying there would attract infinite
+numbers of all sorts thither, to see where the
+King was buried; which, as the times then were,
+
+
+
+<pb id="p.xxvii "  n=" xxvii"/>
+
+
+
+was judged unsafe and inconvenient.  Mr. Herbert
+acquainting the bishop with this, they then
+resolved to bury the King's body in the
+Royal Chapel of <placeName key="St. George">St. George</placeName>,
+within the Castle of <placeName key="Windsor">Windsor</placeName>,
+both in regard that his Majesty was Sovereign of
+the Most Noble Order of the Garter, and that
+several Kings had been there interred; namely,
+<persName key="Henry VI.">King Henry VI.</persName>, <persName key="Edward IV.">King Edward IV.</persName>, and
+<persName key="Henry VIII.">King Henry VIII.</persName>, &#x0026;c.  Upon which consideration
+Mr. Herbert made his second address to the
+committee of Parliament, who, after some deliberation, gave him an order, bearing date the 6th
+of February, <date value="1648">1648</date>, authorising him and Mr.
+<persName key="Mildmay,Anthony">Anthony Mildmay</persName> to bury the King's body there,
+which the governor was to observe.</p>
+  <p>Accordingly the corpse was carried thither front
+<placeName key="St. James's">St. James's</placeName>, February 7, in a hearse covered with
+black velvet, drawn by six horses covered with
+black cloth, in which were about a dozen gentlemen,
+most of them being such that had waited upon
+his Majesty at <placeName key="Carisbrook Castle">Carisbrook Castle</placeName>, and other places,
+since his Majesty's going from <placeName key="Newcastle">Newcastle</placeName>. Mr.
+Herbert shewed the governor, Colonel Whitchcot,
+the committee's order for permitting Mr. Herbert
+and <persName key="Mildmay,Anthony">Mr. Mildmay</persName> to bury him, the late King, in
+any place within <placeName key="Windsor Castle">Windsor Castle</placeName>, that they should
+think fit and meet. In the first place, in order
+thereunto, they carried the King's body into the
+Dean's house, which was hung with black, and
+
+
+
+<pb id="p.xxviii"  n="xxviii"/>
+
+
+after to his usual bedchamber within the palace.
+After which they went to <placeName key="St. George's Chapel">St. George's Chapel</placeName> to
+take a view thereof, and of the most fit and
+honourable place for the Royal corpse to rest in.
+Having taken a view, they at first thought that
+the tomb-house, built by <persName key="Wolsey,Thomas">Cardinal Wolsey</persName>, would
+be a fit place for his interment; but that place,
+though adjoining, yet being not within the Royal
+Chapel, they waived it; for, if <persName key="Henry VIII.">King Henry VIII.</persName>
+was buried there, (albeit to that day the particular place of his burial was unknown to any,) yet,
+in regard to his Majesty, <persName key="Charles I.">King Charles I.</persName> (who
+was a real defender of the Faith, and as far from
+censuring any that might be) would upon occasional discourse express some dislike in
+<persName key="Henry VIII.">King Henry</persName>'s proceedings, in misemploying those vast
+revenues, the suppressed abbies, monasteries, and
+other religious houses were endowed with, and by
+demolishing those many beautiful and stately
+structures which both expressed the greatness of
+their founders, and preserved the splendour of the
+kingdom, which might at the Reformation have in
+some measure been kept up and converted to sundry pious uses.</p>
+  <p>Upon consideration thereof, those gentlemen
+declined it, and pitched upon the vault where <persName key="Edward IV.">King
+Edward IV.</persName> had been interred, being on the north
+side of the choir, near the altar, that King being
+one his late Majesty would often times make honourable
+
+
+
+
+<pb id="p.xxix"  n="xxix"/>
+
+
+
+mention of, and from whom his Majesty
+was lineally propagated. That, therefore, induced
+Mr. Herbert to give order to N. Harrison and
+Henry Jackson to have that vault opened, partly
+covered with a fair large stone of touch, raised
+within the arch adjoining, having a range of iron
+bars gilt, curiously cut according to church work,
+&#x0026;c. But as they were about this work, some noblemen came thither; namely, the Duke of Richmond,
+the Marquis of Hertford, the Earl of Lindsey,
+and with them Dr. Juxon, Bishop of London,
+who had licence from the Parliament to attend the
+King's body to his grave. Those gentlemen,
+therefore, Herbert and <persName key="Mildmay,Anthony">Mildmay</persName>, thinking fit to
+submit, and leave the choice of the place of burial
+to those great persons, they in like manner viewed
+the tomb-house and the choir; and one of the
+Lords beating gently upon the pavement with his
+staff, perceived a hollow sound; and thereupon
+ordering the stones and earth to be removed, they
+discovered a descent into a vault, where two coffins
+were laid near one another, the one very large, of
+an antique form, and the other little. These they
+supposed to be the bodies of <persName key="Henry VIII.">King Henry VIII.</persName>
+and <persName key="Seymour,Jane">Queen Jane Seymour</persName> his third wife, as indeed
+they were. The velvet palls that covered their
+coffins seemed fresh, though they had lain there
+above one hundred years.</p>
+  <p>The Lords agreeing that the King's body
+
+
+<pb id="p.xxx"  n="xxx"/>
+
+
+should be in the same vault interred, being about
+the middle of the choir, over against the eleventh
+stall upon the sovereign's side, they gave order to
+have the King's name and year he died cut in
+lead; which whilst the workmen were about, the
+Lords went out and gave Puddifant, the sexton,
+order to lock the chapel door, and not suffer any
+to stay therein till further notice. The sexton did
+his best to clear the chapel; nevertheless, Isaac,
+the sexton's man, said that a foot-soldier had hid
+himself, so as he was not discerned; and being
+greedy of prey, crept into the vault, and cut so
+much of the velvet pall that covered the great body
+as he judged would hardly be missed, and wimbled
+also a hole through the said coffin that was largest,
+probably fancying that there was semething well
+worth his adventure. The sexton at his opening
+the door espied the sacrilegious person; who
+being searched, a bone was found about him, with
+which he said he would haft a knife. The Governor
+being therefore informed of, he gave him
+his reward; and the Lords and others present
+were convinced that a real body was in the said
+great coffin, which some before had scrupled.
+The girdle or circumscription, of capital letters of
+lead put about the King's coffin, had only these
+words: <persName key="Charles I."><hi rend="italic">King Charles</hi></persName>, <date value="1648">1648</date>.</p>
+   <p>The <persName key="Charles I.">King</persName>'s body was then brought from his
+bedchamber down into <placeName key="St. George's Hall">St. George's Hall</placeName>, whence,
+
+
+<pb id="p.xxxi"  n="xxxi"/>
+
+
+
+after a little stay, it was with a slow and solemn
+pace (much sorrow in most faces being then
+discernible) carried by gentlemen of quality in mourning.
+The noblemen in mourning also held up the
+pall; and the governor, with several gentlemen,
+officers and attendants, came after. It was then
+observed, that at such time as the King's body
+was brought out from <placeName key="St. George's Hall">St. George's Hall</placeName>, the sky
+was serene and clear; but presently it began to
+snow, and the snow fell so fast, that by that time
+the corpse came to the west end of the Royal
+chapel, the black velvet pall was all white (the
+colour of innocency), being thick covered over with
+snow. The body being by the bearers set down
+near the place of burial, the Bishop of London
+stood ready, with the service-book in his hands, to
+have performed his last duty to the King his
+master, according to the order and form of burial
+of the dead set forth in the Book of Common
+Prayer; which the Lords likewise desired; but it
+would not be suffered by Colonel Whitchcot, the
+governor of the castle, by reason of the <hi rend="italic">Directory to
+which</hi> (said he) <hi rend="italic">he and
+others were to be conformable</hi>. Thus went the
+<hi rend="italic">white <persName key="Charles I.">King</persName></hi> to his grave, in
+the forty-eighth year of his age, and twenty-second
+year and tenth month of his reign.'</p>
+
+</div1>
+<pb n="xxxii"/>
+<div1 type="appendix" n="Bolles Notation" id="back003">
+<head>Bolles Notation</head>
+<p><figure id="fig.08" n="tufts:central:dca:MS004:MS004.002.028.DO01.00008"><head>Bolles Notation</head></figure></p>
+  <p>In the royal vault, in the choir, which is near the eleventh stall, on
+the Sovereign's side, are the remains of <persName key="Henry VIII.">Henry VIII.</persName>., and his queen
+ <persName key="Seymour,Jane">Lady Jane Seymour</persName>, <persName key="Charles I.">Charles I.</persName> and an infant daughter of Queen
+Anne. Upon opening the vault for the interment of the latter, the
+coffins containing the remains of these royal personages were discovered,
+but no further research was made till <date value="1813">1813</date>,
+when <persName key="George IV">George IV</persName>.,
+then Prince Regent, determined that an investigation should be
+made--the place of interment of <persName key="Charles I.">Charles I.</persName>, being involved in considerable
+doubt. The vault was consequently opened in the presence of his
+Royal Highness and several other individuals, when the correctness of
+the surmise was clearly proved, the head and body being found in a
+plain leaden shell. The coffin of <persName key="Henry VIII.">Henry VIII.</persName>., contained only the
+skeleton of that monarch; and as no additional historical facts were
+attainable by inspecting that of his consort, the vault was then closed.</p>
+
+<p> From "<placeName key="Windsor">Windsor</placeName> Guide."</p>
+
+
+
+
+</div1>
+</back>
+</text>
+</TEI.2>
